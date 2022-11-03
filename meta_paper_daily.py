@@ -115,7 +115,7 @@ def json_to_md(data):
             f.write(f"## {keyword}\n\n")
             f.write("|Publish Date|Title|Authors|PDF|Code|Comments|\n")
             # "|---|---|---|---|---|---|\n"
-            f.write("|:------|:---------------------|:-------|:-|:-|:---|\n")
+            f.write("|:------|:---------------------|:-------|:-|:-|:-----------|\n")
             # sort papers by date
             # day_content = sort_papers(day_content)
 
