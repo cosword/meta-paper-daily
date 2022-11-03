@@ -53,7 +53,7 @@ def get_paper_from_arxiv(key):
         code_url = f"[code]({code_url})|" if code_url != "-" else "-|"
         if title not in papers:
             # 会议相关折叠
-            comments = f"<details><summary>comment</summary>{comments}</details>" if comments != "-" else "-"
+            comments = f"<details><summary>other</summary>{comments}</details>" if comments != "-" else "-"
             papers[key][title] = f"|**{format_date}**|**{title}**|**{author}**|[paper]({paper_url})|" + code_url + f"{comments}|\n"
 
 
@@ -120,7 +120,7 @@ def json_to_md(data):
             f.write(f"## {keyword}\n\n")
             f.write("|Date|Title|Authors|PDF|Code|Comments|\n")
             # "|---|---|---|---|---|---|\n"
-            f.write("|:------|:---------------------|:-------|:-|:-|:--|\n")
+            f.write("|:------|:---------------------|:-------|:-|:-|:---|\n")
             # sort papers by date
             # day_content = sort_papers(day_content)
 
