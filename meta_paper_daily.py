@@ -31,7 +31,8 @@ def get_paper_from_arxiv(key):
         title = arxiv_result.find(class_='title')  # class是关键字所以要加下划线_
         title = title.text.strip()  # replace("<span class=\"search-hit mathjax\">Source</span>","").replace("</span>")text直接取出来了
         author = [au.strip() for au in arxiv_result.find(class_='authors').text.replace("\n", "").split(",")]
-        author = ",".join(author)
+        #author = ",".join(author)
+        author = author[0].replace("Authors:","") + "et.al" # 只取一作
         submit_date = [item.text.replace("\n", "").replace("  ", "") for item in arxiv_result.select("p.is-size-7")]
         time_format = datetime.datetime.strptime(submit_date[0].split(";")[0], 'Submitted %d %B, %Y')
         format_date = f"{time_format.year}-{time_format.month}-{time_format.day}"
@@ -117,7 +118,7 @@ def json_to_md(data):
                 continue
             # the head of each part
             f.write(f"## {keyword}\n\n")
-            f.write("|Publish Date|Title|Authors|PDF|Code|Comments|\n")
+            f.write("|Date|Title|Authors|PDF|Code|Comments|\n")
             # "|---|---|---|---|---|---|\n"
             f.write("|:------|:---------------------|:-------|:-|:-|:--|\n")
             # sort papers by date
