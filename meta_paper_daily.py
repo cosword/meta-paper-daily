@@ -13,10 +13,6 @@ DateNow = str(DateNow)
 DateNow = DateNow.replace('-', '.')
 per_key_papers = 10  # 只取10条
 
-import socks
-import socket
-socks.set_default_proxy(socks.SOCKS5, '127.0.0.1', int('1080'))
-socket.socket = socks.socksocket
 
 # 参考连接 https://zhuanlan.zhihu.com/p/425670267
 # 转换日期为标准格式 https://blog.csdn.net/weixin_43751840/article/details/89947528
