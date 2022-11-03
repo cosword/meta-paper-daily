@@ -14,8 +14,8 @@ DateNow = DateNow.replace('-', '.')
 # 参考连接 https://zhuanlan.zhihu.com/p/425670267
 # 转换日期为标准格式 https://blog.csdn.net/weixin_43751840/article/details/89947528
 def get_paper_from_arxiv(key):
-    key = key.replace(" ", "+")
-    url = f"https://arxiv.org/search/cs?query={key}&searchtype=title&abstracts=show&order=-announced_date_first&size=25"
+    query_key = key.replace(" ", "+")
+    url = f"https://arxiv.org/search/cs?query={query_key}&searchtype=title&abstracts=show&order=-announced_date_first&size=25"
     res = requests.get(url)
     content = BeautifulSoup(res.text, 'html.parser')
     papers[key] = {}
@@ -80,7 +80,7 @@ def get_paper_from_google(key):
 
 
 def json_to_md(data):
-    with open("papers.json", "r") as f:
+    with open(os.path.join("papers.json"), "r") as f:
         content = f.read()
         if not content:
             data = {}
@@ -91,7 +91,16 @@ def json_to_md(data):
 
     # clean README.md if daily already exist else create it
     with open(md_filename, "w+") as f:
-        pass
+        f.write("  <summary>Table of Contents</summary>\n")
+        f.write("  <ol>\n")
+        for keyword in data.keys():
+            day_content = data[keyword]
+            if not day_content:
+                continue
+            f.write(f"    <li><a href=#{keyword}>{keyword}</a></li>\n")
+        f.write("  </ol>\n")
+        f.write("</details>\n\n")
+        #pass
 
     # write data into README.md
     with open(md_filename, "a+") as f:
@@ -104,7 +113,9 @@ def json_to_md(data):
                 continue
             # the head of each part
             f.write(f"## {keyword}\n\n")
-            f.write("|Publish Date|Title|Authors|PDF|Code|Comments|\n" + "|---|---|---|---|---|---|\n")
+            f.write("|Publish Date|Title|Authors|PDF|Code|Comments|\n")
+            # "|---|---|---|---|---|---|\n"
+            f.write("|:------|:---------------------|:-------|:-|:-|:---|\n")
             # sort papers by date
             # day_content = sort_papers(day_content)
 
@@ -113,8 +124,9 @@ def json_to_md(data):
                     f.write(v)
             f.write(f"\n")
 
+
 if __name__ == "__main__":
     for key in KEYS:
         get_paper_from_arxiv(key)
-    json.dump(papers, open("papers.json", "w"))
+    json.dump(open(os.path.join("papers.json"), "w"), papers)
     json_to_md(papers)
