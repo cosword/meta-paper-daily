@@ -75,11 +75,39 @@ def get_paper_from_google(key):
     content = BeautifulSoup(res.text, 'html.parser')
     body = content.find(id="gs_res_ccl_mid")
     # 谷歌学术爬虫
+    now = datetime.datetime.today()
     for div in body.find_all(class_="gs_r gs_or gs_scl"):
         main = div.find(id=div.attrs['data-cid'])
-        pdf_url = main.attrs['href']
-        titie = main.text.strip()
+        paper_url = main.attrs['href']
+        title = main.text.strip()
+        submit_date = div.find(class_="gs_age").text.strip()
         author_and_comment = div.find(class_="gs_a").text.strip()
+        author = author_and_comment.split(",")[0] + " et.al"
+        comment = " ".join([item.strip() for item in author_and_comment.split("-")[1:]])
+        # code_url = f"https://paperswithcode.com/api/v1/papers/{query_title}/repositories/"
+        code_url = f"https://paperswithcode.com/api/v1/search/?q={title}&page=1"
+        code_res = requests.get(code_url).json()
+        if code_res['count'] != 0:
+            code_res = code_res['results'][0]
+            if "proceeding" in code_res:
+                comment = code_res["proceeding"]
+            if "repository" in code_res:
+                code_url = code_res["repository"]["url"]
+            else:
+                code_url = "https://paperswithcode.com/paper/" + code_res["paper"]['id']
+        else:
+            code_url = "-"
+        #     if code_res.status_code == 200:
+        #         code_res = code_res.json()['results']
+        #         code_res = sort()
+        if "arXiv " in comment:
+            comments = "-"
+        time_format = now - datetime.timedelta(days=int(submit_date.split(" ")[0]))
+        format_date = f"{time_format.year}-{time_format.month}-{time_format.day}"
+        if title not in papers:
+            # 会议相关折叠
+            comments = f"<details><summary>comment</summary>{comments}</details>" if comments != "-" else "-"
+            papers[key][title] = f"|**{format_date}**|**{title}**|**{author}**|[paper]({paper_url})|" + code_url + f"{comments}|\n"
 
 
 def json_to_md(data):
@@ -133,5 +161,7 @@ def json_to_md(data):
 if __name__ == "__main__":
     for key in KEYS:
         get_paper_from_arxiv(key)
+        get_paper_from_google(key)
+
     json.dump(papers, open("papers.json", "w"))
     json_to_md(papers)
