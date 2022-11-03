@@ -11,6 +11,8 @@ papers = {}
 DateNow = datetime.date.today()
 DateNow = str(DateNow)
 DateNow = DateNow.replace('-', '.')
+per_key_papers = 10 # 只取10条
+
 # 参考连接 https://zhuanlan.zhihu.com/p/425670267
 # 转换日期为标准格式 https://blog.csdn.net/weixin_43751840/article/details/89947528
 def get_paper_from_arxiv(key):
@@ -19,9 +21,12 @@ def get_paper_from_arxiv(key):
     res = requests.get(url)
     content = BeautifulSoup(res.text, 'html.parser')
     papers[key] = {}
+    count = 1
+    
     # 正则匹配http
     pattern = re.compile(r'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+')  # 匹配模式
     for arxiv_result in content.find(name="ol").find_all(name='li'):
+        if count > per_key_papers:break
         paper_url = arxiv_result.find(attrs={'class': 'list-title'}).a['href']
         abstract = arxiv_result.find(class_="abstract-full")  # 只返回当前节点的text不包括子节点
         code_url = re.search(pattern, abstract.text)
@@ -76,7 +81,9 @@ def get_paper_from_google(key):
     body = content.find(id="gs_res_ccl_mid")
     # 谷歌学术爬虫
     now = datetime.datetime.today()
+    count = 1
     for div in body.find_all(class_="gs_r gs_or gs_scl"):
+        if count > per_key_papers:break
         main = div.find(id=div.attrs['data-cid'])
         paper_url = main.attrs['href']
         title = main.text.strip()
@@ -86,7 +93,7 @@ def get_paper_from_google(key):
         comment = " ".join([item.strip() for item in author_and_comment.split("-")[1:]])
         # code_url = f"https://paperswithcode.com/api/v1/papers/{query_title}/repositories/"
         code_url = f"https://paperswithcode.com/api/v1/search/?q={title}&page=1"
-        code_res = requests.get(code_url).json()
+        code_res = requests.get(code_url,headers=random.choice(headers)).json()
         if code_res['count'] != 0:
             code_res = code_res['results'][0]
             if "proceeding" in code_res:
@@ -108,6 +115,7 @@ def get_paper_from_google(key):
             # 会议相关折叠
             comments = f"<details><summary>comment</summary>{comments}</details>" if comments != "-" else "-"
             papers[key][title] = f"|**{format_date}**|**{title}**|**{author}**|[paper]({paper_url})|" + code_url + f"{comments}|\n"
+        count += 1
 
 
 def json_to_md(data):
