@@ -169,7 +169,10 @@ def json_to_md(data):
 if __name__ == "__main__":
     for key in KEYS:
         get_paper_from_arxiv(key)
-        get_paper_from_google(key)
+        try:
+            get_paper_from_google(key)
+        except:
+            print("google 禁止访问")
 
     json.dump(papers, open("papers.json", "w"))
     json_to_md(papers)
