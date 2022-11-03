@@ -179,6 +179,7 @@ if __name__ == "__main__":
             get_paper_from_google(key)
         except:
             print("google 禁止访问")
+        sleep(10) # 停一下再爬
 
     json.dump(papers, open("papers.json", "w"))
     json_to_md(papers)
