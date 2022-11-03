@@ -116,5 +116,5 @@ def json_to_md(data):
 if __name__ == "__main__":
     for key in KEYS:
         get_paper_from_arxiv(key)
-    json.dump(open("papers.json", "w"))
+    json.dump(papers, open("papers.json", "w"))
     json_to_md(papers)
