@@ -113,7 +113,7 @@ def get_paper_from_google(key):
         format_date = f"{time_format.year}-{time_format.month}-{time_format.day}"
         if title not in papers:
             # 会议相关折叠
-            comments = f"<details><summary>comment</summary>{comments}</details>" if comments != "-" else "-"
+            comment = f"<details><summary>comment</summary>{comment}</details>" if comments != "-" else "-"
             papers[key][title] = f"|**{format_date}**|**{title}**|**{author}**|[paper]({paper_url})|" + code_url + f"{comment}|\n"
         count += 1
 
