@@ -80,7 +80,7 @@ def get_paper_from_google(key):
 
 
 def json_to_md(data):
-    with open(os.path.join("papers.json"), "r") as f:
+    with open("papers.json", "r") as f:
         content = f.read()
         if not content:
             data = {}
