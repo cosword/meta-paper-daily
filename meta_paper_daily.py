@@ -98,7 +98,7 @@ def get_paper_from_google(key):
             code_res = code_res['results'][0]
             if "proceeding" in code_res:
                 comment = code_res["proceeding"]
-            if "repository" in code_res:
+            if "repository" in code_res and code_res["repository"] is not None:
                 code_url = code_res["repository"]["url"]
             else:
                 code_url = "https://paperswithcode.com/paper/" + code_res["paper"]['id']
