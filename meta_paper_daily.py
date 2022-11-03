@@ -15,7 +15,7 @@ DateNow = DateNow.replace('-', '.')
 # 转换日期为标准格式 https://blog.csdn.net/weixin_43751840/article/details/89947528
 def get_paper_from_arxiv(key):
     query_key = key.replace(" ", "+")
-    url = f"https://arxiv.org/search/cs?query={query_key}&searchtype=title&abstracts=show&order=-announced_date_first&size=25"
+    url = f"https://arxiv.org/search/cs?query={query_key}&searchtype=title&abstracts=show&order=-submitted_date&size=25"
     res = requests.get(url)
     content = BeautifulSoup(res.text, 'html.parser')
     papers[key] = {}
