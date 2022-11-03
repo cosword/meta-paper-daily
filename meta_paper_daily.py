@@ -119,7 +119,7 @@ def get_paper_from_google(key):
             # 会议相关折叠
             comment = f"<details><summary>comment</summary>{other}</details>" if comment != "-" else "-"
             code_url = f"[code]({code_url})|" if code_url != "-" else "-|"
-            papers[key][title] = f"|**{format_date}**|**{title}**|**{author}**|[paper]({paper_url})|" + code_url + f"{comment}|\n"
+            papers[key][title] = f"|**{format_date}**|**{title}**|{author}|[paper]({paper_url})|" + code_url + f"{comment}|\n"
         print(code_url)
         count += 1
 
