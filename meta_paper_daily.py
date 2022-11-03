@@ -51,7 +51,9 @@ def get_paper_from_arxiv(key):
         #f.write("|Publish Date|Title|Authors|PDF|Code|Comments|\n" + "|---|---|---|---|\n")
         code_url = f"[code]({code_url})|" if code_url != "-" else "-|"
         if title not in papers:
-            papers[key][title] = f"|**{format_date}**|**{title}**|**{author}**|[pdf]({paper_url})|" + code_url + f"{comments}|\n"
+            # 会议相关折叠
+            comments = f"<details><summary>comment</summary>{comments}</details>" if comments != "-" else "-"
+            papers[key][title] = f"|**{format_date}**|**{title}**|**{author}**|[paper]({paper_url})|" + code_url + f"{comments}|\n"
 
 
 def get_paper_from_google(key):
@@ -80,7 +82,7 @@ def get_paper_from_google(key):
 
 
 def json_to_md(data):
-    with open(os.path.join("papers.json"), "r") as f:
+    with open("papers.json", "r") as f:
         content = f.read()
         if not content:
             data = {}
@@ -91,13 +93,15 @@ def json_to_md(data):
 
     # clean README.md if daily already exist else create it
     with open(md_filename, "w+") as f:
+        f.write("<details>\n")
         f.write("  <summary>Table of Contents</summary>\n")
         f.write("  <ol>\n")
         for keyword in data.keys():
             day_content = data[keyword]
             if not day_content:
                 continue
-            f.write(f"    <li><a href=#{keyword}>{keyword}</a></li>\n")
+            kw = keyword.replace(" ", "-")
+            f.write(f"    <li><a href=#{kw}>{keyword}</a></li>\n")
         f.write("  </ol>\n")
         f.write("</details>\n\n")
         #pass
@@ -115,7 +119,7 @@ def json_to_md(data):
             f.write(f"## {keyword}\n\n")
             f.write("|Publish Date|Title|Authors|PDF|Code|Comments|\n")
             # "|---|---|---|---|---|---|\n"
-            f.write("|:------|:---------------------|:-------|:-|:-|:-----------|\n")
+            f.write("|:------|:---------------------|:-------|:-|:-|:--|\n")
             # sort papers by date
             # day_content = sort_papers(day_content)
 
@@ -128,5 +132,5 @@ def json_to_md(data):
 if __name__ == "__main__":
     for key in KEYS:
         get_paper_from_arxiv(key)
-    json.dump(papers, open(os.path.join("papers.json"), "w"))
+    json.dump(papers, open("papers.json", "w"))
     json_to_md(papers)
