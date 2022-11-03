@@ -80,7 +80,7 @@ def get_paper_from_google(key):
 
 
 def json_to_md(data):
-    with open(os.path.join("data", "papers.json"), "r") as f:
+    with open(os.path.join("papers.json"), "r") as f:
         content = f.read()
         if not content:
             data = {}
@@ -116,5 +116,5 @@ def json_to_md(data):
 if __name__ == "__main__":
     for key in KEYS:
         get_paper_from_arxiv(key)
-    json.dump(open(os.path.join("data", "papers.json"), "w"))
+    json.dump(open("papers.json", "w"))
     json_to_md(papers)
