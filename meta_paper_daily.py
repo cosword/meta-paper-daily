@@ -54,7 +54,7 @@ def get_paper_from_arxiv(key):
         if title not in papers:
             # 会议相关折叠
             comments = f"<details><summary>other</summary>{comments}</details>" if comments != "-" else "-"
-            papers[key][title] = f"|**{format_date}**|**{title}**|**{author}**|[paper]({paper_url})|" + code_url + f"{comments}|\n"
+            papers[key][title] = f"|**{format_date}**|**{title}**|{author}|[paper]({paper_url})|" + code_url + f"{comments}|\n"
 
 
 def get_paper_from_google(key):
