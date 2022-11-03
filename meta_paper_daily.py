@@ -117,7 +117,7 @@ def get_paper_from_google(key):
         format_date = f"{time_format.year}-{time_format.month}-{time_format.day}"
         if title not in papers:
             # 会议相关折叠
-            comment = f"<details><summary>comment</summary>{comment}</details>" if comment != "-" else "-"
+            comment = f"<details><summary>comment</summary>{other}</details>" if comment != "-" else "-"
             code_url = f"[code]({code_url})|" if code_url != "-" else "-|"
             papers[key][title] = f"|**{format_date}**|**{title}**|**{author}**|[paper]({paper_url})|" + code_url + f"{comment}|\n"
         print(code_url)
@@ -160,7 +160,7 @@ def json_to_md(data):
                 continue
             # the head of each part
             f.write(f"## {keyword}\n\n")
-            f.write("|Date|Title|Authors|PDF|Code|Comments|\n")
+            f.write(u"|日期|标题|作者|PDF|Code|录用信息|\n")
             # "|---|---|---|---|---|---|\n"
             f.write("|:------|:---------------------|:---|:-|:-|:---|\n")
             # sort papers by date
