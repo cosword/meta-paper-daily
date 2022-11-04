@@ -1,6 +1,6 @@
 title: CV Papers Daily
 description: Automatically Update CV Papers Daily using Github Actions
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-cayman
 
 #remote_theme: pages-themes/slate@v0.2.0
