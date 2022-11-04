@@ -12,7 +12,7 @@ papers = {}
 DateNow = datetime.date.today()
 DateNow = str(DateNow)
 DateNow = DateNow.replace('-', '.')
-per_key_papers = 10  # 只取10条
+per_key_papers = 15  # 只取15条
 
 
 # 对字典排序
