@@ -20,7 +20,7 @@ def sort_papers(papers):
     output = dict()
     # keys = list(papers.keys())
     pattern = re.compile(u'\|\*\*(.*?)\*\*\|')
-    sort_dict = sorted(papers.items(), key=lambda x:datetime.strptime(re.match(pattern,x[1]).group(0).replace("*","").replace("|",""), '%Y-%m-%d'), reverse=True)
+    sort_dict = sorted(papers.items(), key=lambda x:datetime.datetime.strptime(re.match(pattern,x[1]).group(0).replace("*","").replace("|",""), '%Y-%m-%d'), reverse=True)
     for key, value in sort_dict:
         output[key] = papers[key]
     return output
