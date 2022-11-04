@@ -5,7 +5,7 @@ import re
 from bs4 import BeautifulSoup
 import datetime
 import json
-from time import sleep
+import time
 
 KEYS = ['source-free', "object detection"]
 papers = {}
@@ -14,6 +14,20 @@ DateNow = str(DateNow)
 DateNow = DateNow.replace('-', '.')
 per_key_papers = 10  # 只取10条
 
+import socks
+import socket
+socks.set_default_proxy(socks.SOCKS5, '127.0.0.1', int('1080'))
+socket.socket = socks.socksocket
+
+# 对字典排序
+def sort_papers(papers):
+    output = dict()
+    # keys = list(papers.keys())
+    pattern = re.compile(u'\|\*\*(.*?)\*\*\|')
+    sort_dict = sorted(papers.items(), key=lambda x:datetime.strptime(re.match(pattern,x[1]).group(0).replace("*","").replace("|",""), '%Y-%m-%d'), reverse=True)
+    for key, value in sort_dict:
+        output[key] = papers[key]
+    return output
 
 # 参考连接 https://zhuanlan.zhihu.com/p/425670267
 # 转换日期为标准格式 https://blog.csdn.net/weixin_43751840/article/details/89947528
@@ -62,6 +76,7 @@ def get_paper_from_arxiv(key):
             # 会议相关折叠
             comments = f"<details><summary>other</summary>{comments}</details>" if comments != "-" else "-"
             papers[key][title] = f"|**{format_date}**|**{title}**|{author}|[paper]({paper_url})|" + code_url + f"{comments}|\n"
+        print(code_url)
         count += 1
 
 
@@ -71,17 +86,18 @@ def get_paper_from_google(key):
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63',
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36 Edg/86.0.622.43',
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66',
-#         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36',
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36',
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
-#         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36',
-#         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36',
-#         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36',
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36',
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36',
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36',
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.50',
-        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4346.0 Safari/537.36 Edg/89.0.731.0', ]
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4346.0 Safari/537.36 Edg/89.0.731.0',
+        ]
     query_key = key.replace(" ", "+")
     url = f"https://scholar.google.com/scholar?as_vis=0&q=allintitle:+{query_key}&hl=zh-CN&scisbd=1&as_sdt=0,5"
-    # url = f"https://x.sci-hub.org.cn/scholar?as_vis=0&q=allintitle:+{query_key}&hl=zh-CN&scisbd=1&as_sdt=0,5"
-    res = requests.get(url, headers={"User-Agent": random.choice(headers)})
+    #url = f"https://sc.panda321.com/scholar?as_vis=0&q=allintitle:+{query_key}&hl=zh-CN&scisbd=1&as_sdt=0,5"
+    res = requests.get(url, headers={"User-Agent": random.choice(headers)}, timeout=5)
     content = BeautifulSoup(res.text, 'html.parser')
     body = content.find(id="gs_res_ccl_mid")
     # 谷歌学术爬虫
@@ -98,7 +114,7 @@ def get_paper_from_google(key):
         comment = " ".join([item.strip() for item in author_and_comment.split("-")[1:]])
         # code_url = f"https://paperswithcode.com/api/v1/papers/{query_title}/repositories/"
         code_url = f"https://paperswithcode.com/api/v1/search/?q={title}&page=1"
-        code_res = requests.get(code_url).json()
+        code_res = requests.get(code_url, timeout=5).json()
         if code_res['count'] != 0:
             code_res = code_res['results'][0]
             if "proceeding" in code_res:
@@ -116,13 +132,15 @@ def get_paper_from_google(key):
             comment = "-"
         time_format = now - datetime.timedelta(days=int(submit_date.split(" ")[0]))
         format_date = f"{time_format.year}-{time_format.month}-{time_format.day}"
+        # code_res.close()
         if title not in papers:
             # 会议相关折叠
-            comment = f"<details><summary>comment</summary>{other}</details>" if comment != "-" else "-"
+            comment = f"<details><summary>other</summary>{comment}</details>" if comment != "-" else "-"
             code_url = f"[code]({code_url})|" if code_url != "-" else "-|"
             papers[key][title] = f"|**{format_date}**|**{title}**|{author}|[paper]({paper_url})|" + code_url + f"{comment}|\n"
         print(code_url)
         count += 1
+
 
 
 def json_to_md(data):
@@ -161,11 +179,11 @@ def json_to_md(data):
                 continue
             # the head of each part
             f.write(f"## {keyword}\n\n")
-            f.write(u"|日期|标题|作者|PDF|Code|录用信息|\n")
+            f.write("|Date|Title|Authors|PDF|Code|Comments|\n")
             # "|---|---|---|---|---|---|\n"
             f.write("|:------|:---------------------|:---|:-|:-|:---|\n")
             # sort papers by date
-            # day_content = sort_papers(day_content)
+            day_content = sort_papers(day_content)
 
             for _, v in day_content.items():
                 if v is not None:
@@ -173,14 +191,16 @@ def json_to_md(data):
                     f.write(v)
             f.write(f"\n")
 
+
 if __name__ == "__main__":
     for key in KEYS:
         get_paper_from_arxiv(key)
         try:
             get_paper_from_google(key)
-        except:
+            time.sleep(30)
+        except Exception as e:
+            print(e)
             print("google 禁止访问")
-        sleep(10) # 停一下再爬
 
     json.dump(papers, open("papers.json", "w"))
     json_to_md(papers)
