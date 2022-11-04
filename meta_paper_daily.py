@@ -7,7 +7,7 @@ import datetime
 import json
 import time
 
-KEYS = ['source-free', "object detection"]
+KEYS = ['source-free', "object detection", "domain adaptation"]
 papers = {}
 DateNow = datetime.date.today()
 DateNow = str(DateNow)
