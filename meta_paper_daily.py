@@ -14,10 +14,6 @@ DateNow = str(DateNow)
 DateNow = DateNow.replace('-', '.')
 per_key_papers = 10  # 只取10条
 
-import socks
-import socket
-socks.set_default_proxy(socks.SOCKS5, '127.0.0.1', int('1080'))
-socket.socket = socks.socksocket
 
 # 对字典排序
 def sort_papers(papers):
