@@ -1,10 +1,5 @@
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href=#source-free>source-free</a></li>
-    <li><a href=#object-detection>object detection</a></li>
-  </ol>
-</details>
+# Table of Contents
+[toc]
 
 ## Updated on 2022.11.04
 
