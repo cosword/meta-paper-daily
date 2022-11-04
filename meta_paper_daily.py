@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 import datetime
 import json
 import time
+import shutil
 
 KEYS = ['source-free', "object detection", "domain adaptation"]
 papers = {}
@@ -200,3 +201,4 @@ if __name__ == "__main__":
 
     json.dump(papers, open("papers.json", "w"))
     json_to_md(papers)
+    shutil.copy("README.md", "docs/index.md")
