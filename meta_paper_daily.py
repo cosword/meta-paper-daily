@@ -91,7 +91,7 @@ def get_paper_from_google(key):
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4346.0 Safari/537.36 Edg/89.0.731.0',
         ]
     query_key = key.replace(" ", "+")
-    url = f"https://scholar.google.com/scholar?as_vis=0&q=allintitle:+{query_key}&hl=zh-CN&scisbd=1&as_sdt=0,5"
+    url = f"https://scholar.google.com.hk/scholar?as_vis=0&q=allintitle:+{query_key}&hl=zh-CN&scisbd=1&as_sdt=0,5"
     #url = f"https://sc.panda321.com/scholar?as_vis=0&q=allintitle:+{query_key}&hl=zh-CN&scisbd=1&as_sdt=0,5"
     res = requests.get(url, headers={"User-Agent": random.choice(headers)}, timeout=5)
     content = BeautifulSoup(res.text, 'html.parser')
