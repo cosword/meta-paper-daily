@@ -60,8 +60,7 @@ def get_paper_from_arxiv(key):
             if code_url == "-":
                 code_url = re.search(pattern, comments)
                 code_url = code_url.group() if code_url else "-"
-            comments = comments.replace(";", ".").split(",")[0].split(".")[0].replace("Comments:", "").replace(
-                "Accepted at ", "").replace("Accepted to ", "")
+            comments = comments.replace(";", ".").split(",")[0].split(".")[0].replace("Comments:", "").replace("Accepted at ", "").replace("Accepted to ", "")
             if "pages" in comments:
                 comments = "-"
         else:
