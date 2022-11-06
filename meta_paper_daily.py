@@ -71,8 +71,8 @@ def get_paper_from_arxiv(key):
         code_url = f"[code]({code_url})|" if code_url != "-" else "-|"
         if title not in papers:
             # 会议相关折叠
-            #comments = f"<details><summary>other</summary>{comments}</details>" if comments != "-" else "-"
-            comments = f"<details>{comments}</details>" if comments != "-" else "-"
+            comments = f"<details><summary>detail</summary>{comments}</details>" if comments != "-" else "-"
+            #comments = f"<details>{comments}</details>" if comments != "-" else "-"
             papers[key][title] = f"|**{format_date}**|**{title}**|{author}|[paper]({paper_url})|" + code_url + f"{comments}|\n"
         print(code_url)
         count += 1
@@ -134,7 +134,7 @@ def get_paper_from_google(key):
         # code_res.close()
         if title not in papers:
             # 会议相关折叠
-            comment = f"<details><summary>other</summary>{comment}</details>" if comment != "-" else "-"
+            comment = f"<details><summary>detail</summary>{comment}</details>" if comment != "-" else "-"
             code_url = f"[code]({code_url})|" if code_url != "-" else "-|"
             papers[key][title] = f"|**{format_date}**|**{title}**|{author}|[paper]({paper_url})|" + code_url + f"{comment}|\n"
         print(code_url)
