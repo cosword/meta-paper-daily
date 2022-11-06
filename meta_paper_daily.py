@@ -71,7 +71,8 @@ def get_paper_from_arxiv(key):
         code_url = f"[code]({code_url})|" if code_url != "-" else "-|"
         if title not in papers:
             # 会议相关折叠
-            comments = f"<details><summary>other</summary>{comments}</details>" if comments != "-" else "-"
+            #comments = f"<details><summary>other</summary>{comments}</details>" if comments != "-" else "-"
+            comments = f"<details>{comments}</details>" if comments != "-" else "-"
             papers[key][title] = f"|**{format_date}**|**{title}**|{author}|[paper]({paper_url})|" + code_url + f"{comments}|\n"
         print(code_url)
         count += 1
@@ -153,7 +154,7 @@ def json_to_md(data):
 
     # clean README.md if daily already exist else create it
     with open(md_filename, "w+") as f:
-        f.write(f"## Research Areas")
+        f.write(f"## CV Papers Daily")
         #f.write("<details>\n")
         #f.write("  <summary>Table of Contents</summary>\n")
         #f.write("  <ol>\n")
