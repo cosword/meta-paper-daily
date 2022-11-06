@@ -1,4 +1,3 @@
-[index](#source-free)
 <details>
   <summary>Table of Contents</summary>
   <ol>
