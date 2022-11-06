@@ -8,7 +8,7 @@ import json
 import time
 import shutil
 
-KEYS = ['source-free', "object detection", "domain adaptation"]
+KEYS = ['source-free', "object detection", "domain adaptation", "domain generalization"]
 papers = {}
 DateNow = datetime.date.today()
 DateNow = str(DateNow)
@@ -92,7 +92,8 @@ def get_paper_from_google(key):
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4346.0 Safari/537.36 Edg/89.0.731.0',
         ]
     query_key = key.replace(" ", "+")
-    url = f"https://scholar.google.com.hk/scholar?as_vis=0&q=allintitle:+{query_key}&hl=zh-CN&scisbd=1&as_sdt=0,5"
+    query_domain = random.choice(["scholar.google.com.hk", "scholar.google.com"])
+    url = f"https://{query_domain}/scholar?as_vis=0&q=allintitle:+{query_key}&hl=zh-CN&scisbd=1&num=20&as_sdt=0,5"
     #url = f"https://sc.panda321.com/scholar?as_vis=0&q=allintitle:+{query_key}&hl=zh-CN&scisbd=1&as_sdt=0,5"
     res = requests.get(url, headers={"User-Agent": random.choice(headers)}, timeout=5)
     content = BeautifulSoup(res.text, 'html.parser')
@@ -152,17 +153,20 @@ def json_to_md(data):
 
     # clean README.md if daily already exist else create it
     with open(md_filename, "w+") as f:
-        f.write("<details>\n")
-        f.write("  <summary>Table of Contents</summary>\n")
-        f.write("  <ol>\n")
+        f.write(f"## Research Areas")
+        #f.write("<details>\n")
+        #f.write("  <summary>Table of Contents</summary>\n")
+        #f.write("  <ol>\n")
         for keyword in data.keys():
             day_content = data[keyword]
             if not day_content:
                 continue
             kw = keyword.replace(" ", "-")
-            f.write(f"    <li><a href=#{kw}>{keyword}</a></li>\n")
-        f.write("  </ol>\n")
-        f.write("</details>\n\n")
+            f.write(f"- [{keyword}](#{kw})\n")
+            #f.write(f"    <li><a href=#{kw}>{keyword}</a></li>\n")
+        #f.write("  </ol>\n")
+        #f.write("</details>\n\n")
+        f.write("\n\n")
         # pass
 
     # write data into README.md
@@ -190,11 +194,12 @@ def json_to_md(data):
 
 
 if __name__ == "__main__":
+    sleep_time = [30,35,40,45,50]
     for key in KEYS:
         get_paper_from_arxiv(key)
         try:
             get_paper_from_google(key)
-            time.sleep(30)
+            time.sleep(random.choice(sleep_time))
         except Exception as e:
             print(e)
             print("google 禁止访问")
