@@ -1,3 +1,4 @@
+@[toc](Table of Contents)
 <details>
   <summary>Table of Contents</summary>
   <ol>
