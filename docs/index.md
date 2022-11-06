@@ -1,4 +1,4 @@
-@[toc](Table of Contents)
+[index](#source-free)
 <details>
   <summary>Table of Contents</summary>
   <ol>
