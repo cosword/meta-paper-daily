@@ -1,5 +1,7 @@
 import os
 import random
+import shutil
+
 import requests
 import re
 from bs4 import BeautifulSoup
@@ -9,7 +11,7 @@ import time
 import shutil
 
 KEYS = ['source-free', "object detection", "domain adaptation", "domain generalization"]
-papers = {}
+data, papers = {}, {}
 DateNow = datetime.date.today()
 DateNow = str(DateNow)
 DateNow = DateNow.replace('-', '.')
@@ -33,7 +35,7 @@ def get_paper_from_arxiv(key):
     url = f"https://arxiv.org/search/cs?query={query_key}&searchtype=title&abstracts=show&order=-submitted_date&size=25"
     res = requests.get(url)
     content = BeautifulSoup(res.text, 'html.parser')
-    papers[key] = {}
+    data[key], papers[key] = {}, {}
     count = 1
 
     # 正则匹配http
@@ -73,6 +75,7 @@ def get_paper_from_arxiv(key):
             comments = f"<details><summary>detail</summary>{comments}</details>" if comments != "-" else "-"
             #comments = f"<details>{comments}</details>" if comments != "-" else "-"
             papers[key][title] = f"|**{format_date}**|**{title}**|{author}|[paper]({paper_url})|" + code_url + f"{comments}|\n"
+            data[key][title] = {'date':format_date, 'author':author, 'paper_url':paper_url, 'code_url':code_url, 'comments':comments}
         print(code_url)
         count += 1
 
@@ -136,6 +139,7 @@ def get_paper_from_google(key):
             comment = f"<details><summary>detail</summary>{comment}</details>" if comment != "-" else "-"
             code_url = f"[code]({code_url})|" if code_url != "-" else "-|"
             papers[key][title] = f"|**{format_date}**|**{title}**|{author}|[paper]({paper_url})|" + code_url + f"{comment}|\n"
+            data[key][title] = {'date': format_date, 'author': author, 'paper_url': paper_url, 'code_url': code_url, 'comments': comment}
         print(code_url)
         count += 1
 
@@ -193,6 +197,23 @@ def json_to_md(data):
             f.write(f"\n")
 
 
+def update_history_data(data):
+    with open("history.json", "w+") as f:
+        content = f.read()
+        if not content or datetime.date.today().day == 1:
+            history = {}
+        else:
+            history = json.loads(content)
+    f.close()
+    for k in data.keys():
+        if k not in history:
+            history[k] = data[k]
+        else:
+            history[k].update(data[k])
+
+    json.dump(history, open("history.json", "w"))
+
+
 if __name__ == "__main__":
     sleep_time = [30,35,40,45,50]
     for key in KEYS:
@@ -203,7 +224,8 @@ if __name__ == "__main__":
         except Exception as e:
             print(e)
             print("google 禁止访问")
-
     json.dump(papers, open("papers.json", "w"))
     json_to_md(papers)
     shutil.copy("README.md", "docs/index.md")
+    # 更新历史记录保存数据, 每月1号重置一次
+    update_history_data(data)
