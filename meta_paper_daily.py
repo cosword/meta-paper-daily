@@ -98,8 +98,10 @@ def get_paper_from_google(key):
     query_key = key.replace(" ", "+")
     query_domain = random.choice(["scholar.google.com.hk"])
     url = f"https://{query_domain}/scholar?as_vis=0&q=allintitle:+{query_key}&hl=zh-CN&scisbd=1&as_sdt=0,5"
+    header = random.choice(headers)
     #url = f"https://sc.panda321.com/scholar?as_vis=0&q=allintitle:+{query_key}&hl=zh-CN&scisbd=1&as_sdt=0,5"
-    res = requests.get(url, headers={"User-Agent": random.choice(headers)}, timeout=5)
+    print(header)
+    res = requests.get(url, headers={"User-Agent": header}, timeout=5)
     content = BeautifulSoup(res.text, 'html.parser')
     body = content.find(id="gs_res_ccl_mid")
     # 谷歌学术爬虫
