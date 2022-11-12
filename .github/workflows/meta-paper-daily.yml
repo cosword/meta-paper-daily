@@ -43,6 +43,7 @@ jobs:
           pip install arxiv
           pip install requests
           pip install beautifulsoup4
+          pip install friendly-traceback
           
       - name: Run daily arxiv 
         run: |
