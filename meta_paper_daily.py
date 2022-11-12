@@ -9,6 +9,7 @@ import datetime
 import json
 import time
 import shutil
+import traceback
 
 KEYS = ['source-free', "object detection", "domain adaptation", "domain generalization"]
 data, papers = {}, {}
@@ -76,12 +77,11 @@ def get_paper_from_arxiv(key):
             #comments = f"<details>{comments}</details>" if comments != "-" else "-"
             papers[key][title] = f"|**{format_date}**|**{title}**|{author}|[paper]({paper_url})|" + code_url + f"{comments}|\n"
             data[key][title] = {'date':format_date, 'author':author, 'paper_url':paper_url, 'code_url':code_url, 'comments':comments}
-        print(code_url)
+        # print(code_url)
         count += 1
 
 
 def get_paper_from_google(key):
-    #data[key], papers[key] = {}, {}
     headers = [
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.61',
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63',
@@ -96,12 +96,10 @@ def get_paper_from_google(key):
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4346.0 Safari/537.36 Edg/89.0.731.0',
         ]
     query_key = key.replace(" ", "+")
-    query_domain = random.choice(["scholar.google.com.hk"])
+    query_domain = random.choice(["scholar.google.com.hk", "scholar.lanfanshu.cn"]) # "scholar.google.com.hk",
     url = f"https://{query_domain}/scholar?as_vis=0&q=allintitle:+{query_key}&hl=zh-CN&scisbd=1&as_sdt=0,5"
-    header = random.choice(headers)
     #url = f"https://sc.panda321.com/scholar?as_vis=0&q=allintitle:+{query_key}&hl=zh-CN&scisbd=1&as_sdt=0,5"
-    print(header)
-    res = requests.get(url, headers={"User-Agent": header}, timeout=5)
+    res = requests.get(url, headers={"User-Agent": random.choice(headers)}, timeout=10)
     content = BeautifulSoup(res.text, 'html.parser')
     body = content.find(id="gs_res_ccl_mid")
     # 谷歌学术爬虫
@@ -159,7 +157,7 @@ def json_to_md(data):
     md_filename = "README.md"
 
     # clean README.md if daily already exist else create it
-    with open(md_filename, "w+") as f:
+    with open(md_filename, "w+", encoding='utf_8') as f:
         f.write(f"## CV Papers Daily\n")
         #f.write("<details>\n")
         #f.write("  <summary>Table of Contents</summary>\n")
@@ -177,7 +175,7 @@ def json_to_md(data):
         # pass
 
     # write data into README.md
-    with open(md_filename, "a+") as f:
+    with open(md_filename, "a+",encoding='utf_8') as f:
 
         f.write("## Updated on " + DateNow + "\n\n")
 
@@ -225,6 +223,7 @@ if __name__ == "__main__":
             get_paper_from_google(key)
             time.sleep(random.choice(sleep_time))
         except Exception as e:
+            traceback.print_exc()
             print(e)
             print("google 禁止访问")
     json.dump(papers, open("papers.json", "w"))
@@ -232,3 +231,4 @@ if __name__ == "__main__":
     shutil.copy("README.md", "docs/index.md")
     # 更新历史记录保存数据, 每月1号重置一次
     update_history_data(data)
+
