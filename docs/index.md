@@ -39,9 +39,13 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2022-11-17**|**DiffusionDet: Diffusion Model for Object Detection**|Shoufa Chenet.al|[paper](https://arxiv.org/abs/2211.09788)|[code](https://github.com/ShoufaChen/DiffusionDet.)|<details><summary>detail</summary>Tech report</details>|
+|**2022-11-17**|**ImLiDAR: Cross-Sensor Dynamic Message Propagation Network for 3D Object Detection**|Yiyang Shenet.al|[paper](https://arxiv.org/abs/2211.09518)|-|-|
+|**2022-11-17**|**BEVDistill: Cross-Modal BEV Distillation for Multi-View 3D Object Detection**|Zehui Chenet.al|[paper](https://arxiv.org/abs/2211.09386)|[code](https://github.com/zehuichen123/BEVDistill.)|-|
 |**2022-11-16**|**Egocentric Hand-object Interaction Detection**|Yao Luet.al|[paper](https://arxiv.org/abs/2211.09067)|[code](https://www.youtube.com/watch?v=XVj3zBuynmQ)|<details><summary>detail</summary>arXiv admin note: substantial text overlap with arXiv:2109</details>|
 |**2022-11-16**|**Region Proposal Network Pre-Training Helps Label-Efficient Object Detection**|Linus Ericssonet.al|[paper](https://arxiv.org/abs/2211.09022)|-|<details><summary>detail</summary>Presented at NeurIPS 2022 Workshop: Self-Supervised Learning - Theory and Practice</details>|
 |**2022-11-16**|**RLIP: Relational Language-Image Pre-training for Human-Object Interaction Detection**|Hangjie Yuanet.al|[paper](https://arxiv.org/abs/2209.01814)|[code](https://github.com/JacobYuan7/RLIP.)|<details><summary>detail</summary>NeurIPS 2022 as a Spotlight paper</details>|
+|**2022-11-16**|**T-SEA: Transfer-based Self-Ensemble Attack on Object Detection**|Hao Huanget.al|[paper](https://arxiv.org/abs/2211.09773)|[code](https://github.com/VDIGPKU/T-SEA.)|-|
 |**2022-11-16**|**PAANet:Visual Perception based Four-stage Framework for Salient Object Detection using High-order Contrast Operator**|Yanbo Yuanet.al|[paper](https://arxiv.org/abs/2211.08724)|-|-|
 |**2022-11-16**|**Revisiting Image Pyramid Structure for High Resolution Salient Object Detection**|Taehun Kimet.al|[paper](https://arxiv.org/abs/2209.09475)|-|-|
 |**2022-11-16**|**Combination of Object Tracking and Object Detection for Animal Recognition**|F Williams et.al|[paper](https://lucykuncheva.co.uk/papers/fwlkshjrIPAS22.pdf)|[code](https://github.com/wang-chen/thesis_template_ntu)|<details><summary>detail</summary>lucykuncheva.co.uk</details>|
@@ -60,15 +64,12 @@
 |**2022-11-15**|**DAST: Depth-Aware Assessment and Synthesis Transformer for RGB-D Salient Object Detection**|C Xia et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20865-2_35)|-|<details><summary>detail</summary>Pacific Rim International…, 2022 Springer</details>|
 |**2022-11-15**|**Multi-scale Lightweight Neural Network for Real-Time Object Detection**|Y Li et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20868-3_15)|-|<details><summary>detail</summary>Pacific Rim International Conference on…, 2022 Springer</details>|
 |**2022-11-15**|**UAV Aerial Photography Traffic Object Detection Based on Lightweight Design and Feature Fusion**|X Ma et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20233-9_69)|-|<details><summary>detail</summary>Chinese Conference on Biometric…, 2022 Springer</details>|
-|**2022-11-14**|**Butterfly Effect Attack: Tiny and Seemingly Unrelated Perturbations for Object Detection**|Nguyen Anh Vu Doanet.al|[paper](https://arxiv.org/abs/2211.07483)|-|-|
-|**2022-11-14**|**Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection**|Yu Honget.al|[paper](https://arxiv.org/abs/2211.07171)|-|<details><summary>detail</summary>Accepted by ECCV 2022 as Oral Presentation</details>|
-|**2022-11-13**|**Recursive Cross-View: Use Only 2D Detectors to Achieve 3D Object Detection without 3D Annotations**|Shun Guiet.al|[paper](https://arxiv.org/abs/2211.07108)|-|-|
-|**2022-11-12**|**Frequency Spectrum Augmentation Consistency for Domain Adaptive Object Detection**|Rui Liuet.al|[paper](https://arxiv.org/abs/2112.08605)|-|<details><summary>detail</summary>for further study</details>|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2022-11-16**|**Explainable, Domain-Adaptive, and Federated Artificial Intelligence in Medicine**|Ahmad Chaddadet.al|[paper](https://arxiv.org/abs/2211.09317)|-|<details><summary>detail</summary>This paper is accepted in IEEE CAA Journal of Automatica Sinica</details>|
 |**2022-11-16**|**Cross-Mode Knowledge Adaptation for Bike Sharing Demand Prediction using Domain-Adversarial Graph Neural Networks**|Yuebing Lianget.al|[paper](https://arxiv.org/abs/2211.08903)|-|<details><summary>detail</summary>arXiv admin note: substantial text overlap with arXiv:2203</details>|
 |**2022-11-16**|**AdaTriplet-RA: Domain Matching via Adaptive Triplet and Reinforced Attention for Unsupervised Domain Adaptation**|Xinyao Shuet.al|[paper](https://arxiv.org/abs/2211.08894)|[code](https://github.com/shuxy0120/AdaTriplet-RA)|-|
 |**2022-11-16**|**Unsupervised Domain Adaptation Based on the Predictive Uncertainty of Models**|JoonHo Leeet.al|[paper](https://arxiv.org/abs/2211.08866)|-|-|
@@ -91,7 +92,6 @@
 |**2022-11-13**|**Uncertainty-guided joint unbalanced optimal transport for unsupervised domain adaptation**|J Dan et.al|[paper](https://link.springer.com/article/10.1007/s00521-022-07976-x)|-|<details><summary>detail</summary>Neural Computing and Applications, 2022 Springer</details>|
 |**2022-11-12**|**Frequency Spectrum Augmentation Consistency for Domain Adaptive Object Detection**|Rui Liuet.al|[paper](https://arxiv.org/abs/2112.08605)|-|<details><summary>detail</summary>for further study</details>|
 |**2022-11-12**|**Adversarial and Random Transformations for Robust Domain Adaptation and Generalization**|Liang Xiaoet.al|[paper](https://arxiv.org/abs/2211.06788)|-|-|
-|**2022-11-12**|**DATa: Domain Adaptation-Aided Deep Table Detection Using Visual-Lexical Representations**|Hyebin Kwonet.al|[paper](https://arxiv.org/abs/2211.06648)|-|-|
 |**2022-11-12**|**Deep Learning Using Synthetic Seismic Data by Fourier Domain Adaptation in Seismic Structure Interpretation**|D Chang et.al|[paper](https://ieeexplore.ieee.org/abstract/document/9934908/)|-|<details><summary>detail</summary>…and Remote Sensing…, 2022 ieeexplore.ieee.org</details>|
 |**2022-11-12**|**Semi-Supervised Domain Adaptation for Cross-Survey Galaxy Morphology Classification and Anomaly Detection**|A Ćiprijanović et.al|[paper](https://arxiv.org/abs/2211.00677)|[code](https://paperswithcode.com/paper/semi-supervised-domain-adaptation-for-cross)|-|
 
