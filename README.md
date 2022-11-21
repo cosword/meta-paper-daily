@@ -69,9 +69,12 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2022-11-18**|**Mixture Domain Adaptation to Improve Semantic Segmentation in Real-World Surveillance**|Sébastien Piérardet.al|[paper](https://arxiv.org/abs/2211.10119)|[code](https://github.com/rvandeghen/MDA.)|-|
 |**2022-11-18**|**Self-Supervised Vision Transformer Based Nearest Neighbor Classification for Multi-Source Open-Set Domain Adaptation**|J Li et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20868-3_40)|-|<details><summary>detail</summary>Pacific Rim International Conference on Artificial…, 2022 Springer</details>|
 |**2022-11-18**|**Source-Free Implicit Semantic Augmentation for Domain Adaptation**|Z Zhang et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20865-2_2)|-|<details><summary>detail</summary>Pacific Rim International Conference on Artificial…, 2022 Springer</details>|
 |**2022-11-18**|**Small Object Detection in Infrared Images: Learning from Imbalanced Cross-Domain Data via Domain Adaptation**|J Kim et.al|[paper](https://www.mdpi.com/1927658)|-|<details><summary>detail</summary>Applied Sciences, 2022 mdpi.com</details>|
+|**2022-11-17**|**Multi-source Domain Adaptation for Text-independent Forensic Speaker Recognition**|Zhenyu Wanget.al|[paper](https://arxiv.org/abs/2211.09913)|-|<details><summary>detail</summary>IEEE/ACM TRANSACTIONS ON AUDIO</details>|
+|**2022-11-17**|**Video Unsupervised Domain Adaptation with Deep Learning: A Comprehensive Survey**|Yuecong Xuet.al|[paper](https://arxiv.org/abs/2211.10412)|-|<details><summary>detail</summary>Survey on Video Unsupervised Domain Adaptation (VUDA)</details>|
 |**2022-11-17**|**Source-free Unsupervised Domain Adaptation with Trusted Pseudo Samples**|Q Tian et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3570510)|-|<details><summary>detail</summary>ACM Transactions on Intelligent Systems and…, 2022 dl.acm.org</details>|
 |**2022-11-17**|**Deep adversarial domain adaptation for hyperspectral calibration model transfer among plant phenotyping systems**|TU Rehman et.al|[paper](https://www.sciencedirect.com/science/article/pii/S153751102200246X)|-|<details><summary>detail</summary>Biosystems Engineering, 2022 Elsevier</details>|
 |**2022-11-17**|**A Domain Adaptation Approach Based on Minimized Class Confusion and Style Migration**|L Zhang et.al|[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4266561)|-|<details><summary>detail</summary>Available at SSRN 4266561 papers.ssrn.com</details>|
@@ -91,9 +94,6 @@
 |**2022-11-14**|**PiPa: Pixel- and Patch-wise Self-supervised Learning for Domain Adaptative Semantic Segmentation**|Mu Chenet.al|[paper](https://arxiv.org/abs/2211.07609)|-|-|
 |**2022-11-14**|**Sentiment recognition of Italian elderly through domain adaptation on cross-corpus speech dataset**|Francesca Gaspariniet.al|[paper](https://arxiv.org/abs/2211.07307)|-|-|
 |**2022-11-13**|**Algorithms and Theory for Supervised Gradual Domain Adaptation**|Jing Donget.al|[paper](https://arxiv.org/abs/2204.11644)|-|-|
-|**2022-11-13**|**Model-agnostic Multi-Domain Learning with Domain-Specific Adapters for Action Recognition**|Kazuki Omiet.al|[paper](https://arxiv.org/abs/2204.07270)|-|<details><summary>detail</summary>IEICE Transactions on Information and Systems</details>|
-|**2022-11-12**|**Frequency Spectrum Augmentation Consistency for Domain Adaptive Object Detection**|Rui Liuet.al|[paper](https://arxiv.org/abs/2112.08605)|-|<details><summary>detail</summary>for further study</details>|
-|**2022-11-12**|**Adversarial and Random Transformations for Robust Domain Adaptation and Generalization**|Liang Xiaoet.al|[paper](https://arxiv.org/abs/2211.06788)|-|-|
 
 ## domain generalization
 
