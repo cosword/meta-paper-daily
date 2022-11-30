@@ -203,7 +203,7 @@ def json_to_md(data):
 def update_history_data(data):
     with open("history.json", "w+") as f:
         content = f.read()
-        if not content or datetime.date.today().day == 1:
+        if not content: #or datetime.date.today().day == 1:
             history = {}
         else:
             history = json.loads(content)
