@@ -39,13 +39,19 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2022-11-30**|**How to Train an Accurate and Efficient Object Detection Model on Any Dataset**|Galina Zalesskayaet.al|[paper](https://arxiv.org/abs/2211.17170)|[code](https://github.com/openvinotoolkit/training_extensions)|<details><summary>detail</summary>submitted to VISAPP 2023</details>|
+|**2022-11-30**|**Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation**|Feng Liet.al|[paper](https://arxiv.org/abs/2206.02777)|[code](https://github.com/IDEACVR/MaskDINO)|-|
+|**2022-11-30**|**Multi-latent Space Alignments for Unsupervised Domain Adaptation in Multi-view 3D Object Detection**|Jiaming Liuet.al|[paper](https://arxiv.org/abs/2211.17126)|-|-|
+|**2022-11-30**|**Roboflow 100: A Rich, Multi-Domain Object Detection Benchmark**|Floriana Ciagliaet.al|[paper](https://arxiv.org/abs/2211.13523)|-|-|
+|**2022-11-30**|**BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection**|Yinhao Liet.al|[paper](https://arxiv.org/abs/2206.10092)|-|<details><summary>detail</summary>Accepted by AAAI2023</details>|
+|**2022-11-30**|**Learning to Discover and Detect Objects**|Vladimir Fomenkoet.al|[paper](https://arxiv.org/abs/2210.10774)|[code](https://vlfom.github.io/RNCDL/)|<details><summary>detail</summary>NeurIPS 2022</details>|
+|**2022-11-30**|**Attention-based Depth Distillation with 3D-Aware Positional Encoding for Monocular 3D Object Detection**|Zizhang Wuet.al|[paper](https://arxiv.org/abs/2211.16779)|[code](https://github.com/rockywind/ADD.)|<details><summary>detail</summary>Accepted by AAAI2023</details>|
 |**2022-11-29**|**Bridging the Gap between Object and Image-level Representations for Open-Vocabulary Detection**|Hanoona Rasheedet.al|[paper](https://arxiv.org/abs/2207.03482)|[code](https://github.com/hanoonaR/object-centric-ovd.)|<details><summary>detail</summary>NeurIPS 2022</details>|
 |**2022-11-29**|**Rectifying Open-set Object Detection: A Taxonomy, Practical Applications, and Proper Evaluation**|Yusuke Hosoyaet.al|[paper](https://arxiv.org/abs/2207.09775)|-|-|
 |**2022-11-29**|**Analysis of Training Object Detection Models with Synthetic Data**|Bram Vanherleet.al|[paper](https://arxiv.org/abs/2211.16066)|[code](https://github.com/EDM-Research/DIMO_ObjectDetection.)|<details><summary>detail</summary>published in BMVC 2022</details>|
 |**2022-11-29**|**Combination of Object Tracking and Object Detection for Animal Recognition**|F Williams et.al|[paper](https://lucykuncheva.co.uk/papers/fwlkshjrIPAS22.pdf)|[code](https://github.com/wang-chen/thesis_template_ntu)|<details><summary>detail</summary>lucykuncheva.co.uk</details>|
 |**2022-11-29**|**Object Detection in Picking: Handling variety of a warehouse's articles**|M Rieder et.al|[paper](https://tore.tuhh.de/handle/11420/13904)|-|<details><summary>detail</summary>Hamburg International Conference of…, 2022 tore.tuhh.de</details>|
 |**2022-11-29**|**Roadside Unit-Based Unknown Object Detection in Adverse Weather Conditions for Smart Internet of Vehicles**|YC Chen et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3554923)|-|<details><summary>detail</summary>ACM Transactions on Management…, 2022 dl.acm.org</details>|
-|**2022-11-28**|**Roboflow 100: A Rich, Multi-Domain Object Detection Benchmark**|Floriana Ciagliaet.al|[paper](https://arxiv.org/abs/2211.13523)|-|-|
 |**2022-11-28**|**Weakly-Supervised Camouflaged Object Detection with Scribble Annotations**|Ruozhen Heet.al|[paper](https://arxiv.org/abs/2207.14083)|[code](https://github.com/dddraxxx/Weakly-Supervised-Camouflaged-Object-Detection-with-Scribble-Annotations)|<details><summary>detail</summary>AAAI 2023</details>|
 |**2022-11-28**|**Object Permanence in Object Detection Leveraging Temporal Priors at Inference Time**|Michael Fürstet.al|[paper](https://arxiv.org/abs/2211.15505)|-|-|
 |**2022-11-28**|**Efficient Scale Divide and Conquer Network for Object Detection**|Y Liu et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20868-3_37)|[code](https://github.com/open-mmlab/mmdetection)|<details><summary>detail</summary>Pacific Rim International…, 2022 Springer</details>|
@@ -58,19 +64,15 @@
 |**2022-11-27**|**Learning Object-Language Alignments for Open-Vocabulary Object Detection**|Chuang Linet.al|[paper](https://arxiv.org/abs/2211.14843)|[code](https://github.com/clin1223/VLDet.)|<details><summary>detail</summary>Technical Report</details>|
 |**2022-11-27**|**Breaking Immutable: Information-Coupled Prototype Elaboration for Few-Shot Object Detection**|Xiaonan Luet.al|[paper](https://arxiv.org/abs/2211.14782)|-|<details><summary>detail</summary>Accepted by AAAI2023</details>|
 |**2022-11-27**|**SSDA-YOLO: Semi-supervised Domain Adaptive YOLO for Cross-Domain Object Detection**|Huayi Zhouet.al|[paper](https://arxiv.org/abs/2211.02213)|[code](https://github.com/hnuzhy/SSDA-YOLO)|<details><summary>detail</summary>submitted to CVIU</details>|
-|**2022-11-27**|**Consistency of Implicit and Explicit Features Matters for Monocular 3D Object Detection**|Qian Yeet.al|[paper](https://arxiv.org/abs/2207.07933)|-|-|
-|**2022-11-26**|**3D Point Positional Encoding for Multi-Camera 3D Object Detection Transformers**|Changyong Shuet.al|[paper](https://arxiv.org/abs/2211.14710)|-|-|
-|**2022-11-25**|**Panoramic Video Salient Object Detection with Ambisonic Audio Guidance**|Xiang Liet.al|[paper](https://arxiv.org/abs/2211.14419)|-|-|
-|**2022-11-25**|**CRAFT: Camera-Radar 3D Object Detection with Spatio-Contextual Fusion Transformer**|Youngseok Kimet.al|[paper](https://arxiv.org/abs/2209.06535)|-|<details><summary>detail</summary>Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI'23)</details>|
-|**2022-11-25**|**Combating noisy labels in object detection datasets**|Krystian Chachułaet.al|[paper](https://arxiv.org/abs/2211.13993)|-|-|
-|**2022-11-24**|**DATE: Dual Assignment for End-to-End Fully Convolutional Object Detection**|Yiqun Chenet.al|[paper](https://arxiv.org/abs/2211.13859)|[code](https://github.com/YiqunChen1999/date.)|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2022-11-30**|**Multi-latent Space Alignments for Unsupervised Domain Adaptation in Multi-view 3D Object Detection**|Jiaming Liuet.al|[paper](https://arxiv.org/abs/2211.17126)|-|-|
 |**2022-11-29**|**DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model**|Gwanghyun Kimet.al|[paper](https://arxiv.org/abs/2211.16374)|[code](https://datid-3d.github.io)|<details><summary>detail</summary>Project page: https://datid-3d</details>|
 |**2022-11-29**|**MoDA: Map style transfer for self-supervised Domain Adaptation of embodied agents**|Eun Sun Leeet.al|[paper](https://arxiv.org/abs/2211.15992)|-|<details><summary>detail</summary>ECCV 2022</details>|
+|**2022-11-28**|**QuadFormer: Quadruple Transformer for Unsupervised Domain Adaptation in Power Line Segmentation of Aerial Images**|Pratyaksh Prabhav Raoet.al|[paper](https://arxiv.org/abs/2211.16988)|-|-|
 |**2022-11-28**|**Exploring Consistency in Cross-Domain Transformer for Domain Adaptive Semantic Segmentation**|Kaihong Wanget.al|[paper](https://arxiv.org/abs/2211.14703)|-|-|
 |**2022-11-28**|**Multimodal Dyadic Impression Recognition via Listener Adaptive Cross-Domain Fusion**|Yuanchao Liet.al|[paper](https://arxiv.org/abs/2211.05163)|-|<details><summary>detail</summary>submitted to ICASSP2023</details>|
 |**2022-11-28**|**FLAIR #1: semantic segmentation and domain adaptation dataset**|Anatol Garioudet.al|[paper](https://arxiv.org/abs/2211.12979)|-|-|
@@ -87,18 +89,17 @@
 |**2022-11-26**|**DynaGAN: Dynamic Few-shot Adaptation of GANs to Multiple Domains**|Seongtae Kimet.al|[paper](https://arxiv.org/abs/2211.14554)|[code](https://bluegorae.github.io/assets/dynagan/papers/supple.pdf)|<details><summary>detail</summary>SIGGRAPH Asia 2022</details>|
 |**2022-11-26**|**Instance-level Heterogeneous Domain Adaptation for Limited-labeled Sketch-to-Photo Retrieval**|Fan Yanget.al|[paper](https://arxiv.org/abs/2211.14515)|[code](https://github.com/fandulu/IHDA.)|-|
 |**2022-11-26**|**Provably Uncertainty-Guided Universal Domain Adaptation**|Yifan Wanget.al|[paper](https://arxiv.org/abs/2209.09616)|-|-|
+|**2022-11-26**|**An Emotion-guided Approach to Domain Adaptive Fake News Detection using Adversarial Learning**|Arkajyoti Chakrabortyet.al|[paper](https://arxiv.org/abs/2211.17108)|-|<details><summary>detail</summary>Accepted in the Student Abstract & Poster Presentation track at AAAI 2023</details>|
 |**2022-11-26**|**Uncertainty-guided joint unbalanced optimal transport for unsupervised domain adaptation**|J Dan et.al|[paper](https://link.springer.com/article/10.1007/s00521-022-07976-x)|-|<details><summary>detail</summary>Neural Computing and Applications, 2022 Springer</details>|
 |**2022-11-25**|**Local Context-Aware Active Domain Adaptation**|Tao Sunet.al|[paper](https://arxiv.org/abs/2208.12856)|[code](https://github.com/tsun/LADA.)|-|
 |**2022-11-25**|**Deep Learning Using Synthetic Seismic Data by Fourier Domain Adaptation in Seismic Structure Interpretation**|D Chang et.al|[paper](https://ieeexplore.ieee.org/abstract/document/9934908/)|-|<details><summary>detail</summary>…and Remote Sensing…, 2022 ieeexplore.ieee.org</details>|
 |**2022-11-25**|**Semi-Supervised Domain Adaptation for Cross-Survey Galaxy Morphology Classification and Anomaly Detection**|A Ćiprijanović et.al|[paper](https://arxiv.org/abs/2211.00677)|[code](https://paperswithcode.com/paper/semi-supervised-domain-adaptation-for-cross)|-|
-|**2022-11-24**|**Emotion-guided Cross-domain Fake News Detection using Adversarial Domain Adaptation**|Arjun Choudhryet.al|[paper](https://arxiv.org/abs/2211.13718)|-|<details><summary>detail</summary>Accepted as a Short Paper in the 19th International Conference on Natural Language Processing (ICON) 2022</details>|
-|**2022-11-23**|**Object Detection in Foggy Scenes by Embedding Depth and Reconstruction into Domain Adaptation**|Xin Yanget.al|[paper](https://arxiv.org/abs/2211.13409)|[code](https://github.com/VIML-CVDL/Object-Detection-in-Foggy-Scenes)|<details><summary>detail</summary>Accepted by ACCV</details>|
-|**2022-11-22**|**VBLC: Visibility Boosting and Logit-Constraint Learning for Domain Adaptive Semantic Segmentation under Adverse Conditions**|Mingjia Liet.al|[paper](https://arxiv.org/abs/2211.12256)|[code](https://github.com/BIT-DA/VBLC.)|<details><summary>detail</summary>Camera ready for AAAI 2023</details>|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2022-11-29**|**Automated Generating Natural Language Requirements based on Domain Ontology**|Ziyan Zhaoet.al|[paper](https://arxiv.org/abs/2211.16716)|-|-|
 |**2022-11-29**|**DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model**|Gwanghyun Kimet.al|[paper](https://arxiv.org/abs/2211.16374)|[code](https://datid-3d.github.io)|<details><summary>detail</summary>Project page: https://datid-3d</details>|
 |**2022-11-28**|**Do Domain Generalization Methods Generalize Well?**|A Mehra et.al|[paper](https://research.ibm.com/publications/do-domain-generalization-methods-generalize-well)|[code](https://github.com/openai/gpt-3)|<details><summary>detail</summary>Annual Conference on…, 2022 research.ibm.com</details>|
 |**2022-11-27**|**Domain Generalization for Robust Model-Based Offline Reinforcement Learning**|Alan Clarket.al|[paper](https://arxiv.org/abs/2211.14827)|-|<details><summary>detail</summary>the NeurIPS 2022 Workshops on Distribution Shifts and Offline Reinforcement Learning</details>|
@@ -123,5 +124,4 @@
 |**2022-11-18**|**Real-World Image Super Resolution via Unsupervised Bi-directional Cycle Domain Transfer Learning based Generative Adversarial Network**|Xiang Wanget.al|[paper](https://arxiv.org/abs/2211.10563)|-|-|
 |**2022-11-18**|**Learning to Augment via Implicit Differentiation for Domain Generalization**|T Wang et.al|[paper](https://arxiv.org/abs/2210.14271)|[code](https://paperswithcode.com/paper/learning-to-augment-via-implicit)|-|
 |**2022-11-15**|**HMOE: Hypernetwork-based Mixture of Experts for Domain Generalization**|Jingang Quet.al|[paper](https://arxiv.org/abs/2211.08253)|-|-|
-|**2022-11-14**|**Data Augmentation with Hierarchical SQL-to-Question Generation for Cross-domain Text-to-SQL Parsing**|Kun Wuet.al|[paper](https://arxiv.org/abs/2103.02227)|-|<details><summary>detail</summary>Journal ref:EMNLP 2021</details>|
 
