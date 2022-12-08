@@ -140,6 +140,8 @@ def get_paper_from_google(key):
         if title not in papers:
             # 会议相关折叠
             comment = f"<details><summary>detail</summary>{comment}</details>" if comment != "-" else "-"
+            if cod_url[-1] == '.': 
+                code_url = code_url[:-1]
             code_url = f"[code]({code_url})|" if code_url != "-" else "-|"
             papers[key][title] = f"|**{format_date}**|**{title}**|{author}|[paper]({paper_url})|" + code_url + f"{comment}|\n"
             data[key][title] = {'date': format_date, 'author': author, 'paper_url': paper_url, 'code_url': code_url, 'comments': comment}
