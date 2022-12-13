@@ -11,6 +11,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2022-12-10**|**Source-free Depth for Object Pop-out**|Zongwei Wuet.al|[paper](https://arxiv.org/abs/2212.05370)|-|-|
 |**2022-12-8**|**CBE Clima Tool: a free and open-source web application for climate analysis tailored to sustainable building design**|Giovanni Bettiet.al|[paper](https://arxiv.org/abs/2212.04609)|-|<details><summary>detail</summary>Submitted to SoftwareX</details>|
 |**2022-12-8**|**Self-training via Metric Learning for Source-Free Domain Adaptation of Semantic Segmentation**|Ibrahim Batuhan Akkayaet.al|[paper](https://arxiv.org/abs/2212.04227)|-|<details><summary>detail</summary>This paper is under review in IEEE TNNLS</details>|
 |**2022-12-7**|**Reconciling a Centroid-Hypothesis Conflict in Source-Free Domain Adaptation**|Idit Diamantet.al|[paper](https://arxiv.org/abs/2212.03795)|-|-|
@@ -25,12 +26,17 @@
 |**2022-10-11**|**Cluster-level pseudo-labelling for source-free cross-domain facial expression recognition**|Alessandro Contiet.al|[paper](https://arxiv.org/abs/2210.05246)|[code](https://github.com/altndrr/clup)|<details><summary>detail</summary>BMVC2022</details>|
 |**2022-10-5**|**Learning Across Domains and Devices: Style-Driven Source-Free Domain Adaptation in Clustered Federated Learning**|Donald Shenajet.al|[paper](https://arxiv.org/abs/2210.02326)|[code](https://github.com/Erosinho13/LADD.)|<details><summary>detail</summary>WACV 2023</details>|
 |**2022-10-3**|**Attracting and Dispersing: A Simple Approach for Source-free Domain Adaptation**|Shiqi Yanget.al|[paper](https://arxiv.org/abs/2205.04183)|[code](https://github.com/Albert0147/AaD_SFDA.)|<details><summary>detail</summary>NeurIPS 2022</details>|
-|**2022-10-2**|**Domain Gap Estimation for Source Free Unsupervised Domain Adaptation with Many Classifiers**|Ziyang Zonget.al|[paper](https://arxiv.org/abs/2207.05785)|-|-|
 
 ## object detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2022-12-12**|**Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation**|Feng Liet.al|[paper](https://arxiv.org/abs/2206.02777)|[code](https://github.com/IDEACVR/MaskDINO)|-|
+|**2022-12-12**|**CountingMOT: Joint Counting, Detection and Re-Identification for Multiple Object Tracking**|Weihong Renet.al|[paper](https://arxiv.org/abs/2212.05861)|-|-|
+|**2022-12-12**|**Detection Selection Algorithm: A Likelihood based Optimization Method to Perform Post Processing for Object Detection**|Angzhi Fanet.al|[paper](https://arxiv.org/abs/2212.05706)|-|-|
+|**2022-12-11**|**Recurrent Vision Transformers for Object Detection with Event Cameras**|Mathias Gehriget.al|[paper](https://arxiv.org/abs/2212.05598)|-|-|
+|**2022-12-11**|**Focal-PETR: Embracing Foreground for Efficient Multi-Camera 3D Object Detection**|Shihao Wanget.al|[paper](https://arxiv.org/abs/2212.05505)|-|<details><summary>detail</summary>Tech Report</details>|
+|**2022-12-10**|**Multi-Sem Fusion: Multimodal Semantic Fusion for 3D Object Detection**|Shaoqing Xuet.al|[paper](https://arxiv.org/abs/2212.05265)|-|<details><summary>detail</summary>Submitted to T-ITS Journal</details>|
 |**2022-12-9**|**Towards Few-Shot Open-Set Object Detection**|Binyi Suet.al|[paper](https://arxiv.org/abs/2210.15996)|-|-|
 |**2022-12-9**|**Disentangle and Remerge: Interventional Knowledge Distillation for Few-Shot Object Detection from A Conditional Causal Perspective**|Jiangmeng Liet.al|[paper](https://arxiv.org/abs/2208.12681)|[code](https://github.com/ZYN-1101/DandR.git.)|<details><summary>detail</summary>Accepted by AAAI 2023</details>|
 |**2022-12-9**|**SemanticBEVFusion: Rethink LiDAR-Camera Fusion in Unified Bird's-Eye View Representation for 3D Object Detection**|Qi Jianget.al|[paper](https://arxiv.org/abs/2212.04675)|-|<details><summary>detail</summary>The first two authors contributed equally to this work</details>|
@@ -40,17 +46,15 @@
 |**2022-12-8**|**Evaluating Zero-cost Active Learning for Object Detection**|Dominik Probstet.al|[paper](https://arxiv.org/abs/2212.04211)|-|<details><summary>detail</summary>Berlin Workshop on Artificial Intelligence for Engineering Applications 2022</details>|
 |**2022-12-8**|**Efficient Few-Shot Object Detection via Knowledge Inheritance**|Ze Yanget.al|[paper](https://arxiv.org/abs/2203.12224)|[code](https://github.com/Ze-Yang/Efficient-FSOD.)|<details><summary>detail</summary>IEEE Transactions on Image Processing (TIP)</details>|
 |**2022-12-7**|**Localization Distillation for Object Detection**|Zhaohui Zhenget.al|[paper](https://arxiv.org/abs/2204.05957)|[code](https://github.com/HikariTJU/LD.)|<details><summary>detail</summary>Journal extension of our previous conference paper arXiv:2102</details>|
-|**2022-12-7**|**LeNo: Adversarial Robust Salient Object Detection Networks with Learnable Noise**|He Wanget.al|[paper](https://arxiv.org/abs/2210.15392)|[code](https://github.com/ssecv/LeNo.)|-|
-|**2022-12-6**|**SAFE: Sensitivity-Aware Features for Out-of-Distribution Object Detection**|Samuel Wilsonet.al|[paper](https://arxiv.org/abs/2208.13930)|-|-|
-|**2022-12-6**|**Open World DETR: Transformer based Open World Object Detection**|Na Donget.al|[paper](https://arxiv.org/abs/2212.02969)|-|-|
-|**2022-12-6**|**SSDA3D: Semi-supervised Domain Adaptation for 3D Object Detection from Point Cloud**|Yan Wanget.al|[paper](https://arxiv.org/abs/2212.02845)|[code](https://github.com/yinjunbo/SSDA3D.)|<details><summary>detail</summary>Accepted by AAAI 2023</details>|
-|**2022-12-6**|**An advanced YOLOv3 method for small object detection**|Baokai Liuet.al|[paper](https://arxiv.org/abs/2212.02809)|-|-|
-|**2022-12-6**|**MUS-CDB: Mixed Uncertainty Sampling with Class Distribution Balancing for Active Annotation in Aerial Object Detection**|Dong Lianget.al|[paper](https://arxiv.org/abs/2212.02804)|[code](https://github.com/ZJW700/MUS-CDB)|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2022-12-12**|**SRoUDA: Meta Self-training for Robust Unsupervised Domain Adaptation**|Wanqing Zhuet.al|[paper](https://arxiv.org/abs/2212.05917)|[code](https://github.com/Vision.)|<details><summary>detail</summary>This paper has been accepted for presentation at the AAAI2023</details>|
+|**2022-12-12**|**Domain Adaptation of Transformer-Based Models using Unlabeled Data for Relevance and Polarity Classification of German Customer Feedback**|Ahmad Idrissi-Yaghiret.al|[paper](https://arxiv.org/abs/2212.05764)|-|<details><summary>detail</summary>Submitted to SN Computer Science</details>|
+|**2022-12-11**|**Partial Domain Adaptation without Domain Alignment**|Weikai Liet.al|[paper](https://arxiv.org/abs/2108.12867)|-|-|
+|**2022-12-10**|**Multimodal Dyadic Impression Recognition via Listener Adaptive Cross-Domain Fusion**|Yuanchao Liet.al|[paper](https://arxiv.org/abs/2211.05163)|-|<details><summary>detail</summary>submitted to ICASSP2023</details>|
 |**2022-12-9**|**Diffusion Guided Domain Adaptation of Image Generators**|Kunpeng Songet.al|[paper](https://arxiv.org/abs/2212.04473)|[code](https://styleganfusion.github.io/)|<details><summary>detail</summary>Project website: https://styleganfusion</details>|
 |**2022-12-8**|**Self-training via Metric Learning for Source-Free Domain Adaptation of Semantic Segmentation**|Ibrahim Batuhan Akkayaet.al|[paper](https://arxiv.org/abs/2212.04227)|-|<details><summary>detail</summary>This paper is under review in IEEE TNNLS</details>|
 |**2022-12-8**|**Aligning Correlation Information for Domain Adaptation in Action Recognition**|Yuecong Xuet.al|[paper](https://arxiv.org/abs/2107.04932)|[code](https://xuyu0010.github.io/vuda.html.Camera-ready)|<details><summary>detail</summary>The dataset HMDB-ARID is available at https://xuyu0010</details>|
@@ -62,15 +66,12 @@
 |**2022-12-6**|**CySecBERT: A Domain-Adapted Language Model for the Cybersecurity Domain**|Markus Bayeret.al|[paper](https://arxiv.org/abs/2212.02974)|-|<details><summary>detail</summary>13 Pages</details>|
 |**2022-12-6**|**SSDA3D: Semi-supervised Domain Adaptation for 3D Object Detection from Point Cloud**|Yan Wanget.al|[paper](https://arxiv.org/abs/2212.02845)|[code](https://github.com/yinjunbo/SSDA3D.)|<details><summary>detail</summary>Accepted by AAAI 2023</details>|
 |**2022-12-6**|**Instance-level Heterogeneous Domain Adaptation for Limited-labeled Sketch-to-Photo Retrieval**|Fan Yanget.al|[paper](https://arxiv.org/abs/2211.14515)|[code](https://github.com/fandulu/IHDA.)|-|
-|**2022-12-5**|**Semantic-aware Message Broadcasting for Efficient Unsupervised Domain Adaptation**|Xin Liet.al|[paper](https://arxiv.org/abs/2212.02739)|-|-|
-|**2022-12-5**|**Self-Adversarial Disentangling for Specific Domain Adaptation**|Qianyu Zhouet.al|[paper](https://arxiv.org/abs/2108.03553)|-|-|
-|**2022-12-5**|**Transformer-Based Named Entity Recognition for French Using Adversarial Adaptation to Similar Domain Corpora**|Arjun Choudhryet.al|[paper](https://arxiv.org/abs/2212.03692)|-|<details><summary>detail</summary>Author version of Student Abstract to appear in AAAI 2023 - Student Abstract and Poster Program</details>|
-|**2022-12-5**|**Cross-Domain Few-Shot Relation Extraction via Representation Learning and Domain Adaptation**|Zhongju Yuanet.al|[paper](https://arxiv.org/abs/2212.02560)|-|-|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2022-12-9**|**Domain Generalization Strategy to Train Classifiers Robust to Spatial-Temporal Shift**|Minseok Seoet.al|[paper](https://arxiv.org/abs/2212.02968)|-|<details><summary>detail</summary>Core Transfer Track 1st place solution in Weather4Cast competition at NeuIPS22</details>|
 |**2022-12-9**|**Diffusion Guided Domain Adaptation of Image Generators**|Kunpeng Songet.al|[paper](https://arxiv.org/abs/2212.04473)|[code](https://styleganfusion.github.io/)|<details><summary>detail</summary>Project website: https://styleganfusion</details>|
 |**2022-12-9**|**Synthetic-to-Real Domain Generalized Semantic Segmentation for 3D Indoor Point Clouds**|Yuyang Zhaoet.al|[paper](https://arxiv.org/abs/2212.04668)|-|-|
 |**2022-12-8**|**PKDGA: A Partial Knowledge-based Domain Generation Algorithm for Botnets**|Lihai Nieet.al|[paper](https://arxiv.org/abs/2212.04234)|-|-|
@@ -78,7 +79,6 @@
 |**2022-12-7**|**Domain generalization of 3D semantic segmentation in autonomous driving**|Jules Sanchezet.al|[paper](https://arxiv.org/abs/2212.04245)|-|-|
 |**2022-12-7**|**General and Domain Adaptive Chinese Spelling Check with Error Consistent Pretraining**|Qi Lvet.al|[paper](https://arxiv.org/abs/2203.10929)|-|-|
 |**2022-12-6**|**LawngNLI: A Long-Premise Benchmark for In-Domain Generalization from Short to Long Contexts and for Implication-Based Retrieval**|William Brunoet.al|[paper](https://arxiv.org/abs/2212.03222)|-|<details><summary>detail</summary>Findings of EMNLP 2022</details>|
-|**2022-12-6**|**Domain Generalization Strategy to Train Classifiers Robust to Spatial-Temporal Shift**|Minseok Seoet.al|[paper](https://arxiv.org/abs/2212.02968)|-|<details><summary>detail</summary>Core Transfer Track 1st place solution in Weather4Cast competition at NeuIPS22</details>|
 |**2022-12-5**|**Domain-general Crowd Counting in Unseen Scenarios**|Zhipeng Duet.al|[paper](https://arxiv.org/abs/2212.02573)|-|<details><summary>detail</summary>AAAI 2023</details>|
 |**2022-12-4**|**Domain Adaptation and Generalization on Functional Medical Images: A Systematic Survey**|Gita Sarafrazet.al|[paper](https://arxiv.org/abs/2212.03176)|-|-|
 |**2022-12-3**|**Generalizing Multiple Object Tracking to Unseen Domains by Introducing Natural Language Representation**|En Yuet.al|[paper](https://arxiv.org/abs/2212.01568)|-|<details><summary>detail</summary>Accepted by AAAI2023</details>|
