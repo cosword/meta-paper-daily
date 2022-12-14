@@ -31,26 +31,27 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2022-12-13**|**CNN-transformer mixed model for object detection**|Wenshuo Liet.al|[paper](https://arxiv.org/abs/2212.06714)|-|-|
+|**2022-12-13**|**Pixel is All You Need: Adversarial Trajectory-Ensemble Active Learning for Salient Object Detection**|Zhenyu Wuet.al|[paper](https://arxiv.org/abs/2212.06493)|-|-|
+|**2022-12-13**|**Focal-PETR: Embracing Foreground for Efficient Multi-Camera 3D Object Detection**|Shihao Wanget.al|[paper](https://arxiv.org/abs/2212.05505)|-|<details><summary>detail</summary>Tech Report</details>|
+|**2022-12-13**|**Object-fabrication Targeted Attack for Object Detection**|Xuchong Zhanget.al|[paper](https://arxiv.org/abs/2212.06431)|-|-|
+|**2022-12-13**|**Depth Quality-Inspired Feature Manipulation for Efficient RGB-D and Video Salient Object Detection**|Wenbo Zhanget.al|[paper](https://arxiv.org/abs/2208.03918)|[code](https://github.com/zwbx/DFM-Net.)|<details><summary>detail</summary>arXiv admin note: substantial text overlap with arXiv:2107</details>|
 |**2022-12-12**|**Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation**|Feng Liet.al|[paper](https://arxiv.org/abs/2206.02777)|[code](https://github.com/IDEACVR/MaskDINO)|-|
 |**2022-12-12**|**CountingMOT: Joint Counting, Detection and Re-Identification for Multiple Object Tracking**|Weihong Renet.al|[paper](https://arxiv.org/abs/2212.05861)|-|-|
 |**2022-12-12**|**Detection Selection Algorithm: A Likelihood based Optimization Method to Perform Post Processing for Object Detection**|Angzhi Fanet.al|[paper](https://arxiv.org/abs/2212.05706)|-|-|
 |**2022-12-11**|**Recurrent Vision Transformers for Object Detection with Event Cameras**|Mathias Gehriget.al|[paper](https://arxiv.org/abs/2212.05598)|-|-|
-|**2022-12-11**|**Focal-PETR: Embracing Foreground for Efficient Multi-Camera 3D Object Detection**|Shihao Wanget.al|[paper](https://arxiv.org/abs/2212.05505)|-|<details><summary>detail</summary>Tech Report</details>|
 |**2022-12-10**|**Multi-Sem Fusion: Multimodal Semantic Fusion for 3D Object Detection**|Shaoqing Xuet.al|[paper](https://arxiv.org/abs/2212.05265)|-|<details><summary>detail</summary>Submitted to T-ITS Journal</details>|
+|**2022-12-10**|**CamoFormer: Masked Separable Attention for Camouflaged Object Detection**|Bowen Yinet.al|[paper](https://arxiv.org/abs/2212.06570)|-|-|
 |**2022-12-9**|**Towards Few-Shot Open-Set Object Detection**|Binyi Suet.al|[paper](https://arxiv.org/abs/2210.15996)|-|-|
 |**2022-12-9**|**Disentangle and Remerge: Interventional Knowledge Distillation for Few-Shot Object Detection from A Conditional Causal Perspective**|Jiangmeng Liet.al|[paper](https://arxiv.org/abs/2208.12681)|[code](https://github.com/ZYN-1101/DandR.git.)|<details><summary>detail</summary>Accepted by AAAI 2023</details>|
 |**2022-12-9**|**SemanticBEVFusion: Rethink LiDAR-Camera Fusion in Unified Bird's-Eye View Representation for 3D Object Detection**|Qi Jianget.al|[paper](https://arxiv.org/abs/2212.04675)|-|<details><summary>detail</summary>The first two authors contributed equally to this work</details>|
 |**2022-12-8**|**Contrastive View Design Strategies to Enhance Robustness to Domain Shifts in Downstream Object Detection**|Kyle Buettneret.al|[paper](https://arxiv.org/abs/2212.04613)|-|<details><summary>detail</summary>To appear</details>|
-|**2022-12-8**|**The Differentiable Lens: Compound Lens Search over Glass Surfaces and Materials for Object Detection**|Geoffroi Côtéet.al|[paper](https://arxiv.org/abs/2212.04441)|-|-|
-|**2022-12-8**|**DeepInteraction: 3D Object Detection via Modality Interaction**|Zeyu Yanget.al|[paper](https://arxiv.org/abs/2208.11112)|-|<details><summary>detail</summary>To appear at NeurIPS 2022</details>|
-|**2022-12-8**|**Evaluating Zero-cost Active Learning for Object Detection**|Dominik Probstet.al|[paper](https://arxiv.org/abs/2212.04211)|-|<details><summary>detail</summary>Berlin Workshop on Artificial Intelligence for Engineering Applications 2022</details>|
-|**2022-12-8**|**Efficient Few-Shot Object Detection via Knowledge Inheritance**|Ze Yanget.al|[paper](https://arxiv.org/abs/2203.12224)|[code](https://github.com/Ze-Yang/Efficient-FSOD.)|<details><summary>detail</summary>IEEE Transactions on Image Processing (TIP)</details>|
-|**2022-12-7**|**Localization Distillation for Object Detection**|Zhaohui Zhenget.al|[paper](https://arxiv.org/abs/2204.05957)|[code](https://github.com/HikariTJU/LD.)|<details><summary>detail</summary>Journal extension of our previous conference paper arXiv:2102</details>|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2022-12-13**|**Domain Adaptation for Dense Retrieval through Self-Supervision by Pseudo-Relevance Labeling**|Minghan Liet.al|[paper](https://arxiv.org/abs/2212.06552)|-|-|
 |**2022-12-12**|**SRoUDA: Meta Self-training for Robust Unsupervised Domain Adaptation**|Wanqing Zhuet.al|[paper](https://arxiv.org/abs/2212.05917)|[code](https://github.com/Vision.)|<details><summary>detail</summary>This paper has been accepted for presentation at the AAAI2023</details>|
 |**2022-12-12**|**Domain Adaptation of Transformer-Based Models using Unlabeled Data for Relevance and Polarity Classification of German Customer Feedback**|Ahmad Idrissi-Yaghiret.al|[paper](https://arxiv.org/abs/2212.05764)|-|<details><summary>detail</summary>Submitted to SN Computer Science</details>|
 |**2022-12-11**|**Partial Domain Adaptation without Domain Alignment**|Weikai Liet.al|[paper](https://arxiv.org/abs/2108.12867)|-|-|
@@ -65,12 +66,12 @@
 |**2022-12-6**|**PØDA: Prompt-driven Zero-shot Domain Adaptation**|Mohammad Faheset.al|[paper](https://arxiv.org/abs/2212.03241)|[code](https://github.com/astra-vision/PODA.)|<details><summary>detail</summary>Project page: https://astra-vision</details>|
 |**2022-12-6**|**CySecBERT: A Domain-Adapted Language Model for the Cybersecurity Domain**|Markus Bayeret.al|[paper](https://arxiv.org/abs/2212.02974)|-|<details><summary>detail</summary>13 Pages</details>|
 |**2022-12-6**|**SSDA3D: Semi-supervised Domain Adaptation for 3D Object Detection from Point Cloud**|Yan Wanget.al|[paper](https://arxiv.org/abs/2212.02845)|[code](https://github.com/yinjunbo/SSDA3D.)|<details><summary>detail</summary>Accepted by AAAI 2023</details>|
-|**2022-12-6**|**Instance-level Heterogeneous Domain Adaptation for Limited-labeled Sketch-to-Photo Retrieval**|Fan Yanget.al|[paper](https://arxiv.org/abs/2211.14515)|[code](https://github.com/fandulu/IHDA.)|-|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2022-12-12**|**Improving Diversity with Adversarially Learned Transformations for Domain Generalization**|Tejas Gokhaleet.al|[paper](https://arxiv.org/abs/2206.07736)|[code](https://github.com/tejas-gokhale/ALT)|<details><summary>detail</summary>WACV 2023</details>|
 |**2022-12-9**|**Domain Generalization Strategy to Train Classifiers Robust to Spatial-Temporal Shift**|Minseok Seoet.al|[paper](https://arxiv.org/abs/2212.02968)|-|<details><summary>detail</summary>Core Transfer Track 1st place solution in Weather4Cast competition at NeuIPS22</details>|
 |**2022-12-9**|**Diffusion Guided Domain Adaptation of Image Generators**|Kunpeng Songet.al|[paper](https://arxiv.org/abs/2212.04473)|[code](https://styleganfusion.github.io/)|<details><summary>detail</summary>Project website: https://styleganfusion</details>|
 |**2022-12-9**|**Synthetic-to-Real Domain Generalized Semantic Segmentation for 3D Indoor Point Clouds**|Yuyang Zhaoet.al|[paper](https://arxiv.org/abs/2212.04668)|-|-|
@@ -85,5 +86,4 @@
 |**2022-12-2**|**Towards Diverse, Relevant and Coherent Open-Domain Dialogue Generation via Hybrid Latent Variables**|Bin Sunet.al|[paper](https://arxiv.org/abs/2212.01145)|-|<details><summary>detail</summary>Accepted by AAAI 2023</details>|
 |**2022-12-2**|**PASTA: Proportional Amplitude Spectrum Training Augmentation for Syn-to-Real Domain Generalization**|Prithvijit Chattopadhyayet.al|[paper](https://arxiv.org/abs/2212.00979)|[code](https://github.com/prithv1/PASTA)|<details><summary>detail</summary>Code: https://github</details>|
 |**2022-11-29**|**Automated Generating Natural Language Requirements based on Domain Ontology**|Ziyan Zhaoet.al|[paper](https://arxiv.org/abs/2211.16716)|-|-|
-|**2022-11-29**|**DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model**|Gwanghyun Kimet.al|[paper](https://arxiv.org/abs/2211.16374)|[code](https://datid-3d.github.io)|<details><summary>detail</summary>Project page: https://datid-3d</details>|
 
