@@ -69,6 +69,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2022-12-19**|**Source-Free Domain Adaptation for Question Answering with Masked Self-training**|M. Yinet.al|[paper](https://arxiv.org/abs/2212.09563)|-|-|
 |**2022-12-17**|**Self-Supervised Vision Transformer Based Nearest Neighbor Classification for Multi-Source Open-Set Domain Adaptation**|J Li et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20868-3_40)|-|<details><summary>detail</summary>Pacific Rim International Conference on Artificial…, 2022 Springer</details>|
 |**2022-12-17**|**Source-Free Implicit Semantic Augmentation for Domain Adaptation**|Z Zhang et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20865-2_2)|-|<details><summary>detail</summary>Pacific Rim International Conference on Artificial…, 2022 Springer</details>|
 |**2022-12-17**|**Small Object Detection in Infrared Images: Learning from Imbalanced Cross-Domain Data via Domain Adaptation**|J Kim et.al|[paper](https://www.mdpi.com/1927658)|-|<details><summary>detail</summary>Applied Sciences, 2022 mdpi.com</details>|
@@ -93,12 +94,13 @@
 |**2022-12-13**|**Cross-Domain Video Anomaly Detection without Target Domain Adaptation**|Abhishek Aichet.al|[paper](https://arxiv.org/abs/2212.07010)|-|<details><summary>detail</summary>WACV 2023</details>|
 |**2022-12-13**|**Domain Adaptation for Dense Retrieval through Self-Supervision by Pseudo-Relevance Labeling**|Minghan Liet.al|[paper](https://arxiv.org/abs/2212.06552)|-|-|
 |**2022-12-12**|**SRoUDA: Meta Self-training for Robust Unsupervised Domain Adaptation**|Wanqing Zhuet.al|[paper](https://arxiv.org/abs/2212.05917)|[code](https://github.com/Vision.)|<details><summary>detail</summary>This paper has been accepted for presentation at the AAAI2023</details>|
-|**2022-12-12**|**Domain Adaptation of Transformer-Based Models using Unlabeled Data for Relevance and Polarity Classification of German Customer Feedback**|Ahmad Idrissi-Yaghiret.al|[paper](https://arxiv.org/abs/2212.05764)|-|<details><summary>detail</summary>Submitted to SN Computer Science</details>|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2022-12-19**|**Multi-View Knowledge Distillation from Crowd Annotations for Out-of-Domain Generalization**|Dustin Wrightet.al|[paper](https://arxiv.org/abs/2212.09409)|-|-|
+|**2022-12-18**|**Style-Hallucinated Dual Consistency Learning: A Unified Framework for Visual Domain Generalization**|Yuyang Zhaoet.al|[paper](https://arxiv.org/abs/2212.09068)|[code](https://github.com/HeliosZhao/SHADE-VisualDG)|<details><summary>detail</summary>Journal extension of arXiv:2204</details>|
 |**2022-12-17**|**Do Domain Generalization Methods Generalize Well?**|A Mehra et.al|[paper](https://research.ibm.com/publications/do-domain-generalization-methods-generalize-well)|[code](https://github.com/openai/gpt-3)|<details><summary>detail</summary>Annual Conference on…, 2022 research.ibm.com</details>|
 |**2022-12-16**|**A Survey of Domain Generalization-Based Face Anti-spoofing**|F Jiang et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20233-9_13)|[code](https://github.com/ZitongYu/DeepFAS)|<details><summary>detail</summary>Chinese Conference on Biometric…, 2022 Springer</details>|
 |**2022-12-14**|**Universal Generative Modeling in Dual-domain for Dynamic MR Imaging**|Chuanming Yuet.al|[paper](https://arxiv.org/abs/2212.07599)|-|-|
@@ -122,6 +124,4 @@
 |**2022-12-6**|**LawngNLI: A Long-Premise Benchmark for In-Domain Generalization from Short to Long Contexts and for Implication-Based Retrieval**|William Brunoet.al|[paper](https://arxiv.org/abs/2212.03222)|-|<details><summary>detail</summary>Findings of EMNLP 2022</details>|
 |**2022-12-5**|**Domain-general Crowd Counting in Unseen Scenarios**|Zhipeng Duet.al|[paper](https://arxiv.org/abs/2212.02573)|-|<details><summary>detail</summary>AAAI 2023</details>|
 |**2022-12-4**|**Domain Adaptation and Generalization on Functional Medical Images: A Systematic Survey**|Gita Sarafrazet.al|[paper](https://arxiv.org/abs/2212.03176)|-|-|
-|**2022-12-3**|**Generalizing Multiple Object Tracking to Unseen Domains by Introducing Natural Language Representation**|En Yuet.al|[paper](https://arxiv.org/abs/2212.01568)|-|<details><summary>detail</summary>Accepted by AAAI2023</details>|
-|**2022-12-2**|**Towards Diverse, Relevant and Coherent Open-Domain Dialogue Generation via Hybrid Latent Variables**|Bin Sunet.al|[paper](https://arxiv.org/abs/2212.01145)|-|<details><summary>detail</summary>Accepted by AAAI 2023</details>|
 
