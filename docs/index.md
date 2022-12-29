@@ -69,6 +69,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2022-12-27**|**Robust Cross-vendor Mammographic Texture Models Using Augmentation-based Domain Adaptation for Long-term Breast Cancer Risk**|Andreas D. Lauritzenet.al|[paper](https://arxiv.org/abs/2212.13439)|-|-|
+|**2022-12-27**|**Spacecraft Pose Estimation Based on Unsupervised Domain Adaptation and on a 3D-Guided Loss Combination**|Juan Ignacio Bravo Pérez-Villaret.al|[paper](https://arxiv.org/abs/2212.13415)|[code](https://aiforspace.github.io/2022/))|<details><summary>detail</summary>ECCV 2022 AI4SPACE Workshop (https://aiforspace</details>|
 |**2022-12-26**|**Semi-Supervised Domain Adaptation for Semantic Segmentation of Roads from Satellite Images**|Ahmet Alp Kindirogluet.al|[paper](https://arxiv.org/abs/2212.13079)|-|<details><summary>detail</summary>in Turkish language</details>|
 |**2022-12-26**|**Self-Supervised Vision Transformer Based Nearest Neighbor Classification for Multi-Source Open-Set Domain Adaptation**|J Li et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20868-3_40)|-|<details><summary>detail</summary>Pacific Rim International Conference on Artificial…, 2022 Springer</details>|
 |**2022-12-26**|**Source-Free Implicit Semantic Augmentation for Domain Adaptation**|Z Zhang et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20865-2_2)|-|<details><summary>detail</summary>Pacific Rim International Conference on Artificial…, 2022 Springer</details>|
@@ -92,13 +94,13 @@
 |**2022-12-19**|**Source-Free Domain Adaptation for Question Answering with Masked Self-training**|M. Yinet.al|[paper](https://arxiv.org/abs/2212.09563)|-|-|
 |**2022-12-16**|**CD-TTA: Compound Domain Test-time Adaptation for Semantic Segmentation**|Junha Songet.al|[paper](https://arxiv.org/abs/2212.08356)|-|-|
 |**2022-12-16**|**Learning Classifiers of Prototypes and Reciprocal Points for Universal Domain Adaptation**|Sungsu Huret.al|[paper](https://arxiv.org/abs/2212.08355)|-|<details><summary>detail</summary>WACV 2023</details>|
-|**2022-12-15**|**Dual Moving Average Pseudo-Labeling for Source-Free Inductive Domain Adaptation**|Hao Yanet.al|[paper](https://arxiv.org/abs/2212.08187)|-|<details><summary>detail</summary>BMVC 2022</details>|
-|**2022-12-15**|**Domain Adaptation Principal Component Analysis: base linear method for learning with out-of-distribution data**|Evgeny M Mirkeset.al|[paper](https://arxiv.org/abs/2208.13290)|-|-|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2022-12-27**|**Deep Spatial Domain Generalization**|Dazhou Yuet.al|[paper](https://arxiv.org/abs/2210.00729)|-|-|
+|**2022-12-27**|**General GAN-generated image detection by data augmentation in fingerprint domain**|Huaming Wanget.al|[paper](https://arxiv.org/abs/2212.13466)|-|-|
 |**2022-12-26**|**Domain-invariant Feature Exploration for Domain Generalization**|Wang Luet.al|[paper](https://arxiv.org/abs/2207.12020)|[code](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG)|<details><summary>detail</summary>Accepted by Transactions on Machine Learning Research (TMLR) 2022</details>|
 |**2022-12-26**|**Do Domain Generalization Methods Generalize Well?**|A Mehra et.al|[paper](https://research.ibm.com/publications/do-domain-generalization-methods-generalize-well)|[code](https://github.com/openai/gpt-3)|<details><summary>detail</summary>Annual Conference on…, 2022 research.ibm.com</details>|
 |**2022-12-25**|**PASTA: Proportional Amplitude Spectrum Training Augmentation for Syn-to-Real Domain Generalization**|Prithvijit Chattopadhyayet.al|[paper](https://arxiv.org/abs/2212.00979)|[code](https://github.com/prithv1/PASTA)|<details><summary>detail</summary>Code: https://github</details>|
@@ -122,6 +124,4 @@
 |**2022-12-14**|**Domain Generalization by Learning and Removing Domain-specific Features**|Yu Dinget.al|[paper](https://arxiv.org/abs/2212.07101)|-|-|
 |**2022-12-12**|**Improving Diversity with Adversarially Learned Transformations for Domain Generalization**|Tejas Gokhaleet.al|[paper](https://arxiv.org/abs/2206.07736)|[code](https://github.com/tejas-gokhale/ALT)|<details><summary>detail</summary>WACV 2023</details>|
 |**2022-12-9**|**Domain Generalization Strategy to Train Classifiers Robust to Spatial-Temporal Shift**|Minseok Seoet.al|[paper](https://arxiv.org/abs/2212.02968)|-|<details><summary>detail</summary>Core Transfer Track 1st place solution in Weather4Cast competition at NeuIPS22</details>|
-|**2022-12-9**|**Diffusion Guided Domain Adaptation of Image Generators**|Kunpeng Songet.al|[paper](https://arxiv.org/abs/2212.04473)|[code](https://styleganfusion.github.io/)|<details><summary>detail</summary>Project website: https://styleganfusion</details>|
-|**2022-12-9**|**Synthetic-to-Real Domain Generalized Semantic Segmentation for 3D Indoor Point Clouds**|Yuyang Zhaoet.al|[paper](https://arxiv.org/abs/2212.04668)|-|-|
 
