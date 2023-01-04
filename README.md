@@ -40,7 +40,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2023-1-2**|**YOLO-Z: Improving small object detection in YOLOv5 for autonomous vehicles**|Aduen Benjumeaet.al|[paper](https://arxiv.org/abs/2112.11798)|-|<details><summary>detail</summary>ICCV 2022</details>|
+|**2023-1-3**|**YOLO-Z: Improving small object detection in YOLOv5 for autonomous vehicles**|Aduen Benjumeaet.al|[paper](https://arxiv.org/abs/2112.11798)|-|<details><summary>detail</summary>ICCV 2021</details>|
+|**2023-1-2**|**Towards Deeper Understanding of Camouflaged Object Detection**|Yunqiu Lvet.al|[paper](https://arxiv.org/abs/2205.11333)|[code](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment)|<details><summary>detail</summary>IEEE Transactions on Circuits and Systems for Video Technology 2023</details>|
 |**2023-1-2**|**Combination of Object Tracking and Object Detection for Animal Recognition**|F Williams et.al|[paper](https://lucykuncheva.co.uk/papers/fwlkshjrIPAS22.pdf)|[code](https://github.com/wang-chen/thesis_template_ntu)|<details><summary>detail</summary>lucykuncheva.co.uk</details>|
 |**2023-1-2**|**Object Detection in Picking: Handling variety of a warehouse's articles**|M Rieder et.al|[paper](https://tore.tuhh.de/handle/11420/13904)|-|<details><summary>detail</summary>Hamburg International Conference of…, 2022 tore.tuhh.de</details>|
 |**2023-1-2**|**Roadside Unit-Based Unknown Object Detection in Adverse Weather Conditions for Smart Internet of Vehicles**|YC Chen et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3554923)|-|<details><summary>detail</summary>ACM Transactions on Management…, 2022 dl.acm.org</details>|
@@ -64,12 +65,15 @@
 |**2022-12-27**|**Assessing thermal imagery integration into object detection methods on ground-based and air-based collection platforms**|James Gallagheret.al|[paper](https://arxiv.org/abs/2212.12616)|-|-|
 |**2022-12-26**|**An advanced YOLOv3 method for small object detection**|Baokai Liuet.al|[paper](https://arxiv.org/abs/2212.02809)|-|-|
 |**2022-12-26**|**Fewer is More: Efficient Object Detection in Large Aerial Images**|Xingxing Xieet.al|[paper](https://arxiv.org/abs/2212.13136)|[code](https://github.com/Ranchosky/OAN.)|-|
-|**2022-12-26**|**Detection and Tracking of Low Observable Objects in a Sequence of Image Frames Using Particle Filter**|Reza Rezaieet.al|[paper](https://arxiv.org/abs/2212.13020)|-|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-1-3**|**Generative appearance replay for continual unsupervised domain adaptation**|Boqi Chenet.al|[paper](https://arxiv.org/abs/2301.01211)|-|-|
+|**2023-1-3**|**I2F: A Unified Image-to-Feature Approach for Domain Adaptive Semantic Segmentation**|Haoyu Maet.al|[paper](https://arxiv.org/abs/2301.01149)|-|<details><summary>detail</summary>To appear in IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI)</details>|
+|**2023-1-3**|**Content Preserving Image Translation with Texture Co-occurrence and Spatial Self-Similarity for Texture Debiasing and Domain Adaptation**|Myeongkyun Kanget.al|[paper](https://arxiv.org/abs/2110.07920)|-|-|
+|**2023-1-3**|**Heterogeneous Domain Adaptation and Equipment Matching: DANN-based Alignment with Cyclic Supervision (DBACS)**|Natalie Gentneret.al|[paper](https://arxiv.org/abs/2301.01038)|-|-|
 |**2023-1-2**|**Exploiting Inter-Sample Affinity for Knowability-Aware Universal Domain Adaptation**|Yifan Wanget.al|[paper](https://arxiv.org/abs/2207.09280)|-|-|
 |**2023-1-1**|**Discriminative Radial Domain Adaptation**|Zenan Huanget.al|[paper](https://arxiv.org/abs/2301.00383)|-|-|
 |**2023-1-1**|**Robust Domain Adaptive Object Detection with Unified Multi-Granularity Alignment**|Libo Zhanget.al|[paper](https://arxiv.org/abs/2301.00371)|[code](https://github.com/tiankongzhang/MGA.)|-|
@@ -91,15 +95,13 @@
 |**2022-12-26**|**Semi-Supervised Domain Adaptation for Semantic Segmentation of Roads from Satellite Images**|Ahmet Alp Kindirogluet.al|[paper](https://arxiv.org/abs/2212.13079)|-|<details><summary>detail</summary>in Turkish language</details>|
 |**2022-12-25**|**Application of Unsupervised Domain Adaptation for Structural MRI Analysis**|Pranath Reddyet.al|[paper](https://arxiv.org/abs/2212.12986)|-|-|
 |**2022-12-22**|**Localising In-Domain Adaptation of Transformer-Based Biomedical Language Models**|Tommaso Mario Buonocoreet.al|[paper](https://arxiv.org/abs/2212.10422)|-|-|
-|**2022-12-21**|**Improving Automated Program Repair with Domain Adaptation**|Armin Ziraket.al|[paper](https://arxiv.org/abs/2212.11414)|-|-|
-|**2022-12-21**|**ADAS: A Simple Active-and-Adaptive Baseline for Cross-Domain 3D Semantic Segmentation**|Ben Feiet.al|[paper](https://arxiv.org/abs/2212.10390)|-|-|
-|**2022-12-20**|**Exploring Consistency in Cross-Domain Transformer for Domain Adaptive Semantic Segmentation**|Kaihong Wanget.al|[paper](https://arxiv.org/abs/2211.14703)|-|-|
-|**2022-12-20**|**Privacy-Preserving Domain Adaptation of Semantic Parsers**|Fatemehsadat Mireshghallahet.al|[paper](https://arxiv.org/abs/2212.10520)|-|-|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-1-3**|**Generative appearance replay for continual unsupervised domain adaptation**|Boqi Chenet.al|[paper](https://arxiv.org/abs/2301.01211)|-|-|
+|**2023-1-2**|**Real-World Image Super Resolution via Unsupervised Bi-directional Cycle Domain Transfer Learning based Generative Adversarial Network**|Xiang Wanget.al|[paper](https://arxiv.org/abs/2211.10563)|-|-|
 |**2023-1-1**|**Do Domain Generalization Methods Generalize Well?**|A Mehra et.al|[paper](https://research.ibm.com/publications/do-domain-generalization-methods-generalize-well)|[code](https://github.com/openai/gpt-3)|<details><summary>detail</summary>Annual Conference on…, 2022 research.ibm.com</details>|
 |**2022-12-31**|**A Survey of Domain Generalization-Based Face Anti-spoofing**|F Jiang et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20233-9_13)|[code](https://github.com/ZitongYu/DeepFAS)|<details><summary>detail</summary>Chinese Conference on Biometric…, 2022 Springer</details>|
 |**2022-12-29**|**DAWN: Domain Generalization Based Network Alignment**|S Gao et.al|[paper](https://ieeexplore.ieee.org/abstract/document/9932681/)|-|<details><summary>detail</summary>IEEE Transactions on Big Data, 2022 ieeexplore.ieee.org</details>|
@@ -123,6 +125,4 @@
 |**2022-12-18**|**Style-Hallucinated Dual Consistency Learning: A Unified Framework for Visual Domain Generalization**|Yuyang Zhaoet.al|[paper](https://arxiv.org/abs/2212.09068)|[code](https://github.com/HeliosZhao/SHADE-VisualDG)|<details><summary>detail</summary>Journal extension of arXiv:2204</details>|
 |**2022-12-16**|**AirFi: Empowering WiFi-based Passive Human Gesture Recognition to Unseen Environment via Domain Generalization**|Dazhuo Wanget.al|[paper](https://arxiv.org/abs/2209.10285)|-|<details><summary>detail</summary>The paper has been accepted by IEEE Transactions on Mobile Computing</details>|
 |**2022-12-14**|**Universal Generative Modeling in Dual-domain for Dynamic MR Imaging**|Chuanming Yuet.al|[paper](https://arxiv.org/abs/2212.07599)|-|-|
-|**2022-12-14**|**Domain Generalization by Learning and Removing Domain-specific Features**|Yu Dinget.al|[paper](https://arxiv.org/abs/2212.07101)|-|-|
-|**2022-12-12**|**Improving Diversity with Adversarially Learned Transformations for Domain Generalization**|Tejas Gokhaleet.al|[paper](https://arxiv.org/abs/2206.07736)|[code](https://github.com/tejas-gokhale/ALT)|<details><summary>detail</summary>WACV 2023</details>|
 
