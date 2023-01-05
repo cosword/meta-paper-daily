@@ -40,6 +40,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-1-4**|**Mask Focal Loss: A unifying framework for dense crowd counting with canonical object detection networks**|Xiaopin Zhonget.al|[paper](https://arxiv.org/abs/2212.11542)|-|-|
+|**2023-1-4**|**StereoDistill: Pick the Cream from LiDAR for Distilling Stereo-based 3D Object Detection**|Zhe Liuet.al|[paper](https://arxiv.org/abs/2301.01615)|-|-|
 |**2023-1-3**|**YOLO-Z: Improving small object detection in YOLOv5 for autonomous vehicles**|Aduen Benjumeaet.al|[paper](https://arxiv.org/abs/2112.11798)|-|<details><summary>detail</summary>ICCV 2021</details>|
 |**2023-1-3**|**Combination of Object Tracking and Object Detection for Animal Recognition**|F Williams et.al|[paper](https://lucykuncheva.co.uk/papers/fwlkshjrIPAS22.pdf)|[code](https://github.com/wang-chen/thesis_template_ntu)|<details><summary>detail</summary>lucykuncheva.co.uk</details>|
 |**2023-1-3**|**Object Detection in Picking: Handling variety of a warehouse's articles**|M Rieder et.al|[paper](https://tore.tuhh.de/handle/11420/13904)|-|<details><summary>detail</summary>Hamburg International Conference of…, 2022 tore.tuhh.de</details>|
@@ -63,13 +65,12 @@
 |**2022-12-28**|**An Enhanced Multi-Objective Biogeography-Based Optimization for Overlapping Community Detection in Social Networks with Node Attributes**|Ali Reihanianet.al|[paper](https://arxiv.org/abs/1811.02309)|[code](https://doi.org/10.1016/j.ins.2022.11.125)|<details><summary>detail</summary>1</details>|
 |**2022-12-28**|**DATE: Dual Assignment for End-to-End Fully Convolutional Object Detection**|Yiqun Chenet.al|[paper](https://arxiv.org/abs/2211.13859)|[code](https://github.com/YiqunChen1999/date.)|-|
 |**2022-12-27**|**Assessing thermal imagery integration into object detection methods on ground-based and air-based collection platforms**|James Gallagheret.al|[paper](https://arxiv.org/abs/2212.12616)|-|-|
-|**2022-12-26**|**An advanced YOLOv3 method for small object detection**|Baokai Liuet.al|[paper](https://arxiv.org/abs/2212.02809)|-|-|
-|**2022-12-26**|**Fewer is More: Efficient Object Detection in Large Aerial Images**|Xingxing Xieet.al|[paper](https://arxiv.org/abs/2212.13136)|[code](https://github.com/Ranchosky/OAN.)|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-1-3**|**Select, Label, and Mix: Learning Discriminative Invariant Feature Representations for Partial Domain Adaptation**|Aadarsh Sahooet.al|[paper](https://arxiv.org/abs/2012.03358)|[code](https://cvir.github.io/projects/slm.html)|<details><summary>detail</summary>WACV 2023</details>|
 |**2023-1-3**|**Generative appearance replay for continual unsupervised domain adaptation**|Boqi Chenet.al|[paper](https://arxiv.org/abs/2301.01211)|-|-|
 |**2023-1-3**|**I2F: A Unified Image-to-Feature Approach for Domain Adaptive Semantic Segmentation**|Haoyu Maet.al|[paper](https://arxiv.org/abs/2301.01149)|-|<details><summary>detail</summary>To appear in IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI)</details>|
 |**2023-1-3**|**Content Preserving Image Translation with Texture Co-occurrence and Spatial Self-Similarity for Texture Debiasing and Domain Adaptation**|Myeongkyun Kanget.al|[paper](https://arxiv.org/abs/2110.07920)|-|-|
@@ -94,7 +95,6 @@
 |**2022-12-27**|**Spacecraft Pose Estimation Based on Unsupervised Domain Adaptation and on a 3D-Guided Loss Combination**|Juan Ignacio Bravo Pérez-Villaret.al|[paper](https://arxiv.org/abs/2212.13415)|[code](https://aiforspace.github.io/2022/))|<details><summary>detail</summary>ECCV 2022 AI4SPACE Workshop (https://aiforspace</details>|
 |**2022-12-26**|**Semi-Supervised Domain Adaptation for Semantic Segmentation of Roads from Satellite Images**|Ahmet Alp Kindirogluet.al|[paper](https://arxiv.org/abs/2212.13079)|-|<details><summary>detail</summary>in Turkish language</details>|
 |**2022-12-25**|**Application of Unsupervised Domain Adaptation for Structural MRI Analysis**|Pranath Reddyet.al|[paper](https://arxiv.org/abs/2212.12986)|-|-|
-|**2022-12-22**|**Localising In-Domain Adaptation of Transformer-Based Biomedical Language Models**|Tommaso Mario Buonocoreet.al|[paper](https://arxiv.org/abs/2212.10422)|-|-|
 
 ## domain generalization
 
