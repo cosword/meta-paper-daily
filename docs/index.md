@@ -40,8 +40,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-1-10**|**Rethinking Voxelization and Classification for 3D Object Detection**|Youshaa Murhijet.al|[paper](https://arxiv.org/abs/2301.04058)|[code](https://github.com/YoushaaMurhij/RVCDet.)|<details><summary>detail</summary>Accepted in ICONIP 2022</details>|
+|**2023-1-10**|**Event-based YOLO Object Detection: Proof of Concept for Forward Perception System**|Waseem Shariffet.al|[paper](https://arxiv.org/abs/2212.07181)|-|-|
 |**2023-1-9**|**Parallel Reasoning Network for Human-Object Interaction Detection**|Huan Penget.al|[paper](https://arxiv.org/abs/2301.03510)|-|-|
-|**2023-1-9**|**Event-based YOLO Object Detection: Proof of Concept for Forward Perception System**|Waseem Shariffet.al|[paper](https://arxiv.org/abs/2212.07181)|-|-|
 |**2023-1-9**|**Combination of Object Tracking and Object Detection for Animal Recognition**|F Williams et.al|[paper](https://lucykuncheva.co.uk/papers/fwlkshjrIPAS22.pdf)|[code](https://github.com/wang-chen/thesis_template_ntu)|<details><summary>detail</summary>lucykuncheva.co.uk</details>|
 |**2023-1-9**|**Object Detection in Picking: Handling variety of a warehouse's articles**|M Rieder et.al|[paper](https://tore.tuhh.de/handle/11420/13904)|-|<details><summary>detail</summary>Hamburg International Conference of…, 2022 tore.tuhh.de</details>|
 |**2023-1-9**|**Roadside Unit-Based Unknown Object Detection in Adverse Weather Conditions for Smart Internet of Vehicles**|YC Chen et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3554923)|-|<details><summary>detail</summary>ACM Transactions on Management…, 2022 dl.acm.org</details>|
@@ -53,6 +54,7 @@
 |**2023-1-8**|**DAST: Depth-Aware Assessment and Synthesis Transformer for RGB-D Salient Object Detection**|C Xia et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20865-2_35)|-|<details><summary>detail</summary>Pacific Rim International…, 2022 Springer</details>|
 |**2023-1-8**|**Multi-scale Lightweight Neural Network for Real-Time Object Detection**|Y Li et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20868-3_15)|-|<details><summary>detail</summary>Pacific Rim International Conference on…, 2022 Springer</details>|
 |**2023-1-8**|**UAV Aerial Photography Traffic Object Detection Based on Lightweight Design and Feature Fusion**|X Ma et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20233-9_69)|-|<details><summary>detail</summary>Chinese Conference on Biometric…, 2022 Springer</details>|
+|**2023-1-7**|**FGAHOI: Fine-Grained Anchors for Human-Object Interaction Detection**|Shuailei Maet.al|[paper](https://arxiv.org/abs/2301.04019)|-|-|
 |**2023-1-7**|**StereoDistill: Pick the Cream from LiDAR for Distilling Stereo-based 3D Object Detection**|Zhe Liuet.al|[paper](https://arxiv.org/abs/2301.01615)|-|<details><summary>detail</summary>Accepted by AAAI-2023</details>|
 |**2023-1-6**|**Lightweight Salient Object Detection in Optical Remote Sensing Images via Semantic Matching and Edge Alignment**|Gongyang Liet.al|[paper](https://arxiv.org/abs/2301.02778)|[code](https://github.com/MathLee/SeaNet.)|-|
 |**2023-1-6**|**Model-Agnostic Hierarchical Attention for 3D Object Detection**|Manli Shuet.al|[paper](https://arxiv.org/abs/2301.02650)|-|-|
@@ -63,13 +65,13 @@
 |**2023-1-4**|**MonoEdge: Monocular 3D Object Detection Using Local Perspectives**|Minghan Zhuet.al|[paper](https://arxiv.org/abs/2301.01802)|-|<details><summary>detail</summary>WACV 2023</details>|
 |**2023-1-4**|**Mask Focal Loss: A unifying framework for dense crowd counting with canonical object detection networks**|Xiaopin Zhonget.al|[paper](https://arxiv.org/abs/2212.11542)|-|-|
 |**2023-1-3**|**YOLO-Z: Improving small object detection in YOLOv5 for autonomous vehicles**|Aduen Benjumeaet.al|[paper](https://arxiv.org/abs/2112.11798)|-|<details><summary>detail</summary>ICCV 2021</details>|
-|**2023-1-2**|**Towards Deeper Understanding of Camouflaged Object Detection**|Yunqiu Lvet.al|[paper](https://arxiv.org/abs/2205.11333)|[code](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment)|<details><summary>detail</summary>IEEE Transactions on Circuits and Systems for Video Technology 2023</details>|
-|**2023-1-1**|**Robust Domain Adaptive Object Detection with Unified Multi-Granularity Alignment**|Libo Zhanget.al|[paper](https://arxiv.org/abs/2301.00371)|[code](https://github.com/tiankongzhang/MGA.)|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-1-10**|**Robust Cross-vendor Mammographic Texture Models Using Augmentation-based Domain Adaptation for Long-term Breast Cancer Risk**|Andreas D. Lauritzenet.al|[paper](https://arxiv.org/abs/2212.13439)|-|-|
+|**2023-1-10**|**CDA: Contrastive-adversarial Domain Adaptation**|Nishant Yadavet.al|[paper](https://arxiv.org/abs/2301.03826)|-|-|
 |**2023-1-9**|**Simplifying Open-Set Video Domain Adaptation with Contrastive Learning**|Giacomo Zaraet.al|[paper](https://arxiv.org/abs/2301.03322)|-|<details><summary>detail</summary>Currently under review at Computer Vision and Image Understanding (CVIU) journal</details>|
 |**2023-1-8**|**Self-Supervised Vision Transformer Based Nearest Neighbor Classification for Multi-Source Open-Set Domain Adaptation**|J Li et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20868-3_40)|-|<details><summary>detail</summary>Pacific Rim International Conference on Artificial…, 2022 Springer</details>|
 |**2023-1-8**|**Source-Free Implicit Semantic Augmentation for Domain Adaptation**|Z Zhang et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20865-2_2)|-|<details><summary>detail</summary>Pacific Rim International Conference on Artificial…, 2022 Springer</details>|
@@ -93,8 +95,6 @@
 |**2023-1-1**|**Discriminative Radial Domain Adaptation**|Zenan Huanget.al|[paper](https://arxiv.org/abs/2301.00383)|-|-|
 |**2023-1-1**|**Robust Domain Adaptive Object Detection with Unified Multi-Granularity Alignment**|Libo Zhanget.al|[paper](https://arxiv.org/abs/2301.00371)|[code](https://github.com/tiankongzhang/MGA.)|-|
 |**2022-12-31**|**Sample-Efficient Unsupervised Domain Adaptation of Speech Recognition Systems A case study for Modern Greek**|Georgios Paraskevopouloset.al|[paper](https://arxiv.org/abs/2301.00304)|-|-|
-|**2022-12-31**|**Digital Twin-Enabled Domain Adaptation for Zero-Touch UAV Networks: Survey and Challenges**|Maxwell McManuset.al|[paper](https://arxiv.org/abs/2301.03359)|-|-|
-|**2022-12-28**|**CellTranspose: Few-shot Domain Adaptation for Cellular Instance Segmentation**|Matthew Keatonet.al|[paper](https://arxiv.org/abs/2212.14121)|-|<details><summary>detail</summary>Accepted in WACV 2023</details>|
 
 ## domain generalization
 
