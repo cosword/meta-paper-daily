@@ -11,9 +11,13 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-1-11**|**Collision-free Source Seeking Control Methods for Unicycle Robots**|Tinghua Liet.al|[paper](https://arxiv.org/abs/2212.07203)|-|-|
+|**2023-1-11**|**Collision-free Source Seeking and Flocking Control of Multi-agents with Connectivity Preservation**|Tinghua Liet.al|[paper](https://arxiv.org/abs/2301.04576)|-|-|
+|**2023-1-11**|**OneRing: A Simple Method for Source-free Open-partial Domain Adaptation**|Shiqi Yanget.al|[paper](https://arxiv.org/abs/2206.03600)|-|<details><summary>detail</summary>Updated</details>|
+|**2023-1-10**|**Adversarial Alignment for Source Free Object Detection**|Qiaosong Chuet.al|[paper](https://arxiv.org/abs/2301.04265)|-|-|
 |**2023-1-9**|**Source-Free Implicit Semantic Augmentation for Domain Adaptation**|Z Zhang et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20865-2_2)|-|<details><summary>detail</summary>Pacific Rim International Conference on Artificial…, 2022 Springer</details>|
-|**2023-1-8**|**Unsupervised Model Adaptation for Source-free Segmentation of Medical Images**|S Stan et.al|[paper](https://arxiv.org/abs/2211.00807)|[code](https://github.com/vibashan/tt-sfuda)|-|
 |**2023-1-8**|**Source-free Unsupervised Domain Adaptation with Trusted Pseudo Samples**|Q Tian et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3570510)|-|<details><summary>detail</summary>ACM Transactions on Intelligent Systems and…, 2022 dl.acm.org</details>|
+|**2023-1-8**|**Unsupervised Model Adaptation for Source-free Segmentation of Medical Images**|S Stan et.al|[paper](https://arxiv.org/abs/2211.00807)|[code](https://github.com/vibashan/tt-sfuda)|-|
 |**2023-1-7**|**Source-free domain adaptive object detection based on pseudo-supervised mean teacher**|X Wei et.al|[paper](https://link.springer.com/article/10.1007/s11227-022-04915-4)|-|<details><summary>detail</summary>The Journal of…, 2022 Springer</details>|
 |**2023-1-6**|**Source-Free Unsupervised Domain Adaptation: A Survey**|Yuqi Fanget.al|[paper](https://arxiv.org/abs/2301.00265)|-|-|
 |**2022-12-29**|**Multi-Level Consistency Learning for Source-Free Model Adaptation**|X Luo et.al|[paper](https://ieeexplore.ieee.org/iel7/7083369/7339444/09928327.pdf)|-|<details><summary>detail</summary>2022 ieeexplore.ieee.org</details>|
@@ -25,7 +29,6 @@
 |**2022-12-19**|**Source-Free Domain Adaptation for Question Answering with Masked Self-training**|M. Yinet.al|[paper](https://arxiv.org/abs/2212.09563)|-|-|
 |**2022-12-15**|**Dual Moving Average Pseudo-Labeling for Source-Free Inductive Domain Adaptation**|Hao Yanet.al|[paper](https://arxiv.org/abs/2212.08187)|-|<details><summary>detail</summary>BMVC 2022</details>|
 |**2022-12-14**|**Co-Learning with Pre-Trained Networks Improves Source-Free Domain Adaptation**|Wenyu Zhanget.al|[paper](https://arxiv.org/abs/2212.07585)|-|-|
-|**2022-12-14**|**Collision-free Source Seeking Control Methods for Unicycle Robots**|Tinghua Liet.al|[paper](https://arxiv.org/abs/2212.07203)|-|-|
 |**2022-12-10**|**Source-free Depth for Object Pop-out**|Zongwei Wuet.al|[paper](https://arxiv.org/abs/2212.05370)|-|-|
 |**2022-12-8**|**CBE Clima Tool: a free and open-source web application for climate analysis tailored to sustainable building design**|Giovanni Bettiet.al|[paper](https://arxiv.org/abs/2212.04609)|-|<details><summary>detail</summary>Submitted to SoftwareX</details>|
 |**2022-12-8**|**Self-training via Metric Learning for Source-Free Domain Adaptation of Semantic Segmentation**|Ibrahim Batuhan Akkayaet.al|[paper](https://arxiv.org/abs/2212.04227)|-|<details><summary>detail</summary>This paper is under review in IEEE TNNLS</details>|
@@ -33,13 +36,13 @@
 |**2022-12-4**|**Instance Relation Graph Guided Source-Free Domain Adaptive Object Detection**|Vibashan VSet.al|[paper](https://arxiv.org/abs/2203.15793)|[code](https://github.com/Vibashan/irg-sfda.)|-|
 |**2022-11-21**|**ProSFDA: Prompt Learning based Source-free Domain Adaptation for Medical Image Segmentation**|Shishuai Huet.al|[paper](https://arxiv.org/abs/2211.11514)|[code](https://github.com/ShishuaiHu/ProSFDA)|-|
 |**2022-11-12**|**Divide and Contrast: Source-free Domain Adaptation via Adaptive Contrastive Learning**|Ziyi Zhanget.al|[paper](https://arxiv.org/abs/2211.06612)|[code](https://github.com/ZyeZhang/DaC.git.)|<details><summary>detail</summary>NeurIPS 2022 Accept</details>|
-|**2022-11-7**|**CoNMix for Source-free Single and Multi-target Domain Adaptation**|Vikash Kumaret.al|[paper](https://arxiv.org/abs/2211.03876)|[code](https://sites.google.com/view/conmix-vcl)|<details><summary>detail</summary>WACV 2023</details>|
-|**2022-10-22**|**SALAD: Source-free Active Label-Agnostic Domain Adaptation for Classification, Segmentation and Detection**|Divya Kothandaramanet.al|[paper](https://arxiv.org/abs/2205.12840)|-|-|
 
 ## object detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-1-11**|**Object Detection in 3D Point Clouds via Local Correlation-Aware Point Embedding**|Chengzhi Wuet.al|[paper](https://arxiv.org/abs/2301.04613)|-|-|
+|**2023-1-10**|**Adversarial Alignment for Source Free Object Detection**|Qiaosong Chuet.al|[paper](https://arxiv.org/abs/2301.04265)|-|-|
 |**2023-1-10**|**Rethinking Voxelization and Classification for 3D Object Detection**|Youshaa Murhijet.al|[paper](https://arxiv.org/abs/2301.04058)|[code](https://github.com/YoushaaMurhij/RVCDet.)|<details><summary>detail</summary>Accepted in ICONIP 2022</details>|
 |**2023-1-10**|**Event-based YOLO Object Detection: Proof of Concept for Forward Perception System**|Waseem Shariffet.al|[paper](https://arxiv.org/abs/2212.07181)|-|-|
 |**2023-1-10**|**Combination of Object Tracking and Object Detection for Animal Recognition**|F Williams et.al|[paper](https://lucykuncheva.co.uk/papers/fwlkshjrIPAS22.pdf)|[code](https://github.com/wang-chen/thesis_template_ntu)|<details><summary>detail</summary>lucykuncheva.co.uk</details>|
@@ -63,13 +66,14 @@
 |**2023-1-5**|**CAT: LoCalization and IdentificAtion Cascade Detection Transformer for Open-World Object Detection**|Shuailei Maet.al|[paper](https://arxiv.org/abs/2301.01970)|-|-|
 |**2023-1-5**|**Small Moving Object Detection Algorithm Based on Motion Information**|Ziwei Sunet.al|[paper](https://arxiv.org/abs/2301.01917)|-|-|
 |**2023-1-4**|**MonoEdge: Monocular 3D Object Detection Using Local Perspectives**|Minghan Zhuet.al|[paper](https://arxiv.org/abs/2301.01802)|-|<details><summary>detail</summary>WACV 2023</details>|
-|**2023-1-4**|**Mask Focal Loss: A unifying framework for dense crowd counting with canonical object detection networks**|Xiaopin Zhonget.al|[paper](https://arxiv.org/abs/2212.11542)|-|-|
-|**2023-1-3**|**YOLO-Z: Improving small object detection in YOLOv5 for autonomous vehicles**|Aduen Benjumeaet.al|[paper](https://arxiv.org/abs/2112.11798)|-|<details><summary>detail</summary>ICCV 2021</details>|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-1-11**|**Unified Optimal Transport Framework for Universal Domain Adaptation**|Wanxing Changet.al|[paper](https://arxiv.org/abs/2210.17067)|-|<details><summary>detail</summary>Accepted by NeurIPS2022</details>|
+|**2023-1-11**|**Multi-label Image Classification using Adaptive Graph Convolutional Networks: from a Single Domain to Multiple Domains**|Indel Pal Singhet.al|[paper](https://arxiv.org/abs/2301.04494)|-|-|
+|**2023-1-11**|**OneRing: A Simple Method for Source-free Open-partial Domain Adaptation**|Shiqi Yanget.al|[paper](https://arxiv.org/abs/2206.03600)|-|<details><summary>detail</summary>Updated</details>|
 |**2023-1-10**|**Robust Cross-vendor Mammographic Texture Models Using Augmentation-based Domain Adaptation for Long-term Breast Cancer Risk**|Andreas D. Lauritzenet.al|[paper](https://arxiv.org/abs/2212.13439)|-|-|
 |**2023-1-10**|**CDA: Contrastive-adversarial Domain Adaptation**|Nishant Yadavet.al|[paper](https://arxiv.org/abs/2301.03826)|-|-|
 |**2023-1-9**|**Simplifying Open-Set Video Domain Adaptation with Contrastive Learning**|Giacomo Zaraet.al|[paper](https://arxiv.org/abs/2301.03322)|-|<details><summary>detail</summary>Currently under review at Computer Vision and Image Understanding (CVIU) journal</details>|
@@ -92,9 +96,6 @@
 |**2023-1-3**|**Content Preserving Image Translation with Texture Co-occurrence and Spatial Self-Similarity for Texture Debiasing and Domain Adaptation**|Myeongkyun Kanget.al|[paper](https://arxiv.org/abs/2110.07920)|-|-|
 |**2023-1-3**|**Heterogeneous Domain Adaptation and Equipment Matching: DANN-based Alignment with Cyclic Supervision (DBACS)**|Natalie Gentneret.al|[paper](https://arxiv.org/abs/2301.01038)|-|-|
 |**2023-1-2**|**Exploiting Inter-Sample Affinity for Knowability-Aware Universal Domain Adaptation**|Yifan Wanget.al|[paper](https://arxiv.org/abs/2207.09280)|-|-|
-|**2023-1-1**|**Discriminative Radial Domain Adaptation**|Zenan Huanget.al|[paper](https://arxiv.org/abs/2301.00383)|-|-|
-|**2023-1-1**|**Robust Domain Adaptive Object Detection with Unified Multi-Granularity Alignment**|Libo Zhanget.al|[paper](https://arxiv.org/abs/2301.00371)|[code](https://github.com/tiankongzhang/MGA.)|-|
-|**2022-12-31**|**Sample-Efficient Unsupervised Domain Adaptation of Speech Recognition Systems A case study for Modern Greek**|Georgios Paraskevopouloset.al|[paper](https://arxiv.org/abs/2301.00304)|-|-|
 
 ## domain generalization
 
