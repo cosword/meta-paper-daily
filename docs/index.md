@@ -41,6 +41,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-1-11**|**1st Place Solution for ECCV 2022 OOD-CV Challenge Object Detection Track**|Wei Zhaoet.al|[paper](https://arxiv.org/abs/2301.04796)|[code](https://github.com/hikvision-research/OOD-CV.)|<details><summary>detail</summary>Tech Report</details>|
 |**2023-1-11**|**Object Detection in 3D Point Clouds via Local Correlation-Aware Point Embedding**|Chengzhi Wuet.al|[paper](https://arxiv.org/abs/2301.04613)|-|-|
 |**2023-1-11**|**Combination of Object Tracking and Object Detection for Animal Recognition**|F Williams et.al|[paper](https://lucykuncheva.co.uk/papers/fwlkshjrIPAS22.pdf)|[code](https://github.com/wang-chen/thesis_template_ntu)|<details><summary>detail</summary>lucykuncheva.co.uk</details>|
 |**2023-1-11**|**Object Detection in Picking: Handling variety of a warehouse's articles**|M Rieder et.al|[paper](https://tore.tuhh.de/handle/11420/13904)|-|<details><summary>detail</summary>Hamburg International Conference of…, 2022 tore.tuhh.de</details>|
@@ -65,12 +66,13 @@
 |**2023-1-5**|**Super Sparse 3D Object Detection**|Lue Fanet.al|[paper](https://arxiv.org/abs/2301.02562)|[code](https://github.com/tusen-ai/SST.)|<details><summary>detail</summary>Extension of Fully Sparse 3D Object Detection [arXiv:2207</details>|
 |**2023-1-5**|**CAT: LoCalization and IdentificAtion Cascade Detection Transformer for Open-World Object Detection**|Shuailei Maet.al|[paper](https://arxiv.org/abs/2301.01970)|-|-|
 |**2023-1-5**|**Small Moving Object Detection Algorithm Based on Motion Information**|Ziwei Sunet.al|[paper](https://arxiv.org/abs/2301.01917)|-|-|
-|**2023-1-4**|**MonoEdge: Monocular 3D Object Detection Using Local Perspectives**|Minghan Zhuet.al|[paper](https://arxiv.org/abs/2301.01802)|-|<details><summary>detail</summary>WACV 2023</details>|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-1-12**|**HyperDomainNet: Universal Domain Adaptation for Generative Adversarial Networks**|Aibek Alanovet.al|[paper](https://arxiv.org/abs/2210.08884)|[code](https://github.com/MACderRu/HyperDomainNet)|<details><summary>detail</summary>NeurIPS 2022</details>|
+|**2023-1-11**|**Meta-DMoE: Adapting to Domain Shift by Meta-Distillation from Mixture-of-Experts**|Tao Zhonget.al|[paper](https://arxiv.org/abs/2210.03885)|[code](https://github.com/n3il666/Meta-DMoE.)|<details><summary>detail</summary>NeurIPS2022</details>|
 |**2023-1-11**|**Unified Optimal Transport Framework for Universal Domain Adaptation**|Wanxing Changet.al|[paper](https://arxiv.org/abs/2210.17067)|-|<details><summary>detail</summary>Accepted by NeurIPS2022</details>|
 |**2023-1-11**|**Multi-label Image Classification using Adaptive Graph Convolutional Networks: from a Single Domain to Multiple Domains**|Indel Pal Singhet.al|[paper](https://arxiv.org/abs/2301.04494)|-|-|
 |**2023-1-11**|**OneRing: A Simple Method for Source-free Open-partial Domain Adaptation**|Shiqi Yanget.al|[paper](https://arxiv.org/abs/2206.03600)|-|<details><summary>detail</summary>Updated</details>|
@@ -94,13 +96,14 @@
 |**2023-1-3**|**Generative appearance replay for continual unsupervised domain adaptation**|Boqi Chenet.al|[paper](https://arxiv.org/abs/2301.01211)|-|-|
 |**2023-1-3**|**I2F: A Unified Image-to-Feature Approach for Domain Adaptive Semantic Segmentation**|Haoyu Maet.al|[paper](https://arxiv.org/abs/2301.01149)|-|<details><summary>detail</summary>To appear in IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI)</details>|
 |**2023-1-3**|**Content Preserving Image Translation with Texture Co-occurrence and Spatial Self-Similarity for Texture Debiasing and Domain Adaptation**|Myeongkyun Kanget.al|[paper](https://arxiv.org/abs/2110.07920)|-|-|
-|**2023-1-3**|**Heterogeneous Domain Adaptation and Equipment Matching: DANN-based Alignment with Cyclic Supervision (DBACS)**|Natalie Gentneret.al|[paper](https://arxiv.org/abs/2301.01038)|-|-|
-|**2023-1-2**|**Exploiting Inter-Sample Affinity for Knowability-Aware Universal Domain Adaptation**|Yifan Wanget.al|[paper](https://arxiv.org/abs/2207.09280)|-|-|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-1-12**|**Domain Expansion of Image Generators**|Yotam Nitzanet.al|[paper](https://arxiv.org/abs/2301.05225)|[code](https://yotamnitzan.github.io/domain-expansion/.)|<details><summary>detail</summary>Project Page and code are available at https://yotamnitzan</details>|
+|**2023-1-12**|**Open SESAME: Fighting Botnets with Seed Reconstructions of Domain Generation Algorithms**|Nils Weissgerberet.al|[paper](https://arxiv.org/abs/2301.05048)|-|-|
+|**2023-1-12**|**HyperDomainNet: Universal Domain Adaptation for Generative Adversarial Networks**|Aibek Alanovet.al|[paper](https://arxiv.org/abs/2210.08884)|[code](https://github.com/MACderRu/HyperDomainNet)|<details><summary>detail</summary>NeurIPS 2022</details>|
 |**2023-1-10**|**Do Domain Generalization Methods Generalize Well?**|A Mehra et.al|[paper](https://research.ibm.com/publications/do-domain-generalization-methods-generalize-well)|[code](https://github.com/openai/gpt-3)|<details><summary>detail</summary>Annual Conference on…, 2022 research.ibm.com</details>|
 |**2023-1-9**|**A Survey of Domain Generalization-Based Face Anti-spoofing**|F Jiang et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20233-9_13)|[code](https://github.com/ZitongYu/DeepFAS)|<details><summary>detail</summary>Chinese Conference on Biometric…, 2022 Springer</details>|
 |**2023-1-7**|**DAWN: Domain Generalization Based Network Alignment**|S Gao et.al|[paper](https://ieeexplore.ieee.org/abstract/document/9932681/)|-|<details><summary>detail</summary>IEEE Transactions on Big Data, 2022 ieeexplore.ieee.org</details>|
@@ -123,7 +126,4 @@
 |**2022-12-21**|**Target Conditioned Representation Independence (TCRI); From Domain-Invariant to Domain-General Representations**|Olawale Salaudeenet.al|[paper](https://arxiv.org/abs/2212.11342)|-|-|
 |**2022-12-20**|**Execution-Based Evaluation for Open-Domain Code Generation**|Zhiruo Wanget.al|[paper](https://arxiv.org/abs/2212.10481)|-|-|
 |**2022-12-19**|**Domain Generalization with Correlated Style Uncertainty**|Zheyuan Zhanget.al|[paper](https://arxiv.org/abs/2212.09950)|-|<details><summary>detail</summary>Code is available after peer review</details>|
-|**2022-12-19**|**Multi-View Knowledge Distillation from Crowd Annotations for Out-of-Domain Generalization**|Dustin Wrightet.al|[paper](https://arxiv.org/abs/2212.09409)|-|-|
-|**2022-12-19**|**Cross-Lingual Open-Domain Question Answering with Answer Sentence Generation**|Benjamin Mulleret.al|[paper](https://arxiv.org/abs/2110.07150)|-|<details><summary>detail</summary>AACL 2022 Long Paper</details>|
-|**2022-12-18**|**Style-Hallucinated Dual Consistency Learning: A Unified Framework for Visual Domain Generalization**|Yuyang Zhaoet.al|[paper](https://arxiv.org/abs/2212.09068)|[code](https://github.com/HeliosZhao/SHADE-VisualDG)|<details><summary>detail</summary>Journal extension of arXiv:2204</details>|
 
