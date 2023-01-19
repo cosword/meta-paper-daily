@@ -41,6 +41,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-1-18**|**Object Detection in 20 Years: A Survey**|Zhengxia Zouet.al|[paper](https://arxiv.org/abs/1905.05055)|-|<details><summary>detail</summary>Accepted by Proceedings of the IEEE</details>|
+|**2023-1-18**|**Object Detection performance variation on compressed satellite image datasets with iquaflow**|Pau Galléset.al|[paper](https://arxiv.org/abs/2301.05892)|-|-|
+|**2023-1-18**|**HiDAnet: RGB-D Salient Object Detection via Hierarchical Depth Awareness**|Zongwei Wuet.al|[paper](https://arxiv.org/abs/2301.07405)|-|-|
+|**2023-1-18**|**Achieving Domain Generalization in Underwater Object Detection by Domain Mixup and Contrastive Learning**|Yang Chenet.al|[paper](https://arxiv.org/abs/2104.02230)|-|-|
+|**2023-1-17**|**PTA-Det: Point Transformer Associating Point cloud and Image for 3D Object Detection**|Rui Wanet.al|[paper](https://arxiv.org/abs/2301.07301)|-|-|
 |**2023-1-17**|**DR-WLC: Dimensionality Reduction cognition for object detection and pose estimation by Watching, Learning and Checking**|Yu Gaoet.al|[paper](https://arxiv.org/abs/2301.06944)|[code](https://github.com/IN2-ViAUn/DR-WLC.)|-|
 |**2023-1-17**|**FemtoDet: An Object Detection Baseline for Energy Versus Performance Tradeoffs**|Peng Tuet.al|[paper](https://arxiv.org/abs/2301.06719)|-|-|
 |**2023-1-17**|**Combination of Object Tracking and Object Detection for Animal Recognition**|F Williams et.al|[paper](https://lucykuncheva.co.uk/papers/fwlkshjrIPAS22.pdf)|[code](https://github.com/wang-chen/thesis_template_ntu)|<details><summary>detail</summary>lucykuncheva.co.uk</details>|
@@ -57,20 +62,16 @@
 |**2023-1-16**|**UAV Aerial Photography Traffic Object Detection Based on Lightweight Design and Feature Fusion**|X Ma et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20233-9_69)|-|<details><summary>detail</summary>Chinese Conference on Biometric…, 2022 Springer</details>|
 |**2023-1-15**|**PolarFormer: Multi-camera 3D Object Detection with Polar Transformer**|Yanqin Jianget.al|[paper](https://arxiv.org/abs/2206.15398)|-|<details><summary>detail</summary>AAAI2023</details>|
 |**2023-1-14**|**Towards Spatial Equilibrium Object Detection**|Zhaohui Zhenget.al|[paper](https://arxiv.org/abs/2301.05957)|[code](https://github.com/Zzh-tju/ZoneEval)|<details><summary>detail</summary>Our source codes are publicly available at https://github</details>|
-|**2023-1-14**|**Object Detection performance variation on compressed satellite image datasets with iquaflow**|Pau Galléset.al|[paper](https://arxiv.org/abs/2301.05892)|-|-|
 |**2023-1-14**|**EARL: An Elliptical Distribution aided Adaptive Rotation Label Assignment for Oriented Object Detection in Remote Sensing Images**|Jian Guanet.al|[paper](https://arxiv.org/abs/2301.05856)|[code](https://github.com/Justlovesmile/EARL)|-|
 |**2023-1-13**|**CLIP the Gap: A Single Domain Generalization Approach for Object Detection**|Vidit Viditet.al|[paper](https://arxiv.org/abs/2301.05499)|-|-|
 |**2023-1-13**|**Learning Transformations To Reduce the Geometric Shift in Object Detection**|Vidit Viditet.al|[paper](https://arxiv.org/abs/2301.05496)|-|-|
 |**2023-1-13**|**OA-BEV: Bringing Object Awareness to Bird's-Eye-View Representation for Multi-Camera 3D Object Detection**|Xiaomeng Chuet.al|[paper](https://arxiv.org/abs/2301.05711)|-|-|
-|**2023-1-12**|**Salient Object Detection for Images Taken by People With Vision Impairments**|Jarek Reynoldset.al|[paper](https://arxiv.org/abs/2301.05323)|[code](https://vizwiz.org/tasks-and-datasets/salient-object)|<details><summary>detail</summary>Computer Vision and Pattern Recognition</details>|
-|**2023-1-11**|**1st Place Solution for ECCV 2022 OOD-CV Challenge Object Detection Track**|Wei Zhaoet.al|[paper](https://arxiv.org/abs/2301.04796)|[code](https://github.com/hikvision-research/OOD-CV.)|<details><summary>detail</summary>Tech Report</details>|
-|**2023-1-11**|**Object Detection in 3D Point Clouds via Local Correlation-Aware Point Embedding**|Chengzhi Wuet.al|[paper](https://arxiv.org/abs/2301.04613)|-|-|
-|**2023-1-10**|**Adversarial Alignment for Source Free Object Detection**|Qiaosong Chuet.al|[paper](https://arxiv.org/abs/2301.04265)|-|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-1-18**|**MADAv2: Advanced Multi-Anchor Based Active Domain Adaptation Segmentation**|Munan Ninget.al|[paper](https://arxiv.org/abs/2301.07354)|-|<details><summary>detail</summary>arXiv admin note: substantial text overlap with arXiv:2108</details>|
 |**2023-1-17**|**Self-supervised Domain Adaptation for Breaking the Limits of Low-quality Fundus Image Quality Enhancement**|Qingshan Houet.al|[paper](https://arxiv.org/abs/2301.06943)|-|-|
 |**2023-1-16**|**Progressive Domain Adaptation with Contrastive Learning for Object Detection in the Satellite Imagery**|Debojyoti Biswaset.al|[paper](https://arxiv.org/abs/2209.02564)|-|-|
 |**2023-1-16**|**Representation Learning for Tablet and Paper Domain Adaptation in Favor of Online Handwriting Recognition**|Felix Ottet.al|[paper](https://arxiv.org/abs/2301.06293)|-|<details><summary>detail</summary>IAPR Intl</details>|
@@ -95,12 +96,12 @@
 |**2023-1-10**|**Robust Cross-vendor Mammographic Texture Models Using Augmentation-based Domain Adaptation for Long-term Breast Cancer Risk**|Andreas D. Lauritzenet.al|[paper](https://arxiv.org/abs/2212.13439)|-|-|
 |**2023-1-10**|**CDA: Contrastive-adversarial Domain Adaptation**|Nishant Yadavet.al|[paper](https://arxiv.org/abs/2301.03826)|-|-|
 |**2023-1-9**|**Simplifying Open-Set Video Domain Adaptation with Contrastive Learning**|Giacomo Zaraet.al|[paper](https://arxiv.org/abs/2301.03322)|-|<details><summary>detail</summary>Currently under review at Computer Vision and Image Understanding (CVIU) journal</details>|
-|**2023-1-6**|**Source-Free Unsupervised Domain Adaptation: A Survey**|Yuqi Fanget.al|[paper](https://arxiv.org/abs/2301.00265)|-|-|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-1-18**|**Achieving Domain Generalization in Underwater Object Detection by Domain Mixup and Contrastive Learning**|Yang Chenet.al|[paper](https://arxiv.org/abs/2104.02230)|-|-|
 |**2023-1-16**|**Neural Generation Meets Real People: Building a Social, Informative Open-Domain Dialogue Agent**|Ethan A. Chiet.al|[paper](https://arxiv.org/abs/2207.12021)|-|<details><summary>detail</summary>SIGDIAL '22</details>|
 |**2023-1-16**|**Modeling Uncertain Feature Representation for Domain Generalization**|Xiaotong Liet.al|[paper](https://arxiv.org/abs/2301.06442)|[code](https://github.com/lixiaotong97/DSU.)|<details><summary>detail</summary>This work is an extension of our ICLR 2022 paper [arXiv:2202</details>|
 |**2023-1-16**|**Do Domain Generalization Methods Generalize Well?**|A Mehra et.al|[paper](https://research.ibm.com/publications/do-domain-generalization-methods-generalize-well)|[code](https://github.com/openai/gpt-3)|<details><summary>detail</summary>Annual Conference on…, 2022 research.ibm.com</details>|
@@ -125,5 +126,4 @@
 |**2022-12-27**|**Deep Spatial Domain Generalization**|Dazhou Yuet.al|[paper](https://arxiv.org/abs/2210.00729)|-|-|
 |**2022-12-27**|**General GAN-generated image detection by data augmentation in fingerprint domain**|Huaming Wanget.al|[paper](https://arxiv.org/abs/2212.13466)|-|-|
 |**2022-12-26**|**Domain-invariant Feature Exploration for Domain Generalization**|Wang Luet.al|[paper](https://arxiv.org/abs/2207.12020)|[code](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG)|<details><summary>detail</summary>Accepted by Transactions on Machine Learning Research (TMLR) 2022</details>|
-|**2022-12-25**|**PASTA: Proportional Amplitude Spectrum Training Augmentation for Syn-to-Real Domain Generalization**|Prithvijit Chattopadhyayet.al|[paper](https://arxiv.org/abs/2212.00979)|[code](https://github.com/prithv1/PASTA)|<details><summary>detail</summary>Code: https://github</details>|
 
