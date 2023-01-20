@@ -41,6 +41,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-1-18**|**SAFE: Sensitivity-Aware Features for Out-of-Distribution Object Detection**|Samuel Wilsonet.al|[paper](https://arxiv.org/abs/2208.13930)|-|-|
 |**2023-1-18**|**Object Detection in 20 Years: A Survey**|Zhengxia Zouet.al|[paper](https://arxiv.org/abs/1905.05055)|-|<details><summary>detail</summary>Accepted by Proceedings of the IEEE</details>|
 |**2023-1-18**|**Object Detection performance variation on compressed satellite image datasets with iquaflow**|Pau Galléset.al|[paper](https://arxiv.org/abs/2301.05892)|-|-|
 |**2023-1-18**|**HiDAnet: RGB-D Salient Object Detection via Hierarchical Depth Awareness**|Zongwei Wuet.al|[paper](https://arxiv.org/abs/2301.07405)|-|-|
@@ -65,7 +66,6 @@
 |**2023-1-14**|**EARL: An Elliptical Distribution aided Adaptive Rotation Label Assignment for Oriented Object Detection in Remote Sensing Images**|Jian Guanet.al|[paper](https://arxiv.org/abs/2301.05856)|[code](https://github.com/Justlovesmile/EARL)|-|
 |**2023-1-13**|**CLIP the Gap: A Single Domain Generalization Approach for Object Detection**|Vidit Viditet.al|[paper](https://arxiv.org/abs/2301.05499)|-|-|
 |**2023-1-13**|**Learning Transformations To Reduce the Geometric Shift in Object Detection**|Vidit Viditet.al|[paper](https://arxiv.org/abs/2301.05496)|-|-|
-|**2023-1-13**|**OA-BEV: Bringing Object Awareness to Bird's-Eye-View Representation for Multi-Camera 3D Object Detection**|Xiaomeng Chuet.al|[paper](https://arxiv.org/abs/2301.05711)|-|-|
 
 ## domain adaptation
 
@@ -101,6 +101,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-1-18**|**Foresee What You Will Learn: Data Augmentation for Domain Generalization in Non-Stationary Environments**|Qiuhao Zenget.al|[paper](https://arxiv.org/abs/2301.07845)|-|-|
 |**2023-1-18**|**Achieving Domain Generalization in Underwater Object Detection by Domain Mixup and Contrastive Learning**|Yang Chenet.al|[paper](https://arxiv.org/abs/2104.02230)|-|-|
 |**2023-1-17**|**Do Domain Generalization Methods Generalize Well?**|A Mehra et.al|[paper](https://research.ibm.com/publications/do-domain-generalization-methods-generalize-well)|[code](https://github.com/openai/gpt-3)|<details><summary>detail</summary>Annual Conference on…, 2022 research.ibm.com</details>|
 |**2023-1-16**|**Neural Generation Meets Real People: Building a Social, Informative Open-Domain Dialogue Agent**|Ethan A. Chiet.al|[paper](https://arxiv.org/abs/2207.12021)|-|<details><summary>detail</summary>SIGDIAL '22</details>|
@@ -125,5 +126,4 @@
 |**2022-12-27**|**Structural State Translation: Condition Transfer between Civil Structures Using Domain-Generalization for Structural Health Monitoring**|Furkan Luleciet.al|[paper](https://arxiv.org/abs/2212.14048)|-|-|
 |**2022-12-27**|**Deep Spatial Domain Generalization**|Dazhou Yuet.al|[paper](https://arxiv.org/abs/2210.00729)|-|-|
 |**2022-12-27**|**General GAN-generated image detection by data augmentation in fingerprint domain**|Huaming Wanget.al|[paper](https://arxiv.org/abs/2212.13466)|-|-|
-|**2022-12-26**|**Domain-invariant Feature Exploration for Domain Generalization**|Wang Luet.al|[paper](https://arxiv.org/abs/2207.12020)|[code](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG)|<details><summary>detail</summary>Accepted by Transactions on Machine Learning Research (TMLR) 2022</details>|
 
