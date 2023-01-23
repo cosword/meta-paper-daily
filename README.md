@@ -74,6 +74,8 @@
 |**2023-1-20**|**Self-Supervised Vision Transformer Based Nearest Neighbor Classification for Multi-Source Open-Set Domain Adaptation**|J Li et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20868-3_40)|-|<details><summary>detail</summary>Pacific Rim International Conference on Artificial…, 2022 Springer</details>|
 |**2023-1-20**|**Source-Free Implicit Semantic Augmentation for Domain Adaptation**|Z Zhang et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20865-2_2)|-|<details><summary>detail</summary>Pacific Rim International Conference on Artificial…, 2022 Springer</details>|
 |**2023-1-20**|**Small Object Detection in Infrared Images: Learning from Imbalanced Cross-Domain Data via Domain Adaptation**|J Kim et.al|[paper](https://www.mdpi.com/1927658)|-|<details><summary>detail</summary>Applied Sciences, 2022 mdpi.com</details>|
+|**2023-1-19**|**When Source-Free Domain Adaptation Meets Label Propagation**|Chunwei Wuet.al|[paper](https://arxiv.org/abs/2301.08413)|-|-|
+|**2023-1-19**|**Interpretable bilinear attention network with domain adaptation improves drug-target prediction**|Peizhen Baiet.al|[paper](https://arxiv.org/abs/2208.02194)|-|-|
 |**2023-1-19**|**Source-free Unsupervised Domain Adaptation with Trusted Pseudo Samples**|Q Tian et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3570510)|-|<details><summary>detail</summary>ACM Transactions on Intelligent Systems and…, 2022 dl.acm.org</details>|
 |**2023-1-19**|**Deep adversarial domain adaptation for hyperspectral calibration model transfer among plant phenotyping systems**|TU Rehman et.al|[paper](https://www.sciencedirect.com/science/article/pii/S153751102200246X)|-|<details><summary>detail</summary>Biosystems Engineering, 2022 Elsevier</details>|
 |**2023-1-19**|**A Domain Adaptation Approach Based on Minimized Class Confusion and Style Migration**|L Zhang et.al|[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4266561)|-|<details><summary>detail</summary>Available at SSRN 4266561 papers.ssrn.com</details>|
@@ -94,8 +96,6 @@
 |**2023-1-11**|**Multi-label Image Classification using Adaptive Graph Convolutional Networks: from a Single Domain to Multiple Domains**|Indel Pal Singhet.al|[paper](https://arxiv.org/abs/2301.04494)|-|-|
 |**2023-1-11**|**OneRing: A Simple Method for Source-free Open-partial Domain Adaptation**|Shiqi Yanget.al|[paper](https://arxiv.org/abs/2206.03600)|-|<details><summary>detail</summary>Updated</details>|
 |**2023-1-10**|**Robust Cross-vendor Mammographic Texture Models Using Augmentation-based Domain Adaptation for Long-term Breast Cancer Risk**|Andreas D. Lauritzenet.al|[paper](https://arxiv.org/abs/2212.13439)|-|-|
-|**2023-1-10**|**CDA: Contrastive-adversarial Domain Adaptation**|Nishant Yadavet.al|[paper](https://arxiv.org/abs/2301.03826)|-|-|
-|**2023-1-9**|**Simplifying Open-Set Video Domain Adaptation with Contrastive Learning**|Giacomo Zaraet.al|[paper](https://arxiv.org/abs/2301.03322)|-|<details><summary>detail</summary>Currently under review at Computer Vision and Image Understanding (CVIU) journal</details>|
 
 ## domain generalization
 
