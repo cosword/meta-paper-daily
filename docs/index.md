@@ -11,6 +11,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-1-22**|**Source-Free Progressive Graph Learning for Open-Set Domain Adaptation**|Yadan Luoet.al|[paper](https://arxiv.org/abs/2202.06174)|[code](https://github.com/Luoyadan/SF-PGL.)|<details><summary>detail</summary>arXiv admin note: substantial text overlap with arXiv:2006</details>|
 |**2023-1-22**|**Source-Free Implicit Semantic Augmentation for Domain Adaptation**|Z Zhang et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20865-2_2)|-|<details><summary>detail</summary>Pacific Rim International Conference on Artificial…, 2022 Springer</details>|
 |**2023-1-21**|**Source-free Unsupervised Domain Adaptation with Trusted Pseudo Samples**|Q Tian et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3570510)|-|<details><summary>detail</summary>ACM Transactions on Intelligent Systems and…, 2022 dl.acm.org</details>|
 |**2023-1-21**|**Unsupervised Model Adaptation for Source-free Segmentation of Medical Images**|S Stan et.al|[paper](https://arxiv.org/abs/2211.00807)|[code](https://github.com/vibashan/tt-sfuda)|-|
@@ -35,12 +36,14 @@
 |**2022-12-8**|**CBE Clima Tool: a free and open-source web application for climate analysis tailored to sustainable building design**|Giovanni Bettiet.al|[paper](https://arxiv.org/abs/2212.04609)|-|<details><summary>detail</summary>Submitted to SoftwareX</details>|
 |**2022-12-8**|**Self-training via Metric Learning for Source-Free Domain Adaptation of Semantic Segmentation**|Ibrahim Batuhan Akkayaet.al|[paper](https://arxiv.org/abs/2212.04227)|-|<details><summary>detail</summary>This paper is under review in IEEE TNNLS</details>|
 |**2022-12-7**|**Reconciling a Centroid-Hypothesis Conflict in Source-Free Domain Adaptation**|Idit Diamantet.al|[paper](https://arxiv.org/abs/2212.03795)|-|-|
-|**2022-12-4**|**Instance Relation Graph Guided Source-Free Domain Adaptive Object Detection**|Vibashan VSet.al|[paper](https://arxiv.org/abs/2203.15793)|[code](https://github.com/Vibashan/irg-sfda.)|-|
 
 ## object detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-1-24**|**Gaze-based Object Detection in the Wild**|Daniel Weberet.al|[paper](https://arxiv.org/abs/2203.15651)|-|-|
+|**2023-1-24**|**Transfer Learning for Olfactory Object Detection**|Mathias Zinnenet.al|[paper](https://arxiv.org/abs/2301.09906)|-|-|
+|**2023-1-23**|**Improving Performance of Object Detection using the Mechanisms of Visual Recognition in Humans**|Amir Ghasemiet.al|[paper](https://arxiv.org/abs/2301.09667)|-|-|
 |**2023-1-23**|**Learning to View: Decision Transformers for Active Object Detection**|Wenhao Dinget.al|[paper](https://arxiv.org/abs/2301.09544)|-|<details><summary>detail</summary>ICRA 2023</details>|
 |**2023-1-23**|**Combination of Object Tracking and Object Detection for Animal Recognition**|F Williams et.al|[paper](https://lucykuncheva.co.uk/papers/fwlkshjrIPAS22.pdf)|[code](https://github.com/wang-chen/thesis_template_ntu)|<details><summary>detail</summary>lucykuncheva.co.uk</details>|
 |**2023-1-23**|**Object Detection in Picking: Handling variety of a warehouse's articles**|M Rieder et.al|[paper](https://tore.tuhh.de/handle/11420/13904)|-|<details><summary>detail</summary>Hamburg International Conference of…, 2022 tore.tuhh.de</details>|
@@ -63,14 +66,15 @@
 |**2023-1-18**|**Achieving Domain Generalization in Underwater Object Detection by Domain Mixup and Contrastive Learning**|Yang Chenet.al|[paper](https://arxiv.org/abs/2104.02230)|-|-|
 |**2023-1-17**|**PTA-Det: Point Transformer Associating Point cloud and Image for 3D Object Detection**|Rui Wanet.al|[paper](https://arxiv.org/abs/2301.07301)|-|-|
 |**2023-1-17**|**DR-WLC: Dimensionality Reduction cognition for object detection and pose estimation by Watching, Learning and Checking**|Yu Gaoet.al|[paper](https://arxiv.org/abs/2301.06944)|[code](https://github.com/IN2-ViAUn/DR-WLC.)|-|
-|**2023-1-17**|**FemtoDet: An Object Detection Baseline for Energy Versus Performance Tradeoffs**|Peng Tuet.al|[paper](https://arxiv.org/abs/2301.06719)|-|-|
-|**2023-1-16**|**Rethinking Lightweight Salient Object Detection via Network Depth-Width Tradeoff**|Jia Liet.al|[paper](https://arxiv.org/abs/2301.06679)|-|-|
-|**2023-1-16**|**Progressive Domain Adaptation with Contrastive Learning for Object Detection in the Satellite Imagery**|Debojyoti Biswaset.al|[paper](https://arxiv.org/abs/2209.02564)|-|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-1-23**|**Heterogeneous Domain Adaptation for IoT Intrusion Detection: A Geometric Graph Alignment Approach**|Jiashu Wuet.al|[paper](https://arxiv.org/abs/2301.09801)|-|<details><summary>detail</summary>Accepted by IEEE Internet of Things Journal</details>|
+|**2023-1-23**|**RAIN: RegulArization on Input and Network for Black-Box Domain Adaptation**|Qucheng Penget.al|[paper](https://arxiv.org/abs/2208.10531)|-|-|
+|**2023-1-23**|**Illumination Variation Correction Using Image Synthesis For Unsupervised Domain Adaptive Person Re-Identification**|Jiaqi Guoet.al|[paper](https://arxiv.org/abs/2301.09702)|-|-|
+|**2023-1-22**|**Source-Free Progressive Graph Learning for Open-Set Domain Adaptation**|Yadan Luoet.al|[paper](https://arxiv.org/abs/2202.06174)|[code](https://github.com/Luoyadan/SF-PGL.)|<details><summary>detail</summary>arXiv admin note: substantial text overlap with arXiv:2006</details>|
 |**2023-1-22**|**Contrastive Learning for Unsupervised Domain Adaptation of Time Series**|Yilmazcan Ozyurtet.al|[paper](https://arxiv.org/abs/2206.06243)|-|<details><summary>detail</summary>Published as a conference paper at ICLR 2023</details>|
 |**2023-1-22**|**Self-Supervised Vision Transformer Based Nearest Neighbor Classification for Multi-Source Open-Set Domain Adaptation**|J Li et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20868-3_40)|-|<details><summary>detail</summary>Pacific Rim International Conference on Artificial…, 2022 Springer</details>|
 |**2023-1-22**|**Source-Free Implicit Semantic Augmentation for Domain Adaptation**|Z Zhang et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20865-2_2)|-|<details><summary>detail</summary>Pacific Rim International Conference on Artificial…, 2022 Springer</details>|
@@ -92,15 +96,12 @@
 |**2023-1-13**|**Self-Training Guided Disentangled Adaptation for Cross-Domain Remote Sensing Image Semantic Segmentation**|Qi Zhaoet.al|[paper](https://arxiv.org/abs/2301.05526)|[code](https://github.com/cv516Buaa/ST-DASegNet.)|-|
 |**2023-1-13**|**Adaptation of domain-specific transformer models with text oversampling for sentiment analysis of social media posts on Covid-19 vaccines**|Anmol Bansalet.al|[paper](https://arxiv.org/abs/2209.10966)|[code](http://journals.agh.edu.pl/csci)|<details><summary>detail</summary>The paper has been accepted for publication in Computer Science journal: http://journals</details>|
 |**2023-1-12**|**HyperDomainNet: Universal Domain Adaptation for Generative Adversarial Networks**|Aibek Alanovet.al|[paper](https://arxiv.org/abs/2210.08884)|[code](https://github.com/MACderRu/HyperDomainNet)|<details><summary>detail</summary>NeurIPS 2022</details>|
-|**2023-1-11**|**Meta-DMoE: Adapting to Domain Shift by Meta-Distillation from Mixture-of-Experts**|Tao Zhonget.al|[paper](https://arxiv.org/abs/2210.03885)|[code](https://github.com/n3il666/Meta-DMoE.)|<details><summary>detail</summary>NeurIPS2022</details>|
-|**2023-1-11**|**Unified Optimal Transport Framework for Universal Domain Adaptation**|Wanxing Changet.al|[paper](https://arxiv.org/abs/2210.17067)|-|<details><summary>detail</summary>Accepted by NeurIPS2022</details>|
-|**2023-1-11**|**Multi-label Image Classification using Adaptive Graph Convolutional Networks: from a Single Domain to Multiple Domains**|Indel Pal Singhet.al|[paper](https://arxiv.org/abs/2301.04494)|-|-|
-|**2023-1-11**|**OneRing: A Simple Method for Source-free Open-partial Domain Adaptation**|Shiqi Yanget.al|[paper](https://arxiv.org/abs/2206.03600)|-|<details><summary>detail</summary>Updated</details>|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-1-24**|**Domain generalization in deep learning-based mass detection in mammography: A large-scale multi-center study**|Lidia Garruchoet.al|[paper](https://arxiv.org/abs/2201.11620)|-|<details><summary>detail</summary>MSC Class:68T07</details>|
 |**2023-1-22**|**Causality-based Dual-Contrastive Learning Framework for Domain Generalization**|Zining Chenet.al|[paper](https://arxiv.org/abs/2301.09120)|-|-|
 |**2023-1-22**|**Do Domain Generalization Methods Generalize Well?**|A Mehra et.al|[paper](https://research.ibm.com/publications/do-domain-generalization-methods-generalize-well)|[code](https://github.com/openai/gpt-3)|<details><summary>detail</summary>Annual Conference on…, 2022 research.ibm.com</details>|
 |**2023-1-21**|**A Survey of Domain Generalization-Based Face Anti-spoofing**|F Jiang et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20233-9_13)|[code](https://github.com/ZitongYu/DeepFAS)|<details><summary>detail</summary>Chinese Conference on Biometric…, 2022 Springer</details>|
@@ -125,5 +126,4 @@
 |**2023-1-6**|**Federated Learning with Domain Generalization**|Liling Zhanget.al|[paper](https://arxiv.org/abs/2111.10487)|-|-|
 |**2023-1-5**|**Domain Generalization via Ensemble Stacking for Face Presentation Attack Detection**|Usman Muhammadet.al|[paper](https://arxiv.org/abs/2301.02145)|-|-|
 |**2023-1-3**|**Generative appearance replay for continual unsupervised domain adaptation**|Boqi Chenet.al|[paper](https://arxiv.org/abs/2301.01211)|-|-|
-|**2023-1-2**|**Real-World Image Super Resolution via Unsupervised Bi-directional Cycle Domain Transfer Learning based Generative Adversarial Network**|Xiang Wanget.al|[paper](https://arxiv.org/abs/2211.10563)|-|-|
 
