@@ -41,7 +41,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2023-1-24**|**Gaze-based Object Detection in the Wild**|Daniel Weberet.al|[paper](https://arxiv.org/abs/2203.15651)|-|-|
+|**2023-1-25**|**On the Adversarial Robustness of Camera-based 3D Object Detection**|Shaoyuan Xieet.al|[paper](https://arxiv.org/abs/2301.10766)|-|-|
+|**2023-1-25**|**Gaze-based Object Detection in the Wild**|Daniel Weberet.al|[paper](https://arxiv.org/abs/2203.15651)|-|-|
+|**2023-1-25**|**K-Radar: 4D Radar Object Detection for Autonomous Driving in Various Weather Conditions**|Dong-Hee Paeket.al|[paper](https://arxiv.org/abs/2206.08171)|[code](https://github.com/kaist-avelab/k-radar.)|<details><summary>detail</summary>NeurIPS 2022 Datasets and Benchmarks Track</details>|
+|**2023-1-24**|**GTNet:Guided Transformer Network for Detecting Human-Object Interactions**|A S M Iftekharet.al|[paper](https://arxiv.org/abs/2108.00596)|-|<details><summary>detail</summary>accepted for presentation in Pattern Recognition and Tracking XXXIV at SPIE commerce+ defence Program</details>|
 |**2023-1-24**|**Transfer Learning for Olfactory Object Detection**|Mathias Zinnenet.al|[paper](https://arxiv.org/abs/2301.09906)|-|-|
 |**2023-1-24**|**Combination of Object Tracking and Object Detection for Animal Recognition**|F Williams et.al|[paper](https://lucykuncheva.co.uk/papers/fwlkshjrIPAS22.pdf)|[code](https://github.com/wang-chen/thesis_template_ntu)|<details><summary>detail</summary>lucykuncheva.co.uk</details>|
 |**2023-1-24**|**Object Detection in Picking: Handling variety of a warehouse's articles**|M Rieder et.al|[paper](https://tore.tuhh.de/handle/11420/13904)|-|<details><summary>detail</summary>Hamburg International Conference of…, 2022 tore.tuhh.de</details>|
@@ -63,14 +66,13 @@
 |**2023-1-18**|**Object Detection in 20 Years: A Survey**|Zhengxia Zouet.al|[paper](https://arxiv.org/abs/1905.05055)|-|<details><summary>detail</summary>Accepted by Proceedings of the IEEE</details>|
 |**2023-1-18**|**Object Detection performance variation on compressed satellite image datasets with iquaflow**|Pau Galléset.al|[paper](https://arxiv.org/abs/2301.05892)|-|-|
 |**2023-1-18**|**HiDAnet: RGB-D Salient Object Detection via Hierarchical Depth Awareness**|Zongwei Wuet.al|[paper](https://arxiv.org/abs/2301.07405)|-|-|
-|**2023-1-18**|**Achieving Domain Generalization in Underwater Object Detection by Domain Mixup and Contrastive Learning**|Yang Chenet.al|[paper](https://arxiv.org/abs/2104.02230)|-|-|
-|**2023-1-17**|**PTA-Det: Point Transformer Associating Point cloud and Image for 3D Object Detection**|Rui Wanet.al|[paper](https://arxiv.org/abs/2301.07301)|-|-|
-|**2023-1-17**|**DR-WLC: Dimensionality Reduction cognition for object detection and pose estimation by Watching, Learning and Checking**|Yu Gaoet.al|[paper](https://arxiv.org/abs/2301.06944)|[code](https://github.com/IN2-ViAUn/DR-WLC.)|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-1-25**|**Discriminator-free Unsupervised Domain Adaptation for Multi-label Image Classification**|Indel Pal Singhet.al|[paper](https://arxiv.org/abs/2301.10611)|-|-|
+|**2023-1-25**|**Tracking Different Ant Species: An Unsupervised Domain Adaptation Framework and a Dataset for Multi-object Tracking**|Chamath Abeysingheet.al|[paper](https://arxiv.org/abs/2301.10559)|[code](https://github.com/chamathabeysinghe/da-tracker.)|-|
 |**2023-1-23**|**Heterogeneous Domain Adaptation for IoT Intrusion Detection: A Geometric Graph Alignment Approach**|Jiashu Wuet.al|[paper](https://arxiv.org/abs/2301.09801)|-|<details><summary>detail</summary>Accepted by IEEE Internet of Things Journal</details>|
 |**2023-1-23**|**RAIN: RegulArization on Input and Network for Black-Box Domain Adaptation**|Qucheng Penget.al|[paper](https://arxiv.org/abs/2208.10531)|-|-|
 |**2023-1-23**|**Illumination Variation Correction Using Image Synthesis For Unsupervised Domain Adaptive Person Re-Identification**|Jiaqi Guoet.al|[paper](https://arxiv.org/abs/2301.09702)|-|-|
@@ -94,13 +96,12 @@
 |**2023-1-16**|**Representation Learning for Tablet and Paper Domain Adaptation in Favor of Online Handwriting Recognition**|Felix Ottet.al|[paper](https://arxiv.org/abs/2301.06293)|-|<details><summary>detail</summary>IAPR Intl</details>|
 |**2023-1-15**|**Iterative pseudo-forced alignment by acoustic CTC loss for self-supervised ASR domain adaptation**|Fernando Lópezet.al|[paper](https://arxiv.org/abs/2210.15226)|-|-|
 |**2023-1-13**|**Self-Training Guided Disentangled Adaptation for Cross-Domain Remote Sensing Image Semantic Segmentation**|Qi Zhaoet.al|[paper](https://arxiv.org/abs/2301.05526)|[code](https://github.com/cv516Buaa/ST-DASegNet.)|-|
-|**2023-1-13**|**Adaptation of domain-specific transformer models with text oversampling for sentiment analysis of social media posts on Covid-19 vaccines**|Anmol Bansalet.al|[paper](https://arxiv.org/abs/2209.10966)|[code](http://journals.agh.edu.pl/csci)|<details><summary>detail</summary>The paper has been accepted for publication in Computer Science journal: http://journals</details>|
-|**2023-1-12**|**HyperDomainNet: Universal Domain Adaptation for Generative Adversarial Networks**|Aibek Alanovet.al|[paper](https://arxiv.org/abs/2210.08884)|[code](https://github.com/MACderRu/HyperDomainNet)|<details><summary>detail</summary>NeurIPS 2022</details>|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-1-25**|**DEJA VU: Continual Model Generalization For Unseen Domains**|Chenxi Liuet.al|[paper](https://arxiv.org/abs/2301.10418)|-|<details><summary>detail</summary>Published as a conference paper at ICLR 2023</details>|
 |**2023-1-24**|**Domain generalization in deep learning-based mass detection in mammography: A large-scale multi-center study**|Lidia Garruchoet.al|[paper](https://arxiv.org/abs/2201.11620)|-|<details><summary>detail</summary>MSC Class:68T07</details>|
 |**2023-1-23**|**Do Domain Generalization Methods Generalize Well?**|A Mehra et.al|[paper](https://research.ibm.com/publications/do-domain-generalization-methods-generalize-well)|[code](https://github.com/openai/gpt-3)|<details><summary>detail</summary>Annual Conference on…, 2022 research.ibm.com</details>|
 |**2023-1-22**|**Causality-based Dual-Contrastive Learning Framework for Domain Generalization**|Zining Chenet.al|[paper](https://arxiv.org/abs/2301.09120)|-|-|
@@ -125,5 +126,4 @@
 |**2023-1-12**|**HyperDomainNet: Universal Domain Adaptation for Generative Adversarial Networks**|Aibek Alanovet.al|[paper](https://arxiv.org/abs/2210.08884)|[code](https://github.com/MACderRu/HyperDomainNet)|<details><summary>detail</summary>NeurIPS 2022</details>|
 |**2023-1-6**|**Federated Learning with Domain Generalization**|Liling Zhanget.al|[paper](https://arxiv.org/abs/2111.10487)|-|-|
 |**2023-1-5**|**Domain Generalization via Ensemble Stacking for Face Presentation Attack Detection**|Usman Muhammadet.al|[paper](https://arxiv.org/abs/2301.02145)|-|-|
-|**2023-1-3**|**Generative appearance replay for continual unsupervised domain adaptation**|Boqi Chenet.al|[paper](https://arxiv.org/abs/2301.01211)|-|-|
 
