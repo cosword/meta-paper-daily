@@ -11,6 +11,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-1-26**|**LemonLDAP::NG -- A Full AAA Free Open Source WebSSO Solution**|Christophe Maudouxet.al|[paper](https://arxiv.org/abs/2301.11092)|-|<details><summary>detail</summary>Journal ref:IEEE 11th International Conference on Cloud Networking (CloudNet)</details>|
 |**2023-1-24**|**Source-Free Implicit Semantic Augmentation for Domain Adaptation**|Z Zhang et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20865-2_2)|-|<details><summary>detail</summary>Pacific Rim International Conference on Artificial…, 2022 Springer</details>|
 |**2023-1-23**|**Source-free Unsupervised Domain Adaptation with Trusted Pseudo Samples**|Q Tian et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3570510)|-|<details><summary>detail</summary>ACM Transactions on Intelligent Systems and…, 2022 dl.acm.org</details>|
 |**2023-1-23**|**Unsupervised Model Adaptation for Source-free Segmentation of Medical Images**|S Stan et.al|[paper](https://arxiv.org/abs/2211.00807)|[code](https://github.com/vibashan/tt-sfuda)|-|
@@ -35,12 +36,12 @@
 |**2022-12-10**|**Source-free Depth for Object Pop-out**|Zongwei Wuet.al|[paper](https://arxiv.org/abs/2212.05370)|-|-|
 |**2022-12-8**|**CBE Clima Tool: a free and open-source web application for climate analysis tailored to sustainable building design**|Giovanni Bettiet.al|[paper](https://arxiv.org/abs/2212.04609)|-|<details><summary>detail</summary>Submitted to SoftwareX</details>|
 |**2022-12-8**|**Self-training via Metric Learning for Source-Free Domain Adaptation of Semantic Segmentation**|Ibrahim Batuhan Akkayaet.al|[paper](https://arxiv.org/abs/2212.04227)|-|<details><summary>detail</summary>This paper is under review in IEEE TNNLS</details>|
-|**2022-12-7**|**Reconciling a Centroid-Hypothesis Conflict in Source-Free Domain Adaptation**|Idit Diamantet.al|[paper](https://arxiv.org/abs/2212.03795)|-|-|
 
 ## object detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-1-26**|**Cut and Learn for Unsupervised Object Detection and Instance Segmentation**|Xudong Wanget.al|[paper](https://arxiv.org/abs/2301.11320)|[code](http://people.eecs.berkeley.edu/)|<details><summary>detail</summary>Tech report</details>|
 |**2023-1-25**|**On the Adversarial Robustness of Camera-based 3D Object Detection**|Shaoyuan Xieet.al|[paper](https://arxiv.org/abs/2301.10766)|-|-|
 |**2023-1-25**|**Gaze-based Object Detection in the Wild**|Daniel Weberet.al|[paper](https://arxiv.org/abs/2203.15651)|-|-|
 |**2023-1-25**|**K-Radar: 4D Radar Object Detection for Autonomous Driving in Various Weather Conditions**|Dong-Hee Paeket.al|[paper](https://arxiv.org/abs/2206.08171)|[code](https://github.com/kaist-avelab/k-radar.)|<details><summary>detail</summary>NeurIPS 2022 Datasets and Benchmarks Track</details>|
@@ -65,7 +66,6 @@
 |**2023-1-18**|**SAFE: Sensitivity-Aware Features for Out-of-Distribution Object Detection**|Samuel Wilsonet.al|[paper](https://arxiv.org/abs/2208.13930)|-|-|
 |**2023-1-18**|**Object Detection in 20 Years: A Survey**|Zhengxia Zouet.al|[paper](https://arxiv.org/abs/1905.05055)|-|<details><summary>detail</summary>Accepted by Proceedings of the IEEE</details>|
 |**2023-1-18**|**Object Detection performance variation on compressed satellite image datasets with iquaflow**|Pau Galléset.al|[paper](https://arxiv.org/abs/2301.05892)|-|-|
-|**2023-1-18**|**HiDAnet: RGB-D Salient Object Detection via Hierarchical Depth Awareness**|Zongwei Wuet.al|[paper](https://arxiv.org/abs/2301.07405)|-|-|
 
 ## domain adaptation
 
