@@ -41,6 +41,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-2-1**|**Bio-inspired Autonomous Exploration Policies with CNN-based Object Detection on Nano-drones**|Lorenzo Lambertiet.al|[paper](https://arxiv.org/abs/2301.12175)|-|-|
+|**2023-2-1**|**Adversarial Detection: Attacking Object Detection in Real Time**|Han Wuet.al|[paper](https://arxiv.org/abs/2209.01962)|[code](https://youtu.be/zJZ1aNlXsMU.)|-|
 |**2023-1-31**|**Mind the Gap: Polishing Pseudo labels for Accurate Semi-supervised Object Detection**|Lei Zhanget.al|[paper](https://arxiv.org/abs/2207.08185)|-|<details><summary>detail</summary>Accepted by Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023)</details>|
 |**2023-1-31**|**Combination of Object Tracking and Object Detection for Animal Recognition**|F Williams et.al|[paper](https://lucykuncheva.co.uk/papers/fwlkshjrIPAS22.pdf)|[code](https://github.com/wang-chen/thesis_template_ntu)|<details><summary>detail</summary>lucykuncheva.co.uk</details>|
 |**2023-1-31**|**Object Detection in Picking: Handling variety of a warehouse's articles**|M Rieder et.al|[paper](https://tore.tuhh.de/handle/11420/13904)|-|<details><summary>detail</summary>Hamburg International Conference of…, 2022 tore.tuhh.de</details>|
@@ -59,21 +61,20 @@
 |**2023-1-29**|**3D Object Detection in LiDAR Point Clouds using Graph Neural Networks**|Shreelakshmi C Ret.al|[paper](https://arxiv.org/abs/2301.12519)|-|-|
 |**2023-1-29**|**LiDAR-CS Dataset: LiDAR Point Cloud Dataset with Cross-Sensors for 3D Object Detection**|Jin Fanget.al|[paper](https://arxiv.org/abs/2301.12515)|-|-|
 |**2023-1-28**|**G-Rep: Gaussian Representation for Arbitrary-Oriented Object Detection**|Liping Houet.al|[paper](https://arxiv.org/abs/2205.11796)|[code](https://github.com/open-mmlab/mmrotate)|-|
-|**2023-1-28**|**Bio-inspired Autonomous Exploration Policies with CNN-based Object Detection on Nano-drones**|Lorenzo Lambertiet.al|[paper](https://arxiv.org/abs/2301.12175)|-|-|
 |**2023-1-27**|**Aerial Image Object Detection With Vision Transformer Detector (ViTDet)**|Liya Wanget.al|[paper](https://arxiv.org/abs/2301.12058)|-|-|
 |**2023-1-27**|**Soft Labels for Rapid Satellite Object Detection**|Matthew Ciolinoet.al|[paper](https://arxiv.org/abs/2212.00585)|-|<details><summary>detail</summary>5 Pages</details>|
 |**2023-1-27**|**Rethinking Dimensionality Reduction in Grid-based 3D Object Detection**|Dihe Huanget.al|[paper](https://arxiv.org/abs/2209.09464)|-|-|
 |**2023-1-26**|**Cut and Learn for Unsupervised Object Detection and Instance Segmentation**|Xudong Wanget.al|[paper](https://arxiv.org/abs/2301.11320)|[code](http://people.eecs.berkeley.edu/)|<details><summary>detail</summary>Tech report</details>|
 |**2023-1-25**|**On the Adversarial Robustness of Camera-based 3D Object Detection**|Shaoyuan Xieet.al|[paper](https://arxiv.org/abs/2301.10766)|-|-|
-|**2023-1-25**|**Gaze-based Object Detection in the Wild**|Daniel Weberet.al|[paper](https://arxiv.org/abs/2203.15651)|-|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-2-1**|**ADAPT : Awesome Domain Adaptation Python Toolbox**|Antoine de Mathelinet.al|[paper](https://arxiv.org/abs/2107.03049)|[code](https://adapt-python.github.io/adapt/)|-|
+|**2023-1-31**|**GaitSADA: Self-Aligned Domain Adaptation for mmWave Gait Recognition**|Ekkasit Pinyoanuntaponget.al|[paper](https://arxiv.org/abs/2301.13384)|-|<details><summary>detail</summary>Submitted to ACM Transactions on Sensor Networks (TOSN)</details>|
 |**2023-1-31**|**Active Learning-based Domain Adaptive Localized Polynomial Chaos Expansion**|Lukáš Nováket.al|[paper](https://arxiv.org/abs/2301.13635)|-|-|
 |**2023-1-31**|**Contrast and Clustering: Learning Neighborhood Pair Representation for Source-free Domain Adaptation**|Yuqi Chenet.al|[paper](https://arxiv.org/abs/2301.13428)|[code](https://github.com/yukilulu/CaC.)|<details><summary>detail</summary>conference paper</details>|
-|**2023-1-30**|**GaitSADA: Self-Aligned Domain Adaptation for mmWave Gait Recognition**|Ekkasit Pinyoanuntaponget.al|[paper](https://arxiv.org/abs/2301.13384)|-|<details><summary>detail</summary>Submitted to ACM Transactions on Sensor Networks (TOSN)</details>|
 |**2023-1-30**|**When Source-Free Domain Adaptation Meets Learning with Noisy Labels**|Li Yiet.al|[paper](https://arxiv.org/abs/2301.13381)|-|-|
 |**2023-1-30**|**Iterative Loop Learning Combining Self-Training and Active Learning for Domain Adaptive Semantic Segmentation**|Licong Guanet.al|[paper](https://arxiv.org/abs/2301.13361)|-|-|
 |**2023-1-30**|**DAFD: Domain Adaptation via Feature Disentanglement for Image Classification**|Zhize Wuet.al|[paper](https://arxiv.org/abs/2301.13337)|-|-|
@@ -95,13 +96,14 @@
 |**2023-1-27**|**Semi-Supervised Domain Adaptation for Cross-Survey Galaxy Morphology Classification and Anomaly Detection**|A Ćiprijanović et.al|[paper](https://arxiv.org/abs/2211.00677)|[code](https://paperswithcode.com/paper/semi-supervised-domain-adaptation-for-cross)|-|
 |**2023-1-26**|**Multi-Prompt Alignment for Multi-Source Unsupervised Domain Adaptation**|Haoran Chenet.al|[paper](https://arxiv.org/abs/2209.15210)|-|-|
 |**2023-1-26**|**Universal Domain Adaptation for Remote Sensing Image Scene Classification**|Qingsong Xuet.al|[paper](https://arxiv.org/abs/2301.11387)|[code](https://github.com/zhu-xlab/UniDA.)|-|
-|**2023-1-25**|**Discriminator-free Unsupervised Domain Adaptation for Multi-label Image Classification**|Indel Pal Singhet.al|[paper](https://arxiv.org/abs/2301.10611)|-|-|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2023-1-31**|**Direct-Effect Risk Minimization for Domain Generalization**|Yuhui Liet.al|[paper](https://arxiv.org/abs/2211.14594)|-|-|
+|**2023-2-1**|**Direct-Effect Risk Minimization for Domain Generalization**|Yuhui Liet.al|[paper](https://arxiv.org/abs/2211.14594)|-|-|
+|**2023-2-1**|**Learning Generalized Zero-Shot Learners for Open-Domain Image Geolocalization**|Lukas Haaset.al|[paper](https://arxiv.org/abs/2302.00275)|[code](https://huggingface.co/geolocal/StreetCLIP)|-|
+|**2023-1-31**|**Neural Wavelet-domain Diffusion for 3D Shape Generation, Inversion, and Manipulation**|Jingyu Huet.al|[paper](https://arxiv.org/abs/2302.00190)|-|<details><summary>detail</summary>arXiv admin note: substantial text overlap with arXiv:2209</details>|
 |**2023-1-30**|**Fairness and Accuracy under Domain Generalization**|Thai-Hoang Phamet.al|[paper](https://arxiv.org/abs/2301.13323)|[code](https://github.com/pth1993/FATDM.)|-|
 |**2023-1-30**|**Probable Domain Generalization via Quantile Risk Minimization**|Cian Eastwoodet.al|[paper](https://arxiv.org/abs/2207.09944)|-|<details><summary>detail</summary>NeurIPS 2022</details>|
 |**2023-1-30**|**Do Domain Generalization Methods Generalize Well?**|A Mehra et.al|[paper](https://research.ibm.com/publications/do-domain-generalization-methods-generalize-well)|[code](https://github.com/openai/gpt-3)|<details><summary>detail</summary>Annual Conference on…, 2022 research.ibm.com</details>|
@@ -124,6 +126,4 @@
 |**2023-1-18**|**Foresee What You Will Learn: Data Augmentation for Domain Generalization in Non-Stationary Environments**|Qiuhao Zenget.al|[paper](https://arxiv.org/abs/2301.07845)|-|-|
 |**2023-1-18**|**Achieving Domain Generalization in Underwater Object Detection by Domain Mixup and Contrastive Learning**|Yang Chenet.al|[paper](https://arxiv.org/abs/2104.02230)|-|-|
 |**2023-1-16**|**Neural Generation Meets Real People: Building a Social, Informative Open-Domain Dialogue Agent**|Ethan A. Chiet.al|[paper](https://arxiv.org/abs/2207.12021)|-|<details><summary>detail</summary>SIGDIAL '22</details>|
-|**2023-1-16**|**Modeling Uncertain Feature Representation for Domain Generalization**|Xiaotong Liet.al|[paper](https://arxiv.org/abs/2301.06442)|[code](https://github.com/lixiaotong97/DSU.)|<details><summary>detail</summary>This work is an extension of our ICLR 2022 paper [arXiv:2202</details>|
-|**2023-1-13**|**CLIP the Gap: A Single Domain Generalization Approach for Object Detection**|Vidit Viditet.al|[paper](https://arxiv.org/abs/2301.05499)|-|-|
 
