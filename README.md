@@ -41,6 +41,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-2-2**|**Aerial Image Object Detection With Vision Transformer Detector (ViTDet)**|Liya Wanget.al|[paper](https://arxiv.org/abs/2301.12058)|-|-|
+|**2023-2-2**|**AOP-Net: All-in-One Perception Network for Joint LiDAR-based 3D Object Detection and Panoptic Segmentation**|Yixuan Xuet.al|[paper](https://arxiv.org/abs/2302.00885)|-|<details><summary>detail</summary>Under review</details>|
+|**2023-2-2**|**The KFIoU Loss for Rotated Object Detection**|Xue Yanget.al|[paper](https://arxiv.org/abs/2201.12558)|[code](https://github.com/yangxue0827/RotationDetection,)|-|
+|**2023-2-2**|**H2RBox: Horizontal Box Annotation is All You Need for Oriented Object Detection**|Xue Yanget.al|[paper](https://arxiv.org/abs/2210.06742)|[code](https://github.com/yangxue0827/h2rbox-mmrotate)|-|
 |**2023-2-1**|**Bio-inspired Autonomous Exploration Policies with CNN-based Object Detection on Nano-drones**|Lorenzo Lambertiet.al|[paper](https://arxiv.org/abs/2301.12175)|-|-|
 |**2023-2-1**|**Adversarial Detection: Attacking Object Detection in Real Time**|Han Wuet.al|[paper](https://arxiv.org/abs/2209.01962)|[code](https://youtu.be/zJZ1aNlXsMU.)|-|
 |**2023-2-1**|**Combination of Object Tracking and Object Detection for Animal Recognition**|F Williams et.al|[paper](https://lucykuncheva.co.uk/papers/fwlkshjrIPAS22.pdf)|[code](https://github.com/wang-chen/thesis_template_ntu)|<details><summary>detail</summary>lucykuncheva.co.uk</details>|
@@ -61,16 +65,13 @@
 |**2023-1-29**|**3D Object Detection in LiDAR Point Clouds using Graph Neural Networks**|Shreelakshmi C Ret.al|[paper](https://arxiv.org/abs/2301.12519)|-|-|
 |**2023-1-29**|**LiDAR-CS Dataset: LiDAR Point Cloud Dataset with Cross-Sensors for 3D Object Detection**|Jin Fanget.al|[paper](https://arxiv.org/abs/2301.12515)|-|-|
 |**2023-1-28**|**G-Rep: Gaussian Representation for Arbitrary-Oriented Object Detection**|Liping Houet.al|[paper](https://arxiv.org/abs/2205.11796)|[code](https://github.com/open-mmlab/mmrotate)|-|
-|**2023-1-27**|**Aerial Image Object Detection With Vision Transformer Detector (ViTDet)**|Liya Wanget.al|[paper](https://arxiv.org/abs/2301.12058)|-|-|
 |**2023-1-27**|**Soft Labels for Rapid Satellite Object Detection**|Matthew Ciolinoet.al|[paper](https://arxiv.org/abs/2212.00585)|-|<details><summary>detail</summary>5 Pages</details>|
-|**2023-1-27**|**Rethinking Dimensionality Reduction in Grid-based 3D Object Detection**|Dihe Huanget.al|[paper](https://arxiv.org/abs/2209.09464)|-|-|
-|**2023-1-26**|**Cut and Learn for Unsupervised Object Detection and Instance Segmentation**|Xudong Wanget.al|[paper](https://arxiv.org/abs/2301.11320)|[code](http://people.eecs.berkeley.edu/)|<details><summary>detail</summary>Tech report</details>|
-|**2023-1-25**|**On the Adversarial Robustness of Camera-based 3D Object Detection**|Shaoyuan Xieet.al|[paper](https://arxiv.org/abs/2301.10766)|-|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-2-2**|**Open-Set Multi-Source Multi-Target Domain Adaptation**|Rohit Lalet.al|[paper](https://arxiv.org/abs/2302.00995)|-|<details><summary>detail</summary>Submitted in NeurIPS 2021 Workshop on Pre-registration in Machine Learning</details>|
 |**2023-2-1**|**ADAPT : Awesome Domain Adaptation Python Toolbox**|Antoine de Mathelinet.al|[paper](https://arxiv.org/abs/2107.03049)|[code](https://adapt-python.github.io/adapt/)|-|
 |**2023-1-31**|**GaitSADA: Self-Aligned Domain Adaptation for mmWave Gait Recognition**|Ekkasit Pinyoanuntaponget.al|[paper](https://arxiv.org/abs/2301.13384)|-|<details><summary>detail</summary>Submitted to ACM Transactions on Sensor Networks (TOSN)</details>|
 |**2023-1-31**|**Active Learning-based Domain Adaptive Localized Polynomial Chaos Expansion**|Lukáš Nováket.al|[paper](https://arxiv.org/abs/2301.13635)|-|-|
@@ -95,12 +96,14 @@
 |**2023-1-28**|**Semi-Supervised Domain Adaptation for Cross-Survey Galaxy Morphology Classification and Anomaly Detection**|A Ćiprijanović et.al|[paper](https://arxiv.org/abs/2211.00677)|[code](https://paperswithcode.com/paper/semi-supervised-domain-adaptation-for-cross)|-|
 |**2023-1-27**|**Domain Adaptive Video Semantic Segmentation via Cross-Domain Moving Object Mixing**|Kyusik Choet.al|[paper](https://arxiv.org/abs/2211.02307)|[code](https://github.com/kyusik-cho/CMOM.)|<details><summary>detail</summary>WACV 2023</details>|
 |**2023-1-26**|**Multi-Prompt Alignment for Multi-Source Unsupervised Domain Adaptation**|Haoran Chenet.al|[paper](https://arxiv.org/abs/2209.15210)|-|-|
-|**2023-1-26**|**Universal Domain Adaptation for Remote Sensing Image Scene Classification**|Qingsong Xuet.al|[paper](https://arxiv.org/abs/2301.11387)|[code](https://github.com/zhu-xlab/UniDA.)|-|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-2-2**|**Domain Generalization Emerges from Dreaming**|Hwan Heoet.al|[paper](https://arxiv.org/abs/2302.00980)|-|-|
+|**2023-2-2**|**Encouraging Intra-Class Diversity Through a Reverse Contrastive Loss for Better Single-Source Domain Generalization**|Thomas Duboudinet.al|[paper](https://arxiv.org/abs/2106.07916)|-|<details><summary>detail</summary>Journal ref:ICCV - Workshop on Adversarial Robustness In the Real World</details>|
+|**2023-2-1**|**Generating Software for Well-Understood Domains**|Jacques Caretteet.al|[paper](https://arxiv.org/abs/2302.00740)|-|-|
 |**2023-2-1**|**Direct-Effect Risk Minimization for Domain Generalization**|Yuhui Liet.al|[paper](https://arxiv.org/abs/2211.14594)|-|-|
 |**2023-2-1**|**Learning Generalized Zero-Shot Learners for Open-Domain Image Geolocalization**|Lukas Haaset.al|[paper](https://arxiv.org/abs/2302.00275)|[code](https://huggingface.co/geolocal/StreetCLIP)|-|
 |**2023-1-31**|**Neural Wavelet-domain Diffusion for 3D Shape Generation, Inversion, and Manipulation**|Jingyu Huet.al|[paper](https://arxiv.org/abs/2302.00190)|-|<details><summary>detail</summary>arXiv admin note: substantial text overlap with arXiv:2209</details>|
@@ -123,7 +126,4 @@
 |**2023-1-21**|**Learning to Augment via Implicit Differentiation for Domain Generalization**|T Wang et.al|[paper](https://arxiv.org/abs/2210.14271)|[code](https://paperswithcode.com/paper/learning-to-augment-via-implicit)|-|
 |**2023-1-20**|**ManyDG: Many-domain Generalization for Healthcare Applications**|Chaoqi Yanget.al|[paper](https://arxiv.org/abs/2301.08834)|[code](https://openreview.net/forum?id=lcSfirnflpW.)|<details><summary>detail</summary>The paper has been accepted by ICLR 2023</details>|
 |**2023-1-20**|**Domain-agnostic and Multi-level Evaluation of Generative Models**|Girmaw Abebe Tadesseet.al|[paper](https://arxiv.org/abs/2301.08750)|[code](https://github.com/GT4SD/mpego.)|-|
-|**2023-1-18**|**Foresee What You Will Learn: Data Augmentation for Domain Generalization in Non-Stationary Environments**|Qiuhao Zenget.al|[paper](https://arxiv.org/abs/2301.07845)|-|-|
-|**2023-1-18**|**Achieving Domain Generalization in Underwater Object Detection by Domain Mixup and Contrastive Learning**|Yang Chenet.al|[paper](https://arxiv.org/abs/2104.02230)|-|-|
-|**2023-1-16**|**Neural Generation Meets Real People: Building a Social, Informative Open-Domain Dialogue Agent**|Ethan A. Chiet.al|[paper](https://arxiv.org/abs/2207.12021)|-|<details><summary>detail</summary>SIGDIAL '22</details>|
 
