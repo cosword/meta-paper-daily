@@ -41,6 +41,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-2-7**|**Look around and learn: self-improving object detection by exploration**|ianluca Scarpelliniet.al|[paper](https://arxiv.org/abs/2302.03566)|-|-|
+|**2023-2-7**|**Joint stereo 3D object detection and implicit surface reconstruction**|Shichao Liet.al|[paper](https://arxiv.org/abs/2111.12924)|-|-|
 |**2023-2-6**|**The KFIoU Loss for Rotated Object Detection**|Xue Yanget.al|[paper](https://arxiv.org/abs/2201.12558)|[code](https://github.com/yangxue0827/RotationDetection,)|-|
 |**2023-2-6**|**TR3D: Towards Real-Time Indoor 3D Object Detection**|Danila Rukhovichet.al|[paper](https://arxiv.org/abs/2302.02858)|[code](https://github.com/SamsungLabs/tr3d)|-|
 |**2023-2-6**|**H2RBox: Horizontal Box Annotation is All You Need for Oriented Object Detection**|Xue Yanget.al|[paper](https://arxiv.org/abs/2210.06742)|[code](https://github.com/yangxue0827/h2rbox-mmrotate)|-|
@@ -64,16 +66,17 @@
 |**2023-2-1**|**Bio-inspired Autonomous Exploration Policies with CNN-based Object Detection on Nano-drones**|Lorenzo Lambertiet.al|[paper](https://arxiv.org/abs/2301.12175)|-|-|
 |**2023-2-1**|**Adversarial Detection: Attacking Object Detection in Real Time**|Han Wuet.al|[paper](https://arxiv.org/abs/2209.01962)|[code](https://youtu.be/zJZ1aNlXsMU.)|-|
 |**2023-1-31**|**Mind the Gap: Polishing Pseudo labels for Accurate Semi-supervised Object Detection**|Lei Zhanget.al|[paper](https://arxiv.org/abs/2207.08185)|-|<details><summary>detail</summary>Accepted by Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023)</details>|
-|**2023-1-30**|**Few-Shot Object Detection via Variational Feature Aggregation**|Jiaming Hanet.al|[paper](https://arxiv.org/abs/2301.13411)|[code](https://github.com/csuhan/VFA)|<details><summary>detail</summary>Accepted by AAAI2023</details>|
-|**2023-1-30**|**Small Moving Object Detection Algorithm in Surveillance Video Based on Motion Information**|Ziwei Sunet.al|[paper](https://arxiv.org/abs/2301.01917)|-|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-2-7**|**Contrastive Learning for Unsupervised Domain Adaptation of Time Series**|Yilmazcan Ozyurtet.al|[paper](https://arxiv.org/abs/2206.06243)|-|<details><summary>detail</summary>Published as a conference paper at ICLR 2023</details>|
+|**2023-2-6**|**Domain Re-Modulation for Few-Shot Generative Domain Adaptation**|Yi Wuet.al|[paper](https://arxiv.org/abs/2302.02550)|[code](https://github.com/wuyi2020/DoRM.)|<details><summary>detail</summary>Under Review</details>|
+|**2023-2-6**|**UDApter -- Efficient Domain Adaptation Using Adapters**|Bhavitvya Maliket.al|[paper](https://arxiv.org/abs/2302.03194)|[code](https://github.com/declare-lab/UDAPTER)|-|
+|**2023-2-6**|**Domain Adaptation for Time Series Under Feature and Label Shifts**|Huan Heet.al|[paper](https://arxiv.org/abs/2302.03133)|-|-|
 |**2023-2-6**|**RLSbench: Domain Adaptation Under Relaxed Label Shift**|Saurabh Garget.al|[paper](https://arxiv.org/abs/2302.03020)|[code](https://github.com/acmi-lab/RLSbench.)|-|
 |**2023-2-5**|**Domain-Indexing Variational Bayes: Interpretable Domain Index for Domain Adaptation**|Zihao Xuet.al|[paper](https://arxiv.org/abs/2302.02561)|-|<details><summary>detail</summary>ICLR 2023 Spotlight (notable-top-25%)</details>|
-|**2023-2-5**|**Domain Re-Modulation for Few-Shot Generative Domain Adaptation**|Yi Wuet.al|[paper](https://arxiv.org/abs/2302.02550)|[code](https://github.com/wuyi2020/DoRM.)|<details><summary>detail</summary>Under Review</details>|
 |**2023-2-5**|**Semi-Supervised Domain Adaptation with Source Label Adaptation**|Yu-Chu Yuet.al|[paper](https://arxiv.org/abs/2302.02335)|-|-|
 |**2023-2-5**|**Self-Supervised Vision Transformer Based Nearest Neighbor Classification for Multi-Source Open-Set Domain Adaptation**|J Li et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20868-3_40)|-|<details><summary>detail</summary>Pacific Rim International Conference on Artificial…, 2022 Springer</details>|
 |**2023-2-5**|**Source-Free Implicit Semantic Augmentation for Domain Adaptation**|Z Zhang et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20865-2_2)|-|<details><summary>detail</summary>Pacific Rim International Conference on Artificial…, 2022 Springer</details>|
@@ -91,18 +94,16 @@
 |**2023-2-3**|**Domain Adaptation via Alignment of Operation Profile for Remaining Useful Lifetime Prediction**|Ismail Nejjaret.al|[paper](https://arxiv.org/abs/2302.01704)|-|-|
 |**2023-2-3**|**Uncertainty-guided joint unbalanced optimal transport for unsupervised domain adaptation**|J Dan et.al|[paper](https://link.springer.com/article/10.1007/s00521-022-07976-x)|-|<details><summary>detail</summary>Neural Computing and Applications, 2022 Springer</details>|
 |**2023-2-2**|**Class Overwhelms: Mutual Conditional Blended-Target Domain Adaptation**|Pengcheng Xuet.al|[paper](https://arxiv.org/abs/2302.01516)|-|<details><summary>detail</summary>Journal ref:AAAI2023 Oral</details>|
-|**2023-2-2**|**Efficient Domain Adaptation for Speech Foundation Models**|Bo Liet.al|[paper](https://arxiv.org/abs/2302.01496)|-|-|
 |**2023-2-2**|**Deep Learning Using Synthetic Seismic Data by Fourier Domain Adaptation in Seismic Structure Interpretation**|D Chang et.al|[paper](https://ieeexplore.ieee.org/abstract/document/9934908/)|-|<details><summary>detail</summary>…and Remote Sensing…, 2022 ieeexplore.ieee.org</details>|
 |**2023-2-2**|**Semi-Supervised Domain Adaptation for Cross-Survey Galaxy Morphology Classification and Anomaly Detection**|A Ćiprijanović et.al|[paper](https://arxiv.org/abs/2211.00677)|[code](https://paperswithcode.com/paper/semi-supervised-domain-adaptation-for-cross)|-|
-|**2023-2-1**|**ADAPT : Awesome Domain Adaptation Python Toolbox**|Antoine de Mathelinet.al|[paper](https://arxiv.org/abs/2107.03049)|[code](https://adapt-python.github.io/adapt/)|-|
-|**2023-1-31**|**GaitSADA: Self-Aligned Domain Adaptation for mmWave Gait Recognition**|Ekkasit Pinyoanuntaponget.al|[paper](https://arxiv.org/abs/2301.13384)|-|<details><summary>detail</summary>Submitted to ACM Transactions on Sensor Networks (TOSN)</details>|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-2-7**|**Scaling Back-Translation with Domain Text Generation for Sign Language Gloss Translation**|Jinhui Yeet.al|[paper](https://arxiv.org/abs/2210.07054)|-|<details><summary>detail</summary>EACL 2023 (main conference)</details>|
+|**2023-2-6**|**Domain Re-Modulation for Few-Shot Generative Domain Adaptation**|Yi Wuet.al|[paper](https://arxiv.org/abs/2302.02550)|[code](https://github.com/wuyi2020/DoRM.)|<details><summary>detail</summary>Under Review</details>|
 |**2023-2-6**|**Leveraging Domain Relations for Domain Generalization**|Huaxiu Yaoet.al|[paper](https://arxiv.org/abs/2302.02609)|-|-|
-|**2023-2-5**|**Domain Re-Modulation for Few-Shot Generative Domain Adaptation**|Yi Wuet.al|[paper](https://arxiv.org/abs/2302.02550)|[code](https://github.com/wuyi2020/DoRM.)|<details><summary>detail</summary>Under Review</details>|
 |**2023-2-5**|**Aggregation of Disentanglement: Reconsidering Domain Variations in Domain Generalization**|Daoan Zhanget.al|[paper](https://arxiv.org/abs/2302.02350)|-|-|
 |**2023-2-5**|**Do Domain Generalization Methods Generalize Well?**|A Mehra et.al|[paper](https://research.ibm.com/publications/do-domain-generalization-methods-generalize-well)|[code](https://github.com/openai/gpt-3)|<details><summary>detail</summary>Annual Conference on…, 2022 research.ibm.com</details>|
 |**2023-2-4**|**A Survey of Domain Generalization-Based Face Anti-spoofing**|F Jiang et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20233-9_13)|[code](https://github.com/ZitongYu/DeepFAS)|<details><summary>detail</summary>Chinese Conference on Biometric…, 2022 Springer</details>|
@@ -125,5 +126,4 @@
 |**2023-1-27**|**Trade-off between reconstruction loss and feature alignment for domain generalization**|T Nguyen et.al|[paper](https://arxiv.org/abs/2210.15000)|[code](https://github.com/thuan2412/tradeoff_between_domain_alignment_and_reconstruction_loss)|-|
 |**2023-1-26**|**Learning to Augment via Implicit Differentiation for Domain Generalization**|T Wang et.al|[paper](https://arxiv.org/abs/2210.14271)|[code](https://paperswithcode.com/paper/learning-to-augment-via-implicit)|-|
 |**2023-1-25**|**DEJA VU: Continual Model Generalization For Unseen Domains**|Chenxi Liuet.al|[paper](https://arxiv.org/abs/2301.10418)|-|<details><summary>detail</summary>Published as a conference paper at ICLR 2023</details>|
-|**2023-1-24**|**Domain generalization in deep learning-based mass detection in mammography: A large-scale multi-center study**|Lidia Garruchoet.al|[paper](https://arxiv.org/abs/2201.11620)|-|<details><summary>detail</summary>MSC Class:68T07</details>|
 
