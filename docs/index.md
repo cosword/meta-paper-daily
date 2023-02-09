@@ -41,13 +41,15 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-2-8**|**TR3D: Towards Real-Time Indoor 3D Object Detection**|Danila Rukhovichet.al|[paper](https://arxiv.org/abs/2302.02858)|[code](https://github.com/SamsungLabs/tr3d)|-|
+|**2023-2-8**|**Exploring Active 3D Object Detection from a Generalization Perspective**|Yadan Luoet.al|[paper](https://arxiv.org/abs/2301.09249)|[code](https://github.com/Luoyadan/CRB-active-3Ddet.)|<details><summary>detail</summary>To appear in ICLR 2023</details>|
+|**2023-2-8**|**Generalized Few-Shot 3D Object Detection of LiDAR Point Cloud for Autonomous Driving**|Jiawei Liuet.al|[paper](https://arxiv.org/abs/2302.03914)|-|-|
 |**2023-2-7**|**Look around and learn: self-improving object detection by exploration**|ianluca Scarpelliniet.al|[paper](https://arxiv.org/abs/2302.03566)|-|-|
 |**2023-2-7**|**Joint stereo 3D object detection and implicit surface reconstruction**|Shichao Liet.al|[paper](https://arxiv.org/abs/2111.12924)|-|-|
 |**2023-2-7**|**Combination of Object Tracking and Object Detection for Animal Recognition**|F Williams et.al|[paper](https://lucykuncheva.co.uk/papers/fwlkshjrIPAS22.pdf)|[code](https://github.com/wang-chen/thesis_template_ntu)|<details><summary>detail</summary>lucykuncheva.co.uk</details>|
 |**2023-2-7**|**Object Detection in Picking: Handling variety of a warehouse's articles**|M Rieder et.al|[paper](https://tore.tuhh.de/handle/11420/13904)|-|<details><summary>detail</summary>Hamburg International Conference of…, 2022 tore.tuhh.de</details>|
 |**2023-2-7**|**Roadside Unit-Based Unknown Object Detection in Adverse Weather Conditions for Smart Internet of Vehicles**|YC Chen et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3554923)|-|<details><summary>detail</summary>ACM Transactions on Management…, 2022 dl.acm.org</details>|
 |**2023-2-6**|**The KFIoU Loss for Rotated Object Detection**|Xue Yanget.al|[paper](https://arxiv.org/abs/2201.12558)|[code](https://github.com/yangxue0827/RotationDetection,)|-|
-|**2023-2-6**|**TR3D: Towards Real-Time Indoor 3D Object Detection**|Danila Rukhovichet.al|[paper](https://arxiv.org/abs/2302.02858)|[code](https://github.com/SamsungLabs/tr3d)|-|
 |**2023-2-6**|**H2RBox: Horizontal Box Annotation is All You Need for Oriented Object Detection**|Xue Yanget.al|[paper](https://arxiv.org/abs/2210.06742)|[code](https://github.com/yangxue0827/h2rbox-mmrotate)|-|
 |**2023-2-6**|**Uncertainty Calibration and its Application to Object Detection**|Fabian Küpperset.al|[paper](https://arxiv.org/abs/2302.02622)|-|<details><summary>detail</summary>PhD thesis at University of Wuppertal</details>|
 |**2023-2-6**|**Efficient Scale Divide and Conquer Network for Object Detection**|Y Liu et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20868-3_37)|[code](https://github.com/open-mmlab/mmdetection)|<details><summary>detail</summary>Pacific Rim International…, 2022 Springer</details>|
@@ -64,13 +66,13 @@
 |**2023-2-2**|**Aerial Image Object Detection With Vision Transformer Detector (ViTDet)**|Liya Wanget.al|[paper](https://arxiv.org/abs/2301.12058)|-|-|
 |**2023-2-2**|**AOP-Net: All-in-One Perception Network for Joint LiDAR-based 3D Object Detection and Panoptic Segmentation**|Yixuan Xuet.al|[paper](https://arxiv.org/abs/2302.00885)|-|<details><summary>detail</summary>Under review</details>|
 |**2023-2-1**|**Bio-inspired Autonomous Exploration Policies with CNN-based Object Detection on Nano-drones**|Lorenzo Lambertiet.al|[paper](https://arxiv.org/abs/2301.12175)|-|-|
-|**2023-2-1**|**Adversarial Detection: Attacking Object Detection in Real Time**|Han Wuet.al|[paper](https://arxiv.org/abs/2209.01962)|[code](https://youtu.be/zJZ1aNlXsMU.)|-|
-|**2023-1-31**|**Mind the Gap: Polishing Pseudo labels for Accurate Semi-supervised Object Detection**|Lei Zhanget.al|[paper](https://arxiv.org/abs/2207.08185)|-|<details><summary>detail</summary>Accepted by Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023)</details>|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-2-8**|**Domain Adaptation of Synthetic Driving Datasets for Real-World Autonomous Driving**|Koustav Mullicket.al|[paper](https://arxiv.org/abs/2302.04149)|-|-|
+|**2023-2-8**|**LLEDA -- Lifelong Self-Supervised Domain Adaptation**|Mamatha Thotaet.al|[paper](https://arxiv.org/abs/2211.09027)|-|-|
 |**2023-2-7**|**Contrastive Learning for Unsupervised Domain Adaptation of Time Series**|Yilmazcan Ozyurtet.al|[paper](https://arxiv.org/abs/2206.06243)|-|<details><summary>detail</summary>Published as a conference paper at ICLR 2023</details>|
 |**2023-2-6**|**Domain Re-Modulation for Few-Shot Generative Domain Adaptation**|Yi Wuet.al|[paper](https://arxiv.org/abs/2302.02550)|[code](https://github.com/wuyi2020/DoRM.)|<details><summary>detail</summary>Under Review</details>|
 |**2023-2-6**|**UDApter -- Efficient Domain Adaptation Using Adapters**|Bhavitvya Maliket.al|[paper](https://arxiv.org/abs/2302.03194)|[code](https://github.com/declare-lab/UDAPTER)|-|
@@ -92,10 +94,8 @@
 |**2023-2-3**|**Open-Set Multi-Source Multi-Target Domain Adaptation**|Rohit Lalet.al|[paper](https://arxiv.org/abs/2302.00995)|-|<details><summary>detail</summary>Accepted in NeurIPS 2021 Workshop on Pre-registration in Machine Learning</details>|
 |**2023-2-3**|**Interpretations of Domain Adaptations via Layer Variational Analysis**|Huan-Hsin Tsenget.al|[paper](https://arxiv.org/abs/2302.01798)|-|<details><summary>detail</summary>To be published at ICLR 2023</details>|
 |**2023-2-3**|**Crucial Semantic Classifier-based Adversarial Learning for Unsupervised Domain Adaptation**|Yumin Zhanget.al|[paper](https://arxiv.org/abs/2302.01708)|-|-|
-|**2023-2-3**|**Domain Adaptation via Alignment of Operation Profile for Remaining Useful Lifetime Prediction**|Ismail Nejjaret.al|[paper](https://arxiv.org/abs/2302.01704)|-|-|
 |**2023-2-3**|**Deep Learning Using Synthetic Seismic Data by Fourier Domain Adaptation in Seismic Structure Interpretation**|D Chang et.al|[paper](https://ieeexplore.ieee.org/abstract/document/9934908/)|-|<details><summary>detail</summary>…and Remote Sensing…, 2022 ieeexplore.ieee.org</details>|
 |**2023-2-3**|**Semi-Supervised Domain Adaptation for Cross-Survey Galaxy Morphology Classification and Anomaly Detection**|A Ćiprijanović et.al|[paper](https://arxiv.org/abs/2211.00677)|[code](https://paperswithcode.com/paper/semi-supervised-domain-adaptation-for-cross)|-|
-|**2023-2-2**|**Class Overwhelms: Mutual Conditional Blended-Target Domain Adaptation**|Pengcheng Xuet.al|[paper](https://arxiv.org/abs/2302.01516)|-|<details><summary>detail</summary>Journal ref:AAAI2023 Oral</details>|
 
 ## domain generalization
 
