@@ -11,6 +11,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-2-9**|**MAPS: A Noise-Robust Progressive Learning Approach for Source-Free Domain Adaptive Keypoint Detection**|Yuhe Dinget.al|[paper](https://arxiv.org/abs/2302.04589)|-|-|
 |**2023-2-7**|**Source-Free Implicit Semantic Augmentation for Domain Adaptation**|Z Zhang et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20865-2_2)|-|<details><summary>detail</summary>Pacific Rim International Conference on Artificial…, 2022 Springer</details>|
 |**2023-2-6**|**Source-free Unsupervised Domain Adaptation with Trusted Pseudo Samples**|Q Tian et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3570510)|-|<details><summary>detail</summary>ACM Transactions on Intelligent Systems and…, 2022 dl.acm.org</details>|
 |**2023-2-6**|**Unsupervised Model Adaptation for Source-free Segmentation of Medical Images**|S Stan et.al|[paper](https://arxiv.org/abs/2211.00807)|[code](https://github.com/vibashan/tt-sfuda)|-|
@@ -35,7 +36,6 @@
 |**2023-1-10**|**Adversarial Alignment for Source Free Object Detection**|Qiaosong Chuet.al|[paper](https://arxiv.org/abs/2301.04265)|-|-|
 |**2023-1-6**|**Source-Free Unsupervised Domain Adaptation: A Survey**|Yuqi Fanget.al|[paper](https://arxiv.org/abs/2301.00265)|-|-|
 |**2022-12-19**|**Source-Free Domain Adaptation for Question Answering with Masked Self-training**|M. Yinet.al|[paper](https://arxiv.org/abs/2212.09563)|-|-|
-|**2022-12-15**|**Dual Moving Average Pseudo-Labeling for Source-Free Inductive Domain Adaptation**|Hao Yanet.al|[paper](https://arxiv.org/abs/2212.08187)|-|<details><summary>detail</summary>BMVC 2022</details>|
 
 ## object detection
 
@@ -71,6 +71,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-2-9**|**MAPS: A Noise-Robust Progressive Learning Approach for Source-Free Domain Adaptive Keypoint Detection**|Yuhe Dinget.al|[paper](https://arxiv.org/abs/2302.04589)|-|-|
+|**2023-2-8**|**Iterative Loop Learning Combining Self-Training and Active Learning for Domain Adaptive Semantic Segmentation**|Licong Guanet.al|[paper](https://arxiv.org/abs/2301.13361)|[code](https://github.com/licongguan/STAL.)|-|
 |**2023-2-8**|**Domain Adaptation of Synthetic Driving Datasets for Real-World Autonomous Driving**|Koustav Mullicket.al|[paper](https://arxiv.org/abs/2302.04149)|-|-|
 |**2023-2-8**|**LLEDA -- Lifelong Self-Supervised Domain Adaptation**|Mamatha Thotaet.al|[paper](https://arxiv.org/abs/2211.09027)|-|-|
 |**2023-2-7**|**Contrastive Learning for Unsupervised Domain Adaptation of Time Series**|Yilmazcan Ozyurtet.al|[paper](https://arxiv.org/abs/2206.06243)|-|<details><summary>detail</summary>Published as a conference paper at ICLR 2023</details>|
@@ -94,13 +96,12 @@
 |**2023-2-3**|**DeepAstroUDA: Semi-Supervised Universal Domain Adaptation for Cross-Survey Galaxy Morphology Classification and Anomaly Detection**|A. Ćiprijanovićet.al|[paper](https://arxiv.org/abs/2302.02005)|-|<details><summary>detail</summary>Submitted to Machine Learning Science and Technology (MLST)</details>|
 |**2023-2-3**|**One-shot domain adaptation in video-based assessment of surgical skills**|Erim Yaniket.al|[paper](https://arxiv.org/abs/2301.00812)|-|-|
 |**2023-2-3**|**Open-Set Multi-Source Multi-Target Domain Adaptation**|Rohit Lalet.al|[paper](https://arxiv.org/abs/2302.00995)|-|<details><summary>detail</summary>Accepted in NeurIPS 2021 Workshop on Pre-registration in Machine Learning</details>|
-|**2023-2-3**|**Interpretations of Domain Adaptations via Layer Variational Analysis**|Huan-Hsin Tsenget.al|[paper](https://arxiv.org/abs/2302.01798)|-|<details><summary>detail</summary>To be published at ICLR 2023</details>|
-|**2023-2-3**|**Crucial Semantic Classifier-based Adversarial Learning for Unsupervised Domain Adaptation**|Yumin Zhanget.al|[paper](https://arxiv.org/abs/2302.01708)|-|-|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-2-9**|**Domain Generalization by Functional Regression**|Markus Holzleitneret.al|[paper](https://arxiv.org/abs/2302.04724)|-|<details><summary>detail</summary>MSC Class:68Q32</details>|
 |**2023-2-7**|**Scaling Back-Translation with Domain Text Generation for Sign Language Gloss Translation**|Jinhui Yeet.al|[paper](https://arxiv.org/abs/2210.07054)|-|<details><summary>detail</summary>EACL 2023 (main conference)</details>|
 |**2023-2-7**|**Do Domain Generalization Methods Generalize Well?**|A Mehra et.al|[paper](https://research.ibm.com/publications/do-domain-generalization-methods-generalize-well)|[code](https://github.com/openai/gpt-3)|<details><summary>detail</summary>Annual Conference on…, 2022 research.ibm.com</details>|
 |**2023-2-6**|**Domain Re-Modulation for Few-Shot Generative Domain Adaptation**|Yi Wuet.al|[paper](https://arxiv.org/abs/2302.02550)|[code](https://github.com/wuyi2020/DoRM.)|<details><summary>detail</summary>Under Review</details>|
@@ -125,5 +126,4 @@
 |**2023-1-29**|**SimpleDG: Simple Domain Generalization Baseline without Bells and Whistles**|Z Lv et.al|[paper](https://arxiv.org/abs/2210.14507)|[code](https://github.com/megvii-research/simpledg)|-|
 |**2023-1-29**|**Trade-off between reconstruction loss and feature alignment for domain generalization**|T Nguyen et.al|[paper](https://arxiv.org/abs/2210.15000)|[code](https://github.com/thuan2412/tradeoff_between_domain_alignment_and_reconstruction_loss)|-|
 |**2023-1-28**|**Learning to Augment via Implicit Differentiation for Domain Generalization**|T Wang et.al|[paper](https://arxiv.org/abs/2210.14271)|[code](https://paperswithcode.com/paper/learning-to-augment-via-implicit)|-|
-|**2023-1-25**|**DEJA VU: Continual Model Generalization For Unseen Domains**|Chenxi Liuet.al|[paper](https://arxiv.org/abs/2301.10418)|-|<details><summary>detail</summary>Published as a conference paper at ICLR 2023</details>|
 
