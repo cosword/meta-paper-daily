@@ -42,6 +42,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-2-15**|**Efficient Teacher: Semi-Supervised Object Detection for YOLOv5**|Bowen Xuet.al|[paper](https://arxiv.org/abs/2302.07577)|-|-|
+|**2023-2-15**|**Learning to Reduce Information Bottleneck for Object Detection in Aerial Images**|Yuchen Shenet.al|[paper](https://arxiv.org/abs/2204.02033)|-|-|
 |**2023-2-14**|**A Comprehensive Study of Real-Time Object Detection Networks Across Multiple Domains: A Survey**|Elahe Araniet.al|[paper](https://arxiv.org/abs/2208.10895)|-|<details><summary>detail</summary>Published in Transactions on Machine Learning Research (TMLR) with Survey Certification</details>|
 |**2023-2-14**|**Million-scale Object Detection with Large Vision Model**|Feng Linet.al|[paper](https://arxiv.org/abs/2212.09408)|[code](https://github.com/linfeng93/Large-UniDet.)|<details><summary>detail</summary>This paper is revised by ChatGPT</details>|
 |**2023-2-14**|**Multi-Modal Few-Shot Object Detection with Meta-Learning-Based Cross-Modal Prompting**|Guangxing Hanet.al|[paper](https://arxiv.org/abs/2204.07841)|-|-|
@@ -65,13 +67,12 @@
 |**2023-2-11**|**Dual Relation Knowledge Distillation for Object Detection**|Zhenliang Niet.al|[paper](https://arxiv.org/abs/2302.05637)|-|-|
 |**2023-2-10**|**AMD: Adaptive Masked Distillation for Object Detection**|Guang Yanget.al|[paper](https://arxiv.org/abs/2301.13538)|-|-|
 |**2023-2-10**|**Look around and learn: self-improving object detection by exploration**|Gianluca Scarpelliniet.al|[paper](https://arxiv.org/abs/2302.03566)|-|-|
-|**2023-2-10**|**End-to-end Semantic Object Detection with Cross-Modal Alignment**|Silvan Ferreiraet.al|[paper](https://arxiv.org/abs/2302.05200)|-|-|
-|**2023-2-10**|**Sparse4D: Multi-view 3D Object Detection with Sparse Spatial-Temporal Fusion**|Xuewu Linet.al|[paper](https://arxiv.org/abs/2211.10581)|-|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-2-14**|**MSDA: Monocular Self-supervised Domain Adaptation for 6D Object Pose Estimation**|Dingding Caiet.al|[paper](https://arxiv.org/abs/2302.07300)|-|<details><summary>detail</summary>SCIA2023</details>|
 |**2023-2-14**|**Hard-aware Instance Adaptive Self-training for Unsupervised Cross-domain Semantic Segmentation**|Chuang Zhuet.al|[paper](https://arxiv.org/abs/2302.06992)|-|<details><summary>detail</summary>arXiv admin note: text overlap with arXiv:2008</details>|
 |**2023-2-14**|**Unsupervised domain adaptation semantic segmentation of high-resolution remote sensing imagery with invariant domain-level prototype memory**|Jingru Zhuet.al|[paper](https://arxiv.org/abs/2208.07722)|-|-|
 |**2023-2-13**|**In Search for a Generalizable Method for Source Free Domain Adaptation**|Malik Boudiafet.al|[paper](https://arxiv.org/abs/2302.06658)|-|-|
@@ -84,6 +85,7 @@
 |**2023-2-13**|**Small Object Detection in Infrared Images: Learning from Imbalanced Cross-Domain Data via Domain Adaptation**|J Kim et.al|[paper](https://www.mdpi.com/1927658)|-|<details><summary>detail</summary>Applied Sciences, 2022 mdpi.com</details>|
 |**2023-2-12**|**Attention-based Domain Adaptation Forecasting of Streamflow in Data Sparse Regions**|Roland Orucheet.al|[paper](https://arxiv.org/abs/2302.05386)|-|-|
 |**2023-2-12**|**Predicting Class Distribution Shift for Reliable Domain Adaptive Object Detection**|Nicolas Harvey Chapmanet.al|[paper](https://arxiv.org/abs/2302.06039)|-|-|
+|**2023-2-12**|**AIDA: Legal Judgment Predictions for Non-Professional Fact Descriptions via Partial-and-Imbalanced Domain Adaptation**|Guangyi Xiaoet.al|[paper](https://arxiv.org/abs/2302.07728)|-|-|
 |**2023-2-12**|**Source-free Unsupervised Domain Adaptation with Trusted Pseudo Samples**|Q Tian et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3570510)|-|<details><summary>detail</summary>ACM Transactions on Intelligent Systems and…, 2022 dl.acm.org</details>|
 |**2023-2-12**|**Deep adversarial domain adaptation for hyperspectral calibration model transfer among plant phenotyping systems**|TU Rehman et.al|[paper](https://www.sciencedirect.com/science/article/pii/S153751102200246X)|-|<details><summary>detail</summary>Biosystems Engineering, 2022 Elsevier</details>|
 |**2023-2-12**|**A Domain Adaptation Approach Based on Minimized Class Confusion and Style Migration**|L Zhang et.al|[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4266561)|-|<details><summary>detail</summary>Available at SSRN 4266561 papers.ssrn.com</details>|
@@ -95,13 +97,14 @@
 |**2023-2-10**|**TTN: A Domain-Shift Aware Batch Normalization in Test-Time Adaptation**|Hyesu Limet.al|[paper](https://arxiv.org/abs/2302.05155)|-|<details><summary>detail</summary>ICLR2023 Accepted</details>|
 |**2023-2-10**|**Deep Learning Using Synthetic Seismic Data by Fourier Domain Adaptation in Seismic Structure Interpretation**|D Chang et.al|[paper](https://ieeexplore.ieee.org/abstract/document/9934908/)|-|<details><summary>detail</summary>…and Remote Sensing…, 2022 ieeexplore.ieee.org</details>|
 |**2023-2-10**|**Semi-Supervised Domain Adaptation for Cross-Survey Galaxy Morphology Classification and Anomaly Detection**|A Ćiprijanović et.al|[paper](https://arxiv.org/abs/2211.00677)|[code](https://paperswithcode.com/paper/semi-supervised-domain-adaptation-for-cross)|-|
-|**2023-2-9**|**Federated Domain Adaptation via Gradient Projection**|Enyi Jianget.al|[paper](https://arxiv.org/abs/2302.05049)|-|-|
-|**2023-2-9**|**MAPS: A Noise-Robust Progressive Learning Approach for Source-Free Domain Adaptive Keypoint Detection**|Yuhe Dinget.al|[paper](https://arxiv.org/abs/2302.04589)|-|-|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-2-15**|**Depth- and Semantics-aware Multi-modal Domain Translation: Generating 3D Panoramic Color Images from LiDAR Point Clouds**|Tiago Cortinhalet.al|[paper](https://arxiv.org/abs/2302.07661)|-|-|
+|**2023-2-15**|**On the Hyperparameters influencing a PINN's generalization beyond the training domain**|Andrea Bonfantiet.al|[paper](https://arxiv.org/abs/2302.07557)|-|-|
+|**2023-2-14**|**ManyDG: Many-domain Generalization for Healthcare Applications**|Chaoqi Yanget.al|[paper](https://arxiv.org/abs/2301.08834)|[code](https://openreview.net/forum?id=lcSfirnflpW.)|<details><summary>detail</summary>The paper has been accepted by ICLR 2023</details>|
 |**2023-2-14**|**Robust Representation Learning with Self-Distillation for Domain Generalization**|Ankur Singhet.al|[paper](https://arxiv.org/abs/2302.06874)|-|-|
 |**2023-2-13**|**Generative appearance replay for continual unsupervised domain adaptation**|Boqi Chenet.al|[paper](https://arxiv.org/abs/2301.01211)|-|<details><summary>detail</summary>Fixed typos</details>|
 |**2023-2-13**|**Do Domain Generalization Methods Generalize Well?**|A Mehra et.al|[paper](https://research.ibm.com/publications/do-domain-generalization-methods-generalize-well)|[code](https://github.com/openai/gpt-3)|<details><summary>detail</summary>Annual Conference on…, 2022 research.ibm.com</details>|
@@ -124,9 +127,6 @@
 |**2023-2-4**|**SimpleDG: Simple Domain Generalization Baseline without Bells and Whistles**|Z Lv et.al|[paper](https://arxiv.org/abs/2210.14507)|[code](https://github.com/megvii-research/simpledg)|-|
 |**2023-2-4**|**Trade-off between reconstruction loss and feature alignment for domain generalization**|T Nguyen et.al|[paper](https://arxiv.org/abs/2210.15000)|[code](https://github.com/thuan2412/tradeoff_between_domain_alignment_and_reconstruction_loss)|-|
 |**2023-2-3**|**Learning to Augment via Implicit Differentiation for Domain Generalization**|T Wang et.al|[paper](https://arxiv.org/abs/2210.14271)|[code](https://paperswithcode.com/paper/learning-to-augment-via-implicit)|-|
-|**2023-2-2**|**Domain Generalization Emerges from Dreaming**|Hwan Heoet.al|[paper](https://arxiv.org/abs/2302.00980)|-|-|
-|**2023-2-2**|**Encouraging Intra-Class Diversity Through a Reverse Contrastive Loss for Better Single-Source Domain Generalization**|Thomas Duboudinet.al|[paper](https://arxiv.org/abs/2106.07916)|-|<details><summary>detail</summary>Journal ref:ICCV - Workshop on Adversarial Robustness In the Real World</details>|
-|**2023-2-1**|**Generating Software for Well-Understood Domains**|Jacques Caretteet.al|[paper](https://arxiv.org/abs/2302.00740)|-|-|
 
 ## hand pose estimation
 
