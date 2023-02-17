@@ -42,7 +42,12 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-2-16**|**CAVER: Cross-Modal View-Mixed Transformer for Bi-Modal Salient Object Detection**|Youwei Panget.al|[paper](https://arxiv.org/abs/2112.02363)|[code](https://github.com/lartpang/CAVER)|<details><summary>detail</summary>Accepted by TIP-2023</details>|
+|**2023-2-16**|**3M3D: Multi-view, Multi-path, Multi-representation for 3D Object Detection**|Jongwoo Parket.al|[paper](https://arxiv.org/abs/2302.08231)|-|-|
+|**2023-2-16**|**Research on road object detection algorithm based on improved YOLOX**|Tao Yanget.al|[paper](https://arxiv.org/abs/2302.08156)|-|-|
+|**2023-2-16**|**3D Dual-Fusion: Dual-Domain Dual-Query Camera-LiDAR Fusion for 3D Object Detection**|Yecheol Kimet.al|[paper](https://arxiv.org/abs/2211.13529)|-|-|
 |**2023-2-15**|**Efficient Teacher: Semi-Supervised Object Detection for YOLOv5**|Bowen Xuet.al|[paper](https://arxiv.org/abs/2302.07577)|-|-|
+|**2023-2-15**|**Hierarchical Cross-modal Transformer for RGB-D Salient Object Detection**|Hao Chenet.al|[paper](https://arxiv.org/abs/2302.08052)|-|-|
 |**2023-2-15**|**Learning to Reduce Information Bottleneck for Object Detection in Aerial Images**|Yuchen Shenet.al|[paper](https://arxiv.org/abs/2204.02033)|-|-|
 |**2023-2-15**|**Combination of Object Tracking and Object Detection for Animal Recognition**|F Williams et.al|[paper](https://lucykuncheva.co.uk/papers/fwlkshjrIPAS22.pdf)|[code](https://github.com/wang-chen/thesis_template_ntu)|<details><summary>detail</summary>lucykuncheva.co.uk</details>|
 |**2023-2-15**|**Object Detection in Picking: Handling variety of a warehouse's articles**|M Rieder et.al|[paper](https://tore.tuhh.de/handle/11420/13904)|-|<details><summary>detail</summary>Hamburg International Conference of…, 2022 tore.tuhh.de</details>|
@@ -62,16 +67,14 @@
 |**2023-2-13**|**Explicit3D: Graph Network with Spatial Inference \\for Single Image 3D Object Detection**|Yanjun Liuet.al|[paper](https://arxiv.org/abs/2302.06494)|-|-|
 |**2023-2-13**|**Surface-biased Multi-Level Context 3D Object Detection**|Sultan Abu Ghazalet.al|[paper](https://arxiv.org/abs/2302.06291)|-|-|
 |**2023-2-12**|**Threatening Patch Attacks on Object Detection in Optical Remote Sensing Images**|Xuxiang Sunet.al|[paper](https://arxiv.org/abs/2302.06060)|-|-|
-|**2023-2-12**|**Predicting Class Distribution Shift for Reliable Domain Adaptive Object Detection**|Nicolas Harvey Chapmanet.al|[paper](https://arxiv.org/abs/2302.06039)|-|-|
-|**2023-2-12**|**Uncertainty-Aware AB3DMOT by Variational 3D Object Detection**|Illia Oleksiienkoet.al|[paper](https://arxiv.org/abs/2302.05923)|-|-|
-|**2023-2-11**|**Dual Relation Knowledge Distillation for Object Detection**|Zhenliang Niet.al|[paper](https://arxiv.org/abs/2302.05637)|-|-|
-|**2023-2-10**|**AMD: Adaptive Masked Distillation for Object Detection**|Guang Yanget.al|[paper](https://arxiv.org/abs/2301.13538)|-|-|
-|**2023-2-10**|**Look around and learn: self-improving object detection by exploration**|Gianluca Scarpelliniet.al|[paper](https://arxiv.org/abs/2302.03566)|-|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-2-16**|**KRADA: Known-region-aware Domain Alignment for Open-set Domain Adaptation in Semantic Segmentation**|Chenhong Zhouet.al|[paper](https://arxiv.org/abs/2106.06237)|-|-|
+|**2023-2-16**|**Multimodal Dyadic Impression Recognition via Listener Adaptive Cross-Domain Fusion**|Yuanchao Liet.al|[paper](https://arxiv.org/abs/2211.05163)|-|<details><summary>detail</summary>ICASSP2023</details>|
+|**2023-2-16**|**UDApter -- Efficient Domain Adaptation Using Adapters**|Bhavitvya Maliket.al|[paper](https://arxiv.org/abs/2302.03194)|[code](https://github.com/declare-lab/domadapter)|<details><summary>detail</summary>EACL 2023</details>|
 |**2023-2-14**|**MSDA: Monocular Self-supervised Domain Adaptation for 6D Object Pose Estimation**|Dingding Caiet.al|[paper](https://arxiv.org/abs/2302.07300)|-|<details><summary>detail</summary>SCIA2023</details>|
 |**2023-2-14**|**Hard-aware Instance Adaptive Self-training for Unsupervised Cross-domain Semantic Segmentation**|Chuang Zhuet.al|[paper](https://arxiv.org/abs/2302.06992)|-|<details><summary>detail</summary>arXiv admin note: text overlap with arXiv:2008</details>|
 |**2023-2-14**|**Unsupervised domain adaptation semantic segmentation of high-resolution remote sensing imagery with invariant domain-level prototype memory**|Jingru Zhuet.al|[paper](https://arxiv.org/abs/2208.07722)|-|-|
@@ -94,9 +97,6 @@
 |**2023-2-11**|**Decorate the Newcomers: Visual Domain Prompt for Continual Test Time Adaptation**|Yulu Ganet.al|[paper](https://arxiv.org/abs/2212.04145)|-|<details><summary>detail</summary>AAAI2023 Outstanding Student Paper Award</details>|
 |**2023-2-11**|**Deep Learning Using Synthetic Seismic Data by Fourier Domain Adaptation in Seismic Structure Interpretation**|D Chang et.al|[paper](https://ieeexplore.ieee.org/abstract/document/9934908/)|-|<details><summary>detail</summary>…and Remote Sensing…, 2022 ieeexplore.ieee.org</details>|
 |**2023-2-11**|**Semi-Supervised Domain Adaptation for Cross-Survey Galaxy Morphology Classification and Anomaly Detection**|A Ćiprijanović et.al|[paper](https://arxiv.org/abs/2211.00677)|[code](https://paperswithcode.com/paper/semi-supervised-domain-adaptation-for-cross)|-|
-|**2023-2-10**|**Project and Probe: Sample-Efficient Domain Adaptation by Interpolating Orthogonal Features**|Annie S. Chenet.al|[paper](https://arxiv.org/abs/2302.05441)|-|-|
-|**2023-2-10**|**Key Design Choices for Double-Transfer in Source-Free Unsupervised Domain Adaptation**|Andrea Maracaniet.al|[paper](https://arxiv.org/abs/2302.05379)|-|-|
-|**2023-2-10**|**TTN: A Domain-Shift Aware Batch Normalization in Test-Time Adaptation**|Hyesu Limet.al|[paper](https://arxiv.org/abs/2302.05155)|-|<details><summary>detail</summary>ICLR2023 Accepted</details>|
 
 ## domain generalization
 
