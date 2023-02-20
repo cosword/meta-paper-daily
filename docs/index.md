@@ -45,6 +45,8 @@
 |**2023-2-18**|**Combination of Object Tracking and Object Detection for Animal Recognition**|F Williams et.al|[paper](https://lucykuncheva.co.uk/papers/fwlkshjrIPAS22.pdf)|[code](https://github.com/wang-chen/thesis_template_ntu)|<details><summary>detail</summary>lucykuncheva.co.uk</details>|
 |**2023-2-18**|**Object Detection in Picking: Handling variety of a warehouse's articles**|M Rieder et.al|[paper](https://tore.tuhh.de/handle/11420/13904)|-|<details><summary>detail</summary>Hamburg International Conference of…, 2022 tore.tuhh.de</details>|
 |**2023-2-18**|**Roadside Unit-Based Unknown Object Detection in Adverse Weather Conditions for Smart Internet of Vehicles**|YC Chen et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3554923)|-|<details><summary>detail</summary>ACM Transactions on Management…, 2022 dl.acm.org</details>|
+|**2023-2-17**|**H2RBox: Horizontal Box Annotation is All You Need for Oriented Object Detection**|Xue Yanget.al|[paper](https://arxiv.org/abs/2210.06742)|[code](https://github.com/yangxue0827/h2rbox-mmrotate)|-|
+|**2023-2-17**|**Raw Radar data based Object Detection and Heading estimation using Cross Attention**|Ravi Kothariet.al|[paper](https://arxiv.org/abs/2205.08406)|-|-|
 |**2023-2-17**|**Efficient Scale Divide and Conquer Network for Object Detection**|Y Liu et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20868-3_37)|[code](https://github.com/open-mmlab/mmdetection)|<details><summary>detail</summary>Pacific Rim International…, 2022 Springer</details>|
 |**2023-2-17**|**CMNet: Cross-Aggregation Multi-branch Network for Salient Object Detection**|C Xia et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20868-3_42)|-|<details><summary>detail</summary>Pacific Rim International…, 2022 Springer</details>|
 |**2023-2-17**|**Dynamic graph transformer for 3D object detection**|S Ren et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0950705122011819)|-|<details><summary>detail</summary>Knowledge Based Systems, 2022 Elsevier</details>|
@@ -65,13 +67,12 @@
 |**2023-2-13**|**An Application of Deep Learning for Sweet Cherry Phenotyping using YOLO Object Detection**|Ritayu Nagpalet.al|[paper](https://arxiv.org/abs/2302.06698)|-|<details><summary>detail</summary>Published in 25th International Conference on Image Processing</details>|
 |**2023-2-13**|**IDMS: Instance Depth for Multi-scale Monocular 3D Object Detection**|Chao Huet.al|[paper](https://arxiv.org/abs/2212.01528)|-|<details><summary>detail</summary>This submission has been withdrawn by arXiv administrators due to inappropriate text overlap with external sources</details>|
 |**2023-2-13**|**Explicit3D: Graph Network with Spatial Inference \\for Single Image 3D Object Detection**|Yanjun Liuet.al|[paper](https://arxiv.org/abs/2302.06494)|-|-|
-|**2023-2-13**|**Surface-biased Multi-Level Context 3D Object Detection**|Sultan Abu Ghazalet.al|[paper](https://arxiv.org/abs/2302.06291)|-|-|
-|**2023-2-12**|**Threatening Patch Attacks on Object Detection in Optical Remote Sensing Images**|Xuxiang Sunet.al|[paper](https://arxiv.org/abs/2302.06060)|-|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-2-17**|**Cross-Domain Label Propagation for Domain Adaptation with Discriminative Graph Self-Learning**|Lei Tianet.al|[paper](https://arxiv.org/abs/2302.08710)|-|-|
 |**2023-2-17**|**Self-Supervised Vision Transformer Based Nearest Neighbor Classification for Multi-Source Open-Set Domain Adaptation**|J Li et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20868-3_40)|-|<details><summary>detail</summary>Pacific Rim International Conference on Artificial…, 2022 Springer</details>|
 |**2023-2-17**|**Source-Free Implicit Semantic Augmentation for Domain Adaptation**|Z Zhang et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20865-2_2)|-|<details><summary>detail</summary>Pacific Rim International Conference on Artificial…, 2022 Springer</details>|
 |**2023-2-17**|**Small Object Detection in Infrared Images: Learning from Imbalanced Cross-Domain Data via Domain Adaptation**|J Kim et.al|[paper](https://www.mdpi.com/1927658)|-|<details><summary>detail</summary>Applied Sciences, 2022 mdpi.com</details>|
@@ -96,7 +97,6 @@
 |**2023-2-12**|**Attention-based Domain Adaptation Forecasting of Streamflow in Data Sparse Regions**|Roland Orucheet.al|[paper](https://arxiv.org/abs/2302.05386)|-|-|
 |**2023-2-12**|**Predicting Class Distribution Shift for Reliable Domain Adaptive Object Detection**|Nicolas Harvey Chapmanet.al|[paper](https://arxiv.org/abs/2302.06039)|-|-|
 |**2023-2-12**|**AIDA: Legal Judgment Predictions for Non-Professional Fact Descriptions via Partial-and-Imbalanced Domain Adaptation**|Guangyi Xiaoet.al|[paper](https://arxiv.org/abs/2302.07728)|-|-|
-|**2023-2-11**|**Decorate the Newcomers: Visual Domain Prompt for Continual Test Time Adaptation**|Yulu Ganet.al|[paper](https://arxiv.org/abs/2212.04145)|-|<details><summary>detail</summary>AAAI2023 Outstanding Student Paper Award</details>|
 
 ## domain generalization
 
