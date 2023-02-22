@@ -35,33 +35,39 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-2-21**|**A General Visual Representation Guided Framework with Global Affinity for Weakly Supervised Salient Object Detection**|Binwei Xuet.al|[paper](https://arxiv.org/abs/2302.10697)|-|-|
+|**2023-2-21**|**Self-improving object detection via disagreement reconciliation**|Gianluca Scarpelliniet.al|[paper](https://arxiv.org/abs/2302.10624)|-|<details><summary>detail</summary>This article is a conference paper related to arXiv:2302</details>|
+|**2023-2-21**|**MonoPGC: Monocular 3D Object Detection with Pixel Geometry Contexts**|Zizhang Wuet.al|[paper](https://arxiv.org/abs/2302.10549)|-|<details><summary>detail</summary>Accepted by ICRA 2023</details>|
+|**2023-2-21**|**MVFusion: Multi-View 3D Object Detection with Semantic-aligned Radar and Camera Fusion**|Zizhang Wuet.al|[paper](https://arxiv.org/abs/2302.10511)|-|<details><summary>detail</summary>Accepted by ICRA 2023</details>|
+|**2023-2-21**|**Oriented Object Detection in Optical Remote Sensing Images: A Survey**|Kun Wanget.al|[paper](https://arxiv.org/abs/2302.10473)|-|-|
+|**2023-2-21**|**Automotive RADAR sub-sampling via object detection networks: Leveraging prior signal information**|Madhumitha Sakthiet.al|[paper](https://arxiv.org/abs/2302.10450)|-|-|
+|**2023-2-20**|**Assessing Domain Gap for Continual Domain Adaptation in Object Detection**|Anh-Dzung Doanet.al|[paper](https://arxiv.org/abs/2302.10396)|[code](https://github.com/dadung/DGE-CDA.)|<details><summary>detail</summary>Submitted to CVIU</details>|
 |**2023-2-20**|**Parallel Residual Bi-Fusion Feature Pyramid Network for Accurate Single-Shot Object Detection**|Ping-Yang Chenet.al|[paper](https://arxiv.org/abs/2012.01724)|[code](https://github.com/pingyang1117/PRBNet_PyTorch.)|<details><summary>detail</summary>accepted by IEEE transactions on Image Processing</details>|
 |**2023-2-20**|**Incremental Few-Shot Object Detection via Simple Fine-Tuning Approach**|Tae-Min Choiet.al|[paper](https://arxiv.org/abs/2302.09779)|-|<details><summary>detail</summary>ICRA 2023</details>|
 |**2023-2-19**|**X-Adv: Physical Adversarial Object Attacks against X-ray Prohibited Item Detection**|Aishan Liuet.al|[paper](https://arxiv.org/abs/2302.09491)|-|<details><summary>detail</summary>Accepted by USENIX Security 2023</details>|
 |**2023-2-19**|**E-detector: Asynchronous Spatio-temporal for Event-based Object Detection in Intelligent Transportation System**|S Zhang et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3584361)|-|<details><summary>detail</summary>ACM Transactions on Multimedia…, 2023 dl.acm.org</details>|
 |**2023-2-18**|**mBEST: Realtime Deformable Linear Object Detection Through Minimal Bending Energy Skeleton Pixel Traversals**|Andrew Choiet.al|[paper](https://arxiv.org/abs/2302.09444)|-|-|
 |**2023-2-18**|**Hyneter: Hybrid Network Transformer for Object Detection**|Dong Chenet.al|[paper](https://arxiv.org/abs/2302.09365)|-|<details><summary>detail</summary>ICASSP 2023</details>|
-|**2023-2-18**|**3M3D: Multi-view, Multi-path, Multi-representation for 3D Object Detection**|J Park et.al|[paper](https://arxiv.org/abs/2302.08231)|[code](https://paperswithcode.com/paper/3m3d-multi-view-multi-path-multi)|-|
-|**2023-2-18**|**Research on road object detection algorithm based on improved YOLOX**|T Yang et.al|[paper](https://arxiv.org/abs/2302.08156)|[code](https://paperswithcode.com/paper/research-on-road-object-detection-algorithm)|-|
-|**2023-2-18**|**Hierarchical Cross-modal Transformer for RGB-D Salient Object Detection**|H Chen et.al|[paper](https://arxiv.org/abs/2302.08052)|[code](https://github.com/liuzywen/swinnet)|-|
 |**2023-2-18**|**…Simultaneous Defects Visualizing Algorithm for Both Macro and Micro Defects Based on Nonlinear Lamb Wave with an Application of Faster R-Cnn Object Detection**|Y Lee et.al|[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4362451)|-|<details><summary>detail</summary>Available at SSRN 4362451 papers.ssrn.com</details>|
 |**2023-2-18**|**YOGA: Deep Object Detection in the Wild with Lightweight Feature Learning and Multiscale Attention**|R Sunkara et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0031320323001516)|-|<details><summary>detail</summary>Pattern Recognition, 2023 Elsevier</details>|
 |**2023-2-18**|**Spectral-Spatial Feature Enhancement Algorithm for Nighttime Object Detection and Tracking**|Y Lv et.al|[paper](https://www.mdpi.com/2073-8994/15/2/546)|-|<details><summary>detail</summary>Symmetry, 2023 mdpi.com</details>|
 |**2023-2-18**|**CRRNet: Channel Relation Reasoning Network for Salient Object Detection**|S Gao et.al|[paper](https://link.springer.com/chapter/10.1007/978-981-99-0301-6_2)|-|<details><summary>detail</summary>…Conference, CCF CIRAC 2022, Xi'an…, 2023 Springer</details>|
 |**2023-2-18**|**Iterative Fusion and Dual Enhancement for Accurate and Efficient Object Detection**|Z Duan et.al|[paper](https://www.worldscientific.com/doi/abs/10.1142/S0218126623502328)|-|<details><summary>detail</summary>Journal of Circuits…, 2023 World Scientific</details>|
 |**2023-2-18**|**CTA-FPN: Channel-Target Attention Feature Pyramid Network for Prohibited Object Detection in X-ray Images**|Y Zhang et.al|[paper](https://www.researchsquare.com/article/rs-2584406/latest.pdf)|-|<details><summary>detail</summary>2023 researchsquare.com</details>|
+|**2023-2-18**|**Hierarchical Cross-modal Transformer for RGB-D Salient Object Detection**|H Chen et.al|[paper](https://arxiv.org/abs/2302.08052)|[code](https://github.com/liuzywen/swinnet)|-|
+|**2023-2-18**|**3M3D: Multi-view, Multi-path, Multi-representation for 3D Object Detection**|J Park et.al|[paper](https://arxiv.org/abs/2302.08231)|[code](https://paperswithcode.com/paper/3m3d-multi-view-multi-path-multi)|-|
+|**2023-2-18**|**Research on road object detection algorithm based on improved YOLOX**|T Yang et.al|[paper](https://arxiv.org/abs/2302.08156)|[code](https://paperswithcode.com/paper/research-on-road-object-detection-algorithm)|-|
 |**2023-2-17**|**2D-Empowered 3D Object Detection on the Edge**|Jingzong Liet.al|[paper](https://arxiv.org/abs/2302.09221)|-|-|
 |**2023-2-17**|**H2RBox: Horizontal Box Annotation is All You Need for Oriented Object Detection**|Xue Yanget.al|[paper](https://arxiv.org/abs/2210.06742)|[code](https://github.com/yangxue0827/h2rbox-mmrotate)|-|
 |**2023-2-17**|**Raw Radar data based Object Detection and Heading estimation using Cross Attention**|Ravi Kothariet.al|[paper](https://arxiv.org/abs/2205.08406)|-|-|
-|**2023-2-16**|**CAVER: Cross-Modal View-Mixed Transformer for Bi-Modal Salient Object Detection**|Youwei Panget.al|[paper](https://arxiv.org/abs/2112.02363)|[code](https://github.com/lartpang/CAVER)|<details><summary>detail</summary>Accepted by TIP-2023</details>|
-|**2023-2-16**|**3D Dual-Fusion: Dual-Domain Dual-Query Camera-LiDAR Fusion for 3D Object Detection**|Yecheol Kimet.al|[paper](https://arxiv.org/abs/2211.13529)|-|-|
-|**2023-2-15**|**Efficient Teacher: Semi-Supervised Object Detection for YOLOv5**|Bowen Xuet.al|[paper](https://arxiv.org/abs/2302.07577)|-|-|
-|**2023-2-15**|**Learning to Reduce Information Bottleneck for Object Detection in Aerial Images**|Yuchen Shenet.al|[paper](https://arxiv.org/abs/2204.02033)|-|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-2-21**|**NN-Adapter: Efficient Domain Adaptation for Black-Box Language Models**|Yangsibo Huanget.al|[paper](https://arxiv.org/abs/2302.10879)|-|-|
+|**2023-2-21**|**Provably Uncertainty-Guided Universal Domain Adaptation**|Yifan Wanget.al|[paper](https://arxiv.org/abs/2209.09616)|-|-|
+|**2023-2-20**|**Assessing Domain Gap for Continual Domain Adaptation in Object Detection**|Anh-Dzung Doanet.al|[paper](https://arxiv.org/abs/2302.10396)|[code](https://github.com/dadung/DGE-CDA.)|<details><summary>detail</summary>Submitted to CVIU</details>|
 |**2023-2-19**|**SePiCo: Semantic-Guided Pixel Contrast for Domain Adaptive Semantic Segmentation**|Binhui Xieet.al|[paper](https://arxiv.org/abs/2204.08808)|[code](https://github.com/BIT-DA/SePiCo)|<details><summary>detail</summary>Accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)</details>|
 |**2023-2-18**|**TTN: A Domain-Shift Aware Batch Normalization in Test-Time Adaptation**|Hyesu Limet.al|[paper](https://arxiv.org/abs/2302.05155)|-|<details><summary>detail</summary>ICLR2023 Accepted</details>|
 |**2023-2-18**|**Kurcuma: a kitchen utensil recognition collection for unsupervised domain adaptation**|A Rosello et.al|[paper](https://link.springer.com/article/10.1007/s10044-023-01147-x)|-|<details><summary>detail</summary>Mas, AJ Gallego… Pattern Analysis and…, 2023 Springer</details>|
@@ -83,9 +89,6 @@
 |**2023-2-14**|**Unsupervised domain adaptation semantic segmentation of high-resolution remote sensing imagery with invariant domain-level prototype memory**|Jingru Zhuet.al|[paper](https://arxiv.org/abs/2208.07722)|-|-|
 |**2023-2-13**|**In Search for a Generalizable Method for Source Free Domain Adaptation**|Malik Boudiafet.al|[paper](https://arxiv.org/abs/2302.06658)|-|-|
 |**2023-2-13**|**Finetuning Is a Surprisingly Effective Domain Adaptation Baseline in Handwriting Recognition**|Jan Kohútet.al|[paper](https://arxiv.org/abs/2302.06308)|-|<details><summary>detail</summary>Submitted to ICDAR2023 conference</details>|
-|**2023-2-13**|**Discriminative Radial Domain Adaptation**|Zenan Huanget.al|[paper](https://arxiv.org/abs/2301.00383)|-|-|
-|**2023-2-13**|**Deep Domain Adaptation for Pavement Crack Detection**|Huijun Liuet.al|[paper](https://arxiv.org/abs/2111.10101)|-|<details><summary>detail</summary>Published on IEEE Transactions on Intelligent Transportation Systems</details>|
-|**2023-2-13**|**Generative appearance replay for continual unsupervised domain adaptation**|Boqi Chenet.al|[paper](https://arxiv.org/abs/2301.01211)|-|<details><summary>detail</summary>Fixed typos</details>|
 
 ## domain generalization
 
