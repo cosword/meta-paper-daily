@@ -35,6 +35,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-2-22**|**Towards End-to-end Semi-supervised Learning for One-stage Object Detection**|Gen Luoet.al|[paper](https://arxiv.org/abs/2302.11299)|[code](https://github.com/luogen1996/OneTeacher.)|-|
 |**2023-2-21**|**A General Visual Representation Guided Framework with Global Affinity for Weakly Supervised Salient Object Detection**|Binwei Xuet.al|[paper](https://arxiv.org/abs/2302.10697)|-|-|
 |**2023-2-21**|**Self-improving object detection via disagreement reconciliation**|Gianluca Scarpelliniet.al|[paper](https://arxiv.org/abs/2302.10624)|-|<details><summary>detail</summary>This article is a conference paper related to arXiv:2302</details>|
 |**2023-2-21**|**MonoPGC: Monocular 3D Object Detection with Pixel Geometry Contexts**|Zizhang Wuet.al|[paper](https://arxiv.org/abs/2302.10549)|-|<details><summary>detail</summary>Accepted by ICRA 2023</details>|
@@ -59,12 +60,13 @@
 |**2023-2-18**|**Hyneter: Hybrid Network Transformer for Object Detection**|Dong Chenet.al|[paper](https://arxiv.org/abs/2302.09365)|-|<details><summary>detail</summary>ICASSP 2023</details>|
 |**2023-2-17**|**2D-Empowered 3D Object Detection on the Edge**|Jingzong Liet.al|[paper](https://arxiv.org/abs/2302.09221)|-|-|
 |**2023-2-17**|**H2RBox: Horizontal Box Annotation is All You Need for Oriented Object Detection**|Xue Yanget.al|[paper](https://arxiv.org/abs/2210.06742)|[code](https://github.com/yangxue0827/h2rbox-mmrotate)|-|
-|**2023-2-17**|**Raw Radar data based Object Detection and Heading estimation using Cross Attention**|Ravi Kothariet.al|[paper](https://arxiv.org/abs/2205.08406)|-|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-2-22**|**Energy-Based Test Sample Adaptation for Domain Generalization**|Zehao Xiaoet.al|[paper](https://arxiv.org/abs/2302.11215)|-|<details><summary>detail</summary>Accepted by ICLR 2023</details>|
+|**2023-2-21**|**Federated Domain Adaptation via Gradient Projection**|Enyi Jianget.al|[paper](https://arxiv.org/abs/2302.05049)|-|-|
 |**2023-2-21**|**NN-Adapter: Efficient Domain Adaptation for Black-Box Language Models**|Yangsibo Huanget.al|[paper](https://arxiv.org/abs/2302.10879)|-|-|
 |**2023-2-21**|**Provably Uncertainty-Guided Universal Domain Adaptation**|Yifan Wanget.al|[paper](https://arxiv.org/abs/2209.09616)|-|-|
 |**2023-2-20**|**Assessing Domain Gap for Continual Domain Adaptation in Object Detection**|Anh-Dzung Doanet.al|[paper](https://arxiv.org/abs/2302.10396)|[code](https://github.com/dadung/DGE-CDA.)|<details><summary>detail</summary>Submitted to CVIU</details>|
@@ -87,13 +89,12 @@
 |**2023-2-14**|**MSDA: Monocular Self-supervised Domain Adaptation for 6D Object Pose Estimation**|Dingding Caiet.al|[paper](https://arxiv.org/abs/2302.07300)|-|<details><summary>detail</summary>SCIA2023</details>|
 |**2023-2-14**|**Hard-aware Instance Adaptive Self-training for Unsupervised Cross-domain Semantic Segmentation**|Chuang Zhuet.al|[paper](https://arxiv.org/abs/2302.06992)|-|<details><summary>detail</summary>arXiv admin note: text overlap with arXiv:2008</details>|
 |**2023-2-14**|**Unsupervised domain adaptation semantic segmentation of high-resolution remote sensing imagery with invariant domain-level prototype memory**|Jingru Zhuet.al|[paper](https://arxiv.org/abs/2208.07722)|-|-|
-|**2023-2-13**|**In Search for a Generalizable Method for Source Free Domain Adaptation**|Malik Boudiafet.al|[paper](https://arxiv.org/abs/2302.06658)|-|-|
-|**2023-2-13**|**Finetuning Is a Surprisingly Effective Domain Adaptation Baseline in Handwriting Recognition**|Jan Kohútet.al|[paper](https://arxiv.org/abs/2302.06308)|-|<details><summary>detail</summary>Submitted to ICDAR2023 conference</details>|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-2-22**|**Energy-Based Test Sample Adaptation for Domain Generalization**|Zehao Xiaoet.al|[paper](https://arxiv.org/abs/2302.11215)|-|<details><summary>detail</summary>Accepted by ICLR 2023</details>|
 |**2023-2-20**|**Domain Generalization with Global Sample Mixup**|Y Lu et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-25075-0_35)|-|<details><summary>detail</summary>European Conference on Computer…, 2023 Springer</details>|
 |**2023-2-20**|**Cross-Domain Augmentation Diagnosis: An Adversarial Domain-Augmented Generalization Method for Fault Diagnosis under Unseen Working Conditions**|Q Li et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0951832023000868)|-|<details><summary>detail</summary>Reliability Engineering &…, 2023 Elsevier</details>|
 |**2023-2-19**|**Causal Balancing for Domain Generalization**|Xinyi Wanget.al|[paper](https://arxiv.org/abs/2206.05263)|-|<details><summary>detail</summary>Published at ICLR 2023</details>|
@@ -113,7 +114,6 @@
 |**2023-2-10**|**Cross-Corpora Spoken Language Identification with Domain Diversification and Generalization**|Spandan Deyet.al|[paper](https://arxiv.org/abs/2302.05110)|-|<details><summary>detail</summary>Accepted for publication in Elsevier Computer Speech & Language</details>|
 |**2023-2-9**|**Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks**|Guangji Baiet.al|[paper](https://arxiv.org/abs/2205.10664)|-|<details><summary>detail</summary>Published in ICLR 2023 (Oral)</details>|
 |**2023-2-9**|**Leveraging Domain Relations for Domain Generalization**|H Yao et.al|[paper](https://arxiv.org/abs/2302.02609)|[code](https://github.com/rusty1s/pytorch_geometric)|-|
-|**2023-2-7**|**Scaling Back-Translation with Domain Text Generation for Sign Language Gloss Translation**|Jinhui Yeet.al|[paper](https://arxiv.org/abs/2210.07054)|-|<details><summary>detail</summary>EACL 2023 (main conference)</details>|
 |**2023-2-7**|**Aggregation of Disentanglement: Reconsidering Domain Variations in Domain Generalization**|D Zhang et.al|[paper](https://arxiv.org/abs/2302.02350)|[code](https://paperswithcode.com/paper/aggregation-of-disentanglement-reconsidering)|-|
 |**2023-2-5**|**Domain Generalization Emerges from Dreaming**|H Heo et.al|[paper](https://arxiv.org/abs/2302.00980)|[code](https://paperswithcode.com/paper/domain-generalization-emerges-from-dreaming)|-|
 
