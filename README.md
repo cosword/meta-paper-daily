@@ -12,6 +12,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-2-23**|**A Comprehensive Survey on Source-free Domain Adaptation**|Zhiqi Yuet.al|[paper](https://arxiv.org/abs/2302.11803)|-|-|
 |**2023-2-16**|**In Search for a Generalizable Method for Source Free Domain Adaptation**|M Boudiaf et.al|[paper](https://arxiv.org/abs/2302.06658)|[code](https://paperswithcode.com/paper/in-search-for-a-generalizable-method-for)|-|
 |**2023-2-13**|**MAPS: A Noise-Robust Progressive Learning Approach for Source-Free Domain Adaptive Keypoint Detection**|Y Ding et.al|[paper](https://arxiv.org/abs/2302.04589)|[code](https://paperswithcode.com/paper/maps-a-noise-robust-progressive-learning)|-|
 |**2023-2-10**|**Key Design Choices for Double-Transfer in Source-Free Unsupervised Domain Adaptation**|Andrea Maracaniet.al|[paper](https://arxiv.org/abs/2302.05379)|-|-|
@@ -29,12 +30,13 @@
 |**2023-1-11**|**Collision-free Source Seeking Control Methods for Unicycle Robots**|Tinghua Liet.al|[paper](https://arxiv.org/abs/2212.07203)|-|-|
 |**2023-1-11**|**Collision-free Source Seeking and Flocking Control of Multi-agents with Connectivity Preservation**|Tinghua Liet.al|[paper](https://arxiv.org/abs/2301.04576)|-|-|
 |**2023-1-11**|**OneRing: A Simple Method for Source-free Open-partial Domain Adaptation**|Shiqi Yanget.al|[paper](https://arxiv.org/abs/2206.03600)|-|<details><summary>detail</summary>Updated</details>|
-|**2023-1-10**|**Adversarial Alignment for Source Free Object Detection**|Qiaosong Chuet.al|[paper](https://arxiv.org/abs/2301.04265)|-|-|
 
 ## object detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-2-23**|**A novel efficient Multi-view traffic-related object detection framework**|Kun Yanget.al|[paper](https://arxiv.org/abs/2302.11810)|-|<details><summary>detail</summary>Accepted by ICASSP 2023</details>|
+|**2023-2-22**|**Open-World Object Detection via Discriminative Class Prototype Learning**|Jinan Yuet.al|[paper](https://arxiv.org/abs/2302.11757)|-|-|
 |**2023-2-22**|**Towards End-to-end Semi-supervised Learning for One-stage Object Detection**|Gen Luoet.al|[paper](https://arxiv.org/abs/2302.11299)|[code](https://github.com/luogen1996/OneTeacher.)|-|
 |**2023-2-21**|**A General Visual Representation Guided Framework with Global Affinity for Weakly Supervised Salient Object Detection**|Binwei Xuet.al|[paper](https://arxiv.org/abs/2302.10697)|-|-|
 |**2023-2-21**|**Self-improving object detection via disagreement reconciliation**|Gianluca Scarpelliniet.al|[paper](https://arxiv.org/abs/2302.10624)|-|<details><summary>detail</summary>This article is a conference paper related to arXiv:2302</details>|
@@ -58,13 +60,14 @@
 |**2023-2-19**|**X-Adv: Physical Adversarial Object Attacks against X-ray Prohibited Item Detection**|Aishan Liuet.al|[paper](https://arxiv.org/abs/2302.09491)|-|<details><summary>detail</summary>Accepted by USENIX Security 2023</details>|
 |**2023-2-18**|**mBEST: Realtime Deformable Linear Object Detection Through Minimal Bending Energy Skeleton Pixel Traversals**|Andrew Choiet.al|[paper](https://arxiv.org/abs/2302.09444)|-|-|
 |**2023-2-18**|**Hyneter: Hybrid Network Transformer for Object Detection**|Dong Chenet.al|[paper](https://arxiv.org/abs/2302.09365)|-|<details><summary>detail</summary>ICASSP 2023</details>|
-|**2023-2-17**|**2D-Empowered 3D Object Detection on the Edge**|Jingzong Liet.al|[paper](https://arxiv.org/abs/2302.09221)|-|-|
-|**2023-2-17**|**H2RBox: Horizontal Box Annotation is All You Need for Oriented Object Detection**|Xue Yanget.al|[paper](https://arxiv.org/abs/2210.06742)|[code](https://github.com/yangxue0827/h2rbox-mmrotate)|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-2-23**|**Domain Generalisation via Domain Adaptation: An Adversarial Fourier Amplitude Approach**|Minyoung Kimet.al|[paper](https://arxiv.org/abs/2302.12047)|-|-|
+|**2023-2-23**|**Unsupervised Domain Adaptation via Distilled Discriminative Clustering**|Hui Tanget.al|[paper](https://arxiv.org/abs/2302.11984)|-|<details><summary>detail</summary>A journal paper published by Pattern Recognition in 2022</details>|
+|**2023-2-23**|**A Comprehensive Survey on Source-free Domain Adaptation**|Zhiqi Yuet.al|[paper](https://arxiv.org/abs/2302.11803)|-|-|
 |**2023-2-22**|**Energy-Based Test Sample Adaptation for Domain Generalization**|Zehao Xiaoet.al|[paper](https://arxiv.org/abs/2302.11215)|-|<details><summary>detail</summary>Accepted by ICLR 2023</details>|
 |**2023-2-21**|**Federated Domain Adaptation via Gradient Projection**|Enyi Jianget.al|[paper](https://arxiv.org/abs/2302.05049)|-|-|
 |**2023-2-21**|**NN-Adapter: Efficient Domain Adaptation for Black-Box Language Models**|Yangsibo Huanget.al|[paper](https://arxiv.org/abs/2302.10879)|-|-|
@@ -86,14 +89,12 @@
 |**2023-2-17**|**Cross-Domain Label Propagation for Domain Adaptation with Discriminative Graph Self-Learning**|Lei Tianet.al|[paper](https://arxiv.org/abs/2302.08710)|-|-|
 |**2023-2-16**|**Multimodal Dyadic Impression Recognition via Listener Adaptive Cross-Domain Fusion**|Yuanchao Liet.al|[paper](https://arxiv.org/abs/2211.05163)|-|<details><summary>detail</summary>ICASSP2023</details>|
 |**2023-2-16**|**UDApter -- Efficient Domain Adaptation Using Adapters**|Bhavitvya Maliket.al|[paper](https://arxiv.org/abs/2302.03194)|[code](https://github.com/declare-lab/domadapter)|<details><summary>detail</summary>EACL 2023</details>|
-|**2023-2-14**|**MSDA: Monocular Self-supervised Domain Adaptation for 6D Object Pose Estimation**|Dingding Caiet.al|[paper](https://arxiv.org/abs/2302.07300)|-|<details><summary>detail</summary>SCIA2023</details>|
-|**2023-2-14**|**Hard-aware Instance Adaptive Self-training for Unsupervised Cross-domain Semantic Segmentation**|Chuang Zhuet.al|[paper](https://arxiv.org/abs/2302.06992)|-|<details><summary>detail</summary>arXiv admin note: text overlap with arXiv:2008</details>|
-|**2023-2-14**|**Unsupervised domain adaptation semantic segmentation of high-resolution remote sensing imagery with invariant domain-level prototype memory**|Jingru Zhuet.al|[paper](https://arxiv.org/abs/2208.07722)|-|-|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-2-23**|**Variational Disentanglement for Domain Generalization**|Yufei Wanget.al|[paper](https://arxiv.org/abs/2109.05826)|-|-|
 |**2023-2-22**|**Energy-Based Test Sample Adaptation for Domain Generalization**|Zehao Xiaoet.al|[paper](https://arxiv.org/abs/2302.11215)|-|<details><summary>detail</summary>Accepted by ICLR 2023</details>|
 |**2023-2-21**|**Domain Generalization with Global Sample Mixup**|Y Lu et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-25075-0_35)|-|<details><summary>detail</summary>European Conference on Computer…, 2023 Springer</details>|
 |**2023-2-21**|**Cross-Domain Augmentation Diagnosis: An Adversarial Domain-Augmented Generalization Method for Fault Diagnosis under Unseen Working Conditions**|Q Li et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0951832023000868)|-|<details><summary>detail</summary>Reliability Engineering &…, 2023 Elsevier</details>|
