@@ -35,6 +35,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-3-1**|**D2Q-DETR: Decoupling and Dynamic Queries for Oriented Object Detection with Transformers**|Qiang Zhouet.al|[paper](https://arxiv.org/abs/2303.00542)|-|<details><summary>detail</summary>5 figures</details>|
+|**2023-3-1**|**CAT: LoCalization and IdentificAtion Cascade Detection Transformer for Open-World Object Detection**|Shuailei Maet.al|[paper](https://arxiv.org/abs/2301.01970)|-|-|
+|**2023-3-1**|**Monocular 3D Object Detection with Depth from Motion**|Tai Wanget.al|[paper](https://arxiv.org/abs/2207.12988)|[code](https://github.com/Tai-Wang/Depth-from-Motion.)|<details><summary>detail</summary>ECCV 2022 Oral</details>|
+|**2023-2-28**|**Onboard dynamic-object detection and tracking for autonomous robot navigation with RGB-D camera**|Zhefan Xuet.al|[paper](https://arxiv.org/abs/2303.00132)|-|-|
 |**2023-2-28**|**DFR-FastMOT: Detection Failure Resistant Tracker for Fast Multi-Object Tracking Based on Sensor Fusion**|Mohamed Nagyet.al|[paper](https://arxiv.org/abs/2302.14807)|[code](https://github.com/MohamedNagyMostafa/DFR-FastMOT.)|<details><summary>detail</summary>\c{opyright} 2023 IEEE</details>|
 |**2023-2-28**|**AdaptiveShape: Solving Shape Variability for 3D Object Detection with Geometry Aware Anchor Distributions**|Benjamin Sicket.al|[paper](https://arxiv.org/abs/2302.14522)|-|-|
 |**2023-2-28**|**Memory-aided Contrastive Consensus Learning for Co-salient Object Detection**|Peng Zhenget.al|[paper](https://arxiv.org/abs/2302.14485)|[code](https://github.com/ZhengPeng7/MCCL.)|<details><summary>detail</summary>AAAI 2023</details>|
@@ -56,15 +60,12 @@
 |**2023-2-26**|**Hierarchical Cross-modal Transformer for RGB-D Salient Object Detection**|H Chen et.al|[paper](https://arxiv.org/abs/2302.08052)|[code](https://github.com/liuzywen/swinnet)|-|
 |**2023-2-26**|**3M3D: Multi-view, Multi-path, Multi-representation for 3D Object Detection**|J Park et.al|[paper](https://arxiv.org/abs/2302.08231)|[code](https://paperswithcode.com/paper/3m3d-multi-view-multi-path-multi)|-|
 |**2023-2-26**|**Research on road object detection algorithm based on improved YOLOX**|T Yang et.al|[paper](https://arxiv.org/abs/2302.08156)|[code](https://paperswithcode.com/paper/research-on-road-object-detection-algorithm)|-|
-|**2023-2-25**|**BOP Challenge 2022 on Detection, Segmentation and Pose Estimation of Specific Rigid Objects**|Martin Sundermeyeret.al|[paper](https://arxiv.org/abs/2302.13075)|[code](http://bop.felk.cvut.cz/)|<details><summary>detail</summary>arXiv admin note: text overlap with arXiv:2009</details>|
-|**2023-2-25**|**DA-BEV: Depth Aware BEV Transformer for 3D Object Detection**|Hao Zhanget.al|[paper](https://arxiv.org/abs/2302.13002)|-|<details><summary>detail</summary>First submission</details>|
-|**2023-2-23**|**F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models**|Weicheng Kuoet.al|[paper](https://arxiv.org/abs/2209.15639)|[code](https://sites.google.com/view/f-vlm/home)|<details><summary>detail</summary>ICLR 2023 (https://iclr</details>|
-|**2023-2-23**|**A novel efficient Multi-view traffic-related object detection framework**|Kun Yanget.al|[paper](https://arxiv.org/abs/2302.11810)|-|<details><summary>detail</summary>Accepted by ICASSP 2023</details>|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-3-1**|**Domain Adaptation under Missingness Shift**|Helen Zhouet.al|[paper](https://arxiv.org/abs/2211.02093)|-|-|
 |**2023-2-28**|**Tracking Fast by Learning Slow: An Event-based Speed Adaptive Hand Tracker Leveraging Knowledge in RGB Domain**|Chuanlin Lanet.al|[paper](https://arxiv.org/abs/2302.14430)|-|-|
 |**2023-2-28**|**Spectrally Adapted Physics-Informed Neural Networks for Solving Unbounded Domain Problems**|Mingtao Xiaet.al|[paper](https://arxiv.org/abs/2202.02710)|-|-|
 |**2023-2-27**|**Approximately optimal domain adaptation with Fisher's Linear Discriminant Analysis**|Hayden S. Helmet.al|[paper](https://arxiv.org/abs/2302.14186)|-|-|
@@ -89,12 +90,12 @@
 |**2023-2-23**|**Domain Generalisation via Domain Adaptation: An Adversarial Fourier Amplitude Approach**|Minyoung Kimet.al|[paper](https://arxiv.org/abs/2302.12047)|-|-|
 |**2023-2-23**|**Unsupervised Domain Adaptation via Distilled Discriminative Clustering**|Hui Tanget.al|[paper](https://arxiv.org/abs/2302.11984)|-|<details><summary>detail</summary>A journal paper published by Pattern Recognition in 2022</details>|
 |**2023-2-23**|**A Comprehensive Survey on Source-free Domain Adaptation**|Zhiqi Yuet.al|[paper](https://arxiv.org/abs/2302.11803)|-|-|
-|**2023-2-22**|**Energy-Based Test Sample Adaptation for Domain Generalization**|Zehao Xiaoet.al|[paper](https://arxiv.org/abs/2302.11215)|-|<details><summary>detail</summary>Accepted by ICLR 2023</details>|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-3-1**|**First-shot anomaly sound detection for machine condition monitoring: A domain generalization baseline**|Noboru Haradaet.al|[paper](https://arxiv.org/abs/2303.00455)|[code](https://github.com/nttcslab/dcase2023_task2_baseline_ae)|-|
 |**2023-2-27**|**Improving Model Generalization by On-manifold Adversarial Augmentation in the Frequency Domain**|Chang Liuet.al|[paper](https://arxiv.org/abs/2302.14302)|-|<details><summary>detail</summary>International Journal of Computer Vision (IJCV) [under review]</details>|
 |**2023-2-27**|**Stock Broad-Index Trend Patterns Learning via Domain Knowledge Informed Generative Network**|Jingyi Guet.al|[paper](https://arxiv.org/abs/2302.14164)|-|-|
 |**2023-2-27**|**Text-only domain adaptation for end-to-end ASR using integrated text-to-mel-spectrogram generator**|Vladimir Bataevet.al|[paper](https://arxiv.org/abs/2302.14036)|-|-|
@@ -116,7 +117,6 @@
 |**2023-2-15**|**Depth- and Semantics-aware Multi-modal Domain Translation: Generating 3D Panoramic Color Images from LiDAR Point Clouds**|Tiago Cortinhalet.al|[paper](https://arxiv.org/abs/2302.07661)|-|-|
 |**2023-2-14**|**ManyDG: Many-domain Generalization for Healthcare Applications**|Chaoqi Yanget.al|[paper](https://arxiv.org/abs/2301.08834)|[code](https://openreview.net/forum?id=lcSfirnflpW.)|<details><summary>detail</summary>The paper has been accepted by ICLR 2023</details>|
 |**2023-2-14**|**Aggregation of Disentanglement: Reconsidering Domain Variations in Domain Generalization**|D Zhang et.al|[paper](https://arxiv.org/abs/2302.02350)|[code](https://paperswithcode.com/paper/aggregation-of-disentanglement-reconsidering)|-|
-|**2023-2-13**|**Generative appearance replay for continual unsupervised domain adaptation**|Boqi Chenet.al|[paper](https://arxiv.org/abs/2301.01211)|-|<details><summary>detail</summary>Fixed typos</details>|
 |**2023-2-12**|**Domain Generalization Emerges from Dreaming**|H Heo et.al|[paper](https://arxiv.org/abs/2302.00980)|[code](https://paperswithcode.com/paper/domain-generalization-emerges-from-dreaming)|-|
 
 ## hand pose estimation
