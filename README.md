@@ -35,8 +35,15 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-3-3**|**BSH-Det3D: Improving 3D Object Detection with BEV Shape Heatmap**|You Shenet.al|[paper](https://arxiv.org/abs/2303.02000)|[code](https://github.com/mystorm16/BSH-Det3D.)|-|
+|**2023-3-3**|**Confidence-driven Bounding Box Localization for Small Object Detection**|Huixin Sunet.al|[paper](https://arxiv.org/abs/2303.01803)|-|-|
+|**2023-3-3**|**MSMDFusion: Fusing LiDAR and Camera at Multiple Scales with Multi-Depth Seeds for 3D Object Detection**|Yang Jiaoet.al|[paper](https://arxiv.org/abs/2209.03102)|[code](https://github.com/SxJyJay/MSMDFusion.)|<details><summary>detail</summary>Accepted by CVPR 2023</details>|
+|**2023-3-3**|**AdvART: Adversarial Art for Camouflaged Object Detection Attacks**|Amira Guesmiet.al|[paper](https://arxiv.org/abs/2303.01734)|-|-|
 |**2023-3-3**|**E-detector: Asynchronous Spatio-temporal for Event-based Object Detection in Intelligent Transportation System**|S Zhang et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3584361)|-|<details><summary>detail</summary>ACM Transactions on Multimedia…, 2023 dl.acm.org</details>|
+|**2023-3-2**|**Towards Domain Generalization for Multi-view 3D Object Detection in Bird-Eye-View**|Shuo Wanget.al|[paper](https://arxiv.org/abs/2303.01686)|-|<details><summary>detail</summary>CVPR 2023</details>|
+|**2023-3-2**|**Robust Collaborative 3D Object Detection in Presence of Pose Errors**|Yifan Luet.al|[paper](https://arxiv.org/abs/2211.07214)|[code](https://github.com/yifanlu0227/CoAlign.)|<details><summary>detail</summary>Accepted by ICRA2023</details>|
 |**2023-3-2**|**Semi-supervised 3D Object Detection via Temporal Graph Neural Networks**|Jianren Wanget.al|[paper](https://arxiv.org/abs/2202.00182)|[code](https://www.jianrenw.com/SOD-TGNN/.)|<details><summary>detail</summary>3DV 2021</details>|
+|**2023-3-2**|**Enhanced Training of Query-Based Object Detection via Selective Query Recollection**|Fangyi Chenet.al|[paper](https://arxiv.org/abs/2212.07593)|-|<details><summary>detail</summary>CVPR2023</details>|
 |**2023-3-2**|**Raw or Cooked? Object Detection on RAW Images**|William Ljungberghet.al|[paper](https://arxiv.org/abs/2301.08965)|-|<details><summary>detail</summary>SCIA 2023</details>|
 |**2023-3-2**|**Deep-NFA: a Deep $\textit{a contrario}$ Framework for Small Object Detection**|Alina Ciocarlanet.al|[paper](https://arxiv.org/abs/2303.01363)|-|-|
 |**2023-3-2**|**A Coarse to Fine Framework for Object Detection in High Resolution Image**|Jinyan Liuet.al|[paper](https://arxiv.org/abs/2303.01219)|-|-|
@@ -53,18 +60,12 @@
 |**2023-3-1**|**D2Q-DETR: Decoupling and Dynamic Queries for Oriented Object Detection with Transformers**|Qiang Zhouet.al|[paper](https://arxiv.org/abs/2303.00542)|-|<details><summary>detail</summary>5 figures</details>|
 |**2023-3-1**|**CAT: LoCalization and IdentificAtion Cascade Detection Transformer for Open-World Object Detection**|Shuailei Maet.al|[paper](https://arxiv.org/abs/2301.01970)|-|-|
 |**2023-3-1**|**Monocular 3D Object Detection with Depth from Motion**|Tai Wanget.al|[paper](https://arxiv.org/abs/2207.12988)|[code](https://github.com/Tai-Wang/Depth-from-Motion.)|<details><summary>detail</summary>ECCV 2022 Oral</details>|
-|**2023-2-28**|**Onboard dynamic-object detection and tracking for autonomous robot navigation with RGB-D camera**|Zhefan Xuet.al|[paper](https://arxiv.org/abs/2303.00132)|-|-|
-|**2023-2-28**|**DFR-FastMOT: Detection Failure Resistant Tracker for Fast Multi-Object Tracking Based on Sensor Fusion**|Mohamed Nagyet.al|[paper](https://arxiv.org/abs/2302.14807)|[code](https://github.com/MohamedNagyMostafa/DFR-FastMOT.)|<details><summary>detail</summary>\c{opyright} 2023 IEEE</details>|
-|**2023-2-28**|**AdaptiveShape: Solving Shape Variability for 3D Object Detection with Geometry Aware Anchor Distributions**|Benjamin Sicket.al|[paper](https://arxiv.org/abs/2302.14522)|-|-|
-|**2023-2-28**|**Memory-aided Contrastive Consensus Learning for Co-salient Object Detection**|Peng Zhenget.al|[paper](https://arxiv.org/abs/2302.14485)|[code](https://github.com/ZhengPeng7/MCCL.)|<details><summary>detail</summary>AAAI 2023</details>|
-|**2023-2-28**|**An Effective Crop-Paste Pipeline for Few-shot Object Detection**|Shaobo Linet.al|[paper](https://arxiv.org/abs/2302.14452)|-|-|
-|**2023-2-28**|**At-Scale Evaluation of Weight Clustering to Enable Energy-Efficient Object Detection**|Martí Caroet.al|[paper](https://arxiv.org/abs/2302.14426)|-|-|
-|**2023-2-27**|**GLOW: Global Layout Aware Attacks for Object Detection**|Jun Baoet.al|[paper](https://arxiv.org/abs/2302.14166)|-|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-3-3**|**Exploiting Language Relatedness in Machine Translation Through Domain Adaptation Techniques**|Amit Kumaret.al|[paper](https://arxiv.org/abs/2303.01793)|-|-|
 |**2023-3-2**|**Cluster-Guided Semi-Supervised Domain Adaptation for Imbalanced Medical Image Classification**|Shota Haradaet.al|[paper](https://arxiv.org/abs/2303.01283)|-|-|
 |**2023-3-2**|**ADAS: A Simple Active-and-Adaptive Baseline for Cross-Domain 3D Semantic Segmentation**|Ben Feiet.al|[paper](https://arxiv.org/abs/2212.10390)|-|-|
 |**2023-3-2**|**Internal Language Model Estimation based Adaptive Language Model Fusion for Domain Adaptation**|Rao Maet.al|[paper](https://arxiv.org/abs/2211.00968)|-|<details><summary>detail</summary>Accepted by ICASSP 2023</details>|
@@ -89,15 +90,17 @@
 |**2023-2-27**|**Approximately optimal domain adaptation with Fisher's Linear Discriminant Analysis**|Hayden S. Helmet.al|[paper](https://arxiv.org/abs/2302.14186)|-|-|
 |**2023-2-27**|**Text-only domain adaptation for end-to-end ASR using integrated text-to-mel-spectrogram generator**|Vladimir Bataevet.al|[paper](https://arxiv.org/abs/2302.14036)|-|-|
 |**2023-2-27**|**Supervised Virtual-to-Real Domain Adaptation for Object Detection Task using YOLO**|Akbar Satya Nugrahaet.al|[paper](https://arxiv.org/abs/2302.13891)|-|-|
-|**2023-2-27**|**Domain Adaptive Decision Trees: Implications for Accuracy and Fairness**|Jose M. Alvarezet.al|[paper](https://arxiv.org/abs/2302.13846)|-|-|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-3-3**|**Generalized Semantic Segmentation by Self-Supervised Source Domain Projection and Multi-Level Contrastive Learning**|Liwei Yanget.al|[paper](https://arxiv.org/abs/2303.01906)|-|-|
 |**2023-3-3**|**Domain Generalization with Global Sample Mixup**|Y Lu et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-25075-0_35)|-|<details><summary>detail</summary>European Conference on Computer…, 2023 Springer</details>|
 |**2023-3-3**|**Cross-Domain Augmentation Diagnosis: An Adversarial Domain-Augmented Generalization Method for Fault Diagnosis under Unseen Working Conditions**|Q Li et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0951832023000868)|-|<details><summary>detail</summary>Reliability Engineering &…, 2023 Elsevier</details>|
+|**2023-3-2**|**Towards Domain Generalization for Multi-view 3D Object Detection in Bird-Eye-View**|Shuo Wanget.al|[paper](https://arxiv.org/abs/2303.01686)|-|<details><summary>detail</summary>CVPR 2023</details>|
 |**2023-3-2**|**CTRLStruct: Dialogue Structure Learning for Open-Domain Response Generation**|Congchi Yinet.al|[paper](https://arxiv.org/abs/2303.01094)|-|-|
+|**2023-3-2**|**Less is More: Mitigate Spurious Correlations for Open-Domain Dialogue Response Generation Models by Causal Discovery**|Tao Fenget.al|[paper](https://arxiv.org/abs/2303.01962)|-|-|
 |**2023-3-1**|**Domain-Independent Dynamic Programming: Generic State Space Search for Combinatorial Optimization**|Ryo Kuroiwaet.al|[paper](https://arxiv.org/abs/2211.14409)|-|<details><summary>detail</summary>This paper was accepted at the 33rd International Conference on Automated Planning and Scheduling (ICAPS) 2023</details>|
 |**2023-3-1**|**Domain-aware Triplet loss in Domain Generalization**|Kaiyu Guoet.al|[paper](https://arxiv.org/abs/2303.01233)|[code](https://github.com/workerbcd/DCT)|-|
 |**2023-3-1**|**First-shot anomaly sound detection for machine condition monitoring: A domain generalization baseline**|Noboru Haradaet.al|[paper](https://arxiv.org/abs/2303.00455)|[code](https://github.com/nttcslab/dcase2023_task2_baseline_ae)|-|
@@ -115,11 +118,8 @@
 |**2023-2-22**|**Energy-Based Test Sample Adaptation for Domain Generalization**|Zehao Xiaoet.al|[paper](https://arxiv.org/abs/2302.11215)|-|<details><summary>detail</summary>Accepted by ICLR 2023</details>|
 |**2023-2-20**|**Leveraging Domain Relations for Domain Generalization**|H Yao et.al|[paper](https://arxiv.org/abs/2302.02609)|[code](https://github.com/rusty1s/pytorch_geometric)|-|
 |**2023-2-19**|**Causal Balancing for Domain Generalization**|Xinyi Wanget.al|[paper](https://arxiv.org/abs/2206.05263)|-|<details><summary>detail</summary>Published at ICLR 2023</details>|
-|**2023-2-18**|**Towards Radar Emitter Recognition in Changing Environments with Domain Generalization**|Honglin Wuet.al|[paper](https://arxiv.org/abs/2302.09359)|-|-|
-|**2023-2-18**|**StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization**|Shirsha Boseet.al|[paper](https://arxiv.org/abs/2302.09251)|-|-|
 |**2023-2-18**|**Aggregation of Disentanglement: Reconsidering Domain Variations in Domain Generalization**|D Zhang et.al|[paper](https://arxiv.org/abs/2302.02350)|[code](https://paperswithcode.com/paper/aggregation-of-disentanglement-reconsidering)|-|
 |**2023-2-16**|**Domain Generalization Emerges from Dreaming**|H Heo et.al|[paper](https://arxiv.org/abs/2302.00980)|[code](https://paperswithcode.com/paper/domain-generalization-emerges-from-dreaming)|-|
-|**2023-2-15**|**Depth- and Semantics-aware Multi-modal Domain Translation: Generating 3D Panoramic Color Images from LiDAR Point Clouds**|Tiago Cortinhalet.al|[paper](https://arxiv.org/abs/2302.07661)|-|-|
 
 ## hand pose estimation
 
