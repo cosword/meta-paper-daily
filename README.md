@@ -35,22 +35,22 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-3-9**|**Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection**|Shilong Liuet.al|[paper](https://arxiv.org/abs/2303.05499)|[code](https://github.com/IDEA-Research/GroundingDINO)|-|
+|**2023-3-9**|**On Onboard LiDAR-based Flying Object Detection**|Matouš Vrbaet.al|[paper](https://arxiv.org/abs/2303.05404)|-|-|
+|**2023-3-9**|**Tucker Bilinear Attention Network for Multi-scale Remote Sensing Object Detection**|Tao Chenet.al|[paper](https://arxiv.org/abs/2303.05329)|[code](https://github.com/Shinichict/GTNet.)|<details><summary>detail</summary>arXiv admin note: text overlap with arXiv:1705</details>|
+|**2023-3-9**|**RGB-Event Fusion for Moving Object Detection in Autonomous Driving**|Zhuyun Zhouet.al|[paper](https://arxiv.org/abs/2209.08323)|[code](https://github.com/ZZY-Zhou/RENet.)|<details><summary>detail</summary>ICRA'23</details>|
+|**2023-3-9**|**Weakly Supervised Knowledge Transfer with Probabilistic Logical Reasoning for Object Detection**|Martijn Oldenhofet.al|[paper](https://arxiv.org/abs/2303.05148)|-|<details><summary>detail</summary>ICLR 2023</details>|
+|**2023-3-9**|**Fewer is More: Efficient Object Detection in Large Aerial Images**|Xingxing Xieet.al|[paper](https://arxiv.org/abs/2212.13136)|[code](https://github.com/Ranchosky/OAN.)|<details><summary>detail</summary>This manuscript is the accepted version for SCIENCE CHINA Information Sciences</details>|
+|**2023-3-9**|**DDS3D: Dense Pseudo-Labels with Dynamic Threshold for Semi-Supervised 3D Object Detection**|Jingyu Li1et.al|[paper](https://arxiv.org/abs/2303.05079)|[code](https://github.com/hust-jy/DDS3D)|<details><summary>detail</summary>Accepted for publication in 2023 IEEE International Conference on Robotics and Automation (ICRA)</details>|
+|**2023-3-9**|**Efficient Transformer-based 3D Object Detection with Dynamic Token Halting**|Mao Yeet.al|[paper](https://arxiv.org/abs/2303.05078)|-|-|
+|**2023-3-8**|**Smooth and Stepwise Self-Distillation for Object Detection**|Jieren Denget.al|[paper](https://arxiv.org/abs/2303.05015)|-|-|
+|**2023-3-8**|**ARS-DETR: Aspect Ratio Sensitive Oriented Object Detection with Transformer**|Ying Zenget.al|[paper](https://arxiv.org/abs/2303.04989)|[code](https://github.com/httle/ARS-DETR)|-|
+|**2023-3-8**|**NIFF: Alleviating Forgetting in Generalized Few-Shot Object Detection via Neural Instance Feature Forging**|Karim Guirguiset.al|[paper](https://arxiv.org/abs/2303.04958)|-|<details><summary>detail</summary>CVPR 2023</details>|
+|**2023-3-8**|**You Only Crash Once: Improved Object Detection for Real-Time, Sim-to-Real Hazardous Terrain Detection and Classification for Autonomous Planetary Landings**|Timothy Chase Jret.al|[paper](https://arxiv.org/abs/2303.04891)|-|<details><summary>detail</summary>To be published in proceedings of AAS/AIAA Astrodynamics Specialist Conference 2022</details>|
 |**2023-3-8**|**Radio astronomical images object detection and segmentation: A benchmark on deep learning methods**|Renato Sortinoet.al|[paper](https://arxiv.org/abs/2303.04506)|-|-|
 |**2023-3-8**|**GLOW: Global Layout Aware Attacks on Object Detection**|Buyu Liuet.al|[paper](https://arxiv.org/abs/2302.14166)|-|<details><summary>detail</summary>ICCV</details>|
 |**2023-3-7**|**SKGHOI: Spatial-Semantic Knowledge Graph for Human-Object Interaction Detection**|Lijing Zhuet.al|[paper](https://arxiv.org/abs/2303.04253)|-|-|
-|**2023-3-7**|**An Inception-Residual-Based Architecture with Multi-Objective Loss for Detecting Respiratory Anomalies**|Dat Ngoet.al|[paper](https://arxiv.org/abs/2303.04104)|-|-|
-|**2023-3-7**|**Refined Pseudo labeling for Source-free Domain Adaptive Object Detection**|Siqi Zhanget.al|[paper](https://arxiv.org/abs/2303.03728)|-|<details><summary>detail</summary>ICASSP 2023</details>|
-|**2023-3-7**|**FIT: Frequency-based Image Translation for Domain Adaptive Object Detection**|Siqi Zhanget.al|[paper](https://arxiv.org/abs/2303.03698)|-|<details><summary>detail</summary>ICONIP 2022</details>|
-|**2023-3-7**|**GraspNeRF: Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF**|Qiyu Daiet.al|[paper](https://arxiv.org/abs/2210.06575)|[code](https://pku-epic.github.io/GraspNeRF)|<details><summary>detail</summary>IEEE International Conference on Robotics and Automation (ICRA)</details>|
-|**2023-3-7**|**Multi-Modal 3D Object Detection in Autonomous Driving: a Survey**|Yingjie Wanget.al|[paper](https://arxiv.org/abs/2106.12735)|-|<details><summary>detail</summary>Accepted by International Journal of Computer Vision (IJCV)</details>|
-|**2023-3-7**|**Track Before Detect of Low Observable Maneuvering Objects in a Sequence of Image Frames Using Particle Filter**|Reza Rezaieet.al|[paper](https://arxiv.org/abs/2212.13020)|-|-|
 |**2023-3-7**|**E-detector: Asynchronous Spatio-temporal for Event-based Object Detection in Intelligent Transportation System**|S Zhang et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3584361)|-|<details><summary>detail</summary>ACM Transactions on Multimedia…, 2023 dl.acm.org</details>|
-|**2023-3-6**|**3M3D: Multi-view, Multi-path, Multi-representation for 3D Object Detection**|J Park et.al|[paper](https://arxiv.org/abs/2302.08231)|[code](https://paperswithcode.com/paper/3m3d-multi-view-multi-path-multi)|-|
-|**2023-3-6**|**LoGoNet: Towards Accurate 3D Object Detection with Local-to-Global Cross-Modal Fusion**|Xin Liet.al|[paper](https://arxiv.org/abs/2303.03595)|[code](https://github.com/sankin97/LoGoNet)|<details><summary>detail</summary>Accepted by CVPR2023</details>|
-|**2023-3-6**|**Semi-supervised 3D Object Detection via Temporal Graph Neural Networks**|Jianren Wanget.al|[paper](https://arxiv.org/abs/2202.00182)|[code](https://www.jianrenw.com/SOD-TGNN/.)|<details><summary>detail</summary>3DV 2021</details>|
-|**2023-3-6**|**Memory Maps for Video Object Detection and Tracking on UAVs**|Benjamin Kieferet.al|[paper](https://arxiv.org/abs/2303.03508)|-|-|
-|**2023-3-6**|**Detecting Human-Object Contact in Images**|Yixin Chenet.al|[paper](https://arxiv.org/abs/2303.03373)|-|<details><summary>detail</summary>CVPR 2023</details>|
-|**2023-3-6**|**CLIP the Gap: A Single Domain Generalization Approach for Object Detection**|Vidit Viditet.al|[paper](https://arxiv.org/abs/2301.05499)|-|-|
 |**2023-3-6**|**…Simultaneous Defects Visualizing Algorithm for Both Macro and Micro Defects Based on Nonlinear Lamb Wave with an Application of Faster R-Cnn Object Detection**|Y Lee et.al|[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4362451)|-|<details><summary>detail</summary>Available at SSRN 4362451 papers.ssrn.com</details>|
 |**2023-3-6**|**YOGA: Deep Object Detection in the Wild with Lightweight Feature Learning and Multiscale Attention**|R Sunkara et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0031320323001516)|-|<details><summary>detail</summary>Pattern Recognition, 2023 Elsevier</details>|
 |**2023-3-6**|**Spectral-Spatial Feature Enhancement Algorithm for Nighttime Object Detection and Tracking**|Y Lv et.al|[paper](https://www.mdpi.com/2073-8994/15/2/546)|-|<details><summary>detail</summary>Symmetry, 2023 mdpi.com</details>|
@@ -58,14 +58,21 @@
 |**2023-3-6**|**Iterative Fusion and Dual Enhancement for Accurate and Efficient Object Detection**|Z Duan et.al|[paper](https://www.worldscientific.com/doi/abs/10.1142/S0218126623502328)|-|<details><summary>detail</summary>Journal of Circuits…, 2023 World Scientific</details>|
 |**2023-3-6**|**CTA-FPN: Channel-Target Attention Feature Pyramid Network for Prohibited Object Detection in X-ray Images**|Y Zhang et.al|[paper](https://www.researchsquare.com/article/rs-2584406/latest.pdf)|-|<details><summary>detail</summary>2023 researchsquare.com</details>|
 |**2023-3-6**|**Hierarchical Cross-modal Transformer for RGB-D Salient Object Detection**|H Chen et.al|[paper](https://arxiv.org/abs/2302.08052)|[code](https://github.com/liuzywen/swinnet)|-|
+|**2023-3-6**|**3M3D: Multi-view, Multi-path, Multi-representation for 3D Object Detection**|J Park et.al|[paper](https://arxiv.org/abs/2302.08231)|[code](https://paperswithcode.com/paper/3m3d-multi-view-multi-path-multi)|-|
 |**2023-3-6**|**Research on road object detection algorithm based on improved YOLOX**|T Yang et.al|[paper](https://arxiv.org/abs/2302.08156)|[code](https://paperswithcode.com/paper/research-on-road-object-detection-algorithm)|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-3-9**|**Three New Validators and a Large-Scale Benchmark Ranking for Unsupervised Domain Adaptation**|Kevin Musgraveet.al|[paper](https://arxiv.org/abs/2208.07360)|[code](https://www.github.com/KevinMusgrave/powerful-benchmarker.)|<details><summary>detail</summary>This paper was previously titled Benchmarking Validation Methods for Unsupervised Domain Adaptation</details>|
+|**2023-3-9**|**Effective Pseudo-Labeling based on Heatmap for Unsupervised Domain Adaptation in Cell Detection**|Hyeonwoo Choet.al|[paper](https://arxiv.org/abs/2303.05269)|-|-|
+|**2023-3-9**|**Active Learning Based Domain Adaptation for Tissue Segmentation of Histopathological Images**|Saul Fusteret.al|[paper](https://arxiv.org/abs/2303.05225)|-|-|
+|**2023-3-8**|**Coarse-to-fine Knowledge Graph Domain Adaptation based on Distantly-supervised Iterative Training**|Hongmin Caiet.al|[paper](https://arxiv.org/abs/2211.02849)|-|-|
+|**2023-3-8**|**Imbalanced Open Set Domain Adaptation via Moving-threshold Estimation and Gradual Alignment**|Jinghan Ruet.al|[paper](https://arxiv.org/abs/2303.04393)|[code](https://github.com/mendicant04/OMEGA.)|-|
+|**2023-3-8**|**Iterative Loop Combining Active Learning and Semi-Supervised Learning for Domain Adaptive Semantic Segmentation**|Licong Guanet.al|[paper](https://arxiv.org/abs/2301.13361)|-|-|
+|**2023-3-8**|**Class Overwhelms: Mutual Conditional Blended-Target Domain Adaptation**|Pengcheng Xuet.al|[paper](https://arxiv.org/abs/2302.01516)|[code](https://github.com/Pengchengpcx/Class-overwhelms-Mutual-Conditional-Blended-Target-Domain-Adaptation)|<details><summary>detail</summary>Journal ref:AAAI2023 Oral</details>|
 |**2023-3-8**|**Domain Adaptation of Transformer-Based Models using Unlabeled Data for Relevance and Polarity Classification of German Customer Feedback**|Ahmad Idrissi-Yaghiret.al|[paper](https://arxiv.org/abs/2212.05764)|-|<details><summary>detail</summary>Complete</details>|
-|**2023-3-8**|**Imbalanced Open Set Domain Adaptation via Moving-threshold Estimation and Gradual Alignment**| Ruet.al|[paper](https://arxiv.org/abs/2303.04393)|[code](https://github.com/mendicant04/OMEGA.)|-|
 |**2023-3-7**|**Refined Pseudo labeling for Source-free Domain Adaptive Object Detection**|Siqi Zhanget.al|[paper](https://arxiv.org/abs/2303.03728)|-|<details><summary>detail</summary>ICASSP 2023</details>|
 |**2023-3-7**|**FIT: Frequency-based Image Translation for Domain Adaptive Object Detection**|Siqi Zhanget.al|[paper](https://arxiv.org/abs/2303.03698)|-|<details><summary>detail</summary>ICONIP 2022</details>|
 |**2023-3-6**|**Multi-Source Survival Domain Adaptation**|Ammar Shakeret.al|[paper](https://arxiv.org/abs/2212.00424)|-|<details><summary>detail</summary>37th AAAI Conference on Artificial Intelligence</details>|
@@ -83,12 +90,6 @@
 |**2023-3-5**|**KRADA: Known-region-aware Domain Alignment for Open-set Domain Adaptation in Semantic Segmentation**|C Zhou et.al|[paper](https://europepmc.org/article/ppr/ppr617459)|[code](https://github.com/chenhong-zhou/krada)|<details><summary>detail</summary>2023 europepmc.org</details>|
 |**2023-3-5**|**Blade crack detection based on domain adaptation and autoencoder of multidimensional vibro-acoustic feature fusion**|J Shen et.al|[paper](https://journals.sagepub.com/doi/abs/10.1177/14759217221139134)|-|<details><summary>detail</summary>Structural Health Monitoring, 2023 journals.sagepub.com</details>|
 |**2023-3-4**|**Infrared ship target segmentation based on Adversarial Domain Adaptation**|T Zhang et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0950705123000941)|-|<details><summary>detail</summary>Knowledge Based…, 2023 Elsevier</details>|
-|**2023-3-3**|**Visualizing Transferred Knowledge: An Interpretive Model of Unsupervised Domain Adaptation**|Wenxiao Xiaoet.al|[paper](https://arxiv.org/abs/2303.02302)|-|-|
-|**2023-3-3**|**Domain adaptation using optimal transport for invariant learning using histopathology datasets**|Kianoush Falahkheirkhahet.al|[paper](https://arxiv.org/abs/2303.02241)|-|-|
-|**2023-3-3**|**Exploiting Language Relatedness in Machine Translation Through Domain Adaptation Techniques**|Amit Kumaret.al|[paper](https://arxiv.org/abs/2303.01793)|-|-|
-|**2023-3-2**|**Cluster-Guided Semi-Supervised Domain Adaptation for Imbalanced Medical Image Classification**|Shota Haradaet.al|[paper](https://arxiv.org/abs/2303.01283)|-|-|
-|**2023-3-2**|**ADAS: A Simple Active-and-Adaptive Baseline for Cross-Domain 3D Semantic Segmentation**|Ben Feiet.al|[paper](https://arxiv.org/abs/2212.10390)|-|-|
-|**2023-3-2**|**Internal Language Model Estimation based Adaptive Language Model Fusion for Domain Adaptation**|Rao Maet.al|[paper](https://arxiv.org/abs/2211.00968)|-|<details><summary>detail</summary>Accepted by ICASSP 2023</details>|
 
 ## domain generalization
 
@@ -123,6 +124,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-3-8**|**Deformer: Dynamic Fusion Transformer for Robust Hand Pose Estimation**|Qichen Fuet.al|[paper](https://arxiv.org/abs/2303.04991)|-|-|
 |**2023-3-8**|**Robustness Evaluation in Hand Pose Estimation Models using Metamorphic Testing**|Muxin Puet.al|[paper](https://arxiv.org/abs/2303.04566)|-|<details><summary>detail</summary>2023 8th International Workshop on Metamorphic Testing</details>|
 |**2023-3-5**|**EvHandPose: Event-based 3D Hand Pose Estimation with Sparse Supervision**|Jianping Jianget.al|[paper](https://arxiv.org/abs/2303.02862)|-|-|
 |**2023-3-5**|**2D Camera-Based Air-Writing Recognition Using Hand Pose Estimation and Hybrid Deep Learning Model**|T Watanabe et.al|[paper](https://www.mdpi.com/2079-9292/12/4/995)|-|<details><summary>detail</summary>Electronics, 2023 mdpi.com</details>|
@@ -144,5 +146,4 @@
 |**2022-10-19**|**MC-hands-1M: A glove-wearing hand dataset for pose estimation**|Prodromos Boutiset.al|[paper](https://arxiv.org/abs/2210.10428)|-|-|
 |**2022-8-3**|**PeCLR: Self-Supervised 3D Hand Pose Estimation from monocular RGB via Equivariant Contrastive Learning**|Adrian Spurret.al|[paper](https://arxiv.org/abs/2106.05953)|[code](https://ait.ethz.ch/projects/2021/PeCLR/)|<details><summary>detail</summary>Journal ref:Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)</details>|
 |**2022-8-2**|**In-Hand Pose Estimation and Pin Inspection for Insertion of Through-Hole Components**|Frederik Hagelskjaeret.al|[paper](https://arxiv.org/abs/2208.01284)|-|-|
-|**2022-7-22**|**3D Interacting Hand Pose Estimation by Hand De-occlusion and Removal**|Hao Menget.al|[paper](https://arxiv.org/abs/2207.11061)|[code](https://github.com/MengHao666/HDR.)|<details><summary>detail</summary>ECCV2022</details>|
 
