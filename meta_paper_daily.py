@@ -11,7 +11,7 @@ import time
 import shutil
 import traceback
 
-KEYS = ['source-free', "object detection", "domain adaptation", "domain generalization","hand pose estimation"]
+KEYS = ['source-free', "object detection", "domain adaptation", "domain generalization","vision language"]
 data, papers = {}, {}
 DateNow = datetime.date.today()
 DateNow = str(DateNow)
