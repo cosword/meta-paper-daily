@@ -40,6 +40,13 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-4-4**|**Adversarial Detection: Attacking Object Detection in Real Time**|Han Wuet.al|[paper](https://arxiv.org/abs/2209.01962)|[code](https://youtu.be/zJZ1aNlXsMU.)|<details><summary>detail</summary>Accepted by IEEE Intelligent Vehicle Symposium</details>|
+|**2023-4-4**|**Detecting Human-Object Contact in Images**|Yixin Chenet.al|[paper](https://arxiv.org/abs/2303.03373)|-|<details><summary>detail</summary>CVPR 2023</details>|
+|**2023-4-4**|**AeDet: Azimuth-invariant Multi-view 3D Object Detection**|Chengjian Fenget.al|[paper](https://arxiv.org/abs/2211.12501)|[code](https://fcjian.github.io/aedet.)|<details><summary>detail</summary>CVPR2023</details>|
+|**2023-4-4**|**LiDAR-Based 3D Object Detection via Hybrid 2D Semantic Scene Generation**|Haitao Yanget.al|[paper](https://arxiv.org/abs/2304.01519)|-|-|
+|**2023-4-3**|**Hierarchical Supervision and Shuffle Data Augmentation for 3D Semi-Supervised Object Detection**|Chuandong Liuet.al|[paper](https://arxiv.org/abs/2304.01464)|[code](https://github.com/azhuantou/HSSDA.)|<details><summary>detail</summary>Accepted by CVPR2023</details>|
+|**2023-4-3**|**3D Object Detection for Autonomous Driving: A Comprehensive Survey**|Jiageng Maoet.al|[paper](https://arxiv.org/abs/2206.09474)|[code](https://github.com/PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving)|<details><summary>detail</summary>International Journal of Computer Vision (IJCV)</details>|
+|**2023-4-3**|**Monocular 3D Object Detection with Bounding Box Denoising in 3D by Perceiver**|Xianpeng Liuet.al|[paper](https://arxiv.org/abs/2304.01289)|-|-|
 |**2023-4-3**|**Detection Selection Algorithm: A Likelihood based Optimization Method to Perform Post Processing for Object Detection**|Angzhi Fanet.al|[paper](https://arxiv.org/abs/2212.05706)|-|-|
 |**2023-4-3**|**Recurrent Vision Transformers for Object Detection with Event Cameras**|Mathias Gehriget.al|[paper](https://arxiv.org/abs/2212.05598)|-|<details><summary>detail</summary>CVPR 2023</details>|
 |**2023-4-3**|**VoxelFormer: Bird's-Eye-View Feature Generation based on Dual-view Attention for Multi-view 3D Object Detection**|Zhuoling Liet.al|[paper](https://arxiv.org/abs/2304.01054)|[code](https://github.com/Lizhuoling/VoxelFormer-public.git.)|-|
@@ -58,19 +65,14 @@
 |**2023-4-1**|**3M3D: Multi-view, Multi-path, Multi-representation for 3D Object Detection**|J Park et.al|[paper](https://arxiv.org/abs/2302.08231)|[code](https://paperswithcode.com/paper/3m3d-multi-view-multi-path-multi)|-|
 |**2023-4-1**|**Research on road object detection algorithm based on improved YOLOX**|T Yang et.al|[paper](https://arxiv.org/abs/2302.08156)|[code](https://paperswithcode.com/paper/research-on-road-object-detection-algorithm)|-|
 |**2023-3-31**|**HIT-UAV: A high-altitude infrared thermal dataset for Unmanned Aerial Vehicle-based object detection**|Jiashun Suoet.al|[paper](https://arxiv.org/abs/2204.03245)|[code](https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset.)|-|
-|**2023-3-31**|**STFAR: Improving Object Detection Robustness at Test-Time by Self-Training with Feature Alignment Regularization**|Yijin Chenet.al|[paper](https://arxiv.org/abs/2303.17937)|-|-|
-|**2023-3-31**|**IC-FPS: Instance-Centroid Faster Point Sampling Module for 3D Point-base Object Detection**|Hu Haotianet.al|[paper](https://arxiv.org/abs/2303.17921)|-|-|
-|**2023-3-31**|**EA-BEV: Edge-aware Bird' s-Eye-View Projector for 3D Object Detection**| Haotianet.al|[paper](https://arxiv.org/abs/2303.17895)|-|-|
-|**2023-3-30**|**Sketch2Saliency: Learning to Detect Salient Objects from Human Drawings**|Ayan Kumar Bhuniaet.al|[paper](https://arxiv.org/abs/2303.11502)|[code](https://ayankumarbhunia.github.io/Sketch2Saliency/)|<details><summary>detail</summary>CVPR 2023</details>|
-|**2023-3-30**|**BEVSimDet: Simulated Multi-modal Distillation in Bird's-Eye View for Multi-view 3D Object Detection**|Haimei Zhaoet.al|[paper](https://arxiv.org/abs/2303.16818)|[code](https://github.com/ViTAE-Transformer/BEVSimDet)|-|
-|**2023-3-30**|**Understanding the Robustness of 3D Object Detection with Bird's-Eye-View Representations in Autonomous Driving**|Zijian Zhuet.al|[paper](https://arxiv.org/abs/2303.17297)|-|-|
-|**2023-3-30**|**Model-agnostic explainable artificial intelligence for object detection in image data**|Milad Moradiet.al|[paper](https://arxiv.org/abs/2303.17249)|-|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2023-4-3**|**AutoLabel: CLIP-based framework for Open-set Video Domain Adaptation**|Giacomo Zaraet.al|[paper](https://arxiv.org/abs/2304.01110)|-|<details><summary>detail</summary>CVPR 2023</details>|
+|**2023-4-4**|**PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion**|Gwanghyun Kimet.al|[paper](https://arxiv.org/abs/2304.01900)|[code](https://gwang-kim.github.io/podia_3d/)|<details><summary>detail</summary>Project page: https://gwang-kim</details>|
+|**2023-4-4**|**AutoLabel: CLIP-based framework for Open-set Video Domain Adaptation**|Giacomo Zaraet.al|[paper](https://arxiv.org/abs/2304.01110)|-|<details><summary>detail</summary>CVPR 2023</details>|
+|**2023-4-4**|**\emph{MEnsA}: Mix-up Ensemble Average for Unsupervised Multi Target Domain Adaptation on 3D Point Clouds**|Ashish Sinhaet.al|[paper](https://arxiv.org/abs/2304.01554)|[code](https://github.com/sinAshish/MEnsA_mtda)|<details><summary>detail</summary>Accepted as poster at L3D-IVU (arxival track) and CL VIsion (non-arxvial track) CVPR 2023</details>|
 |**2023-4-3**|**Provably Uncertainty-Guided Universal Domain Adaptation**|Yifan Wanget.al|[paper](https://arxiv.org/abs/2209.09616)|-|-|
 |**2023-4-3**|**Assessing Domain Gap for Continual Domain Adaptation in Object Detection**|Anh-Dzung Doanet.al|[paper](https://arxiv.org/abs/2302.10396)|[code](https://github.com/dadung/DGE-CDA.)|<details><summary>detail</summary>Submitted to CVIU</details>|
 |**2023-4-3**|**Few-shot Fine-tuning is All You Need for Source-free Domain Adaptation**|Suho Leeet.al|[paper](https://arxiv.org/abs/2304.00792)|[code](https://github.com/daintlab/fewshot-SFDA)|<details><summary>detail</summary>The first two authors contributed equally</details>|
@@ -93,13 +95,15 @@
 |**2023-3-30**|**Infrared ship target segmentation based on Adversarial Domain Adaptation**|T Zhang et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0950705123000941)|-|<details><summary>detail</summary>Knowledge Based…, 2023 Elsevier</details>|
 |**2023-3-29**|**C-SFDA: A Curriculum Learning Aided Self-Training Framework for Efficient Source Free Domain Adaptation**|Nazmul Karimet.al|[paper](https://arxiv.org/abs/2303.17132)|-|<details><summary>detail</summary>CVPR 2023</details>|
 |**2023-3-29**|**Global Adaptation meets Local Generalization: Unsupervised Domain Adaptation for 3D Human Pose Estimation**|Wenhao Chaiet.al|[paper](https://arxiv.org/abs/2303.16456)|-|-|
-|**2023-3-28**|**Domain Adaptive Semantic Segmentation by Optimal Transport**|Yaqian Guoet.al|[paper](https://arxiv.org/abs/2303.16435)|-|-|
-|**2023-3-28**|**SFHarmony: Source Free Domain Adaptation for Distributed Neuroimaging Analysis**|Nicola K Dinsdaleet.al|[paper](https://arxiv.org/abs/2303.15965)|[code](https://github.com/nkdinsdale/SFHarmony)|-|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-4-4**|**ERM++: An Improved Baseline for Domain Generalization**|Piotr Teterwaket.al|[paper](https://arxiv.org/abs/2304.01973)|[code](https://github.com/piotr-teterwak/erm_plusplus.)|<details><summary>detail</summary>An improved baseline for Domain Generalization</details>|
+|**2023-4-4**|**Randomized Adversarial Style Perturbations for Domain Generalization**|Taehoon Kimet.al|[paper](https://arxiv.org/abs/2304.01959)|-|-|
+|**2023-4-4**|**PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion**|Gwanghyun Kimet.al|[paper](https://arxiv.org/abs/2304.01900)|[code](https://gwang-kim.github.io/podia_3d/)|<details><summary>detail</summary>Project page: https://gwang-kim</details>|
+|**2023-4-3**|**EPVT: Environment-aware Prompt Vision Transformer for Domain Generalization in Skin Lesion Recognition**|Siyuan Yanet.al|[paper](https://arxiv.org/abs/2304.01508)|[code](https://github.com/SiyuanYan1/EPVT.)|-|
 |**2023-4-3**|**Domain Generalization for Crop Segmentation with Knowledge Distillation**|Simone Angaranoet.al|[paper](https://arxiv.org/abs/2304.01029)|-|-|
 |**2023-4-2**|**A principled approach to model validation in domain generalization**|Boyang Lyuet.al|[paper](https://arxiv.org/abs/2304.00629)|-|<details><summary>detail</summary>ICASSP 2023</details>|
 |**2023-4-2**|**CNNs with Multi-Level Attention for Domain Generalization**|Aristotelis Ballaset.al|[paper](https://arxiv.org/abs/2304.00502)|-|<details><summary>detail</summary>Accepted for publication in ICMR '23 (ACM International Conference on Multimedia Retrieval)</details>|
@@ -114,11 +118,7 @@
 |**2023-3-30**|**HyperDomainNet: Universal Domain Adaptation for Generative Adversarial Networks**|Aibek Alanovet.al|[paper](https://arxiv.org/abs/2210.08884)|[code](https://github.com/MACderRu/HyperDomainNet)|<details><summary>detail</summary>NeurIPS 2022</details>|
 |**2023-3-30**|**Robust Representation Learning with Self-Distillation for Domain Generalization**|A Singh et.al|[paper](https://arxiv.org/abs/2302.06874)|[code](https://github.com/amingwu/single-dgod)|-|
 |**2023-3-29**|**Global Adaptation meets Local Generalization: Unsupervised Domain Adaptation for 3D Human Pose Estimation**|Wenhao Chaiet.al|[paper](https://arxiv.org/abs/2303.16456)|-|-|
-|**2023-3-29**|**TFS-ViT: Token-Level Feature Stylization for Domain Generalization**|Mehrdad Nooriet.al|[paper](https://arxiv.org/abs/2303.15698)|[code](https://github.com/Mehrdad-Noori/TFS-ViT_Token-level_Feature_Stylization.)|-|
-|**2023-3-28**|**Domain-General Crowd Counting in Unseen Scenarios**|Zhipeng Duet.al|[paper](https://arxiv.org/abs/2212.02573)|-|<details><summary>detail</summary>AAAI 2023 as Oral Presentation</details>|
-|**2023-3-28**|**Complementary Domain Adaptation and Generalization for Unsupervised Continual Domain Shift Learning**|Wonguk Choet.al|[paper](https://arxiv.org/abs/2303.15833)|-|-|
 |**2023-3-28**|**Cross-corpora spoken language identification with domain diversification and generalization**|S Dey et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0885230823000086)|[code](https://paperswithcode.com/paper/cross-corpora-spoken-language-identification)|<details><summary>detail</summary>Computer Speech & Language, 2023 Elsevier</details>|
-|**2023-3-27**|**Depth- and Semantics-aware Multi-modal Domain Translation: Generating 3D Panoramic Color Images from LiDAR Point Clouds**|Tiago Cortinhalet.al|[paper](https://arxiv.org/abs/2302.07661)|-|-|
 |**2023-3-26**|**Domain-Conditioned Normalization for Test-Time Domain Generalization**|Y Jiang et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-25085-9_17)|-|<details><summary>detail</summary>Computer Vision–ECCV…, 2023 Springer</details>|
 |**2023-3-25**|**Domain Generalization by Functional Regression**|M Holzleitner et.al|[paper](https://arxiv.org/abs/2302.04724)|[code](https://github.com/mlr-org/mlr)|-|
 |**2023-3-22**|**Leveraging Domain Relations for Domain Generalization**|H Yao et.al|[paper](https://arxiv.org/abs/2302.02609)|[code](https://github.com/rusty1s/pytorch_geometric)|-|
@@ -129,6 +129,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-4-4**|**Learning to Name Classes for Vision and Language Models**|Sarah Parisotet.al|[paper](https://arxiv.org/abs/2304.01830)|-|<details><summary>detail</summary>CVPR 2023</details>|
+|**2023-4-4**|**Black Box Few-Shot Adaptation for Vision-Language models**|Yassine Oualiet.al|[paper](https://arxiv.org/abs/2304.01752)|-|-|
+|**2023-4-4**|**Locate Then Generate: Bridging Vision and Language with Bounding Box for Scene-Text VQA**|Yongxin Zhuet.al|[paper](https://arxiv.org/abs/2304.01603)|-|<details><summary>detail</summary>accepted in AAAI 2023</details>|
+|**2023-4-3**|**Exploring Vision-Language Models for Imbalanced Learning**|Yidong Wanget.al|[paper](https://arxiv.org/abs/2304.01457)|[code](https://github.com/Imbalance-VLM/Imbalance-VLM.)|<details><summary>detail</summary>Technical report</details>|
 |**2023-4-3**|**You Need Multiple Exiting: Dynamic Early Exiting for Accelerating Unified Vision Language Model**|Shengkun Tanget.al|[paper](https://arxiv.org/abs/2211.11152)|-|-|
 |**2023-4-2**|**Vision-Language Models for Vision Tasks: A Survey**|Jingyi Zhanget.al|[paper](https://arxiv.org/abs/2304.00685)|[code](https://github.com/jingyi0000/VLM_survey.)|-|
 |**2023-4-2**|**Enabling Calibration In The Zero-Shot Inference of Large Vision-Language Models**|Will LeVineet.al|[paper](https://arxiv.org/abs/2303.12748)|-|-|
@@ -147,11 +151,7 @@
 |**2023-3-29**|**Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models**|J Li et.al|[paper](https://arxiv.org/abs/2303.06571)|[code](https://paperswithcode.com/paper/gradient-regulated-meta-prompt-learning-for)|-|
 |**2023-3-29**|**Towards Universal Vision-language Omni-supervised Segmentation**|B Dong et.al|[paper](https://arxiv.org/abs/2303.06547)|[code](https://paperswithcode.com/paper/towards-universal-vision-language-omni)|-|
 |**2023-3-28**|**HOICLIP: Efficient Knowledge Transfer for HOI Detection with Vision-Language Models**|Shan Ninget.al|[paper](https://arxiv.org/abs/2303.15786)|[code](https://github.com/Artanic30/HOICLIP.)|<details><summary>detail</summary>CVPR 2023</details>|
-|**2023-3-28**|**Exposing and Addressing Cross-Task Inconsistency in Unified Vision-Language Models**|Adyasha Maharanaet.al|[paper](https://arxiv.org/abs/2303.16133)|[code](https://adymaharana.github.io/cococon/)|<details><summary>detail</summary>Project Website: https://adymaharana</details>|
-|**2023-3-28**|**KERM: Knowledge Enhanced Reasoning for Vision-and-Language Navigation**|Xiangyang Liet.al|[paper](https://arxiv.org/abs/2303.15796)|[code](https://github.com/XiangyangLi20/KERM)|<details><summary>detail</summary>Accepted by CVPR 2023</details>|
 |**2023-3-28**|**Learning Grounded Vision-Language Representation for Versatile Understanding in Untrimmed Videos**|T Wang et.al|[paper](https://arxiv.org/abs/2303.06378)|[code](https://paperswithcode.com/paper/learning-grounded-vision-language)|-|
-|**2023-3-27**|**Blind Image Quality Assessment via Vision-Language Correspondence: A Multitask Learning Perspective**|Weixia Zhanget.al|[paper](https://arxiv.org/abs/2303.14968)|[code](https://github.com/zwx8981/LIQE.)|<details><summary>detail</summary>CVPR2023</details>|
 |**2023-3-27**|**Tag2Text: Guiding Vision-Language Model via Image Tagging**|X Huang et.al|[paper](https://arxiv.org/abs/2303.05657)|[code](https://paperswithcode.com/paper/tag2text-guiding-vision-language-model-via)|-|
 |**2023-3-27**|**Robotic Applications of Pre-Trained Vision-Language Models to Various Recognition Behaviors**|K Kawaharazuka et.al|[paper](https://arxiv.org/abs/2303.05674)|-|-|
-|**2023-3-26**|**Linear Spaces of Meanings: Compositional Structures in Vision-Language Models**|Matthew Trageret.al|[paper](https://arxiv.org/abs/2302.14383)|-|-|
 
