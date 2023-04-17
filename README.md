@@ -41,6 +41,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-4-14**|**DETR with Additional Global Aggregation for Cross-domain Weakly Supervised Object Detection**|Zongheng Tanget.al|[paper](https://arxiv.org/abs/2304.07082)|-|-|
+|**2023-4-14**|**Loop Closure Detection Based on Object-level Spatial Layout and Semantic Consistency**|Xingwu Jiet.al|[paper](https://arxiv.org/abs/2304.05146)|-|-|
+|**2023-4-14**|**YOLO-Drone:Airborne real-time detection of dense small objects from high-altitude perspective**|Li Zhuet.al|[paper](https://arxiv.org/abs/2304.06925)|-|-|
 |**2023-4-14**|**E-detector: Asynchronous Spatio-temporal for Event-based Object Detection in Intelligent Transportation System**|S Zhang et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3584361)|-|<details><summary>detail</summary>ACM Transactions on Multimedia…, 2023 dl.acm.org</details>|
 |**2023-4-13**|**ODAM: Gradient-based instance-specific visual explanations for object detection**|Chenyang Zhaoet.al|[paper](https://arxiv.org/abs/2304.06354)|-|<details><summary>detail</summary>2023 International Conference on Learning Representations</details>|
 |**2023-4-13**|**An Automotive Case Study on the Limits of Approximation for Object Detection**|Martí Caroet.al|[paper](https://arxiv.org/abs/2304.06327)|-|<details><summary>detail</summary>Journal ref:Journal of Systems Architecture</details>|
@@ -63,14 +66,12 @@
 |**2023-4-11**|**DynamicDet: A Unified Dynamic Architecture for Object Detection**|Zhihao Linet.al|[paper](https://arxiv.org/abs/2304.05552)|[code](https://github.com/VDIGPKU/DynamicDet.)|<details><summary>detail</summary>Accepted by CVPR 2023</details>|
 |**2023-4-11**|**A Comprehensive Study on Object Detection Techniques in Unconstrained Environments**|Hrishitva Patelet.al|[paper](https://arxiv.org/abs/2304.05295)|-|-|
 |**2023-4-11**|**H2RBox-v2: Boosting HBox-supervised Oriented Object Detection via Symmetric Learning**|Yi Yuet.al|[paper](https://arxiv.org/abs/2304.04403)|[code](https://github.com/open-mmlab/mmrotate)|-|
-|**2023-4-11**|**Loop Closure Detection Based on Object-level Spatial Layout and Semantic Consistency**|Xingwu Jiet.al|[paper](https://arxiv.org/abs/2304.05146)|-|-|
-|**2023-4-11**|**Generating Features with Increased Crop-related Diversity for Few-Shot Object Detection**|Jingyi Xuet.al|[paper](https://arxiv.org/abs/2304.05096)|-|<details><summary>detail</summary>CVPR 23</details>|
-|**2023-4-11**|**BEVHeight: A Robust Framework for Vision-based Roadside 3D Object Detection**|Lei Yanget.al|[paper](https://arxiv.org/abs/2303.08498)|[code](https://github.com/ADLab-AutoDrive/BEVHeight)|<details><summary>detail</summary>Accepted by CVPR 2023</details>|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-4-14**|**Spectral Transfer Guided Active Domain Adaptation For Thermal Imagery**|Berkcan Ustunet.al|[paper](https://arxiv.org/abs/2304.07031)|-|<details><summary>detail</summary>CVPR 2023 Perception Beyond the Visible Spectrum (PBVS) workshop</details>|
 |**2023-4-13**|**CoSDA: Continual Source-Free Domain Adaptation**|Haozhe Fenget.al|[paper](https://arxiv.org/abs/2304.06627)|-|-|
 |**2023-4-13**|**Kurcuma: a kitchen utensil recognition collection for unsupervised domain adaptation**|A Rosello et.al|[paper](https://link.springer.com/article/10.1007/s10044-023-01147-x)|-|<details><summary>detail</summary>Mas, AJ Gallego… Pattern Analysis and…, 2023 Springer</details>|
 |**2023-4-13**|**An improved multi-source domain adaptation network for inter-subject mental fatigue detection based on DANN**|K Chen et.al|[paper](https://www.degruyter.com/document/doi/10.1515/bmt-2022-0354/html)|-|<details><summary>detail</summary>Biomedical Engineering…, 2023 degruyter.com</details>|
@@ -95,12 +96,12 @@
 |**2023-4-7**|**Domain Adaptive Multiple Instance Learning for Instance-level Prediction of Pathological Images**|Shusuke Takahamaet.al|[paper](https://arxiv.org/abs/2304.03537)|-|<details><summary>detail</summary>ISBI 2023 (Oral)</details>|
 |**2023-4-6**|**Domain Adaptation for Inertial Measurement Unit-based Human Activity Recognition: A Survey**|Avijoy Chakmaet.al|[paper](https://arxiv.org/abs/2304.06489)|-|-|
 |**2023-4-6**|**SALUDA: Surface-based Automotive Lidar Unsupervised Domain Adaptation**|Bjoern Micheleet.al|[paper](https://arxiv.org/abs/2304.03251)|-|<details><summary>detail</summary>Project repository: github</details>|
-|**2023-4-6**|**ConDA: Unsupervised Domain Adaptation for LiDAR Segmentation via Regularized Domain Concatenation**|Lingdong Konget.al|[paper](https://arxiv.org/abs/2111.15242)|-|-|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-4-14**|**Frequency Decomposition to Tap the Potential of Single Domain for Generalization**|Qingyue Yanget.al|[paper](https://arxiv.org/abs/2304.07261)|-|-|
 |**2023-4-14**|**Domain Generalization with Global Sample Mixup**|Y Lu et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-25075-0_35)|-|<details><summary>detail</summary>European Conference on Computer…, 2023 Springer</details>|
 |**2023-4-14**|**Cross-Domain Augmentation Diagnosis: An Adversarial Domain-Augmented Generalization Method for Fault Diagnosis under Unseen Working Conditions**|Q Li et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0951832023000868)|-|<details><summary>detail</summary>Reliability Engineering &…, 2023 Elsevier</details>|
 |**2023-4-12**|**HaDR: Applying Domain Randomization for Generating Synthetic Multimodal Dataset for Hand Instance Segmentation in Cluttered Industrial Environments**|Stefan Grushkoet.al|[paper](https://arxiv.org/abs/2304.05826)|-|-|
@@ -122,7 +123,6 @@
 |**2023-4-5**|**Semi-Supervised Domain Generalization with Evolving Intermediate Domain**|Luojun Linet.al|[paper](https://arxiv.org/abs/2111.10221)|-|-|
 |**2023-4-5**|**DiGA: Distil to Generalize and then Adapt for Domain Adaptive Semantic Segmentation**|Fengyi Shenet.al|[paper](https://arxiv.org/abs/2304.02222)|[code](https://github.com/fy-vision/DiGA)|<details><summary>detail</summary>CVPR2023</details>|
 |**2023-4-4**|**ERM++: An Improved Baseline for Domain Generalization**|Piotr Teterwaket.al|[paper](https://arxiv.org/abs/2304.01973)|[code](https://github.com/piotr-teterwak/erm_plusplus.)|<details><summary>detail</summary>An improved baseline for Domain Generalization</details>|
-|**2023-4-4**|**Randomized Adversarial Style Perturbations for Domain Generalization**|Taehoon Kimet.al|[paper](https://arxiv.org/abs/2304.01959)|-|-|
 |**2023-4-3**|**Leveraging Domain Relations for Domain Generalization**|H Yao et.al|[paper](https://arxiv.org/abs/2302.02609)|[code](https://github.com/rusty1s/pytorch_geometric)|-|
 |**2023-4-1**|**Aggregation of Disentanglement: Reconsidering Domain Variations in Domain Generalization**|D Zhang et.al|[paper](https://arxiv.org/abs/2302.02350)|[code](https://paperswithcode.com/paper/aggregation-of-disentanglement-reconsidering)|-|
 |**2023-3-30**|**Domain Generalization Emerges from Dreaming**|H Heo et.al|[paper](https://arxiv.org/abs/2302.00980)|[code](https://paperswithcode.com/paper/domain-generalization-emerges-from-dreaming)|-|
