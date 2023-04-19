@@ -41,6 +41,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-4-18**|**Dynamic Coarse-to-Fine Learning for Oriented Tiny Object Detection**|Chang Xuet.al|[paper](https://arxiv.org/abs/2304.08876)|[code](https://github.com/Chasel-Tsui/mmrotate-dcfl.)|<details><summary>detail</summary>Accepted by CVPR2023</details>|
+|**2023-4-18**|**EA-BEV: Edge-aware Bird' s-Eye-View Projector for 3D Object Detection**|Haotian Huet.al|[paper](https://arxiv.org/abs/2303.17895)|-|-|
 |**2023-4-17**|**RadarFormer: Lightweight and Accurate Real-Time Radar Object Detection Model**|Yahia Dalbahet.al|[paper](https://arxiv.org/abs/2304.08447)|[code](https://github.com/YahiDar/RadarFormer.)|-|
 |**2023-4-17**|**SDVRF: Sparse-to-Dense Voxel Region Fusion for Multi-modal 3D Object Detection**|Binglu Renet.al|[paper](https://arxiv.org/abs/2304.08304)|-|-|
 |**2023-4-17**|**ViPLO: Vision Transformer based Pose-Conditioned Self-Loop Graph for Human-Object Interaction Detection**|Jeeseung Parket.al|[paper](https://arxiv.org/abs/2304.08114)|[code](https://github.com/Jeeseung-Park/ViPLO.)|<details><summary>detail</summary>CVPR 2023</details>|
@@ -64,13 +66,14 @@
 |**2023-4-13**|**An Automotive Case Study on the Limits of Approximation for Object Detection**|Martí Caroet.al|[paper](https://arxiv.org/abs/2304.06327)|-|<details><summary>detail</summary>Journal ref:Journal of Systems Architecture</details>|
 |**2023-4-13**|**Gamifying Math Education using Object Detection**|Yueqiu Sunet.al|[paper](https://arxiv.org/abs/2304.06270)|-|-|
 |**2023-4-12**|**GTNet:Guided Transformer Network for Detecting Human-Object Interactions**|A S M Iftekharet.al|[paper](https://arxiv.org/abs/2108.00596)|-|<details><summary>detail</summary>accepted for presentation in Pattern Recognition and Tracking XXXIV at SPIE commerce+ defence Program</details>|
-|**2023-4-12**|**Model-agnostic explainable artificial intelligence for object detection in image data**|Milad Moradiet.al|[paper](https://arxiv.org/abs/2303.17249)|-|-|
-|**2023-4-12**|**Learning to search for and detect objects in foveal images using deep learning**|Beatriz Paulaet.al|[paper](https://arxiv.org/abs/2304.05741)|-|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-4-18**|**Structure Preserving Cycle-GAN for Unsupervised Medical Image Domain Adaptation**|Paolo Iaconoet.al|[paper](https://arxiv.org/abs/2304.09164)|-|-|
+|**2023-4-18**|**Tailoring Domain Adaptation for Machine Translation Quality Estimation**|Javad Pourmostafa Roshan Sharamiet.al|[paper](https://arxiv.org/abs/2304.08891)|-|<details><summary>detail</summary>EAMT 2023 (main)</details>|
+|**2023-4-17**|**Semi-supervised Learning of Pushforwards For Domain Translation & Adaptation**|Nishant Pandaet.al|[paper](https://arxiv.org/abs/2304.08673)|-|-|
 |**2023-4-17**|**Attention-based Domain Adaptation Forecasting of Streamflow in Data-Sparse Regions**|Roland Orucheet.al|[paper](https://arxiv.org/abs/2302.05386)|-|-|
 |**2023-4-16**|**Heterogeneous Domain Adaptation with Positive and Unlabeled Data**|Junki Moriet.al|[paper](https://arxiv.org/abs/2304.07955)|-|<details><summary>detail</summary>Under review</details>|
 |**2023-4-16**|**Improved Test-Time Adaptation for Domain Generalization**|Liang Chenet.al|[paper](https://arxiv.org/abs/2304.04494)|[code](https://github.com/liangchen527/ITTA.)|<details><summary>detail</summary>Accepted by CVPR 2023</details>|
@@ -93,14 +96,12 @@
 |**2023-4-13**|**CoSDA: Continual Source-Free Domain Adaptation**|Haozhe Fenget.al|[paper](https://arxiv.org/abs/2304.06627)|-|-|
 |**2023-4-13**|**Infrared ship target segmentation based on Adversarial Domain Adaptation**|T Zhang et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0950705123000941)|-|<details><summary>detail</summary>Knowledge Based…, 2023 Elsevier</details>|
 |**2023-4-12**|**Self-Training Guided Disentangled Adaptation for Cross-Domain Remote Sensing Image Semantic Segmentation**|Qi Zhaoet.al|[paper](https://arxiv.org/abs/2301.05526)|[code](https://github.com/cv516Buaa/ST-DASegNet.)|-|
-|**2023-4-12**|**Source-free Domain Adaptation Requires Penalized Diversity**|Laya Rafiee Sevyeriet.al|[paper](https://arxiv.org/abs/2304.02798)|-|-|
-|**2023-4-11**|**Failure Probability Estimation and Detection of Failure Surfaces via Adaptive Sequential Decomposition of the Design Domain**|Aleksei Gerasimovet.al|[paper](https://arxiv.org/abs/2304.05475)|-|-|
-|**2023-4-11**|**A Self-attention Knowledge Domain Adaptation Network for Commercial Lithium-ion Batteries State-of-health Estimation under Shallow Cycles**|Xin Chenet.al|[paper](https://arxiv.org/abs/2304.05084)|-|-|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-4-18**|**Imbalanced Domain Generalization for Robust Single Cell Classification in Hematological Cytomorphology**|Rao Muhammad Umeret.al|[paper](https://arxiv.org/abs/2303.07771)|-|<details><summary>detail</summary>Published at ICLR 2023 Workshop on Domain Generalization</details>|
 |**2023-4-17**|**Domain Expansion of Image Generators**|Yotam Nitzanet.al|[paper](https://arxiv.org/abs/2301.05225)|[code](https://yotamnitzan.github.io/domain-expansion/.)|<details><summary>detail</summary>Project Page and code are available at https://yotamnitzan</details>|
 |**2023-4-16**|**Detecting Domain-Generation Algorithm (DGA) Based Fully-Qualified Domain Names (FQDNs) with Shannon Entropy**|Adam Dorian Wonget.al|[paper](https://arxiv.org/abs/2304.07943)|[code](https://github.com/MalwareMorghulis/SUNBURST).)|-|
 |**2023-4-16**|**ChatPLUG: Open-Domain Generative Dialogue System with Internet-Augmented Instruction Tuning for Digital Human**|Junfeng Tianet.al|[paper](https://arxiv.org/abs/2304.07849)|[code](https://modelscope.cn/models/damo/ChatPLUG-3.7B)|-|
@@ -114,7 +115,6 @@
 |**2023-4-12**|**HaDR: Applying Domain Randomization for Generating Synthetic Multimodal Dataset for Hand Instance Segmentation in Cluttered Industrial Environments**|Stefan Grushkoet.al|[paper](https://arxiv.org/abs/2304.05826)|-|-|
 |**2023-4-12**|**Semantic-Aware Mixup for Domain Generalization**|Chengchao Xuet.al|[paper](https://arxiv.org/abs/2304.05675)|-|<details><summary>detail</summary>Accepted by IJCNN</details>|
 |**2023-4-12**|**Instance-Aware Domain Generalization for Face Anti-Spoofing**|Qianyu Zhouet.al|[paper](https://arxiv.org/abs/2304.05640)|[code](https://github.com/qianyuzqy/IADG.)|<details><summary>detail</summary>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</details>|
-|**2023-4-12**|**Imbalanced Domain Generalization for Robust Single Cell Classification in Hematological Cytomorphology**|Rao Muhammad Umeret.al|[paper](https://arxiv.org/abs/2303.07771)|-|<details><summary>detail</summary>Published as a ICLR 2023 workshop paper: What do we need for successful domain generalization?</details>|
 |**2023-4-11**|**Cross-corpora spoken language identification with domain diversification and generalization**|S Dey et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0885230823000086)|[code](https://paperswithcode.com/paper/cross-corpora-spoken-language-identification)|<details><summary>detail</summary>Computer Speech & Language, 2023 Elsevier</details>|
 |**2023-4-9**|**General GAN-generated image detection by data augmentation in fingerprint domain**|Huaming Wanget.al|[paper](https://arxiv.org/abs/2212.13466)|-|-|
 |**2023-4-9**|**EPVT: Environment-aware Prompt Vision Transformer for Domain Generalization in Skin Lesion Recognition**|Siyuan Yanet.al|[paper](https://arxiv.org/abs/2304.01508)|[code](https://github.com/SiyuanYan1/EPVT.)|-|
@@ -131,6 +131,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-4-17**|**Grounding Classical Task Planners via Vision-Language Models**|Xiaohan Zhanget.al|[paper](https://arxiv.org/abs/2304.08587)|-|-|
 |**2023-4-17**|**Towards Robust Prompts on Vision-Language Models**|Jindong Guet.al|[paper](https://arxiv.org/abs/2304.08479)|-|-|
 |**2023-4-17**|**VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset**|Sihan Chenet.al|[paper](https://arxiv.org/abs/2304.08345)|[code](https://casia-iva-group.github.io/projects/VALOR.)|<details><summary>detail</summary>Preprint version w/o audio files embeded in PDF</details>|
 |**2023-4-17**|**A New Path: Scaling Vision-and-Language Navigation with Synthetic Instructions and Imitation Learning**|Aishwarya Kamathet.al|[paper](https://arxiv.org/abs/2210.03112)|-|<details><summary>detail</summary>CVPR 2023</details>|
@@ -155,5 +156,4 @@
 |**2023-4-10**|**CAVL: Learning Contrastive and Adaptive Representations of Vision and Language**|Shentong Moet.al|[paper](https://arxiv.org/abs/2304.04399)|-|-|
 |**2023-4-10**|**Tag2Text: Guiding Vision-Language Model via Image Tagging**|X Huang et.al|[paper](https://arxiv.org/abs/2303.05657)|[code](https://paperswithcode.com/paper/tag2text-guiding-vision-language-model-via)|-|
 |**2023-4-10**|**Robotic Applications of Pre-Trained Vision-Language Models to Various Recognition Behaviors**|K Kawaharazuka et.al|[paper](https://arxiv.org/abs/2303.05674)|-|-|
-|**2023-4-9**|**CrowdCLIP: Unsupervised Crowd Counting via Vision-Language Model**|Dingkang Lianget.al|[paper](https://arxiv.org/abs/2304.04231)|[code](https://github.com/dk-liang/CrowdCLIP.)|<details><summary>detail</summary>Accepted by CVPR 2023</details>|
 
