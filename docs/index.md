@@ -41,8 +41,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-4-25**|**Fully Sparse Fusion for 3D Object Detection**|Yingyan Liet.al|[paper](https://arxiv.org/abs/2304.12310)|[code](https://github.com/BraveGroup/FullySparseFusion)|-|
+|**2023-4-25**|**Improving Post-Training Quantization on Object Detection with Task Loss-Guided Lp Metric**|Lin Niuet.al|[paper](https://arxiv.org/abs/2304.09785)|-|-|
+|**2023-4-25**|**MMRDN: Consistent Representation for Multi-View Manipulation Relationship Detection in Object-Stacked Scenes**|Han Wanget.al|[paper](https://arxiv.org/abs/2304.12592)|-|-|
 |**2023-4-24**|**Once Detected, Never Lost: Surpassing Human Performance in Offline LiDAR based 3D Object Detection**|Lue Fanet.al|[paper](https://arxiv.org/abs/2304.12315)|[code](https://github.com/tusen-ai/SST.)|-|
-|**2023-4-24**|**Fully Sparse Fusion for 3D Object Detection**|Yingyan Liet.al|[paper](https://arxiv.org/abs/2304.12310)|[code](https://github.com/BraveGroup/FullySparseFusion)|-|
 |**2023-4-24**|**Meta-tuning Loss Functions and Data Augmentation for Few-shot Object Detection**|Berkan Demirelet.al|[paper](https://arxiv.org/abs/2304.12161)|-|<details><summary>detail</summary>To appear at IEEE/CVF CVPR 2023</details>|
 |**2023-4-24**|**Transformer-based stereo-aware 3D object detection from binocular images**|Hanqing Sunet.al|[paper](https://arxiv.org/abs/2304.11906)|-|-|
 |**2023-4-23**|**DAMO-YOLO : A Report on Real-Time Object Detection Design**|Xianzhe Xuet.al|[paper](https://arxiv.org/abs/2211.15444)|[code](https://github.com/tinyvision/damo-yolo)|<details><summary>detail</summary>Project Website: https://github</details>|
@@ -64,13 +66,13 @@
 |**2023-4-21**|**Dynablox: Real-time Detection of Diverse Dynamic Objects in Complex Environments**|Lukas Schmidet.al|[paper](https://arxiv.org/abs/2304.10049)|[code](https://github.com/ethz-asl/dynablox)|<details><summary>detail</summary>Code released at https://github</details>|
 |**2023-4-21**|**HabitatDyn Dataset: Dynamic Object Detection to Kinematics Estimation**|Zhengcheng Shenet.al|[paper](https://arxiv.org/abs/2304.10854)|[code](https://github.com/ignc-research/HabitatDyn.)|<details><summary>detail</summary>The paper is under review</details>|
 |**2023-4-21**|**BPJDet: Extended Object Representation for Generic Body-Part Joint Detection**|Huayi Zhouet.al|[paper](https://arxiv.org/abs/2304.10765)|[code](https://github.com/hnuzhy/BPJDet.)|-|
-|**2023-4-20**|**Enhancing object detection robustness: A synthetic and natural perturbation approach**|Nilantha Premakumaraet.al|[paper](https://arxiv.org/abs/2304.10622)|-|-|
-|**2023-4-20**|**Radar-Camera Fusion for Object Detection and Semantic Segmentation in Autonomous Driving: A Comprehensive Review**|Shanliang Yaoet.al|[paper](https://arxiv.org/abs/2304.10410)|[code](https://XJTLU-VEC.github.io/Radar-Camera-Fusion.)|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-4-25**|**Domain-Adaptive Self-Supervised Pre-Training for Face & Body Detection in Drawings**|Barış Batuhan Topalet.al|[paper](https://arxiv.org/abs/2211.10641)|[code](https://github.com/barisbatuhan/DASS_Detector.)|<details><summary>detail</summary>Preprint</details>|
+|**2023-4-24**|**Multi-Source to Multi-Target Decentralized Federated Domain Adaptation**|Su Wanget.al|[paper](https://arxiv.org/abs/2304.12422)|-|<details><summary>detail</summary>Submitted To IEEE Transactions on Cognitive Communications and Networking</details>|
 |**2023-4-24**|**Few-shot Fine-tuning is All You Need for Source-free Domain Adaptation**|Suho Leeet.al|[paper](https://arxiv.org/abs/2304.00792)|[code](https://github.com/daintlab/fewshot-SFDA)|<details><summary>detail</summary>The first two authors contributed equally</details>|
 |**2023-4-24**|**Survey on Unsupervised Domain Adaptation for Semantic Segmentation for Visual Perception in Automated Driving**|Manuel Schwonberget.al|[paper](https://arxiv.org/abs/2304.11928)|[code](https://uda-survey.github.io/survey/)|<details><summary>detail</summary>submitted to IEEE Access</details>|
 |**2023-4-24**|**Universal Domain Adaptation via Compressive Attention Matching**|Didi Zhuet.al|[paper](https://arxiv.org/abs/2304.11862)|-|-|
@@ -94,8 +96,6 @@
 |**2023-4-20**|**Infrared ship target segmentation based on Adversarial Domain Adaptation**|T Zhang et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0950705123000941)|-|<details><summary>detail</summary>Knowledge Based…, 2023 Elsevier</details>|
 |**2023-4-19**|**Adaptive Stylization Modulation for Domain Generalized Semantic Segmentation**|Gabriel Tjioet.al|[paper](https://arxiv.org/abs/2304.09347)|[code](https://github.com/placeholder)|-|
 |**2023-4-19**|**Learning Representative Trajectories of Dynamical Systems via Domain-Adaptive Imitation**|Edgardo Solano-Carrilloet.al|[paper](https://arxiv.org/abs/2304.10260)|[code](https://github.com/DLR-MI/dati)|<details><summary>detail</summary>Code is available at https://github</details>|
-|**2023-4-19**|**Domain Adaptable Self-supervised Representation Learning on Remote Sensing Satellite Imagery**|Muskaan Chopraet.al|[paper](https://arxiv.org/abs/2304.09874)|-|<details><summary>detail</summary>Accepted in International Joint Conference on Neural Networks (IJCNN) 2023</details>|
-|**2023-4-19**|**Chaos to Order: A Label Propagation Perspective on Source-Free Domain Adaptation**|Chunwei Wuet.al|[paper](https://arxiv.org/abs/2301.08413)|-|<details><summary>detail</summary>This work has been submitted for peer review</details>|
 
 ## domain generalization
 
@@ -131,6 +131,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-4-25**|**Stable and low-precision training for large-scale vision-language models**|Mitchell Wortsmanet.al|[paper](https://arxiv.org/abs/2304.13013)|-|-|
 |**2023-4-23**|**SATIN: A Multi-Task Metadataset for Classifying Satellite Imagery using Vision-Language Models**|Jonathan Robertset.al|[paper](https://arxiv.org/abs/2304.11619)|[code](https://satinbenchmark.github.io)|-|
 |**2023-4-21**|**Weakly-Supervised HOI Detection from Interaction Labels Only and Language/Vision-Language Priors**|M Erhan Unal et.al|[paper](https://ui.adsabs.harvard.edu/abs/2023arXiv230305546E/abstract)|[code](https://paperswithcode.com/paper/weakly-supervised-hoi-detection-from)|-|
 |**2023-4-21**|**Scaling Vision-Language Models with Sparse Mixture of Experts**|S Shen et.al|[paper](https://arxiv.org/abs/2303.07226)|[code](https://github.com/google-research/vmoe)|-|
@@ -155,5 +156,4 @@
 |**2023-4-17**|**Robotic Applications of Pre-Trained Vision-Language Models to Various Recognition Behaviors**|K Kawaharazuka et.al|[paper](https://arxiv.org/abs/2303.05674)|-|-|
 |**2023-4-16**|**Chain of Thought Prompt Tuning in Vision Language Models**|Jiaxin Geet.al|[paper](https://arxiv.org/abs/2304.07919)|-|-|
 |**2023-4-15**|**CoVLR: Coordinating Cross-Modal Consistency and Intra-Modal Structure for Vision-Language Retrieval**|Yang Yanget.al|[paper](https://arxiv.org/abs/2304.07567)|-|-|
-|**2023-4-14**|**Is Multimodal Vision Supervision Beneficial to Language?**|Avinash Madasuet.al|[paper](https://arxiv.org/abs/2302.05016)|-|-|
 
