@@ -41,6 +41,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-5-3**|**Gradient-based Maximally Interfered Retrieval for Domain Incremental 3D Object Detection**|Barza Nisaret.al|[paper](https://arxiv.org/abs/2304.14460)|-|-|
 |**2023-5-3**|**CD-FSOD: A Benchmark for Cross-domain Few-shot Object Detection**|Wuti Xionget.al|[paper](https://arxiv.org/abs/2210.05311)|[code](https://github.com/FSOD/CD-FSOD)|<details><summary>detail</summary>Accepted by ICASSP 2023</details>|
 |**2023-5-2**|**Bidirectional Propagation for Cross-Modal 3D Object Detection**|Yifan Zhanget.al|[paper](https://arxiv.org/abs/2301.09077)|[code](https://github.com/Eaphan/BiProDet.)|-|
 |**2023-5-2**|**E-detector: Asynchronous Spatio-temporal for Event-based Object Detection in Intelligent Transportation System**|S Zhang et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3584361)|-|<details><summary>detail</summary>ACM Transactions on Multimedia…, 2023 dl.acm.org</details>|
@@ -63,7 +64,6 @@
 |**2023-4-28**|**Uni3D: A Unified Baseline for Multi-dataset 3D Object Detection**|Bo Zhanget.al|[paper](https://arxiv.org/abs/2303.06880)|[code](https://github.com/PJLab-ADG/3DTrans)|<details><summary>detail</summary>Accepted by CVPR-2023</details>|
 |**2023-4-28**|**A positive feedback method based on F-measure value for Salient Object Detection**|Ailing Panet.al|[paper](https://arxiv.org/abs/2304.14619)|-|-|
 |**2023-4-27**|**OriCon3D: Effective 3D Object Detection using Orientation and Confidence**|Dhyey Manish Rajaniet.al|[paper](https://arxiv.org/abs/2304.14484)|-|-|
-|**2023-4-27**|**Gradient-based Maximally Interfered Retrieval for Domain Incremental 3D Object Detection**|Barza Nisaret.al|[paper](https://arxiv.org/abs/2304.14460)|-|-|
 |**2023-4-27**|**HyperMODEST: Self-Supervised 3D Object Detection with Confidence Score Filtering**|Jenny Xuet.al|[paper](https://arxiv.org/abs/2304.14446)|[code](https://github.com/TRAILab/HyperMODEST)|<details><summary>detail</summary>Accepted in CRV (Conference on Robots and Vision) 2023</details>|
 |**2023-4-27**|**SparseFusion: Fusing Multi-Modal Sparse Representations for Multi-Sensor 3D Object Detection**|Yichen Xieet.al|[paper](https://arxiv.org/abs/2304.14340)|[code](https://github.com/yichen928/SparseFusion.)|-|
 
@@ -71,6 +71,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-5-4**|**Contrastive Mean Teacher for Domain Adaptive Object Detectors**|Shengcao Caoet.al|[paper](https://arxiv.org/abs/2305.03034)|-|<details><summary>detail</summary>CVPR 2023</details>|
+|**2023-5-4**|**Semi-supervised Domain Adaptation via Prototype-based Multi-level Learning**|Xinyang Huanget.al|[paper](https://arxiv.org/abs/2305.02693)|-|<details><summary>detail</summary>In IJCAI 2023</details>|
+|**2023-5-4**|**Unsupervised Domain Adaptation for Neuron Membrane Segmentation based on Structural Features**|Yuxiang Anet.al|[paper](https://arxiv.org/abs/2305.02569)|-|-|
+|**2023-5-3**|**Interpretations of Domain Adaptations via Layer Variational Analysis**|Huan-Hsin Tsenget.al|[paper](https://arxiv.org/abs/2302.01798)|-|<details><summary>detail</summary>Published at ICLR 2023</details>|
+|**2023-5-3**|**Domain Adaptation under Missingness Shift**|Helen Zhouet.al|[paper](https://arxiv.org/abs/2211.02093)|-|-|
 |**2023-5-2**|**ITportrait: Image-Text Coupled 3D Portrait Domain Adaptation**|Xiangwen Denget.al|[paper](https://arxiv.org/abs/2304.04364)|-|-|
 |**2023-5-2**|**A physics-based domain adaptation framework for modelling and forecasting building energy systems**|Zack Xuereb Contiet.al|[paper](https://arxiv.org/abs/2208.09456)|-|-|
 |**2023-5-2**|**Addressing Parameter Choice Issues in Unsupervised Domain Adaptation by Aggregation**|Marius-Constantin Dinuet.al|[paper](https://arxiv.org/abs/2305.01281)|-|<details><summary>detail</summary>Oral talk (notable-top-5%) at International Conference On Learning Representations (ICLR)</details>|
@@ -91,16 +96,13 @@
 |**2023-4-26**|**FVP: Fourier Visual Prompting for Source-Free Unsupervised Domain Adaptation of Medical Image Segmentation**|Yan Wanget.al|[paper](https://arxiv.org/abs/2304.13672)|-|-|
 |**2023-4-26**|**Domain-Indexing Variational Bayes: Interpretable Domain Index for Domain Adaptation**|Zihao Xuet.al|[paper](https://arxiv.org/abs/2302.02561)|[code](https://github.com/Wang-ML-Lab/VDI.)|<details><summary>detail</summary>ICLR 2023 Spotlight (notable-top-25%)</details>|
 |**2023-4-26**|**Domain Adaptive and Generalizable Network Architectures and Training Strategies for Semantic Image Segmentation**|Lukas Hoyeret.al|[paper](https://arxiv.org/abs/2304.13615)|[code](https://github.com/lhoyer/HRDA.)|-|
-|**2023-4-26**|**Cluster Entropy: Active Domain Adaptation in Pathological Image Segmentation**|Xiaoqing Liuet.al|[paper](https://arxiv.org/abs/2304.13513)|-|<details><summary>detail</summary>Accepted by IEEE ISBI'23</details>|
-|**2023-4-26**|**A Case-Based Reasoning Framework for Adaptive Prompting in Cross-Domain Text-to-SQL**|Chunxi Guoet.al|[paper](https://arxiv.org/abs/2304.13301)|-|-|
-|**2023-4-26**|**Robust image steganography against lossy JPEG compression based on embedding domain selection and adaptive error correction**|Xiaolong Duanet.al|[paper](https://arxiv.org/abs/2304.13297)|-|-|
-|**2023-4-25**|**Domain-Adaptive Self-Supervised Pre-Training for Face & Body Detection in Drawings**|Barış Batuhan Topalet.al|[paper](https://arxiv.org/abs/2211.10641)|[code](https://github.com/barisbatuhan/DASS_Detector.)|<details><summary>detail</summary>Preprint</details>|
-|**2023-4-24**|**Multi-Source to Multi-Target Decentralized Federated Domain Adaptation**|Su Wanget.al|[paper](https://arxiv.org/abs/2304.12422)|-|<details><summary>detail</summary>Submitted To IEEE Transactions on Cognitive Communications and Networking</details>|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-5-4**|**ReMask: A Robust Information-Masking Approach for Domain Counterfactual Generation**|Pengfei Honget.al|[paper](https://arxiv.org/abs/2305.02858)|[code](https://github.com/declare-lab/remask)|-|
+|**2023-5-3**|**Synthetic DOmain-Targeted Augmentation (S-DOTA) Improves Model Generalization in Digital Pathology**|Sai Chowdary Gullapallyet.al|[paper](https://arxiv.org/abs/2305.02401)|-|-|
 |**2023-5-2**|**WEDGE: Web-Image Assisted Domain Generalization for Semantic Segmentation**|Namyup Kimet.al|[paper](https://arxiv.org/abs/2109.14196)|-|-|
 |**2023-5-2**|**Domain Generalization with Global Sample Mixup**|Y Lu et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-25075-0_35)|-|<details><summary>detail</summary>European Conference on Computer…, 2023 Springer</details>|
 |**2023-5-2**|**Cross-Domain Augmentation Diagnosis: An Adversarial Domain-Augmented Generalization Method for Fault Diagnosis under Unseen Working Conditions**|Q Li et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0951832023000868)|-|<details><summary>detail</summary>Reliability Engineering &…, 2023 Elsevier</details>|
@@ -124,19 +126,17 @@
 |**2023-4-17**|**Domain Expansion of Image Generators**|Yotam Nitzanet.al|[paper](https://arxiv.org/abs/2301.05225)|[code](https://yotamnitzan.github.io/domain-expansion/.)|<details><summary>detail</summary>Project Page and code are available at https://yotamnitzan</details>|
 |**2023-4-17**|**Domain Generalization Emerges from Dreaming**|H Heo et.al|[paper](https://arxiv.org/abs/2302.00980)|[code](https://paperswithcode.com/paper/domain-generalization-emerges-from-dreaming)|-|
 |**2023-4-16**|**Detecting Domain-Generation Algorithm (DGA) Based Fully-Qualified Domain Names (FQDNs) with Shannon Entropy**|Adam Dorian Wonget.al|[paper](https://arxiv.org/abs/2304.07943)|[code](https://github.com/MalwareMorghulis/SUNBURST).)|-|
-|**2023-4-16**|**Improved Test-Time Adaptation for Domain Generalization**|Liang Chenet.al|[paper](https://arxiv.org/abs/2304.04494)|[code](https://github.com/liangchen527/ITTA.)|<details><summary>detail</summary>Accepted by CVPR 2023</details>|
-|**2023-4-14**|**MvCo-DoT:Multi-View Contrastive Domain Transfer Network for Medical Report Generation**|Ruizhi Wanget.al|[paper](https://arxiv.org/abs/2304.07465)|-|<details><summary>detail</summary>Received by the ICASSP2023</details>|
 
 ## vision language
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-5-4**|**Interpreting Vision and Language Generative Models with Semantic Visual Priors**|Michele Cafagnaet.al|[paper](https://arxiv.org/abs/2304.14986)|-|-|
 |**2023-5-3**|**Fairness in AI Systems: Mitigating gender bias from language-vision models**|Lavisha Aggarwalet.al|[paper](https://arxiv.org/abs/2305.01888)|-|-|
 |**2023-4-30**|**Weakly-Supervised HOI Detection from Interaction Labels Only and Language/Vision-Language Priors**|M Erhan Unal et.al|[paper](https://ui.adsabs.harvard.edu/abs/2023arXiv230305546E/abstract)|[code](https://paperswithcode.com/paper/weakly-supervised-hoi-detection-from)|-|
 |**2023-4-30**|**Scaling Vision-Language Models with Sparse Mixture of Experts**|S Shen et.al|[paper](https://arxiv.org/abs/2303.07226)|[code](https://github.com/google-research/vmoe)|-|
 |**2023-4-30**|**Vision-Language Models as Success Detectors**|Y Du et.al|[paper](https://arxiv.org/abs/2303.07280)|[code](https://github.com/dyabel/detpro)|-|
 |**2023-4-30**|**Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of Synthetic and Compositional Images**|N Bitton-Guetta et.al|[paper](https://arxiv.org/abs/2303.07274)|[code](https://paperswithcode.com/paper/breaking-common-sense-whoops-a-vision-and)|-|
-|**2023-4-28**|**Interpreting Vision and Language Generative Models with Semantic Visual Priors**|Michele Cafagnaet.al|[paper](https://arxiv.org/abs/2304.14986)|-|-|
 |**2023-4-28**|**Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models**|Z Zheng et.al|[paper](https://arxiv.org/abs/2303.06628)|[code](https://github.com/thunderbeee/zscl)|-|
 |**2023-4-28**|**Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models**|J Li et.al|[paper](https://arxiv.org/abs/2303.06571)|[code](https://paperswithcode.com/paper/gradient-regulated-meta-prompt-learning-for)|-|
 |**2023-4-28**|**Towards Universal Vision-language Omni-supervised Segmentation**|B Dong et.al|[paper](https://arxiv.org/abs/2303.06547)|[code](https://paperswithcode.com/paper/towards-universal-vision-language-omni)|-|
