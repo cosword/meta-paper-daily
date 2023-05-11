@@ -41,6 +41,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-5-9**|**Extracting Complex Named Entities in Legal Documents via Weakly Supervised Object Detection**|Hsiu-Wei Yanget.al|[paper](https://arxiv.org/abs/2305.05836)|-|-|
 |**2023-5-9**|**Guided Focal Stack Refinement Network for Light Field Salient Object Detection**|Bo Yuanet.al|[paper](https://arxiv.org/abs/2305.05260)|-|<details><summary>detail</summary>Accepted by ICME 2023</details>|
 |**2023-5-9**|**Texture-guided Saliency Distilling for Unsupervised Salient Object Detection**|Huajun Zhouet.al|[paper](https://arxiv.org/abs/2207.05921)|-|-|
 |**2023-5-8**|**MS3D: Leveraging Multiple Detectors for Unsupervised Domain Adaptation in 3D Object Detection**|Darren Tsaiet.al|[paper](https://arxiv.org/abs/2304.02431)|[code](https://github.com/darrenjkt/MS3D)|<details><summary>detail</summary>Our code is available at https://github</details>|
@@ -65,12 +66,13 @@
 |**2023-5-3**|**Gradient-based Maximally Interfered Retrieval for Domain Incremental 3D Object Detection**|Barza Nisaret.al|[paper](https://arxiv.org/abs/2304.14460)|-|-|
 |**2023-5-3**|**CD-FSOD: A Benchmark for Cross-domain Few-shot Object Detection**|Wuti Xionget.al|[paper](https://arxiv.org/abs/2210.05311)|[code](https://github.com/FSOD/CD-FSOD)|<details><summary>detail</summary>Accepted by ICASSP 2023</details>|
 |**2023-5-2**|**Bidirectional Propagation for Cross-Modal 3D Object Detection**|Yifan Zhanget.al|[paper](https://arxiv.org/abs/2301.09077)|[code](https://github.com/Eaphan/BiProDet.)|-|
-|**2023-5-1**|**SDVRF: Sparse-to-Dense Voxel Region Fusion for Multi-modal 3D Object Detection**|Binglu Renet.al|[paper](https://arxiv.org/abs/2304.08304)|-|<details><summary>detail</summary>Submitted to IEEE Transactions on Circuits and Systems for Video Technology</details>|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-5-9**|**Inclusive FinTech Lending via Contrastive Learning and Domain Adaptation**|Xiyang Huet.al|[paper](https://arxiv.org/abs/2305.05827)|-|-|
+|**2023-5-9**|**Unsupervised Domain Adaptation for Semantic Segmentation via Feature-space Density Matching**|Tushar Katariaet.al|[paper](https://arxiv.org/abs/2305.05789)|-|-|
 |**2023-5-9**|**Interpretations of Domain Adaptations via Layer Variational Analysis**|Huan-Hsin Tsenget.al|[paper](https://arxiv.org/abs/2302.01798)|-|<details><summary>detail</summary>Published at ICLR 2023</details>|
 |**2023-5-9**|**Fashion CUT: Unsupervised domain adaptation for visual pattern classification in clothes using synthetic data and pseudo-labels**|Enric Moreuet.al|[paper](https://arxiv.org/abs/2305.05580)|-|-|
 |**2023-5-9**|**Tailoring Domain Adaptation for Machine Translation Quality Estimation**|Javad Pourmostafa Roshan Sharamiet.al|[paper](https://arxiv.org/abs/2304.08891)|-|<details><summary>detail</summary>EAMT 2023 (main)</details>|
@@ -93,8 +95,6 @@
 |**2023-5-6**|**KRADA: Known-region-aware Domain Alignment for Open-set Domain Adaptation in Semantic Segmentation**|C Zhou et.al|[paper](https://europepmc.org/article/ppr/ppr617459)|[code](https://github.com/chenhong-zhou/krada)|<details><summary>detail</summary>2023 europepmc.org</details>|
 |**2023-5-6**|**Blade crack detection based on domain adaptation and autoencoder of multidimensional vibro-acoustic feature fusion**|J Shen et.al|[paper](https://journals.sagepub.com/doi/abs/10.1177/14759217221139134)|-|<details><summary>detail</summary>Structural Health Monitoring, 2023 journals.sagepub.com</details>|
 |**2023-5-5**|**Mask The Bias: Improving Domain-Adaptive Generalization of CTC-based ASR with Internal Language Model Estimation**|Nilaksh Daset.al|[paper](https://arxiv.org/abs/2305.03837)|-|<details><summary>detail</summary>ICASSP 2023</details>|
-|**2023-5-5**|**GaitSADA: Self-Aligned Domain Adaptation for mmWave Gait Recognition**|Ekkasit Pinyoanuntaponget.al|[paper](https://arxiv.org/abs/2301.13384)|[code](https://exitudio.github.io/GaitSADA)|<details><summary>detail</summary>Submitted to IEEE MASS 2023</details>|
-|**2023-5-5**|**DualCross: Cross-Modality Cross-Domain Adaptation for Monocular BEV Perception**|Yunze Manet.al|[paper](https://arxiv.org/abs/2305.03724)|[code](https://yunzeman.github.io/DualCross)|<details><summary>detail</summary>Preprint</details>|
 |**2023-5-5**|**Infrared ship target segmentation based on Adversarial Domain Adaptation**|T Zhang et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0950705123000941)|-|<details><summary>detail</summary>Knowledge Based…, 2023 Elsevier</details>|
 
 ## domain generalization
@@ -131,7 +131,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2023-5-9**|**InternChat: Solving Vision-Centric Tasks by Interacting with Chatbots Beyond Language**|Zhaoyang Liuet.al|[paper](https://arxiv.org/abs/2305.05662)|[code](https://github.com/OpenGVLab/InternChat.)|<details><summary>detail</summary>Technical Report</details>|
+|**2023-5-10**|**Incorporating Structured Representations into Pretrained Vision & Language Models Using Scene Graphs**|Roei Herziget.al|[paper](https://arxiv.org/abs/2305.06343)|-|<details><summary>detail</summary>Tech Report</details>|
+|**2023-5-10**|**InternChat: Solving Vision-Centric Tasks by Interacting with Chatbots Beyond Language**|Zhaoyang Liuet.al|[paper](https://arxiv.org/abs/2305.05662)|[code](https://github.com/OpenGVLab/InternChat.)|<details><summary>detail</summary>Technical Report</details>|
+|**2023-5-10**|**Modeling Paragraph-Level Vision-Language Semantic Alignment for Multi-Modal Summarization**|Chenhao Cuiet.al|[paper](https://arxiv.org/abs/2208.11303)|-|-|
+|**2023-5-9**|**Vision-Language Models in Remote Sensing: Current Progress and Future Trends**|Congcong Wenet.al|[paper](https://arxiv.org/abs/2305.05726)|-|-|
+|**2023-5-9**|**A Review of Vision-Language Models and their Performance on the Hateful Memes Challenge**|Bryan Zhaoet.al|[paper](https://arxiv.org/abs/2305.06159)|[code](https://github.com/bzhao18/CS-7643-Project.)|-|
 |**2023-5-9**|**MultiModal-GPT: A Vision and Language Model for Dialogue with Humans**|Tao Gonget.al|[paper](https://arxiv.org/abs/2305.04790)|[code](https://github.com/open-mmlab/Multimodal-GPT)|-|
 |**2023-5-6**|**Refined Vision-Language Modeling for Fine-grained Multi-modal Pre-training**|Lisai Zhanget.al|[paper](https://arxiv.org/abs/2303.05313)|-|<details><summary>detail</summary>Work in progress</details>|
 |**2023-5-6**|**Weakly-Supervised HOI Detection from Interaction Labels Only and Language/Vision-Language Priors**|M Erhan Unal et.al|[paper](https://ui.adsabs.harvard.edu/abs/2023arXiv230305546E/abstract)|[code](https://paperswithcode.com/paper/weakly-supervised-hoi-detection-from)|-|
@@ -152,8 +156,4 @@
 |**2023-5-2**|**Robotic Applications of Pre-Trained Vision-Language Models to Various Recognition Behaviors**|K Kawaharazuka et.al|[paper](https://arxiv.org/abs/2303.05674)|-|-|
 |**2023-4-26**|**Retrieval-based Knowledge Augmented Vision Language Pre-training**|Jiahua Raoet.al|[paper](https://arxiv.org/abs/2304.13923)|-|-|
 |**2023-4-25**|**Stable and low-precision training for large-scale vision-language models**|Mitchell Wortsmanet.al|[paper](https://arxiv.org/abs/2304.13013)|-|-|
-|**2023-4-23**|**SATIN: A Multi-Task Metadataset for Classifying Satellite Imagery using Vision-Language Models**|Jonathan Robertset.al|[paper](https://arxiv.org/abs/2304.11619)|[code](https://satinbenchmark.github.io)|-|
-|**2023-4-20**|**SkinGPT: A Dermatology Diagnostic System with Vision Large Language Model**|Juexiao Zhouet.al|[paper](https://arxiv.org/abs/2304.10691)|-|-|
-|**2023-4-20**|**MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models**|Deyao Zhuet.al|[paper](https://arxiv.org/abs/2304.10592)|[code](https://minigpt-4.github.io/.)|<details><summary>detail</summary>Project Website: https://minigpt-4</details>|
-|**2023-4-19**|**SurgicalGPT: End-to-End Language-Vision GPT for Visual Question Answering in Surgery**|Lalithkumar Seenivasanet.al|[paper](https://arxiv.org/abs/2304.09974)|-|<details><summary>detail</summary>The manuscript is under review</details>|
 
