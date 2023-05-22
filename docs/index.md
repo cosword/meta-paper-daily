@@ -41,6 +41,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-5-19**|**Object-centric and memory-guided normality reconstruction for video anomaly detection**|Khalil Bergaouiet.al|[paper](https://arxiv.org/abs/2203.03677)|-|<details><summary>detail</summary>ICIP 2022</details>|
 |**2023-5-19**|**E-detector: Asynchronous Spatio-temporal for Event-based Object Detection in Intelligent Transportation System**|S Zhang et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3584361)|-|<details><summary>detail</summary>ACM Transactions on Multimedia…, 2023 dl.acm.org</details>|
 |**2023-5-18**|**Parallel Residual Bi-Fusion Feature Pyramid Network for Accurate Single-Shot Object Detection**|Ping-Yang Chenet.al|[paper](https://arxiv.org/abs/2012.01724)|[code](https://github.com/pingyang1117/PRBNet_PyTorch.)|<details><summary>detail</summary>accepted by IEEE transactions on Image Processing</details>|
 |**2023-5-18**|**MonoTDP: Twin Depth Perception for Monocular 3D Object Detection in Adverse Scenes**|Xingyuan Liet.al|[paper](https://arxiv.org/abs/2305.10974)|-|-|
@@ -65,7 +66,6 @@
 |**2023-5-15**|**PillarAcc: Sparse PointPillars Accelerator for Real-Time Point Cloud 3D Object Detection on Edge Devices**|Minjae Leeet.al|[paper](https://arxiv.org/abs/2305.07522)|-|-|
 |**2023-5-15**|**RHINO: Rotated DETR with Dynamic Denoising via Hungarian Matching for Oriented Object Detection**|Hakjin Leeet.al|[paper](https://arxiv.org/abs/2305.07598)|-|<details><summary>detail</summary>State-of-the-art Rotated Object Detector in DOTA v1</details>|
 |**2023-5-14**|**MUS-CDB: Mixed Uncertainty Sampling with Class Distribution Balancing for Active Annotation in Aerial Object Detection**|Dong Lianget.al|[paper](https://arxiv.org/abs/2212.02804)|[code](https://github.com/ZJW700/MUS-CDB)|-|
-|**2023-5-14**|**Instance-Aware Repeat Factor Sampling for Long-Tailed Object Detection**|Burhaneddin Yamanet.al|[paper](https://arxiv.org/abs/2305.08069)|-|-|
 
 ## domain adaptation
 
@@ -101,8 +101,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-5-19**|**Execution-Based Evaluation for Open-Domain Code Generation**|Zhiruo Wanget.al|[paper](https://arxiv.org/abs/2212.10481)|-|-|
 |**2023-5-19**|**Domain Generalization with Global Sample Mixup**|Y Lu et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-25075-0_35)|-|<details><summary>detail</summary>European Conference on Computer…, 2023 Springer</details>|
 |**2023-5-19**|**Cross-Domain Augmentation Diagnosis: An Adversarial Domain-Augmented Generalization Method for Fault Diagnosis under Unseen Working Conditions**|Q Li et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0951832023000868)|-|<details><summary>detail</summary>Reliability Engineering &…, 2023 Elsevier</details>|
+|**2023-5-18**|**Domain Generalization Deep Graph Transformation**|Shiyu Wanget.al|[paper](https://arxiv.org/abs/2305.11389)|-|-|
 |**2023-5-18**|**Generalized Planning in PDDL Domains with Pretrained Large Language Models**|Tom Silveret.al|[paper](https://arxiv.org/abs/2305.11014)|-|-|
 |**2023-5-18**|**Learning to Generalize for Cross-domain QA**|Yingjie Niuet.al|[paper](https://arxiv.org/abs/2305.08208)|-|<details><summary>detail</summary>ACL 2023 Findings</details>|
 |**2023-5-18**|**Domain-Agnostic Molecular Generation with Self-feedback**|Yin Fanget.al|[paper](https://arxiv.org/abs/2301.11259)|[code](https://github.com/zjunlp/MolGen.)|<details><summary>detail</summary>Work in progress</details>|
@@ -120,8 +122,6 @@
 |**2023-5-11**|**Domain Generalization by Functional Regression**|M Holzleitner et.al|[paper](https://arxiv.org/abs/2302.04724)|[code](https://github.com/mlr-org/mlr)|-|
 |**2023-5-11**|**The ConceptARC Benchmark: Evaluating Understanding and Generalization in the ARC Domain**|Arseny Moskvichevet.al|[paper](https://arxiv.org/abs/2305.07141)|-|-|
 |**2023-5-9**|**Back-to-Bones: Rediscovering the Role of Backbones in Domain Generalization**|Simone Angaranoet.al|[paper](https://arxiv.org/abs/2209.01121)|[code](https://github.com/PIC4SeR/Back-to-Bones.)|-|
-|**2023-5-9**|**Towards Domain Generalization for ECG and EEG Classification: Algorithms and Benchmarks**|Aristotelis Ballaset.al|[paper](https://arxiv.org/abs/2303.11338)|-|<details><summary>detail</summary>Preprint of under review manuscript at IEEE Transactions on Emerging Topics in Computational Intelligence</details>|
-|**2023-5-8**|**Adaptive Domain Generalization for Digital Pathology Images**|Andrew Walkeret.al|[paper](https://arxiv.org/abs/2305.05100)|-|-|
 |**2023-5-8**|**Leveraging Domain Relations for Domain Generalization**|H Yao et.al|[paper](https://arxiv.org/abs/2302.02609)|[code](https://github.com/rusty1s/pytorch_geometric)|-|
 |**2023-5-6**|**Aggregation of Disentanglement: Reconsidering Domain Variations in Domain Generalization**|D Zhang et.al|[paper](https://arxiv.org/abs/2302.02350)|[code](https://paperswithcode.com/paper/aggregation-of-disentanglement-reconsidering)|-|
 |**2023-5-4**|**Domain Generalization Emerges from Dreaming**|H Heo et.al|[paper](https://arxiv.org/abs/2302.00980)|[code](https://paperswithcode.com/paper/domain-generalization-emerges-from-dreaming)|-|
@@ -130,6 +130,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-5-19**|**Enhancing Vision-Language Pre-Training with Jointly Learned Questioner and Dense Captioner**|Zikang Liuet.al|[paper](https://arxiv.org/abs/2305.11769)|-|-|
+|**2023-5-19**|**Surgical-VQLA: Transformer with Gated Vision-Language Embedding for Visual Question Localized-Answering in Robotic Surgery**|Long Baiet.al|[paper](https://arxiv.org/abs/2305.11692)|[code](https://github.com/longbai1006/Surgical-VQLA)|<details><summary>detail</summary>To appear in IEEE ICRA 2023</details>|
 |**2023-5-18**|**VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks**|Wenhai Wanget.al|[paper](https://arxiv.org/abs/2305.11175)|[code](https://github.com/OpenGVLab/InternGPT.)|<details><summary>detail</summary>Technical Report</details>|
 |**2023-5-18**|**Discriminative Diffusion Models as Few-shot Vision and Language Learners**|Xuehai Heet.al|[paper](https://arxiv.org/abs/2305.10722)|-|-|
 |**2023-5-18**|**Vision-Language Pre-training with Object Contrastive Learning for 3D Scene Understanding**|Taolin Zhanget.al|[paper](https://arxiv.org/abs/2305.10714)|-|-|
@@ -152,6 +154,4 @@
 |**2023-5-13**|**Multi-task Paired Masking with Alignment Modeling for Medical Vision-Language Pre-training**|Ke Zhanget.al|[paper](https://arxiv.org/abs/2305.07920)|-|-|
 |**2023-5-13**|**Tag2Text: Guiding Vision-Language Model via Image Tagging**|X Huang et.al|[paper](https://arxiv.org/abs/2303.05657)|[code](https://paperswithcode.com/paper/tag2text-guiding-vision-language-model-via)|-|
 |**2023-5-13**|**Robotic Applications of Pre-Trained Vision-Language Models to Various Recognition Behaviors**|K Kawaharazuka et.al|[paper](https://arxiv.org/abs/2303.05674)|-|-|
-|**2023-5-12**|**Measuring Progress in Fine-grained Vision-and-Language Understanding**|Emanuele Bugliarelloet.al|[paper](https://arxiv.org/abs/2305.07558)|-|<details><summary>detail</summary>ACL 2023</details>|
-|**2023-5-12**|**WEDGE: A multi-weather autonomous driving dataset built from generative vision-language models**|Aboli Maratheet.al|[paper](https://arxiv.org/abs/2305.07528)|[code](https://infernolia.github.io/WEDGE.)|<details><summary>detail</summary>Accepted in Vision Datasets Understanding at CVPR 2023</details>|
 
