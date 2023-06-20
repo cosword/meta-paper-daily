@@ -102,31 +102,21 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2023-6-17**|**Domain Generalization with Global Sample Mixup**|Y Lu et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-25075-0_35)|-|<details><summary>detail</summary>European Conference on Computer…, 2023 Springer</details>|
-|**2023-6-17**|**Cross-Domain Augmentation Diagnosis: An Adversarial Domain-Augmented Generalization Method for Fault Diagnosis under Unseen Working Conditions**|Q Li et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0951832023000868)|-|<details><summary>detail</summary>Reliability Engineering &…, 2023 Elsevier</details>|
 |**2023-6-15**|**PASTA: Proportional Amplitude Spectrum Training Augmentation for Syn-to-Real Domain Generalization**|Prithvijit Chattopadhyayet.al|[paper](https://arxiv.org/abs/2212.00979)|[code](https://github.com/prithv1/PASTA)|<details><summary>detail</summary>Code: https://github</details>|
 |**2023-6-15**|**Building blocks for complex tasks: Robust generative event extraction for radiology reports under domain shifts**|Sitong Zhouet.al|[paper](https://arxiv.org/abs/2306.09544)|-|<details><summary>detail</summary>Journal ref:The 5th Clinical Natural Language Processing Workshop</details>|
 |**2023-6-15**|**CNN Feature Map Augmentation for Single-Source Domain Generalization**|Aristotelis Ballaset.al|[paper](https://arxiv.org/abs/2305.16746)|[code](https://ieeebigdataservice.com/))|<details><summary>detail</summary>In proceedings of IEEE BigDataService2023 (https://ieeebigdataservice</details>|
 |**2023-6-15**|**Med-MMHL: A Multi-Modal Dataset for Detecting Human- and LLM-Generated Misinformation in the Medical Domain**|Yanshen Sunet.al|[paper](https://arxiv.org/abs/2306.08871)|[code](https://github.com/styxsys0927/Med-MMHL)|-|
-|**2023-6-15**|**On the Hyperparameters influencing a PINN's generalization beyond the training domain**|A Bonfanti et.al|[paper](https://arxiv.org/abs/2302.07557)|[code](https://paperswithcode.com/paper/on-the-hyperparameters-influencing-a-pinn-s)|-|
-|**2023-6-14**|**Robust Representation Learning with Self-Distillation for Domain Generalization**|A Singh et.al|[paper](https://arxiv.org/abs/2302.06874)|[code](https://github.com/amingwu/single-dgod)|-|
 |**2023-6-12**|**Test-Time Style Shifting: Handling Arbitrary Styles in Domain Generalization**|Jungwuk Parket.al|[paper](https://arxiv.org/abs/2306.04911)|-|<details><summary>detail</summary>ICML 2023 camera-ready version</details>|
-|**2023-6-12**|**Cross-corpora spoken language identification with domain diversification and generalization**|S Dey et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0885230823000086)|[code](https://paperswithcode.com/paper/cross-corpora-spoken-language-identification)|<details><summary>detail</summary>Computer Speech & Language, 2023 Elsevier</details>|
 |**2023-6-11**|**Finding Competence Regions in Domain Generalization**|Jens Mülleret.al|[paper](https://arxiv.org/abs/2303.09989)|[code](https://openreview.net/forum?id=TSy0vuwQFN))|<details><summary>detail</summary>The paper has been published at TMLR (see https://openreview</details>|
-|**2023-6-10**|**Domain-Conditioned Normalization for Test-Time Domain Generalization**|Y Jiang et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-25085-9_17)|-|<details><summary>detail</summary>Computer Vision–ECCV…, 2023 Springer</details>|
-|**2023-6-9**|**Domain Generalization by Functional Regression**|M Holzleitner et.al|[paper](https://arxiv.org/abs/2302.04724)|[code](https://github.com/mlr-org/mlr)|-|
 |**2023-6-8**|**Devil is in Channels: Contrastive Single Domain Generalization for Medical Image Segmentation**|Shishuai Huet.al|[paper](https://arxiv.org/abs/2306.05254)|[code](https://github.com/ShishuaiHu/CCSDG)|-|
 |**2023-6-7**|**ContriMix: Unsupervised disentanglement of content and attribute for domain generalization in microscopy image analysis**|Tan H. Nguyenet.al|[paper](https://arxiv.org/abs/2306.04527)|-|-|
 |**2023-6-6**|**Domain Generalization for Mammographic Image Analysis via Contrastive Learning**|Zheren Liet.al|[paper](https://arxiv.org/abs/2304.10226)|-|<details><summary>detail</summary>arXiv admin note: text overlap with arXiv:2111</details>|
-|**2023-6-6**|**Leveraging Domain Relations for Domain Generalization**|H Yao et.al|[paper](https://arxiv.org/abs/2302.02609)|[code](https://github.com/rusty1s/pytorch_geometric)|-|
 |**2023-6-5**|**shs-nlp at RadSum23: Domain-Adaptive Pre-training of Instruction-tuned LLMs for Radiology Report Impression Generation**|Sanjeev Kumar Karnet.al|[paper](https://arxiv.org/abs/2306.03264)|-|<details><summary>detail</summary>1st Place in Task 1B: Radiology Report Summarization at BioNLP 2023</details>|
 |**2023-6-5**|**Explore and Exploit the Diverse Knowledge in Model Zoo for Domain Generalization**|Yimeng Chenet.al|[paper](https://arxiv.org/abs/2306.02595)|-|<details><summary>detail</summary>ICML 2023</details>|
 |**2023-6-4**|**Addressing Domain Shift via Knowledge Space Sharing for Generalized Zero-Shot Industrial Fault Diagnosis**|Jiancheng Zhaoet.al|[paper](https://arxiv.org/abs/2306.02359)|-|-|
 |**2023-6-4**|**EnfoMax: Domain Entropy and Mutual Information Maximization for Domain Generalized Face Anti-spoofing**|Tianyi Zhenget.al|[paper](https://arxiv.org/abs/2302.08674)|-|-|
-|**2023-6-4**|**Aggregation of Disentanglement: Reconsidering Domain Variations in Domain Generalization**|D Zhang et.al|[paper](https://arxiv.org/abs/2302.02350)|[code](https://paperswithcode.com/paper/aggregation-of-disentanglement-reconsidering)|-|
 |**2023-6-2**|**Is Generative Modeling-based Stylization Necessary for Domain Adaptation in Regression Tasks?**|Jinman Parket.al|[paper](https://arxiv.org/abs/2306.01706)|-|-|
 |**2023-6-2**|**GANs and alternative methods of synthetic noise generation for domain adaption of defect classification of Non-destructive ultrasonic testing**|Shaun McKnightet.al|[paper](https://arxiv.org/abs/2306.01469)|-|<details><summary>detail</summary>16 Pages</details>|
-|**2023-6-2**|**Domain Generalization Emerges from Dreaming**|H Heo et.al|[paper](https://arxiv.org/abs/2302.00980)|[code](https://paperswithcode.com/paper/domain-generalization-emerges-from-dreaming)|-|
 
 ## vision language
 
