@@ -42,6 +42,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-6-21**|**RXFOOD: Plug-in RGB-X Fusion for Object of Interest Detection**|Jin Maet.al|[paper](https://arxiv.org/abs/2306.12621)|-|-|
+|**2023-6-21**|**Real-Time and Robust 3D Object Detection Within Road-Side LiDARs Using Domain Adaptation**|Walter Zimmeret.al|[paper](https://arxiv.org/abs/2204.00132)|-|-|
 |**2023-6-21**|**Exploiting Multimodal Synthetic Data for Egocentric Human-Object Interaction Detection in an Industrial Scenario**|Rosario Leonardiet.al|[paper](https://arxiv.org/abs/2306.12152)|[code](https://iplab.dmi.unict.it/egoism-hoi.)|-|
 |**2023-6-21**|**A Comprehensive Study on the Robustness of Image Classification and Object Detection in Remote Sensing: Surveying and Benchmarking**|Shaohui Meiet.al|[paper](https://arxiv.org/abs/2306.12111)|-|-|
 |**2023-6-21**|**Spiking Neural Network for Ultra-low-latency and High-accurate Object Detection**|Jinye Quet.al|[paper](https://arxiv.org/abs/2306.12010)|-|-|
@@ -65,13 +67,13 @@
 |**2023-6-16**|**Scaling Open-Vocabulary Object Detection**|Matthias Mindereret.al|[paper](https://arxiv.org/abs/2306.09683)|-|-|
 |**2023-6-15**|**DEYO: DETR with YOLO for Step-by-Step Object Detection**|Haodong Ouyanget.al|[paper](https://arxiv.org/abs/2211.06588)|-|-|
 |**2023-6-15**|**DEYOv2: Rank Feature with Greedy Matching for End-to-End Object Detection**|Haodong Ouyanget.al|[paper](https://arxiv.org/abs/2306.09165)|-|<details><summary>detail</summary>SOTA detector</details>|
-|**2023-6-15**|**HRFuser: A Multi-resolution Sensor Fusion Architecture for 2D Object Detection**|Tim Broedermannet.al|[paper](https://arxiv.org/abs/2206.15157)|[code](https://github.com/timbroed/HRFuser)|-|
-|**2023-6-15**|**LMD: Light-weight Prediction Quality Estimation for Object Detection in Lidar Point Clouds**|Tobias Riedlingeret.al|[paper](https://arxiv.org/abs/2306.07835)|-|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-6-22**|**Super-Resolution of BVOC Emission Maps Via Domain Adaptation**|Antonio Gigantiet.al|[paper](https://arxiv.org/abs/2306.12796)|-|-|
+|**2023-6-21**|**Real-Time and Robust 3D Object Detection Within Road-Side LiDARs Using Domain Adaptation**|Walter Zimmeret.al|[paper](https://arxiv.org/abs/2204.00132)|-|-|
 |**2023-6-19**|**StyleDomain: Efficient and Lightweight Parameterizations of StyleGAN for One-shot and Few-shot Domain Adaptation**|Aibek Alanovet.al|[paper](https://arxiv.org/abs/2212.10229)|-|<details><summary>detail</summary>Preprint</details>|
 |**2023-6-19**|**Kurcuma: a kitchen utensil recognition collection for unsupervised domain adaptation**|A Rosello et.al|[paper](https://link.springer.com/article/10.1007/s10044-023-01147-x)|-|<details><summary>detail</summary>Mas, AJ Gallego… Pattern Analysis and…, 2023 Springer</details>|
 |**2023-6-19**|**An improved multi-source domain adaptation network for inter-subject mental fatigue detection based on DANN**|K Chen et.al|[paper](https://www.degruyter.com/document/doi/10.1515/bmt-2022-0354/html)|-|<details><summary>detail</summary>Biomedical Engineering…, 2023 degruyter.com</details>|
@@ -95,8 +97,6 @@
 |**2023-6-13**|**Taxonomy-Structured Domain Adaptation**|Tianyi Liuet.al|[paper](https://arxiv.org/abs/2306.07874)|[code](https://github.com/Wang-ML-Lab/TSDA.)|<details><summary>detail</summary>Accepted by ICML 2023</details>|
 |**2023-6-12**|**Domain Adaptation with Incomplete Target Domains**|Zhenpeng Liet.al|[paper](https://arxiv.org/abs/2012.01606)|-|-|
 |**2023-6-10**|**Partial Identifiability for Domain Adaptation**|Lingjing Konget.al|[paper](https://arxiv.org/abs/2306.06510)|-|<details><summary>detail</summary>ICML 2022</details>|
-|**2023-6-10**|**Domain-Indexing Variational Bayes: Interpretable Domain Index for Domain Adaptation**|Zihao Xuet.al|[paper](https://arxiv.org/abs/2302.02561)|[code](https://github.com/Wang-ML-Lab/VDI.)|<details><summary>detail</summary>ICLR 2023 Spotlight (notable-top-25%)</details>|
-|**2023-6-10**|**CoCo: A Coupled Contrastive Framework for Unsupervised Domain Adaptive Graph Classification**|Nan Yinet.al|[paper](https://arxiv.org/abs/2306.04979)|-|-|
 
 ## domain generalization
 
@@ -132,8 +132,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-6-22**|**VL-CheckList: Evaluating Pre-trained Vision-Language Models with Objects, Attributes and Relations**|Tiancheng Zhaoet.al|[paper](https://arxiv.org/abs/2207.00221)|[code](https://github.com/om-ai-lab/VL-CheckList.)|-|
+|**2023-6-22**|**Vision Language Pre-training by Contrastive Learning with Cross-Modal Similarity Regulation**|Chaoya Jianget.al|[paper](https://arxiv.org/abs/2305.04474)|-|<details><summary>detail</summary>Accepted by ACL2023</details>|
+|**2023-6-21**|**OphGLM: Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue**|Weihao Gaoet.al|[paper](https://arxiv.org/abs/2306.12174)|[code](https://github.com/ML-AILab/OphGLM.)|<details><summary>detail</summary>OphGLM:The first ophthalmology large language-and-vision assistant based on instructions and dialogue</details>|
 |**2023-6-21**|**Exploring Vision-Language Models for Imbalanced Learning**|Yidong Wanget.al|[paper](https://arxiv.org/abs/2304.01457)|[code](https://github.com/Imbalance-VLM/Imbalance-VLM.)|<details><summary>detail</summary>IJCV minor revision</details>|
-|**2023-6-21**|**OphGLM: Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue**|Weihao Gaoet.al|[paper](https://arxiv.org/abs/2306.12174)|[code](https://github.com/ML-AILab/OphGLM.)|<details><summary>detail</summary>OphGLM:The first ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue</details>|
 |**2023-6-20**|**MuDPT: Multi-modal Deep-symphysis Prompt Tuning for Large Pre-trained Vision-Language Models**|Yongzhu Miaoet.al|[paper](https://arxiv.org/abs/2306.11400)|[code](https://github.com/Mechrev0/MuDPT.)|<details><summary>detail</summary>The paper has been accepted by ICME 2023</details>|
 |**2023-6-20**|**RS5M: A Large Scale Vision-Language Dataset for Remote Sensing Vision-Language Foundation Model**|Zilun Zhanget.al|[paper](https://arxiv.org/abs/2306.11300)|-|-|
 |**2023-6-19**|**Grounding Classical Task Planners via Vision-Language Models**|Xiaohan Zhanget.al|[paper](https://arxiv.org/abs/2304.08587)|-|<details><summary>detail</summary>ICRA Workshop on Robot Execution Failures and Failure Management Strategies</details>|
@@ -152,8 +154,6 @@
 |**2023-6-16**|**Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models**|Z Zheng et.al|[paper](https://arxiv.org/abs/2303.06628)|[code](https://github.com/thunderbeee/zscl)|-|
 |**2023-6-16**|**Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models**|J Li et.al|[paper](https://arxiv.org/abs/2303.06571)|[code](https://paperswithcode.com/paper/gradient-regulated-meta-prompt-learning-for)|-|
 |**2023-6-16**|**Towards Universal Vision-language Omni-supervised Segmentation**|B Dong et.al|[paper](https://arxiv.org/abs/2303.06547)|[code](https://paperswithcode.com/paper/towards-universal-vision-language-omni)|-|
-|**2023-6-15**|**Diversifying Joint Vision-Language Tokenization Learning**|Vardaan Pahujaet.al|[paper](https://arxiv.org/abs/2306.03421)|-|<details><summary>detail</summary>Transformers for Vision (T4V) workshop</details>|
-|**2023-6-15**|**LVLM-eHub: A Comprehensive Evaluation Benchmark for Large Vision-Language Models**|Peng Xuet.al|[paper](https://arxiv.org/abs/2306.09265)|[code](https://github.com/OpenGVLab/Multi-Modality-Arena)|-|
 |**2023-6-15**|**Learning Grounded Vision-Language Representation for Versatile Understanding in Untrimmed Videos**|T Wang et.al|[paper](https://arxiv.org/abs/2303.06378)|[code](https://github.com/zjr2000/gvl)|-|
 |**2023-6-14**|**Tag2Text: Guiding Vision-Language Model via Image Tagging**|X Huang et.al|[paper](https://arxiv.org/abs/2303.05657)|[code](https://github.com/xinyu1205/Recognize_Anything-Tag2Text)|-|
 |**2023-6-14**|**Robotic Applications of Pre-Trained Vision-Language Models to Various Recognition Behaviors**|K Kawaharazuka et.al|[paper](https://arxiv.org/abs/2303.05674)|-|-|
