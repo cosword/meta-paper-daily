@@ -32,6 +32,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-6-30**|**Federated Ensemble YOLOv5 - A Better Generalized Object Detection Algorithm**|Vinit Hegisteet.al|[paper](https://arxiv.org/abs/2306.17829)|-|-|
+|**2023-6-30**|**Federated Object Detection for Quality Inspection in Shared Production**|Vinit Hegisteet.al|[paper](https://arxiv.org/abs/2306.17645)|-|<details><summary>detail</summary>Will submit it to an IEEE conference</details>|
+|**2023-6-30**|**Comparative study of subset selection methods for rapid prototyping of 3D object detection algorithms**|Konrad Liset.al|[paper](https://arxiv.org/abs/2306.17551)|[code](https://github.com/vision-agh/monspec.)|<details><summary>detail</summary>Accepted for MMAR 2023 (27 th International Conference on Methods and Models in Automation and Robotics)</details>|
+|**2023-6-30**|**DisPlacing Objects: Improving Dynamic Vehicle Detection via Visual Place Recognition under Adverse Conditions**|Stephen Hausleret.al|[paper](https://arxiv.org/abs/2306.17536)|-|<details><summary>detail</summary>IROS 2023</details>|
+|**2023-6-30**|**Defense against Adversarial Cloud Attack on Remote Sensing Salient Object Detection**|Huiming Sunet.al|[paper](https://arxiv.org/abs/2306.17431)|-|-|
 |**2023-6-29**|**Motion Informed Object Detection of Small Insects in Time-lapse Camera Recordings**|Kim Bjergeet.al|[paper](https://arxiv.org/abs/2212.00423)|[code](https://vision.eng.au.dk/mie/)|-|
 |**2023-6-29**|**Query-based Hard-Image Retrieval for Object Detection at Test Time**|Edward Ayerset.al|[paper](https://arxiv.org/abs/2209.11559)|[code](https://github.com/fiveai/hardest.)|<details><summary>detail</summary>Journal ref:Proceedings of the AAAI Conference on Artificial Intelligence</details>|
 |**2023-6-29**|**ORA3D: Overlap Region Aware Multi-view 3D Object Detection**|Wonseok Rohet.al|[paper](https://arxiv.org/abs/2207.00865)|-|<details><summary>detail</summary>BMVC2022</details>|
@@ -42,11 +47,6 @@
 |**2023-6-28**|**Low-Confidence Samples Mining for Semi-supervised Object Detection**|Guandu Liuet.al|[paper](https://arxiv.org/abs/2306.16201)|-|-|
 |**2023-6-28**|**Former: Calibrated and Complementary Transformer for RGB-Infrared Object Detection**|Maoxun Yuanet.al|[paper](https://arxiv.org/abs/2306.16175)|[code](https://github.com/yuanmaoxun/Calibrated-and-Complementary-Transformer-for-RGB-Infrared-Object-Detection.git.)|-|
 |**2023-6-28**|**Lifelong Change Detection: Continuous Domain Adaptation for Small Object Change Detection in Every Robot Navigation**|Koji Takedaet.al|[paper](https://arxiv.org/abs/2306.16086)|-|-|
-|**2023-6-28**|**AFPN: Asymptotic Feature Pyramid Network for Object Detection**|Guoyu Yanget.al|[paper](https://arxiv.org/abs/2306.15988)|[code](https://github.com/gyyang23/AFPN)|-|
-|**2023-6-27**|**mBEST: Realtime Deformable Linear Object Detection Through Minimal Bending Energy Skeleton Pixel Traversals**|Andrew Choiet.al|[paper](https://arxiv.org/abs/2302.09444)|[code](https://youtu.be/q84I9i0DOK4)|<details><summary>detail</summary>YouTube video: https://youtu</details>|
-|**2023-6-27**|**Taming Detection Transformers for Medical Object Detection**|Marc K. Ickleret.al|[paper](https://arxiv.org/abs/2306.15472)|-|<details><summary>detail</summary>BVM 2023 Oral</details>|
-|**2023-6-27**|**Object Detection with Transformers: A Review**|Tahira Shehzadiet.al|[paper](https://arxiv.org/abs/2306.04670)|[code](https://github.com/mindgarage-shan/trans_object_detection_survey)|-|
-|**2023-6-27**|**Spiking Neural Network for Ultra-low-latency and High-accurate Object Detection**|Jinye Quet.al|[paper](https://arxiv.org/abs/2306.12010)|-|-|
 
 ## domain adaptation
 
@@ -92,6 +92,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-6-29**|**UPop: Unified and Progressive Pruning for Compressing Vision-Language Transformers**|Dachuan Shiet.al|[paper](https://arxiv.org/abs/2301.13741)|[code](https://github.com/sdc17/UPop.)|<details><summary>detail</summary>ICML 2023</details>|
 |**2023-6-28**|**Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language**|William Berrioset.al|[paper](https://arxiv.org/abs/2306.16410)|[code](https://github.com/ContextualAI/lens)|-|
 |**2023-6-28**|**Challenges of Zero-Shot Recognition with Vision-Language Models: Granularity and Correctness**|Zhenlin Xuet.al|[paper](https://arxiv.org/abs/2306.16048)|-|-|
 |**2023-6-27**|**Approximated Prompt Tuning for Vision-Language Pre-trained Models**|Qiong Wuet.al|[paper](https://arxiv.org/abs/2306.15706)|-|-|
@@ -106,5 +107,4 @@
 |**2023-6-21**|**OphGLM: Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue**|Weihao Gaoet.al|[paper](https://arxiv.org/abs/2306.12174)|[code](https://github.com/ML-AILab/OphGLM.)|<details><summary>detail</summary>OphGLM:The first ophthalmology large language-and-vision assistant based on instructions and dialogue</details>|
 |**2023-6-21**|**Exploring Vision-Language Models for Imbalanced Learning**|Yidong Wanget.al|[paper](https://arxiv.org/abs/2304.01457)|[code](https://github.com/Imbalance-VLM/Imbalance-VLM.)|<details><summary>detail</summary>IJCV minor revision</details>|
 |**2023-6-20**|**MuDPT: Multi-modal Deep-symphysis Prompt Tuning for Large Pre-trained Vision-Language Models**|Yongzhu Miaoet.al|[paper](https://arxiv.org/abs/2306.11400)|[code](https://github.com/Mechrev0/MuDPT.)|<details><summary>detail</summary>The paper has been accepted by ICME 2023</details>|
-|**2023-6-20**|**RS5M: A Large Scale Vision-Language Dataset for Remote Sensing Vision-Language Foundation Model**|Zilun Zhanget.al|[paper](https://arxiv.org/abs/2306.11300)|-|-|
 
