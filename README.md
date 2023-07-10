@@ -41,7 +41,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-7-7**|**LXL: LiDAR Excluded Lean 3D Object Detection with 4D Imaging Radar and Camera Fusion**|Weiyi Xionget.al|[paper](https://arxiv.org/abs/2307.00724)|-|-|
+|**2023-7-7**|**Joint Perceptual Learning for Enhancement and Object Detection in Underwater Scenarios**|Chenping Fuet.al|[paper](https://arxiv.org/abs/2307.03536)|-|-|
+|**2023-7-7**|**Concealed Object Detection for Passive Millimeter-Wave Security Imaging Based on Task-Aligned Detection Transformer**|Cheng Guoet.al|[paper](https://arxiv.org/abs/2212.00313)|-|-|
 |**2023-7-7**|**E-detector: Asynchronous Spatio-temporal for Event-based Object Detection in Intelligent Transportation System**|S Zhang et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3584361)|-|<details><summary>detail</summary>ACM Transactions on Multimedia…, 2023 dl.acm.org</details>|
+|**2023-7-6**|**Open-Vocabulary Object Detection via Scene Graph Discovery**|Hengcan Shiet.al|[paper](https://arxiv.org/abs/2307.03339)|-|-|
 |**2023-7-6**|**Oriented Object Detection in Optical Remote Sensing Images using Deep Learning: A Survey**|Kun Wanget.al|[paper](https://arxiv.org/abs/2302.10473)|-|-|
 |**2023-7-6**|**DETRs Beat YOLOs on Real-time Object Detection**|Wenyu Lvet.al|[paper](https://arxiv.org/abs/2304.08069)|[code](https://github.com/lyuwenyu/RT-DETR.)|-|
 |**2023-7-6**|**…Simultaneous Defects Visualizing Algorithm for Both Macro and Micro Defects Based on Nonlinear Lamb Wave with an Application of Faster R-Cnn Object Detection**|Y Lee et.al|[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4362451)|-|<details><summary>detail</summary>Available at SSRN 4362451 papers.ssrn.com</details>|
@@ -62,15 +66,14 @@
 |**2023-7-4**|**IAdet: Simplest human-in-the-loop object detection**|Franco Marchesoni-Aclandet.al|[paper](https://arxiv.org/abs/2307.01582)|-|-|
 |**2023-7-3**|**Practical Collaborative Perception: A Framework for Asynchronous and Multi-Agent 3D Object Detection**|Minh-Quan Daoet.al|[paper](https://arxiv.org/abs/2307.01462)|[code](https://github.com/quan-dao/practical-collab-perception.)|<details><summary>detail</summary>Work in progress</details>|
 |**2023-7-3**|**Artifacts Mapping: Multi-Modal Semantic Mapping for Object Detection and 3D Localization**|Federico Rolloet.al|[paper](https://arxiv.org/abs/2307.01121)|-|<details><summary>detail</summary>the 11th European Conference on Mobile Robots (ECMR) 2023</details>|
-|**2023-7-3**|**HODINet: High-Order Discrepant Interaction Network for RGB-D Salient Object Detection**|Kang Yiet.al|[paper](https://arxiv.org/abs/2307.00954)|-|-|
-|**2023-7-3**|**Attention-Based Depth Distillation with 3D-Aware Positional Encoding for Monocular 3D Object Detection**|Zizhang Wuet.al|[paper](https://arxiv.org/abs/2211.16779)|[code](https://github.com/rockywind/ADD.)|<details><summary>detail</summary>Accepted by AAAI2023</details>|
-|**2023-7-3**|**SSD-MonoDETR: Supervised Scale-aware Deformable Transformer for Monocular 3D Object Detection**|Xuan Heet.al|[paper](https://arxiv.org/abs/2305.07270)|[code](https://github.com/mikasa3lili/SSD-MonoDETR.)|<details><summary>detail</summary>Code will be made publicly available at https://github</details>|
-|**2023-7-2**|**LXL: LiDAR Exclusive Lean 3D Object Detection with 4D Imaging Radar and Camera Fusion**|Weiyi Xionget.al|[paper](https://arxiv.org/abs/2307.00724)|-|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-7-7**|**The CHiME-7 UDASE task: Unsupervised domain adaptation for conversational speech enhancement**|Simon Leglaiveet.al|[paper](https://arxiv.org/abs/2307.03533)|-|-|
+|**2023-7-7**|**Deep Optimal Transport for Domain Adaptation on SPD Manifolds**|Ce Juet.al|[paper](https://arxiv.org/abs/2201.05745)|-|-|
+|**2023-7-6**|**Unsupervised Domain Adaptation for Medical Image Segmentation via Feature-space Density Matching**|Tushar Katariaet.al|[paper](https://arxiv.org/abs/2305.05789)|-|-|
 |**2023-7-6**|**Can Domain Adaptation Improve Accuracy and Fairness of Skin Lesion Classification?**|Janet Wanget.al|[paper](https://arxiv.org/abs/2307.03157)|-|-|
 |**2023-7-6**|**Efficient Domain Adaptation of Sentence Embeddings using Adapters**|Tim Schopfet.al|[paper](https://arxiv.org/abs/2307.03104)|-|<details><summary>detail</summary>the International Conference on Recent Advances in Natural Language Processing (RANLP 2023)</details>|
 |**2023-7-6**|**Semi-supervised Domain Adaptive Medical Image Segmentation through Consistency Regularized Disentangled Contrastive Learning**|Hritam Basaket.al|[paper](https://arxiv.org/abs/2307.02798)|[code](https://github.com/hritam-98/GFDA-disentangled)|<details><summary>detail</summary>Paper accepted at MICCAI 2023</details>|
@@ -93,9 +96,6 @@
 |**2023-7-3**|**Generating Reliable Pixel-Level Labels for Source Free Domain Adaptation**|Gabriel Tjioet.al|[paper](https://arxiv.org/abs/2307.00893)|-|-|
 |**2023-7-3**|**Towards Source-free Domain Adaptive Semantic Segmentation via Importance-aware and Prototype-contrast Learning**|Yihong Caoet.al|[paper](https://arxiv.org/abs/2306.01598)|[code](https://github.com/yihong-97/Source-free_IAPC.)|<details><summary>detail</summary>Code will be made publicly available at https://github</details>|
 |**2023-7-2**|**Cross-domain Recommender Systems via Multimodal Domain Adaptation**|Ramya Kamaniet.al|[paper](https://arxiv.org/abs/2306.13887)|-|-|
-|**2023-7-1**|**Taxonomy-Structured Domain Adaptation**|Tianyi Liuet.al|[paper](https://arxiv.org/abs/2306.07874)|[code](https://github.com/Wang-ML-Lab/TSDA.)|<details><summary>detail</summary>Accepted by ICML 2023</details>|
-|**2023-7-1**|**PM-DETR: Domain Adaptive Prompt Memory for Object Detection with Transformers**|Peidong Jiaet.al|[paper](https://arxiv.org/abs/2307.00313)|-|<details><summary>detail</summary>cs</details>|
-|**2023-6-30**|**SMILE: Evaluation and Domain Adaptation for Social Media Language Understanding**|Vasilisa Bashlovkinaet.al|[paper](https://arxiv.org/abs/2307.00135)|-|-|
 
 ## domain generalization
 
@@ -131,6 +131,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-7-7**|**INT-FP-QSim: Mixed Precision and Formats For Large Language Models and Vision Transformers**|Lakshmi Nairet.al|[paper](https://arxiv.org/abs/2307.03712)|[code](https://github.com/lightmatter-ai/INT-FP-QSim)|<details><summary>detail</summary>This report is supplementary material to the open-source code available at: https://github</details>|
+|**2023-7-7**|**Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model**|Yinghui Xinget.al|[paper](https://arxiv.org/abs/2208.08340)|[code](https://github.com/fanrena/DPT.)|-|
+|**2023-7-6**|**All in One: Exploring Unified Vision-Language Tracking with Multi-Modal Alignment**|Chunhui Zhanget.al|[paper](https://arxiv.org/abs/2307.03373)|-|<details><summary>detail</summary>Work in progress</details>|
+|**2023-7-6**|**Vision Language Transformers: A Survey**|Clayton Fieldset.al|[paper](https://arxiv.org/abs/2307.03254)|-|-|
 |**2023-7-6**|**Distilling Large Vision-Language Model with Out-of-Distribution Generalizability**|Xuanlin Liet.al|[paper](https://arxiv.org/abs/2307.03135)|[code](https://github.com/xuanlinli17/large_vlm_distillation_ood)|-|
 |**2023-7-6**|**Proto-CLIP: Vision-Language Prototypical Network for Few-Shot Learning**|Jishnu Jaykumar Pet.al|[paper](https://arxiv.org/abs/2307.03073)|-|-|
 |**2023-7-5**|**Weakly-Supervised HOI Detection from Interaction Labels Only and Language/Vision-Language Priors**|M Erhan Unal et.al|[paper](https://ui.adsabs.harvard.edu/abs/2023arXiv230305546E/abstract)|[code](https://paperswithcode.com/paper/weakly-supervised-hoi-detection-from)|-|
@@ -152,8 +156,4 @@
 |**2023-6-28**|**Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language**|William Berrioset.al|[paper](https://arxiv.org/abs/2306.16410)|[code](https://github.com/ContextualAI/lens)|-|
 |**2023-6-28**|**Challenges of Zero-Shot Recognition with Vision-Language Models: Granularity and Correctness**|Zhenlin Xuet.al|[paper](https://arxiv.org/abs/2306.16048)|-|-|
 |**2023-6-27**|**Approximated Prompt Tuning for Vision-Language Pre-trained Models**|Qiong Wuet.al|[paper](https://arxiv.org/abs/2306.15706)|-|-|
-|**2023-6-26**|**LViT: Language meets Vision Transformer in Medical Image Segmentation**|Zihan Liet.al|[paper](https://arxiv.org/abs/2206.14718)|[code](https://github.com/HUANGLIZI/LViT.)|<details><summary>detail</summary>Accepted by IEEE Transactions on Medical Imaging (TMI)</details>|
-|**2023-6-26**|**SugarCrepe: Fixing Hackable Benchmarks for Vision-Language Compositionality**|Cheng-Yu Hsiehet.al|[paper](https://arxiv.org/abs/2306.14610)|[code](https://github.com/RAIVNLab/sugar-crepe.)|-|
-|**2023-6-24**|**Enhancing Dynamic Image Advertising with Vision-Language Pre-training**|Zhoufutu Wenet.al|[paper](https://arxiv.org/abs/2306.14112)|-|-|
-|**2023-6-23**|**Vision-and-Language Pretraining**|Thong Nguyenet.al|[paper](https://arxiv.org/abs/2207.01772)|-|-|
 
