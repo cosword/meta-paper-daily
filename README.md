@@ -41,6 +41,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-7-13**|**Multimodal Object Detection in Remote Sensing**|Abdelbadie Belmouhcineet.al|[paper](https://arxiv.org/abs/2307.06724)|-|-|
+|**2023-7-13**|**Aeolus Ocean -- A simulation environment for the autonomous COLREG-compliant navigation of Unmanned Surface Vehicles using Deep Reinforcement Learning and Maritime Object Detection**|Andrew Alexander Vekiniset.al|[paper](https://arxiv.org/abs/2307.06688)|[code](https://github.com/aavek/Aeolus-Ocean)|-|
 |**2023-7-12**|**TinyissimoYOLO: A Quantized, Low-Memory Footprint, TinyML Object Detection Network for Low Power Microcontrollers**|Julian Moosmannet.al|[paper](https://arxiv.org/abs/2306.00001)|-|<details><summary>detail</summary>Published In: 2023 IEEE 5th International Conference on Artificial Intelligence Circuits and Systems (AICAS)</details>|
 |**2023-7-11**|**Parametric Depth Based Feature Representation Learning for Object Detection and Segmentation in Bird's Eye View**|Jiayu Yanget.al|[paper](https://arxiv.org/abs/2307.04106)|-|-|
 |**2023-7-11**|**Referring Camouflaged Object Detection**|Xuying Zhanget.al|[paper](https://arxiv.org/abs/2306.07532)|[code](https://github.com/zhangxuying1004/RefCOD.)|-|
@@ -63,13 +65,15 @@
 |**2023-7-8**|**Oriented Object Detection in Optical Remote Sensing Images using Deep Learning: A Survey**|Kun Wanget.al|[paper](https://arxiv.org/abs/2302.10473)|-|-|
 |**2023-7-8**|**Edge-Aware Mirror Network for Camouflaged Object Detection**|Dongyue Sunet.al|[paper](https://arxiv.org/abs/2307.03932)|[code](https://github.com/sdy1999/EAMNet.)|<details><summary>detail</summary>ICME2023 paper</details>|
 |**2023-7-7**|**LXL: LiDAR Excluded Lean 3D Object Detection with 4D Imaging Radar and Camera Fusion**|Weiyi Xionget.al|[paper](https://arxiv.org/abs/2307.00724)|-|-|
-|**2023-7-7**|**Joint Perceptual Learning for Enhancement and Object Detection in Underwater Scenarios**|Chenping Fuet.al|[paper](https://arxiv.org/abs/2307.03536)|-|-|
-|**2023-7-7**|**Concealed Object Detection for Passive Millimeter-Wave Security Imaging Based on Task-Aligned Detection Transformer**|Cheng Guoet.al|[paper](https://arxiv.org/abs/2212.00313)|-|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-7-13**|**Watch Your Pose: Unsupervised Domain Adaption with Pose based Triplet Selection for Gait Recognition**|Gavriel Habibet.al|[paper](https://arxiv.org/abs/2307.06751)|-|-|
+|**2023-7-13**|**A Study on Differentiable Logic and LLMs for EPIC-KITCHENS-100 Unsupervised Domain Adaptation Challenge for Action Recognition 2023**|Yi Chenget.al|[paper](https://arxiv.org/abs/2307.06569)|-|<details><summary>detail</summary>Technical report submitted to CVPR 2023 EPIC-Kitchens challenges</details>|
+|**2023-7-12**|**Domain-adaptive Person Re-identification without Cross-camera Paired Samples**|Huafeng Liet.al|[paper](https://arxiv.org/abs/2307.06533)|-|-|
+|**2023-7-12**|**FDAPT: Federated Domain-adaptive Pre-training for Language Models**|Lekang Jianget.al|[paper](https://arxiv.org/abs/2307.06933)|-|-|
 |**2023-7-12**|**Prompt Generate Train (PGT): A framework for few-shot domain adaptation, alignment, and uncertainty calibration of a retriever augmented generation (RAG) model for domain specific open book question-answering**|C. S. Krishnaet.al|[paper](https://arxiv.org/abs/2307.05915)|-|<details><summary>detail</summary>10</details>|
 |**2023-7-11**|**One-Shot Learning for Periocular Recognition: Exploring the Effect of Domain Adaptation and Data Bias on Deep Representations**|Kevin Hernandez-Diazet.al|[paper](https://arxiv.org/abs/2307.05128)|-|<details><summary>detail</summary>Submitted preprint to IEE Access</details>|
 |**2023-7-10**|**Unsupervised Domain Adaptation with Deep Neural-Network**|Artem Bituitskiiet.al|[paper](https://arxiv.org/abs/2307.05601)|-|<details><summary>detail</summary>Master's thesis</details>|
@@ -91,15 +95,12 @@
 |**2023-7-8**|**Infrared ship target segmentation based on Adversarial Domain Adaptation**|T Zhang et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0950705123000941)|-|<details><summary>detail</summary>Knowledge Based…, 2023 Elsevier</details>|
 |**2023-7-7**|**Domain Adaptation using Silver Standard Labels for Ki-67 Scoring in Digital Pathology: A Step Closer to Widescale Deployment**|Amanda Dyet.al|[paper](https://arxiv.org/abs/2307.03872)|-|<details><summary>detail</summary>Editors: Accepted for publication at MIDL 2023</details>|
 |**2023-7-7**|**The CHiME-7 UDASE task: Unsupervised domain adaptation for conversational speech enhancement**|Simon Leglaiveet.al|[paper](https://arxiv.org/abs/2307.03533)|-|-|
-|**2023-7-7**|**Deep Optimal Transport for Domain Adaptation on SPD Manifolds**|Ce Juet.al|[paper](https://arxiv.org/abs/2201.05745)|-|-|
-|**2023-7-6**|**Unsupervised Domain Adaptation for Medical Image Segmentation via Feature-space Density Matching**|Tushar Katariaet.al|[paper](https://arxiv.org/abs/2305.05789)|-|-|
-|**2023-7-6**|**Can Domain Adaptation Improve Accuracy and Fairness of Skin Lesion Classification?**|Janet Wanget.al|[paper](https://arxiv.org/abs/2307.03157)|-|-|
-|**2023-7-6**|**Efficient Domain Adaptation of Sentence Embeddings using Adapters**|Tim Schopfet.al|[paper](https://arxiv.org/abs/2307.03104)|-|<details><summary>detail</summary>the International Conference on Recent Advances in Natural Language Processing (RANLP 2023)</details>|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-7-13**|**A Causal Framework to Unify Common Domain Generalization Approaches**|Nevin L. Zhanget.al|[paper](https://arxiv.org/abs/2307.06825)|-|-|
 |**2023-7-12**|**Prompt Generate Train (PGT): A framework for few-shot domain adaptation, alignment, and uncertainty calibration of a retriever augmented generation (RAG) model for domain specific open book question-answering**|C. S. Krishnaet.al|[paper](https://arxiv.org/abs/2307.05915)|-|<details><summary>detail</summary>10</details>|
 |**2023-7-12**|**Single Domain Generalization via Normalised Cross-correlation Based Convolutions**|WeiQin Chuahet.al|[paper](https://arxiv.org/abs/2307.05901)|-|-|
 |**2023-7-11**|**Improving Model Generalization by On-manifold Adversarial Augmentation in the Frequency Domain**|Chang Liuet.al|[paper](https://arxiv.org/abs/2302.14302)|-|<details><summary>detail</summary>Computer Vision and Image Understanding (CVIU) [under review]</details>|
@@ -121,7 +122,6 @@
 |**2023-7-3**|**Domain Generalization by Functional Regression**|M Holzleitner et.al|[paper](https://arxiv.org/abs/2302.04724)|[code](https://github.com/mlr-org/mlr)|-|
 |**2023-7-2**|**Intra- & Extra-Source Exemplar-Based Style Synthesis for Improved Domain Generalization**|Yumeng Liet.al|[paper](https://arxiv.org/abs/2307.00648)|[code](https://github.com/boschresearch/ISSA)|<details><summary>detail</summary>An extended version of the accepted WACV paper arXiv:2210</details>|
 |**2023-7-1**|**Learning Content-enhanced Mask Transformer for Domain Generalized Urban-Scene Segmentation**|Qi Biet.al|[paper](https://arxiv.org/abs/2307.00371)|[code](https://github.com/BiQiWHU/domain-generalized-urban-scene-segmentation)|-|
-|**2023-7-1**|**Quantifying and Exploring Heterogeneity in Domain Generalization through Contrastive Analysis**|Yunze Tonget.al|[paper](https://arxiv.org/abs/2305.15889)|-|-|
 |**2023-6-30**|**Leveraging Domain Relations for Domain Generalization**|H Yao et.al|[paper](https://arxiv.org/abs/2302.02609)|[code](https://github.com/rusty1s/pytorch_geometric)|-|
 |**2023-6-28**|**Aggregation of Disentanglement: Reconsidering Domain Variations in Domain Generalization**|D Zhang et.al|[paper](https://arxiv.org/abs/2302.02350)|[code](https://paperswithcode.com/paper/aggregation-of-disentanglement-reconsidering)|-|
 |**2023-6-26**|**Domain Generalization Emerges from Dreaming**|H Heo et.al|[paper](https://arxiv.org/abs/2302.00980)|[code](https://paperswithcode.com/paper/domain-generalization-emerges-from-dreaming)|-|
@@ -130,6 +130,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-7-13**|**Leveraging Vision-Language Foundation Models for Fine-Grained Downstream Tasks**|Denis Coquenetet.al|[paper](https://arxiv.org/abs/2307.06795)|[code](https://github.com/FactoDeepLearning/MultitaskVLFM.)|-|
 |**2023-7-12**|**Can Vision-Language Models be a Good Guesser? Exploring VLMs for Times and Location Reasoning**|Gengyuan Zhanget.al|[paper](https://arxiv.org/abs/2307.06166)|-|-|
 |**2023-7-12**|**VELMA: Verbalization Embodiment of LLM Agents for Vision and Language Navigation in Street View**|Raphael Schumannet.al|[paper](https://arxiv.org/abs/2307.06082)|-|-|
 |**2023-7-11**|**Masked Vision and Language Pre-training with Unimodal and Multimodal Contrastive Losses for Medical Visual Question Answering**|Pengfei Liet.al|[paper](https://arxiv.org/abs/2307.05314)|[code](https://github.com/pengfeiliHEU/MUMC.)|<details><summary>detail</summary>accepted by MICCAI2023</details>|
@@ -154,5 +155,4 @@
 |**2023-7-3**|**Contextual Prompt Learning for Vision-Language Understanding**|Koustava Goswamiet.al|[paper](https://arxiv.org/abs/2307.00910)|-|-|
 |**2023-7-3**|**UniFine: A Unified and Fine-grained Approach for Zero-shot Vision-Language Understanding**|Rui Sunet.al|[paper](https://arxiv.org/abs/2307.00862)|[code](https://github.com/ThreeSR/UniFine)|-|
 |**2023-7-1**|**Instance-Level Semantic Maps for Vision Language Navigation**|Laksh Nanwaniet.al|[paper](https://arxiv.org/abs/2305.12363)|-|-|
-|**2023-7-1**|**Robotic Skill Acquisition via Instruction Augmentation with Vision-Language Models**|Ted Xiaoet.al|[paper](https://arxiv.org/abs/2211.11736)|-|<details><summary>detail</summary>Published as a conference paper at RSS 2023</details>|
 
