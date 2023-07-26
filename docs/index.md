@@ -41,6 +41,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-7-25**|**RecursiveDet: End-to-End Region-based Recursive Object Detection**|Jing Zhaoet.al|[paper](https://arxiv.org/abs/2307.13619)|[code](https://github.com/bravezzzzzz/RecursiveDet.)|<details><summary>detail</summary>Accepted by ICCV 2023</details>|
+|**2023-7-25**|**HeightFormer: Explicit Height Modeling without Extra Data for Camera-only 3D Object Detection in Bird's Eye View**|Yiming Wuet.al|[paper](https://arxiv.org/abs/2307.13510)|-|-|
+|**2023-7-25**|**Cos R-CNN for Online Few-shot Object Detection**|Gratianus Wesley Putra Dataet.al|[paper](https://arxiv.org/abs/2307.13485)|-|<details><summary>detail</summary>Unpublished tech report from 2020</details>|
 |**2023-7-24**|**Automotive Object Detection via Learning Sparse Events by Temporal Dynamics of Spiking Neurons**|Hu Zhanget.al|[paper](https://arxiv.org/abs/2307.12900)|-|-|
 |**2023-7-24**|**Exposing the Troublemakers in Described Object Detection**|Chi Xieet.al|[paper](https://arxiv.org/abs/2307.12813)|[code](https://github.com/shikras/d-cube.)|<details><summary>detail</summary>Preprint</details>|
 |**2023-7-24**|**UP-DETR: Unsupervised Pre-training for Object Detection with Transformers**|Zhigang Daiet.al|[paper](https://arxiv.org/abs/2011.09094)|[code](https://github.com/dddzg/up-detr.)|<details><summary>detail</summary>Accepted by TPAMI 2022 and CVPR 2021</details>|
@@ -63,9 +66,6 @@
 |**2023-7-21**|**BandRe: Rethinking Band-Pass Filters for Scale-Wise Object Detection Evaluation**|Yosuke Shinyaet.al|[paper](https://arxiv.org/abs/2307.11748)|[code](https://github.com/shinya7y/UniverseNet)|<details><summary>detail</summary>Honorable Mention Solution Award in Small Object Detection Challenge for Spotting Birds</details>|
 |**2023-7-21**|**Redemption from Range-view for Accurate 3D Object Detection**|Yihan Wanget.al|[paper](https://arxiv.org/abs/2307.11482)|-|-|
 |**2023-7-21**|**SA-BEV: Generating Semantic-Aware Bird's-Eye-View Feature for Multi-view 3D Object Detection**|Jinqing Zhanget.al|[paper](https://arxiv.org/abs/2307.11477)|[code](https://github.com/mengtan00/SA-BEV.git.)|-|
-|**2023-7-21**|**ParGANDA: Making Synthetic Pedestrians A Reality For Object Detection**|Daria Reshetovaet.al|[paper](https://arxiv.org/abs/2307.11360)|-|-|
-|**2023-7-20**|**AlignDet: Aligning Pre-training and Fine-tuning in Object Detection**|Ming Liet.al|[paper](https://arxiv.org/abs/2307.11077)|[code](https://liming-ai.github.io/AlignDet)|<details><summary>detail</summary>Accepted by ICCV 2023</details>|
-|**2023-7-20**|**Cascade-DETR: Delving into High-Quality Universal Object Detection**|Mingqiao Yeet.al|[paper](https://arxiv.org/abs/2307.11035)|[code](https://github.com/SysCV/cascade-detr.)|<details><summary>detail</summary>Accepted in ICCV 2023</details>|
 
 ## domain adaptation
 
@@ -101,6 +101,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-7-25**|**FacTool: Factuality Detection in Generative AI -- A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios**|I-Chun Chernet.al|[paper](https://arxiv.org/abs/2307.13528)|-|-|
+|**2023-7-25**|**NormAUG: Normalization-guided Augmentation for Domain Generalization**|Lei Qiet.al|[paper](https://arxiv.org/abs/2307.13492)|-|-|
+|**2023-7-25**|**Generative User-Experience Research for Developing Domain-specific Natural Language Processing Applications**|Anastasia Zhukovaet.al|[paper](https://arxiv.org/abs/2306.16143)|-|-|
 |**2023-7-23**|**Cross Contrastive Feature Perturbation for Domain Generalization**|Chenming Liet.al|[paper](https://arxiv.org/abs/2307.12502)|-|-|
 |**2023-7-23**|**A Generalized Schwarz-type Non-overlapping Domain Decomposition Method using Physics-constrained Neural Networks**|Shamsulhaq Basiret.al|[paper](https://arxiv.org/abs/2307.12435)|-|-|
 |**2023-7-23**|**Domain Generalization with Global Sample Mixup**|Y Lu et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-25075-0_35)|-|<details><summary>detail</summary>European Conference on Computer…, 2023 Springer</details>|
@@ -120,10 +123,7 @@
 |**2023-7-15**|**Domain Generalization by Functional Regression**|M Holzleitner et.al|[paper](https://arxiv.org/abs/2302.04724)|[code](https://github.com/mlr-org/mlr)|-|
 |**2023-7-14**|**DISPEL: Domain Generalization via Domain-Specific Liberating**|Chia-Yuan Changet.al|[paper](https://arxiv.org/abs/2307.07181)|-|-|
 |**2023-7-13**|**A Causal Framework to Unify Common Domain Generalization Approaches**|Nevin L. Zhanget.al|[paper](https://arxiv.org/abs/2307.06825)|-|-|
-|**2023-7-12**|**Prompt Generate Train (PGT): A framework for few-shot domain adaptation, alignment, and uncertainty calibration of a retriever augmented generation (RAG) model for domain specific open book question-answering**|C. S. Krishnaet.al|[paper](https://arxiv.org/abs/2307.05915)|-|<details><summary>detail</summary>10</details>|
-|**2023-7-12**|**Single Domain Generalization via Normalised Cross-correlation Based Convolutions**|WeiQin Chuahet.al|[paper](https://arxiv.org/abs/2307.05901)|-|-|
 |**2023-7-12**|**Leveraging Domain Relations for Domain Generalization**|H Yao et.al|[paper](https://arxiv.org/abs/2302.02609)|[code](https://github.com/rusty1s/pytorch_geometric)|-|
-|**2023-7-11**|**Improving Model Generalization by On-manifold Adversarial Augmentation in the Frequency Domain**|Chang Liuet.al|[paper](https://arxiv.org/abs/2302.14302)|-|<details><summary>detail</summary>Computer Vision and Image Understanding (CVIU) [under review]</details>|
 |**2023-7-10**|**Aggregation of Disentanglement: Reconsidering Domain Variations in Domain Generalization**|D Zhang et.al|[paper](https://arxiv.org/abs/2302.02350)|[code](https://paperswithcode.com/paper/aggregation-of-disentanglement-reconsidering)|-|
 |**2023-7-8**|**Domain Generalization Emerges from Dreaming**|H Heo et.al|[paper](https://arxiv.org/abs/2302.00980)|[code](https://paperswithcode.com/paper/domain-generalization-emerges-from-dreaming)|-|
 
@@ -131,8 +131,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-7-25**|**GridMM: Grid Memory Map for Vision-and-Language Navigation**|Zihan Wanget.al|[paper](https://arxiv.org/abs/2307.12907)|-|<details><summary>detail</summary>Journal ref:ICCV 2023</details>|
 |**2023-7-24**|**A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models**|Jindong Guet.al|[paper](https://arxiv.org/abs/2307.12980)|-|-|
-|**2023-7-24**|**GridMM: Grid Memory Map for Vision-and-Language Navigation**|Zihan Wanget.al|[paper](https://arxiv.org/abs/2307.12907)|-|<details><summary>detail</summary>Journal ref:ICCV 2023</details>|
 |**2023-7-23**|**ELVIS: Empowering Locality of Vision Language Pre-training with Intra-modal Similarity**|Sumin Seoet.al|[paper](https://arxiv.org/abs/2304.05303)|-|<details><summary>detail</summary>Under review</details>|
 |**2023-7-23**|**CLIPSonic: Text-to-Audio Synthesis with Unlabeled Videos and Pretrained Language-Vision Models**|Hao-Wen Donget.al|[paper](https://arxiv.org/abs/2306.09635)|[code](https://salu133445.github.io/clipsonic/)|<details><summary>detail</summary>Accepted by WASPAA 2023</details>|
 |**2023-7-22**|**SurgicalGPT: End-to-End Language-Vision GPT for Visual Question Answering in Surgery**|Lalithkumar Seenivasanet.al|[paper](https://arxiv.org/abs/2304.09974)|[code](https://github.com/lalithjets/SurgicalGPT)|<details><summary>detail</summary>The manuscript is accepted in MICCAI 2023</details>|
