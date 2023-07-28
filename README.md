@@ -41,6 +41,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-7-27**|**RCM-Fusion: Radar-Camera Multi-Level Fusion for 3D Object Detection**|Jisong Kimet.al|[paper](https://arxiv.org/abs/2307.10249)|-|-|
+|**2023-7-27**|**NeRF-Det: Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection**|Chenfeng Xuet.al|[paper](https://arxiv.org/abs/2307.14620)|[code](https://github.com/facebookresearch/NeRF-Det)|<details><summary>detail</summary>Accepted by ICCV 2023</details>|
+|**2023-7-26**|**Deep Directly-Trained Spiking Neural Networks for Object Detection**|Qiaoyi Suet.al|[paper](https://arxiv.org/abs/2307.11411)|-|<details><summary>detail</summary>Accepted by ICCV2023</details>|
+|**2023-7-26**|**Technical note: ShinyAnimalCV: open-source cloud-based web application for object detection, segmentation, and three-dimensional visualization of animals using computer vision**|Jin Wanget.al|[paper](https://arxiv.org/abs/2307.14487)|-|-|
 |**2023-7-26**|**Memory-Efficient Graph Convolutional Networks for Object Classification and Detection with Event Cameras**|Kamil Jezioreket.al|[paper](https://arxiv.org/abs/2307.14124)|-|<details><summary>detail</summary>Accepted for the SPA 2023 conference</details>|
 |**2023-7-26**|**Active Robot Vision for Distant Object Change Detection: A Lightweight Training Simulator Inspired by Multi-Armed Bandits**|Kouki Terashimaet.al|[paper](https://arxiv.org/abs/2307.14105)|-|-|
 |**2023-7-25**|**TMR-RD: Training-based Model Refinement and Representation Disagreement for Semi-Supervised Object Detection**|Seyed Mojtaba Marvasti-Zadehet.al|[paper](https://arxiv.org/abs/2307.13755)|-|-|
@@ -61,16 +65,17 @@
 |**2023-7-24**|**Hierarchical Cross-modal Transformer for RGB-D Salient Object Detection**|H Chen et.al|[paper](https://arxiv.org/abs/2302.08052)|[code](https://github.com/liuzywen/swinnet)|-|
 |**2023-7-24**|**3M3D: Multi-view, Multi-path, Multi-representation for 3D Object Detection**|J Park et.al|[paper](https://arxiv.org/abs/2302.08231)|[code](https://paperswithcode.com/paper/3m3d-multi-view-multi-path-multi)|-|
 |**2023-7-24**|**Research on road object detection algorithm based on improved YOLOX**|T Yang et.al|[paper](https://arxiv.org/abs/2302.08156)|[code](https://paperswithcode.com/paper/research-on-road-object-detection-algorithm)|-|
-|**2023-7-23**|**Deep Directly-Trained Spiking Neural Networks for Object Detection**|Qiaoyi Suet.al|[paper](https://arxiv.org/abs/2307.11411)|-|<details><summary>detail</summary>Accepted by ICCV2023</details>|
 |**2023-7-23**|**Augmented Box Replay: Overcoming Foreground Shift for Incremental Object Detection**|Liu Yuyanget.al|[paper](https://arxiv.org/abs/2307.12427)|-|<details><summary>detail</summary>Journal ref:2023 International Conference on Computer Vision (ICCV)</details>|
-|**2023-7-23**|**Towards Generic and Controllable Attacks Against Object Detection**|Guopeng Liet.al|[paper](https://arxiv.org/abs/2307.12342)|[code](https://github.com/liguopeng0923/LGP.git)|-|
-|**2023-7-23**|**DQ-Det: Learning Dynamic Query Combinations for Transformer-based Object Detection and Segmentation**|Yiming Cuiet.al|[paper](https://arxiv.org/abs/2307.12239)|-|-|
-|**2023-7-22**|**Spatial Self-Distillation for Object Detection with Inaccurate Bounding Boxes**|Di Wuet.al|[paper](https://arxiv.org/abs/2307.12101)|[code](https://github.com/ucas-vg/PointTinyBenchmark/tree/SSD-Det.)|<details><summary>detail</summary>accepted by ICCV 2023</details>|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-7-27**|**Multi-Source Domain Adaptation through Dataset Dictionary Learning in Wasserstein Space**|Eduardo Fernandes Montesumaet.al|[paper](https://arxiv.org/abs/2307.14953)|-|-|
+|**2023-7-27**|**Taxonomy Adaptive Cross-Domain Adaptation in Medical Imaging via Optimization Trajectory Distillation**|Jianan Fanet.al|[paper](https://arxiv.org/abs/2307.14709)|-|<details><summary>detail</summary>ICCV 2023</details>|
+|**2023-7-27**|**Contrastive Domain Adaptation for Time-Series via Temporal Mixup**|Emadeldeen Eldeleet.al|[paper](https://arxiv.org/abs/2212.01555)|[code](https://github.com/emadeldeen24/CoTMix)|<details><summary>detail</summary>Accepted in the IEEE Transactions on Artificial Intelligence</details>|
+|**2023-7-26**|**Behind Every Domain There is a Shift: Adapting Distortion-aware Vision Transformers for Panoramic Semantic Segmentation**|Jiaming Zhanget.al|[paper](https://arxiv.org/abs/2207.11860)|[code](https://github.com/jamycheung/Trans4PASS.)|<details><summary>detail</summary>Extended version of CVPR 2022 paper arXiv:2203</details>|
+|**2023-7-26**|**Context-aware attention layers coupled with optimal transport domain adaptation and multimodal fusion methods for recognizing dementia from spontaneous speech**|Loukas Iliaset.al|[paper](https://arxiv.org/abs/2305.16406)|-|<details><summary>detail</summary>Knowledge-Based Systems</details>|
 |**2023-7-26**|**DNN-Compressed Domain Visual Recognition with Feature Adaptation**|Yingpeng Denget.al|[paper](https://arxiv.org/abs/2305.08000)|-|-|
 |**2023-7-26**|**Dynamic Domain Discrepancy Adjustment for Active Multi-Domain Adaptation**|Long Liuet.al|[paper](https://arxiv.org/abs/2307.14068)|-|-|
 |**2023-7-26**|**Multi3WOZ: A Multilingual, Multi-Domain, Multi-Parallel Dataset for Training and Evaluating Culturally Adapted Task-Oriented Dialog Systems**|Songbo Huet.al|[paper](https://arxiv.org/abs/2307.14031)|-|<details><summary>detail</summary>A pre-MIT Press publication version for TACL</details>|
@@ -91,11 +96,6 @@
 |**2023-7-22**|**Efficient Domain Adaptation of Sentence Embeddings using Adapters**|Tim Schopfet.al|[paper](https://arxiv.org/abs/2307.03104)|-|<details><summary>detail</summary>the 14th International Conference on Recent Advances in Natural Language Processing (RANLP 2023)</details>|
 |**2023-7-22**|**Infrared ship target segmentation based on Adversarial Domain Adaptation**|T Zhang et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0950705123000941)|-|<details><summary>detail</summary>Knowledge Based…, 2023 Elsevier</details>|
 |**2023-7-21**|**CALDA: Improving Multi-Source Time Series Domain Adaptation with Contrastive Adversarial Learning**|Garrett Wilsonet.al|[paper](https://arxiv.org/abs/2109.14778)|[code](https://github.com/floft/calda)|<details><summary>detail</summary>IEEE Transactions on Pattern Analysis and Machine Intelligence</details>|
-|**2023-7-21**|**Divide and Adapt: Active Domain Adaptation via Customized Learning**|Duojun Huanget.al|[paper](https://arxiv.org/abs/2307.11618)|-|<details><summary>detail</summary>CVPR2023</details>|
-|**2023-7-21**|**OpenGDA: Graph Domain Adaptation Benchmark for Cross-network Learning**|Boshen Shiet.al|[paper](https://arxiv.org/abs/2307.11341)|[code](https://github.com/Skyorca/OpenGDA.)|<details><summary>detail</summary>Under Review</details>|
-|**2023-7-20**|**Domain Adaptation based Enhanced Detection for Autonomous Driving in Foggy and Rainy Weather**|Jinlong Liet.al|[paper](https://arxiv.org/abs/2307.09676)|-|<details><summary>detail</summary>only change the title of this paper</details>|
-|**2023-7-20**|**RadAdapt: Radiology Report Summarization via Lightweight Domain Adaptation of Large Language Models**|Dave Van Veenet.al|[paper](https://arxiv.org/abs/2305.01146)|-|-|
-|**2023-7-20**|**Feed-Forward Source-Free Domain Adaptation via Class Prototypes**|Ondrej Bohdalet.al|[paper](https://arxiv.org/abs/2307.10787)|-|<details><summary>detail</summary>ECCV 2022 Workshop on Out of Distribution Generalization in Computer Vision (OOD-CV)</details>|
 
 ## domain generalization
 
@@ -131,6 +131,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-7-27**|**Regularized Mask Tuning: Uncovering Hidden Knowledge in Pre-trained Vision-Language Models**|Kecheng Zhenget.al|[paper](https://arxiv.org/abs/2307.15049)|[code](https://wuw2019.github.io/RMT/).)|<details><summary>detail</summary>ICCV 2023</details>|
 |**2023-7-26**|**ECO: Ensembling Context Optimization for Vision-Language Models**|Lorenzo Agnolucciet.al|[paper](https://arxiv.org/abs/2307.14063)|-|-|
 |**2023-7-26**|**Set-level Guidance Attack: Boosting Adversarial Transferability of Vision-Language Pre-training Models**|Dong Luet.al|[paper](https://arxiv.org/abs/2307.14061)|-|<details><summary>detail</summary>To appear in ICCV 2023</details>|
 |**2023-7-26**|**HOICLIP: Efficient Knowledge Transfer for HOI Detection with Vision-Language Models**|Shan Ninget.al|[paper](https://arxiv.org/abs/2303.15786)|[code](https://github.com/Artanic30/HOICLIP.)|<details><summary>detail</summary>CVPR 2023</details>|
@@ -152,7 +153,6 @@
 |**2023-7-21**|**Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models**|J Li et.al|[paper](https://arxiv.org/abs/2303.06571)|[code](https://paperswithcode.com/paper/gradient-regulated-meta-prompt-learning-for)|-|
 |**2023-7-21**|**Towards Universal Vision-language Omni-supervised Segmentation**|B Dong et.al|[paper](https://arxiv.org/abs/2303.06547)|[code](https://paperswithcode.com/paper/towards-universal-vision-language-omni)|-|
 |**2023-7-20**|**UP-DP: Unsupervised Prompt Learning for Data Pre-Selection with Vision-Language Models**|Xin Liet.al|[paper](https://arxiv.org/abs/2307.11227)|-|-|
-|**2023-7-20**|**MAP: Multimodal Uncertainty-Aware Vision-Language Pre-training Model**|Yatai Jiet.al|[paper](https://arxiv.org/abs/2210.05335)|-|<details><summary>detail</summary>CVPR 2023 Main Track Long Paper</details>|
 |**2023-7-20**|**Learning Grounded Vision-Language Representation for Versatile Understanding in Untrimmed Videos**|T Wang et.al|[paper](https://arxiv.org/abs/2303.06378)|[code](https://github.com/zjr2000/gvl)|-|
 |**2023-7-19**|**Tag2Text: Guiding Vision-Language Model via Image Tagging**|X Huang et.al|[paper](https://arxiv.org/abs/2303.05657)|[code](https://github.com/xinyu1205/Recognize_Anything-Tag2Text)|-|
 |**2023-7-19**|**Robotic Applications of Pre-Trained Vision-Language Models to Various Recognition Behaviors**|K Kawaharazuka et.al|[paper](https://arxiv.org/abs/2303.05674)|-|-|
