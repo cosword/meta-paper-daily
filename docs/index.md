@@ -41,6 +41,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-8-4**|**Balanced Classification: A Unified Framework for Long-Tailed Object Detection**|Tianhao Qiet.al|[paper](https://arxiv.org/abs/2308.02213)|[code](https://github.com/Tianhao-Qi/BACL.)|<details><summary>detail</summary>Accepted by IEEE Transactions on Multimedia</details>|
+|**2023-8-4**|**Explore Spatio-temporal Aggregation for Insubstantial Object Detection: Benchmark Dataset and Baseline**|Kailai Zhouet.al|[paper](https://arxiv.org/abs/2206.11459)|[code](https://github.com/CalayZhou/IOD-Video)|-|
 |**2023-8-4**|**E-detector: Asynchronous Spatio-temporal for Event-based Object Detection in Intelligent Transportation System**|S Zhang et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3584361)|-|<details><summary>detail</summary>ACM Transactions on Multimedia…, 2023 dl.acm.org</details>|
 |**2023-8-3**|**FROD: Robust Object Detection for Free**| Muhammadet.al|[paper](https://arxiv.org/abs/2308.01888)|-|-|
 |**2023-8-3**|**Erasure-based Interaction Network for RGBT Video Object Detection and A Unified Benchmark**|Zhengzheng Tuet.al|[paper](https://arxiv.org/abs/2308.01630)|-|-|
@@ -64,13 +66,12 @@
 |**2023-7-31**|**MaskBEV: Joint Object Detection and Footprint Completion for Bird's-eye View 3D Point Clouds**|William Guimont-Martinet.al|[paper](https://arxiv.org/abs/2307.01864)|-|<details><summary>detail</summary>\c{opyright} 2023 IEEE</details>|
 |**2023-7-31**|**High-Performance Fine Defect Detection in Artificial Leather Using Dual Feature Pool Object Detection**|Lin Huanget.al|[paper](https://arxiv.org/abs/2307.16751)|-|-|
 |**2023-7-31**|**Detecting Out-of-distribution Objects Using Neuron Activation Patterns**|Bartłomiej Olberet.al|[paper](https://arxiv.org/abs/2307.16433)|-|-|
-|**2023-7-31**|**RCS-YOLO: A Fast and High-Accuracy Object Detector for Brain Tumor Detection**|Ming Kanget.al|[paper](https://arxiv.org/abs/2307.16412)|[code](https://github.com/mkang315/RCS-YOLO.)|<details><summary>detail</summary>To be published in proceedings of the 26th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2023)</details>|
-|**2023-7-30**|**Implementing Edge Based Object Detection For Microplastic Debris**|Amardeep Singhet.al|[paper](https://arxiv.org/abs/2307.16289)|-|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-8-4**|**From Fake to Hyperpartisan News Detection Using Domain Adaptation**|Răzvan-Alexandru Smăduet.al|[paper](https://arxiv.org/abs/2308.02185)|-|-|
 |**2023-8-3**|**Consistency Regularization for Generalizable Source-free Domain Adaptation**|Longxiang Tanget.al|[paper](https://arxiv.org/abs/2308.01587)|-|-|
 |**2023-8-3**|**Kurcuma: a kitchen utensil recognition collection for unsupervised domain adaptation**|A Rosello et.al|[paper](https://link.springer.com/article/10.1007/s10044-023-01147-x)|-|<details><summary>detail</summary>Mas, AJ Gallego… Pattern Analysis and…, 2023 Springer</details>|
 |**2023-8-3**|**An improved multi-source domain adaptation network for inter-subject mental fatigue detection based on DANN**|K Chen et.al|[paper](https://www.degruyter.com/document/doi/10.1515/bmt-2022-0354/html)|-|<details><summary>detail</summary>Biomedical Engineering…, 2023 degruyter.com</details>|
@@ -95,7 +96,6 @@
 |**2023-7-29**|**Behind Every Domain There is a Shift: Adapting Distortion-aware Vision Transformers for Panoramic Semantic Segmentation**|Jiaming Zhanget.al|[paper](https://arxiv.org/abs/2207.11860)|[code](https://github.com/jamycheung/Trans4PASS.)|<details><summary>detail</summary>Extended version of CVPR 2022 paper arXiv:2203</details>|
 |**2023-7-29**|**CMDA: Cross-Modality Domain Adaptation for Nighttime Semantic Segmentation**|Ruihao Xiaet.al|[paper](https://arxiv.org/abs/2307.15942)|[code](https://github.com/XiaRho/CMDA.)|<details><summary>detail</summary>ICCV 2023</details>|
 |**2023-7-28**|**Adaptive Transformers for Robust Few-shot Cross-domain Face Anti-spoofing**|Hsin-Ping Huanget.al|[paper](https://arxiv.org/abs/2203.12175)|-|-|
-|**2023-7-27**|**Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs**|Guankun Wanget.al|[paper](https://arxiv.org/abs/2305.10883)|[code](https://github.com/gkw0010/EISOST-Sim2Real-Dataset-Release)|<details><summary>detail</summary>The manuscript is accepted by Medical & Biological Engineering & Computing</details>|
 
 ## domain generalization
 
