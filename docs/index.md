@@ -17,31 +17,26 @@
 |**2023-8-27**|**Domain-Specificity Inducing Transformers for Source-Free Domain Adaptation**|Sunandini Sanyalet.al|[paper](https://arxiv.org/abs/2308.14023)|[code](http://val.cds.iisc.ac.in/DSiT-SFDA)|<details><summary>detail</summary>ICCV 2023</details>|
 |**2023-8-26**|**Prior-guided Source-free Domain Adaptation for Human Pose Estimation**|Dripta S. Raychaudhuriet.al|[paper](https://arxiv.org/abs/2308.13954)|-|<details><summary>detail</summary>ICCV 2023</details>|
 |**2023-8-25**|**Rethinking the Role of Pre-Trained Networks in Source-Free Domain Adaptation**|Wenyu Zhanget.al|[paper](https://arxiv.org/abs/2212.07585)|-|<details><summary>detail</summary>ICCV 2023</details>|
-|**2023-8-24**|**In Search for a Generalizable Method for Source Free Domain Adaptation**|M Boudiaf et.al|[paper](https://arxiv.org/abs/2302.06658)|[code](https://paperswithcode.com/paper/in-search-for-a-generalizable-method-for)|-|
 |**2023-8-23**|**Source-Free Collaborative Domain Adaptation via Multi-Perspective Feature Enrichment for Functional MRI Analysis**|Yuqi Fanget.al|[paper](https://arxiv.org/abs/2308.12495)|-|-|
 |**2023-8-23**|**Black-box Source-free Domain Adaptation via Two-stage Knowledge Distillation**|Shuai Wanget.al|[paper](https://arxiv.org/abs/2305.07881)|-|<details><summary>detail</summary>The short version is accepted by IJCAI 1st International Workshop on Generalizing from Limited Resources in the Open World</details>|
 |**2023-8-22**|**SUMMIT: Source-Free Adaptation of Uni-Modal Models to Multi-Modal Targets**|Cody Simonset.al|[paper](https://arxiv.org/abs/2308.11880)|[code](https://github.com/csimo005/SUMMIT.)|-|
 |**2023-8-22**|**The Unreasonable Effectiveness of Large Language-Vision Models for Source-free Video Domain Adaptation**|Giacomo Zaraet.al|[paper](https://arxiv.org/abs/2308.09139)|[code](https://github.com/giaczara/dallv)|<details><summary>detail</summary>ICCV2023</details>|
-|**2023-8-21**|**MAPS: A Noise-Robust Progressive Learning Approach for Source-Free Domain Adaptive Keypoint Detection**|Y Ding et.al|[paper](https://arxiv.org/abs/2302.04589)|[code](https://github.com/yuhed/maps)|-|
 |**2023-8-20**|**COCA: Classifier-Oriented Calibration for Source-Free Universal Domain Adaptation via Textual Prototype**|Xinghong Liuet.al|[paper](https://arxiv.org/abs/2308.10450)|-|-|
 |**2023-8-18**|**Source-free Domain Adaptive Human Pose Estimation**|Qucheng Penget.al|[paper](https://arxiv.org/abs/2308.03202)|[code](https://github.com/davidpengucf/SFDAHPE.)|<details><summary>detail</summary>Accepted by ICCV 2023</details>|
 |**2023-8-16**|**Source-free Depth for Object Pop-out**|Zongwei Wuet.al|[paper](https://arxiv.org/abs/2212.05370)|-|<details><summary>detail</summary>ICCV 2023</details>|
 |**2023-8-15**|**Context-Aware Pseudo-Label Refinement for Source-Free Domain Adaptive Fundus Image Segmentation**|Zheang Huaiet.al|[paper](https://arxiv.org/abs/2308.07731)|[code](https://github.com/xmed-lab/CPR.)|<details><summary>detail</summary>Accepted by MICCAI 2023</details>|
 |**2023-8-15**|**PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization**|Junhyeong Choet.al|[paper](https://arxiv.org/abs/2307.15199)|[code](https://promptstyler.github.io/)|<details><summary>detail</summary>ICCV 2023</details>|
 |**2023-8-14**|**Chaos to Order: A Label Propagation Perspective on Source-Free Domain Adaptation**|Chunwei Wuet.al|[paper](https://arxiv.org/abs/2301.08413)|-|<details><summary>detail</summary>Accepted by ACM MM2023</details>|
-|**2023-8-14**|**Universal source-free domain adaptation method for cross-domain fault diagnosis of machines**|Y Zhang et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0888327023000663)|-|<details><summary>detail</summary>Mechanical Systems and…, 2023 Elsevier</details>|
-|**2023-8-12**|**Contrast and Clustering: Learning Neighborhood Pair Representation for Source-free Domain Adaptation**|Y Chen et.al|[paper](https://arxiv.org/abs/2301.13428)|[code](https://github.com/yukilulu/cac)|-|
-|**2023-8-8**|**TIDo: Source-free Task Incremental Learning in Non-stationary Environments**|AK Ambastha et.al|[paper](https://arxiv.org/abs/2301.12055)|[code](https://paperswithcode.com/paper/tido-source-free-task-incremental-learning-in)|-|
-|**2023-8-8**|**Adversarial Learning Networks: Source-free Unsupervised Domain Incremental Learning**|AK Ambastha et.al|[paper](https://arxiv.org/abs/2301.12054)|[code](https://paperswithcode.com/paper/adversarial-learning-networks-source-free)|-|
-|**2023-8-3**|**Cross-platform privacy-preserving CT image COVID-19 diagnosis based on source-free domain adaptation**|Y Feng et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0950705123000746)|-|<details><summary>detail</summary>Knowledge Based Systems, 2023 Elsevier</details>|
-|**2023-7-31**|**Source-free Subject Adaptation for EEG-based Visual Recognition**|P Lee et.al|[paper](https://arxiv.org/abs/2301.08448)|[code](https://github.com/DeepBCI/Deep-BCI)|-|
-|**2023-7-31**|**When Source-Free Domain Adaptation Meets Label Propagation**|C Wu et.al|[paper](https://arxiv.org/abs/2301.08413)|-|-|
-|**2023-7-29**|**Source-Free Domain Adaptive Detection of Concealed Objects in Passive Millimeter-Wave Images**|H Yang et.al|[paper](https://ieeexplore.ieee.org/abstract/document/10019315/)|-|<details><summary>detail</summary>IEEE Transactions on…, 2023 ieeexplore.ieee.org</details>|
 
 ## object detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-8-31**|**Object Detection for Caries or Pit and Fissure Sealing Requirement in Children's First Permanent Molars**|Chenyao Jianget.al|[paper](https://arxiv.org/abs/2308.16551)|-|-|
+|**2023-8-31**|**Unsupervised Recognition of Unknown Objects for Open-World Object Detection**|Ruohuan Fanget.al|[paper](https://arxiv.org/abs/2308.16527)|-|-|
+|**2023-8-31**|**MS23D: A 3D Object Detection Method Using Multi-Scale Semantic Feature Points to Construct 3D Feature Layers**|Yongxin Shaoet.al|[paper](https://arxiv.org/abs/2308.16518)|-|-|
+|**2023-8-31**|**ThermRad: A Multi-modal Dataset for Robust 3D Object Detection under Challenging Conditions**|Qiao Yanet.al|[paper](https://arxiv.org/abs/2308.10161)|-|-|
+|**2023-8-30**|**From Chaos Comes Order: Ordering Event Representations for Object Recognition and Detection**|Nikola Zubićet.al|[paper](https://arxiv.org/abs/2304.13455)|-|-|
 |**2023-8-30**|**Exploring Multi-Modal Contextual Knowledge for Open-Vocabulary Object Detection**|Yifan Xuet.al|[paper](https://arxiv.org/abs/2308.15846)|-|-|
 |**2023-8-30**|**Occlusion-Aware Detection and Re-ID Calibrated Network for Multi-Object Tracking**|Yukun Suet.al|[paper](https://arxiv.org/abs/2308.15795)|-|-|
 |**2023-8-29**|**EA-LSS: Edge-aware Lift-splat-shot Framework for 3D BEV Object Detection**|Haotian Huet.al|[paper](https://arxiv.org/abs/2303.17895)|-|-|
@@ -53,10 +48,6 @@
 |**2023-8-29**|**E-detector: Asynchronous Spatio-temporal for Event-based Object Detection in Intelligent Transportation System**|S Zhang et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3584361)|-|<details><summary>detail</summary>ACM Transactions on Multimedia…, 2023 dl.acm.org</details>|
 |**2023-8-28**|**Streaming Object Detection on Fisheye Cameras for Automatic Parking**|Yixiong Yanet.al|[paper](https://arxiv.org/abs/2305.14713)|[code](https://gitee.com/hiyanyx/fisheye-streaming-perception.)|-|
 |**2023-8-28**|**Cross-domain Federated Object Detection**|Shangchao Suet.al|[paper](https://arxiv.org/abs/2206.14996)|-|<details><summary>detail</summary>ICME 2023</details>|
-|**2023-8-28**|**Group Regression for Query Based Object Detection and Tracking**|Felicia Ruppelet.al|[paper](https://arxiv.org/abs/2308.14481)|-|<details><summary>detail</summary>Accepted for publication at the 2023 26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)</details>|
-|**2023-8-28**|**Improving the performance of object detection by preserving label distribution**|Heewon Leeet.al|[paper](https://arxiv.org/abs/2308.14466)|[code](https://github.com/leeheewon-01/YOLOstratifiedKFold/tree/main)|<details><summary>detail</summary>Code is available at https://github</details>|
-|**2023-8-28**|**Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers**|Dahun Kimet.al|[paper](https://arxiv.org/abs/2305.07011)|[code](https://github.com/mcahny/rovit)|<details><summary>detail</summary>CVPR 2023 Highlight - https://github</details>|
-|**2023-8-28**|**Predicting Class Distribution Shift for Reliable Domain Adaptive Object Detection**|Nicolas Harvey Chapmanet.al|[paper](https://arxiv.org/abs/2302.06039)|-|<details><summary>detail</summary>Journal ref:IEEE Robotics and Automation Letters</details>|
 |**2023-8-28**|**…Simultaneous Defects Visualizing Algorithm for Both Macro and Micro Defects Based on Nonlinear Lamb Wave with an Application of Faster R-Cnn Object Detection**|Y Lee et.al|[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4362451)|-|<details><summary>detail</summary>Available at SSRN 4362451 papers.ssrn.com</details>|
 |**2023-8-28**|**YOGA: Deep Object Detection in the Wild with Lightweight Feature Learning and Multiscale Attention**|R Sunkara et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0031320323001516)|[code](https://paperswithcode.com/paper/yoga-deep-object-detection-in-the-wild-with)|<details><summary>detail</summary>Pattern Recognition, 2023 Elsevier</details>|
 |**2023-8-28**|**Spectral-Spatial Feature Enhancement Algorithm for Nighttime Object Detection and Tracking**|Y Lv et.al|[paper](https://www.mdpi.com/2073-8994/15/2/546)|-|<details><summary>detail</summary>Symmetry, 2023 mdpi.com</details>|
@@ -66,12 +57,15 @@
 |**2023-8-28**|**Hierarchical Cross-modal Transformer for RGB-D Salient Object Detection**|H Chen et.al|[paper](https://arxiv.org/abs/2302.08052)|[code](https://github.com/liuzywen/swinnet)|-|
 |**2023-8-28**|**3M3D: Multi-view, Multi-path, Multi-representation for 3D Object Detection**|J Park et.al|[paper](https://arxiv.org/abs/2302.08231)|[code](https://paperswithcode.com/paper/3m3d-multi-view-multi-path-multi)|-|
 |**2023-8-28**|**Research on road object detection algorithm based on improved YOLOX**|T Yang et.al|[paper](https://arxiv.org/abs/2302.08156)|[code](https://paperswithcode.com/paper/research-on-road-object-detection-algorithm)|-|
-|**2023-8-27**|**Bridging Cross-task Protocol Inconsistency for Distillation in Dense Object Detection**|Longrong Yanget.al|[paper](https://arxiv.org/abs/2308.14286)|[code](https://github.com/TinyTigerPan/BCKD.)|<details><summary>detail</summary>Accepted by ICCV2023</details>|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-8-31**|**BTSeg: Barlow Twins Regularization for Domain Adaptation in Semantic Segmentation**|Johannes Künzelet.al|[paper](https://arxiv.org/abs/2308.16819)|-|-|
+|**2023-8-31**|**Domain-adaptive Message Passing Graph Neural Network**|Xiao Shenet.al|[paper](https://arxiv.org/abs/2308.16470)|-|<details><summary>detail</summary>Journal ref:Neural Networks 164 (2023): 439-454</details>|
+|**2023-8-31**|**Federated Adaptive Prompt Tuning for Multi-domain Collaborative Learning**|Shangchao Suet.al|[paper](https://arxiv.org/abs/2211.07864)|-|-|
+|**2023-8-31**|**Domain Adaptive Synapse Detection with Weak Point Annotations**|Qi Chenet.al|[paper](https://arxiv.org/abs/2308.16461)|-|-|
 |**2023-8-30**|**Discriminator-free Unsupervised Domain Adaptation for Multi-label Image Classification**|Indel Pal Singhet.al|[paper](https://arxiv.org/abs/2301.10611)|-|-|
 |**2023-8-30**|**Semi-supervised Domain Adaptation with Inter and Intra-domain Mixing for Semantic Segmentation**|Weifu Fuet.al|[paper](https://arxiv.org/abs/2308.15855)|-|-|
 |**2023-8-29**|**Generalized Universal Domain Adaptation with Generative Flow Networks**|Didi Zhuet.al|[paper](https://arxiv.org/abs/2305.04466)|-|-|
@@ -83,16 +77,12 @@
 |**2023-8-28**|**Efficient Domain Adaptation of Sentence Embeddings Using Adapters**|Tim Schopfet.al|[paper](https://arxiv.org/abs/2307.03104)|-|<details><summary>detail</summary>the 14th International Conference on Recent Advances in Natural Language Processing (RANLP 2023)</details>|
 |**2023-8-28**|**Predicting Class Distribution Shift for Reliable Domain Adaptive Object Detection**|Nicolas Harvey Chapmanet.al|[paper](https://arxiv.org/abs/2302.06039)|-|<details><summary>detail</summary>Journal ref:IEEE Robotics and Automation Letters</details>|
 |**2023-8-28**|**Functional optimal transport: map estimation and domain adaptation for functional data**|Jiacheng Zhuet.al|[paper](https://arxiv.org/abs/2102.03895)|-|-|
-|**2023-8-28**|**Local-Global Pseudo-label Correction for Source-free Domain Adaptive Medical Image Segmentation**|Yanyu Yeet.al|[paper](https://arxiv.org/abs/2308.14312)|-|-|
 |**2023-8-28**|**Kurcuma: a kitchen utensil recognition collection for unsupervised domain adaptation**|A Rosello et.al|[paper](https://link.springer.com/article/10.1007/s10044-023-01147-x)|-|<details><summary>detail</summary>Mas, AJ Gallego… Pattern Analysis and…, 2023 Springer</details>|
 |**2023-8-28**|**An improved multi-source domain adaptation network for inter-subject mental fatigue detection based on DANN**|K Chen et.al|[paper](https://www.degruyter.com/document/doi/10.1515/bmt-2022-0354/html)|-|<details><summary>detail</summary>Biomedical Engineering…, 2023 degruyter.com</details>|
 |**2023-8-28**|**A multi-source transfer learning model based on LSTM and domain adaptation for building energy prediction**|H Lu et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0142061523000819)|-|<details><summary>detail</summary>International Journal of…, 2023 Elsevier</details>|
 |**2023-8-28**|**Open Set Domain Adaptation with Latent Structure Discovery and Kernelized Classifier Learning**|Y Tang et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0925231223001509)|-|<details><summary>detail</summary>Neurocomputing, 2023 Elsevier</details>|
 |**2023-8-28**|**Towards Real-Time Online Unsupervised Domain Adaptation for Real-World Person Re-identification**|C Neff et.al|[paper](https://www.researchsquare.com/article/rs-2588554/latest.pdf)|-|<details><summary>detail</summary>2023 researchsquare.com</details>|
 |**2023-8-28**|**Unsupervised Domain Adaptation for MRI Volume Segmentation and Classification Using Image-to-Image Translation**|S Kondo et.al|[paper](https://arxiv.org/abs/2302.08016)|[code](https://paperswithcode.com/paper/unsupervised-domain-adaptation-for-mri-volume)|-|
-|**2023-8-27**|**Local Context-Aware Active Domain Adaptation**|Tao Sunet.al|[paper](https://arxiv.org/abs/2208.12856)|[code](https://github.com/tsun/LADA.)|<details><summary>detail</summary>Accepted by ICCV 2023</details>|
-|**2023-8-27**|**Synergizing Contrastive Learning and Optimal Transport for 3D Point Cloud Domain Adaptation**|Siddharth Katageriet.al|[paper](https://arxiv.org/abs/2308.14126)|-|-|
-|**2023-8-27**|**Domain-Specificity Inducing Transformers for Source-Free Domain Adaptation**|Sunandini Sanyalet.al|[paper](https://arxiv.org/abs/2308.14023)|[code](http://val.cds.iisc.ac.in/DSiT-SFDA)|<details><summary>detail</summary>ICCV 2023</details>|
 |**2023-8-27**|**High-Intensified Resemblance and Statistic-Restructured Alignment in Few-Shot Domain Adaptation for Industrial-Specialized Employment**|J Petchhan et.al|[paper](https://ieeexplore.ieee.org/abstract/document/10045719/)|-|<details><summary>detail</summary>IEEE Transactions on Consumer…, 2023 ieeexplore.ieee.org</details>|
 |**2023-8-27**|**KRADA: Known-region-aware Domain Alignment for Open-set Domain Adaptation in Semantic Segmentation**|C Zhou et.al|[paper](https://europepmc.org/article/ppr/ppr617459)|[code](https://github.com/chenhong-zhou/krada)|<details><summary>detail</summary>2023 europepmc.org</details>|
 |**2023-8-27**|**Blade crack detection based on domain adaptation and autoencoder of multidimensional vibro-acoustic feature fusion**|J Shen et.al|[paper](https://journals.sagepub.com/doi/abs/10.1177/14759217221139134)|-|<details><summary>detail</summary>Structural Health Monitoring, 2023 journals.sagepub.com</details>|
@@ -132,6 +122,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-8-31**|**TouchStone: Evaluating Vision-Language Models by Language Models**|Shuai Baiet.al|[paper](https://arxiv.org/abs/2308.16890)|[code](https://github.com/OFA-Sys/TouchStone.)|<details><summary>detail</summary>https://github</details>|
+|**2023-8-31**|**ViLTA: Enhancing Vision-Language Pre-training through Textual Augmentation**|Weihan Wanget.al|[paper](https://arxiv.org/abs/2308.16689)|-|-|
+|**2023-8-31**|**Expanding Frozen Vision-Language Models without Retraining: Towards Improved Robot Perception**|Riley Tavassoliet.al|[paper](https://arxiv.org/abs/2308.16493)|-|<details><summary>detail</summary>Preprint submitted to Information Fusion</details>|
+|**2023-8-30**|**Catalog Phrase Grounding (CPG): Grounding of Product Textual Attributes in Product Images for e-commerce Vision-Language Applications**|Wenyi Wuet.al|[paper](https://arxiv.org/abs/2308.16354)|-|<details><summary>detail</summary>KDD 2022 Workshop on First Content Understanding and Generation for e-Commerce</details>|
 |**2023-8-30**|**Going Beyond Nouns With Vision & Language Models Using Synthetic Data**|Paola Cascante-Bonillaet.al|[paper](https://arxiv.org/abs/2303.17590)|[code](https://synthetic-vic.github.io/)|<details><summary>detail</summary>ICCV 2023</details>|
 |**2023-8-30**|**AnoVL: Adapting Vision-Language Models for Unified Zero-shot Anomaly Localization**|Hanqiu Denget.al|[paper](https://arxiv.org/abs/2308.15939)|-|-|
 |**2023-8-30**|**Prompting Vision Language Model with Knowledge from Large Language Model for Knowledge-Based VQA**|Yang Zhouet.al|[paper](https://arxiv.org/abs/2308.15851)|-|-|
@@ -150,10 +144,6 @@
 |**2023-8-25**|**Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models**|J Li et.al|[paper](https://arxiv.org/abs/2303.06571)|[code](https://paperswithcode.com/paper/gradient-regulated-meta-prompt-learning-for)|-|
 |**2023-8-25**|**Towards Universal Vision-language Omni-supervised Segmentation**|B Dong et.al|[paper](https://arxiv.org/abs/2303.06547)|[code](https://paperswithcode.com/paper/towards-universal-vision-language-omni)|-|
 |**2023-8-24**|**Unsupervised Prototype Adapter for Vision-Language Models**|Yi Zhanget.al|[paper](https://arxiv.org/abs/2308.11507)|-|<details><summary>detail</summary>Accepted by PRCV 2023</details>|
-|**2023-8-24**|**Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities**|Jinze Baiet.al|[paper](https://arxiv.org/abs/2308.12966)|[code](https://github.com/QwenLM/Qwen-VL.)|<details><summary>detail</summary>Code</details>|
-|**2023-8-24**|**Exploring Transferability of Multimodal Adversarial Samples for Vision-Language Pre-training Models with Contrastive Learning**|Youze Wanget.al|[paper](https://arxiv.org/abs/2308.12636)|-|-|
-|**2023-8-24**|**Multi-modal Pre-training for Medical Vision-language Understanding and Generation: An Empirical Study with A New Benchmark**|Li Xuet.al|[paper](https://arxiv.org/abs/2306.06494)|-|<details><summary>detail</summary>Published as oral paper in CHIL 2023</details>|
-|**2023-8-24**|**Grounded Entity-Landmark Adaptive Pre-training for Vision-and-Language Navigation**|Yibo Cuiet.al|[paper](https://arxiv.org/abs/2308.12587)|-|<details><summary>detail</summary>ICCV 2023 Oral</details>|
 |**2023-8-24**|**Learning Grounded Vision-Language Representation for Versatile Understanding in Untrimmed Videos**|T Wang et.al|[paper](https://arxiv.org/abs/2303.06378)|[code](https://github.com/zjr2000/gvl)|-|
 |**2023-8-23**|**Tag2Text: Guiding Vision-Language Model via Image Tagging**|X Huang et.al|[paper](https://arxiv.org/abs/2303.05657)|[code](https://github.com/xinyu1205/Recognize_Anything-Tag2Text)|-|
 |**2023-8-23**|**Robotic Applications of Pre-Trained Vision-Language Models to Various Recognition Behaviors**|K Kawaharazuka et.al|[paper](https://arxiv.org/abs/2303.05674)|-|-|
