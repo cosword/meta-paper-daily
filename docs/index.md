@@ -42,7 +42,21 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-9-4**|**SSVOD: Semi-Supervised Video Object Detection with Sparse Annotations**|Tanvir Mahmudet.al|[paper](https://arxiv.org/abs/2309.01391)|-|-|
+|**2023-9-4**|**Recurrent Multi-scale Transformer for High-Resolution Salient Object Detection**|Xinhao Denget.al|[paper](https://arxiv.org/abs/2308.03826)|[code](https://github.com/DrowsyMon/RMFormer.)|<details><summary>detail</summary>This work is the camera-ready version of ACM MM2023</details>|
+|**2023-9-4**|**MS3D++: Ensemble of Experts for Multi-Source Unsupervised Domain Adaptation in 3D Object Detection**|Darren Tsaiet.al|[paper](https://arxiv.org/abs/2308.05988)|[code](https://github.com/darrenjkt/MS3D)|-|
+|**2023-9-4**|**3D Object Detection from Images for Autonomous Driving: A Survey**|Xinzhu Maet.al|[paper](https://arxiv.org/abs/2202.02980)|-|-|
+|**2023-9-3**|**MS23D: A 3D Object Detection Method Using Multi-Scale Semantic Feature Points to Construct 3D Feature Layer**|Yongxin Shaoet.al|[paper](https://arxiv.org/abs/2308.16518)|-|-|
+|**2023-9-3**|**Improved Multi-Scale Grid Rendering of Point Clouds for Radar Object Detection Networks**|Daniel Köhleret.al|[paper](https://arxiv.org/abs/2305.15836)|-|<details><summary>detail</summary>(c) 2023 IEEE</details>|
+|**2023-9-3**|**EdaDet: Open-Vocabulary Object Detection Using Early Dense Alignment**|Cheng Shiet.al|[paper](https://arxiv.org/abs/2309.01151)|[code](https://chengshiest.github.io/edadet)|<details><summary>detail</summary>ICCV 2023</details>|
+|**2023-9-3**|**AdvMono3D: Advanced Monocular 3D Object Detection with Depth-Aware Robust Adversarial Training**|Xingyuan Liet.al|[paper](https://arxiv.org/abs/2309.01106)|-|-|
+|**2023-9-3**|**CoTDet: Affordance Knowledge Prompting for Task Driven Object Detection**|Jiajin Tanget.al|[paper](https://arxiv.org/abs/2309.01093)|-|<details><summary>detail</summary>Accepted by ICCV 2023</details>|
+|**2023-9-3**|**MILA: Memory-Based Instance-Level Adaptation for Cross-Domain Object Detection**|Onkar Krishnaet.al|[paper](https://arxiv.org/abs/2309.01086)|-|-|
 |**2023-9-3**|**E-detector: Asynchronous Spatio-temporal for Event-based Object Detection in Intelligent Transportation System**|S Zhang et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3584361)|-|<details><summary>detail</summary>ACM Transactions on Multimedia…, 2023 dl.acm.org</details>|
+|**2023-9-2**|**Integration of Vision-based Object Detection and Grasping for Articulated Manipulator in Lunar Conditions**|Camille Boucheret.al|[paper](https://arxiv.org/abs/2309.01055)|-|-|
+|**2023-9-2**|**S$^3$-MonoDETR: Supervised Shape&Scale-perceptive Deformable Transformer for Monocular 3D Object Detection**|Xuan Heet.al|[paper](https://arxiv.org/abs/2309.00928)|[code](https://github.com/mikasa3lili/S3-MonoDETR.)|<details><summary>detail</summary>The source code will be made publicly available at https://github</details>|
+|**2023-9-2**|**TransCAB: Transferable Clean-Annotation Backdoor to Object Detection with Natural Trigger in Real-World**|Hua Maet.al|[paper](https://arxiv.org/abs/2209.02339)|[code](https://youtu.be/MA7L_LpXkp4,)|-|
+|**2023-9-2**|**ObjectLab: Automated Diagnosis of Mislabeled Images in Object Detection Data**|Ulyana Tkachenkoet.al|[paper](https://arxiv.org/abs/2309.00832)|-|<details><summary>detail</summary>ICML Workshop on Data-centric Machine Learning Research</details>|
 |**2023-9-2**|**…Simultaneous Defects Visualizing Algorithm for Both Macro and Micro Defects Based on Nonlinear Lamb Wave with an Application of Faster R-Cnn Object Detection**|Y Lee et.al|[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4362451)|-|<details><summary>detail</summary>Available at SSRN 4362451 papers.ssrn.com</details>|
 |**2023-9-2**|**YOGA: Deep Object Detection in the Wild with Lightweight Feature Learning and Multiscale Attention**|R Sunkara et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0031320323001516)|[code](https://paperswithcode.com/paper/yoga-deep-object-detection-in-the-wild-with)|<details><summary>detail</summary>Pattern Recognition, 2023 Elsevier</details>|
 |**2023-9-2**|**Spectral-Spatial Feature Enhancement Algorithm for Nighttime Object Detection and Tracking**|Y Lv et.al|[paper](https://www.mdpi.com/2073-8994/15/2/546)|-|<details><summary>detail</summary>Symmetry, 2023 mdpi.com</details>|
@@ -53,25 +67,15 @@
 |**2023-9-2**|**3M3D: Multi-view, Multi-path, Multi-representation for 3D Object Detection**|J Park et.al|[paper](https://arxiv.org/abs/2302.08231)|[code](https://paperswithcode.com/paper/3m3d-multi-view-multi-path-multi)|-|
 |**2023-9-2**|**Research on road object detection algorithm based on improved YOLOX**|T Yang et.al|[paper](https://arxiv.org/abs/2302.08156)|[code](https://paperswithcode.com/paper/research-on-road-object-detection-algorithm)|-|
 |**2023-9-1**|**SSD-MonoDETR: Supervised Scale-aware Deformable Transformer for Monocular 3D Object Detection**|Xuan Heet.al|[paper](https://arxiv.org/abs/2305.07270)|[code](https://github.com/mikasa3lili/SSD-MonoDETR.)|<details><summary>detail</summary>IEEE Transactions on Intelligent Vehicles (T-IV)</details>|
-|**2023-9-1**|**A Theoretical and Practical Framework for Evaluating Uncertainty Calibration in Object Detection**|Pedro Condeet.al|[paper](https://arxiv.org/abs/2309.00464)|[code](https://github.com/pedrormconde/Uncertainty_Calibration_Object_Detection.)|<details><summary>detail</summary>Pre-print</details>|
-|**2023-9-1**|**Improving the matching of deformable objects by learning to detect keypoints**|Felipe Cadaret.al|[paper](https://arxiv.org/abs/2309.00434)|[code](https://github.com/verlab/LearningToDetect_PRL_2023)|<details><summary>detail</summary>This is the accepted version of the paper to appear at Pattern Recognition Letters (PRL)</details>|
-|**2023-8-31**|**DetOFA: Efficient Training of Once-for-All Networks for Object Detection by Using Pre-trained Supernet and Path Filter**|Yuiko Sakumaet.al|[paper](https://arxiv.org/abs/2303.13121)|-|<details><summary>detail</summary>ICCV workshop 2023</details>|
-|**2023-8-31**|**Object Detection for Caries or Pit and Fissure Sealing Requirement in Children's First Permanent Molars**|Chenyao Jianget.al|[paper](https://arxiv.org/abs/2308.16551)|-|-|
-|**2023-8-31**|**Unsupervised Recognition of Unknown Objects for Open-World Object Detection**|Ruohuan Fanget.al|[paper](https://arxiv.org/abs/2308.16527)|-|-|
-|**2023-8-31**|**MS23D: A 3D Object Detection Method Using Multi-Scale Semantic Feature Points to Construct 3D Feature Layers**|Yongxin Shaoet.al|[paper](https://arxiv.org/abs/2308.16518)|-|-|
-|**2023-8-31**|**ThermRad: A Multi-modal Dataset for Robust 3D Object Detection under Challenging Conditions**|Qiao Yanet.al|[paper](https://arxiv.org/abs/2308.10161)|-|-|
-|**2023-8-30**|**From Chaos Comes Order: Ordering Event Representations for Object Recognition and Detection**|Nikola Zubićet.al|[paper](https://arxiv.org/abs/2304.13455)|-|-|
-|**2023-8-30**|**Exploring Multi-Modal Contextual Knowledge for Open-Vocabulary Object Detection**|Yifan Xuet.al|[paper](https://arxiv.org/abs/2308.15846)|-|-|
-|**2023-8-30**|**Occlusion-Aware Detection and Re-ID Calibrated Network for Multi-Object Tracking**|Yukun Suet.al|[paper](https://arxiv.org/abs/2308.15795)|-|-|
-|**2023-8-29**|**EA-LSS: Edge-aware Lift-splat-shot Framework for 3D BEV Object Detection**|Haotian Huet.al|[paper](https://arxiv.org/abs/2303.17895)|-|-|
-|**2023-8-29**|**Few-Shot Object Detection via Synthetic Features with Optimal Transport**|Anh-Khoa Nguyen Vuet.al|[paper](https://arxiv.org/abs/2308.15005)|-|-|
-|**2023-8-29**|**Unveiling Camouflage: A Learnable Fourier-based Augmentation for Camouflaged Object Detection and Instance Segmentation**|Minh-Quan Leet.al|[paper](https://arxiv.org/abs/2308.15660)|-|-|
-|**2023-8-29**|**On the Robustness of Object Detection Models in Aerial Images**|Haodong Heet.al|[paper](https://arxiv.org/abs/2308.15378)|[code](https://github.com/hehaodong530/DOTA-C))|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-9-4**|**MS3D++: Ensemble of Experts for Multi-Source Unsupervised Domain Adaptation in 3D Object Detection**|Darren Tsaiet.al|[paper](https://arxiv.org/abs/2308.05988)|[code](https://github.com/darrenjkt/MS3D)|-|
+|**2023-9-3**|**Adaptive Parametric Prototype Learning for Cross-Domain Few-Shot Classification**|Marzi Heidariet.al|[paper](https://arxiv.org/abs/2309.01342)|-|-|
+|**2023-9-3**|**Spectral Adversarial MixUp for Few-Shot Unsupervised Domain Adaptation**|Jiajin Zhanget.al|[paper](https://arxiv.org/abs/2309.01207)|-|<details><summary>detail</summary>Accepted by MICCAI 2023</details>|
+|**2023-9-3**|**MILA: Memory-Based Instance-Level Adaptation for Cross-Domain Object Detection**|Onkar Krishnaet.al|[paper](https://arxiv.org/abs/2309.01086)|-|-|
 |**2023-9-2**|**Kurcuma: a kitchen utensil recognition collection for unsupervised domain adaptation**|A Rosello et.al|[paper](https://link.springer.com/article/10.1007/s10044-023-01147-x)|-|<details><summary>detail</summary>Mas, AJ Gallego… Pattern Analysis and…, 2023 Springer</details>|
 |**2023-9-2**|**An improved multi-source domain adaptation network for inter-subject mental fatigue detection based on DANN**|K Chen et.al|[paper](https://www.degruyter.com/document/doi/10.1515/bmt-2022-0354/html)|-|<details><summary>detail</summary>Biomedical Engineering…, 2023 degruyter.com</details>|
 |**2023-9-2**|**A multi-source transfer learning model based on LSTM and domain adaptation for building energy prediction**|H Lu et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0142061523000819)|-|<details><summary>detail</summary>International Journal of…, 2023 Elsevier</details>|
@@ -83,7 +87,7 @@
 |**2023-9-1**|**KRADA: Known-region-aware Domain Alignment for Open-set Domain Adaptation in Semantic Segmentation**|C Zhou et.al|[paper](https://europepmc.org/article/ppr/ppr617459)|[code](https://github.com/chenhong-zhou/krada)|<details><summary>detail</summary>2023 europepmc.org</details>|
 |**2023-9-1**|**Blade crack detection based on domain adaptation and autoencoder of multidimensional vibro-acoustic feature fusion**|J Shen et.al|[paper](https://journals.sagepub.com/doi/abs/10.1177/14759217221139134)|-|<details><summary>detail</summary>Structural Health Monitoring, 2023 journals.sagepub.com</details>|
 |**2023-8-31**|**BTSeg: Barlow Twins Regularization for Domain Adaptation in Semantic Segmentation**|Johannes Künzelet.al|[paper](https://arxiv.org/abs/2308.16819)|-|-|
-|**2023-8-31**|**Domain-adaptive Message Passing Graph Neural Network**|Xiao Shenet.al|[paper](https://arxiv.org/abs/2308.16470)|-|<details><summary>detail</summary>Journal ref:Neural Networks 164 (2023): 439-454</details>|
+|**2023-8-31**|**Domain-adaptive Message Passing Graph Neural Network**|Xiao Shenet.al|[paper](https://arxiv.org/abs/2308.16470)|-|<details><summary>detail</summary>Journal ref:Neural Networks</details>|
 |**2023-8-31**|**Federated Adaptive Prompt Tuning for Multi-domain Collaborative Learning**|Shangchao Suet.al|[paper](https://arxiv.org/abs/2211.07864)|-|-|
 |**2023-8-31**|**Domain Adaptive Synapse Detection with Weak Point Annotations**|Qi Chenet.al|[paper](https://arxiv.org/abs/2308.16461)|-|-|
 |**2023-8-31**|**Infrared ship target segmentation based on Adversarial Domain Adaptation**|T Zhang et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0950705123000941)|-|<details><summary>detail</summary>Knowledge Based…, 2023 Elsevier</details>|
@@ -93,17 +97,15 @@
 |**2023-8-29**|**Universal Domain Adaptation via Compressive Attention Matching**|Didi Zhuet.al|[paper](https://arxiv.org/abs/2304.11862)|-|-|
 |**2023-8-29**|**Detect, Augment, Compose, and Adapt: Four Steps for Unsupervised Domain Adaptation in Object Detection**|Mohamed L. Mekhalfiet.al|[paper](https://arxiv.org/abs/2308.15353)|[code](https://github.com/MohamedTEV/DACA.)|-|
 |**2023-8-29**|**Compositional Semantic Mix for Domain Adaptation in Point Cloud Segmentation**|Cristiano Saltoriet.al|[paper](https://arxiv.org/abs/2308.14619)|-|<details><summary>detail</summary>TPAMI</details>|
-|**2023-8-29**|**Confidence Attention and Generalization Enhanced Distillation for Continuous Video Domain Adaptation**|Xiyu Wanget.al|[paper](https://arxiv.org/abs/2303.10452)|-|-|
-|**2023-8-28**|**Constructive Incremental Learning for Fault Diagnosis of Rolling Bearings with Ensemble Domain Adaptation**|Jiang Liuet.al|[paper](https://arxiv.org/abs/2308.14983)|-|-|
-|**2023-8-28**|**Efficient Domain Adaptation of Sentence Embeddings Using Adapters**|Tim Schopfet.al|[paper](https://arxiv.org/abs/2307.03104)|-|<details><summary>detail</summary>the 14th International Conference on Recent Advances in Natural Language Processing (RANLP 2023)</details>|
-|**2023-8-28**|**Predicting Class Distribution Shift for Reliable Domain Adaptive Object Detection**|Nicolas Harvey Chapmanet.al|[paper](https://arxiv.org/abs/2302.06039)|-|<details><summary>detail</summary>Journal ref:IEEE Robotics and Automation Letters</details>|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-9-3**|**MAP: Domain Generalization via Meta-Learning on Anatomy-Consistent Pseudo-Modalities**|Dewei Huet.al|[paper](https://arxiv.org/abs/2309.01286)|[code](https://github.com/DeweiHu/MAP.)|-|
 |**2023-9-3**|**Domain Generalization with Global Sample Mixup**|Y Lu et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-25075-0_35)|-|<details><summary>detail</summary>European Conference on Computer…, 2023 Springer</details>|
 |**2023-9-3**|**Cross-Domain Augmentation Diagnosis: An Adversarial Domain-Augmented Generalization Method for Fault Diagnosis under Unseen Working Conditions**|Q Li et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0951832023000868)|-|<details><summary>detail</summary>Reliability Engineering &…, 2023 Elsevier</details>|
+|**2023-9-2**|**Domain Generalization via Balancing Training Difficulty and Model Capability**|Xueying Jianget.al|[paper](https://arxiv.org/abs/2309.00844)|-|-|
 |**2023-9-1**|**Domain-Agnostic Molecular Generation with Self-feedback**|Yin Fanget.al|[paper](https://arxiv.org/abs/2301.11259)|[code](https://github.com/zjunlp/MolGen.)|<details><summary>detail</summary>Work in progress</details>|
 |**2023-9-1**|**On the Hyperparameters influencing a PINN's generalization beyond the training domain**|A Bonfanti et.al|[paper](https://arxiv.org/abs/2302.07557)|-|-|
 |**2023-8-31**|**Robust Representation Learning with Self-Distillation for Domain Generalization**|A Singh et.al|[paper](https://arxiv.org/abs/2302.06874)|[code](https://github.com/tongkunguan/ccd)|-|
@@ -123,8 +125,6 @@
 |**2023-8-23**|**Learning to Generalize towards Unseen Domains via a Content-Aware Style Invariant Model for Disease Detection from Chest X-rays**|Mohammad Zunaedet.al|[paper](https://arxiv.org/abs/2302.13991)|-|-|
 |**2023-8-23**|**Leveraging Domain Relations for Domain Generalization**|H Yao et.al|[paper](https://arxiv.org/abs/2302.02609)|[code](https://github.com/rusty1s/pytorch_geometric)|-|
 |**2023-8-22**|**Understanding Hessian Alignment for Domain Generalization**|Sobhan Hematiet.al|[paper](https://arxiv.org/abs/2308.11778)|[code](https://github.com/huawei-noah/Federated-Learning/tree/main/HessianAlignment)|<details><summary>detail</summary>ICCV 2023</details>|
-|**2023-8-22**|**Probable Domain Generalization via Quantile Risk Minimization**|Cian Eastwoodet.al|[paper](https://arxiv.org/abs/2207.09944)|-|<details><summary>detail</summary>NeurIPS 2022 camera-ready (+ minor corrections)</details>|
-|**2023-8-21**|**Domain Generalization via Rationale Invariance**|Liang Chenet.al|[paper](https://arxiv.org/abs/2308.11158)|[code](https://github.com/liangchen527/RIDG)|<details><summary>detail</summary>Accepted in ICCV 2023</details>|
 |**2023-8-21**|**Aggregation of Disentanglement: Reconsidering Domain Variations in Domain Generalization**|D Zhang et.al|[paper](https://arxiv.org/abs/2302.02350)|[code](https://paperswithcode.com/paper/aggregation-of-disentanglement-reconsidering)|-|
 |**2023-8-19**|**Domain Generalization Emerges from Dreaming**|H Heo et.al|[paper](https://arxiv.org/abs/2302.00980)|[code](https://paperswithcode.com/paper/domain-generalization-emerges-from-dreaming)|-|
 
@@ -132,29 +132,29 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-9-4**|**TouchStone: Evaluating Vision-Language Models by Language Models**|Shuai Baiet.al|[paper](https://arxiv.org/abs/2308.16890)|[code](https://github.com/OFA-Sys/TouchStone.)|<details><summary>detail</summary>https://github</details>|
+|**2023-9-4**|**DeViL: Decoding Vision features into Language**|Meghal Daniet.al|[paper](https://arxiv.org/abs/2309.01617)|[code](https://github.com/ExplainableML/DeViL)|<details><summary>detail</summary>GCPR 2023 (Oral)</details>|
+|**2023-9-4**|**AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models**|Zhaopeng Guet.al|[paper](https://arxiv.org/abs/2308.15366)|[code](https://github.com/CASIA-IVA-Lab/AnomalyGPT.)|<details><summary>detail</summary>Project page: https://anomalygpt</details>|
+|**2023-9-4**|**Recognition of Heat-Induced Food State Changes by Time-Series Use of Vision-Language Model for Cooking Robot**|Naoaki Kanazawaet.al|[paper](https://arxiv.org/abs/2309.01528)|-|<details><summary>detail</summary>IAS18-2023</details>|
+|**2023-9-4**|**Parameter and Computation Efficient Transfer Learning for Vision-Language Pre-trained Models**|Qiong Wuet.al|[paper](https://arxiv.org/abs/2309.01479)|-|-|
+|**2023-9-3**|**BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning**|Yi Zhanget.al|[paper](https://arxiv.org/abs/2309.01256)|-|<details><summary>detail</summary>Accepted by BMVC 2023</details>|
+|**2023-9-3**|**LoGoPrompt: Synthetic Text Images Can Be Good Visual Prompts for Vision-Language Models**|Cheng Shiet.al|[paper](https://arxiv.org/abs/2309.01155)|[code](https://chengshiest.github.io/logo)|<details><summary>detail</summary>ICCV 2023</details>|
+|**2023-9-2**|**Leveraging per Image-Token Consistency for Vision-Language Pre-training**|Yunhao Gouet.al|[paper](https://arxiv.org/abs/2211.15398)|[code](https://github.com/gyhdog99/epic.)|<details><summary>detail</summary>Accepted by CVPR 2023</details>|
+|**2023-9-1**|**Zero-Shot Video Moment Retrieval from Frozen Vision-Language Models**|Dezhao Luoet.al|[paper](https://arxiv.org/abs/2309.00661)|-|<details><summary>detail</summary>Accepted by WACV 2024</details>|
 |**2023-9-1**|**Weakly-Supervised HOI Detection from Interaction Labels Only and Language/Vision-Language Priors**|M Erhan Unal et.al|[paper](https://ui.adsabs.harvard.edu/abs/2023arXiv230305546E/abstract)|[code](https://paperswithcode.com/paper/weakly-supervised-hoi-detection-from)|-|
 |**2023-9-1**|**Scaling Vision-Language Models with Sparse Mixture of Experts**|S Shen et.al|[paper](https://arxiv.org/abs/2303.07226)|[code](https://github.com/google-research/vmoe)|-|
 |**2023-9-1**|**Vision-Language Models as Success Detectors**|Y Du et.al|[paper](https://arxiv.org/abs/2303.07280)|[code](https://github.com/dyabel/detpro)|-|
 |**2023-9-1**|**Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of Synthetic and Compositional Images**|N Bitton-Guetta et.al|[paper](https://arxiv.org/abs/2303.07274)|[code](https://paperswithcode.com/paper/breaking-common-sense-whoops-a-vision-and)|-|
 |**2023-8-31**|**Towards Addressing the Misalignment of Object Proposal Evaluation for Vision-Language Tasks via Semantic Grounding**|Joshua Feinglasset.al|[paper](https://arxiv.org/abs/2309.00215)|-|<details><summary>detail</summary>WACV 2024 (Round 1)</details>|
 |**2023-8-31**|**RS5M: A Large Scale Vision-Language Dataset for Remote Sensing Vision-Language Foundation Model**|Zilun Zhanget.al|[paper](https://arxiv.org/abs/2306.11300)|[code](https://github.com/om-ai-lab/RS5M)|<details><summary>detail</summary>RS5M dataset v4</details>|
-|**2023-8-31**|**TouchStone: Evaluating Vision-Language Models by Language Models**|Shuai Baiet.al|[paper](https://arxiv.org/abs/2308.16890)|[code](https://github.com/OFA-Sys/TouchStone.)|<details><summary>detail</summary>https://github</details>|
 |**2023-8-31**|**ViLTA: Enhancing Vision-Language Pre-training through Textual Augmentation**|Weihan Wanget.al|[paper](https://arxiv.org/abs/2308.16689)|-|-|
 |**2023-8-31**|**Expanding Frozen Vision-Language Models without Retraining: Towards Improved Robot Perception**|Riley Tavassoliet.al|[paper](https://arxiv.org/abs/2308.16493)|-|<details><summary>detail</summary>Preprint submitted to Information Fusion</details>|
 |**2023-8-30**|**Catalog Phrase Grounding (CPG): Grounding of Product Textual Attributes in Product Images for e-commerce Vision-Language Applications**|Wenyi Wuet.al|[paper](https://arxiv.org/abs/2308.16354)|-|<details><summary>detail</summary>KDD 2022 Workshop on First Content Understanding and Generation for e-Commerce</details>|
 |**2023-8-30**|**Going Beyond Nouns With Vision & Language Models Using Synthetic Data**|Paola Cascante-Bonillaet.al|[paper](https://arxiv.org/abs/2303.17590)|[code](https://synthetic-vic.github.io/)|<details><summary>detail</summary>ICCV 2023</details>|
-|**2023-8-30**|**AnoVL: Adapting Vision-Language Models for Unified Zero-shot Anomaly Localization**|Hanqiu Denget.al|[paper](https://arxiv.org/abs/2308.15939)|-|-|
-|**2023-8-30**|**Prompting Vision Language Model with Knowledge from Large Language Model for Knowledge-Based VQA**|Yang Zhouet.al|[paper](https://arxiv.org/abs/2308.15851)|-|-|
 |**2023-8-30**|**Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models**|Z Zheng et.al|[paper](https://arxiv.org/abs/2303.06628)|[code](https://github.com/thunderbeee/zscl)|-|
 |**2023-8-30**|**Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models**|J Li et.al|[paper](https://arxiv.org/abs/2303.06571)|[code](https://paperswithcode.com/paper/gradient-regulated-meta-prompt-learning-for)|-|
 |**2023-8-30**|**Towards Universal Vision-language Omni-supervised Segmentation**|B Dong et.al|[paper](https://arxiv.org/abs/2303.06547)|[code](https://paperswithcode.com/paper/towards-universal-vision-language-omni)|-|
-|**2023-8-29**|**AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models**|Zhaopeng Guet.al|[paper](https://arxiv.org/abs/2308.15366)|[code](https://github.com/CASIA-IVA-Lab/AnomalyGPT.)|-|
-|**2023-8-29**|**Evaluation and Analysis of Hallucination in Large Vision-Language Models**|Junyang Wanget.al|[paper](https://arxiv.org/abs/2308.15126)|-|-|
 |**2023-8-29**|**Learning Grounded Vision-Language Representation for Versatile Understanding in Untrimmed Videos**|T Wang et.al|[paper](https://arxiv.org/abs/2303.06378)|[code](https://github.com/zjr2000/gvl)|-|
-|**2023-8-28**|**Read-only Prompt Optimization for Vision-Language Few-shot Learning**|Dongjun Leeet.al|[paper](https://arxiv.org/abs/2308.14960)|[code](https://github.com/mlvlab/RPO.)|<details><summary>detail</summary>ICCV2023</details>|
 |**2023-8-28**|**Tag2Text: Guiding Vision-Language Model via Image Tagging**|X Huang et.al|[paper](https://arxiv.org/abs/2303.05657)|[code](https://github.com/xinyu1205/Recognize_Anything-Tag2Text)|-|
 |**2023-8-28**|**Robotic Applications of Pre-Trained Vision-Language Models to Various Recognition Behaviors**|K Kawaharazuka et.al|[paper](https://arxiv.org/abs/2303.05674)|-|-|
-|**2023-8-27**|**Towards Vision-Language Mechanistic Interpretability: A Causal Tracing Tool for BLIP**|Vedant Palitet.al|[paper](https://arxiv.org/abs/2308.14179)|[code](https://github.com/vedantpalit/Towards-Vision-Language-Mechanistic-Interpretability.)|<details><summary>detail</summary>Final version for 5th Workshop on Closing the Loop Between Vision and Language (CLVL) @ ICCV 2023</details>|
-|**2023-8-27**|**Towards Unified Token Learning for Vision-Language Tracking**|Yaozong Zhenget.al|[paper](https://arxiv.org/abs/2308.14103)|-|-|
-|**2023-8-25**|**Can Linguistic Knowledge Improve Multimodal Alignment in Vision-Language Pretraining?**|Fei Wanget.al|[paper](https://arxiv.org/abs/2308.12898)|[code](https://github.com/WangFei-2019/SNARE/)|<details><summary>detail</summary>[TL</details>|
 
