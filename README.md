@@ -42,6 +42,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-9-13**|**SupFusion: Supervised LiDAR-Camera Fusion for 3D Object Detection**|Yiran Qinet.al|[paper](https://arxiv.org/abs/2309.07084)|-|<details><summary>detail</summary>ICCV2023</details>|
+|**2023-9-13**|**Remote Sensing Object Detection Meets Deep Learning: A Meta-review of Challenges and Advances**|Xiangrong Zhanget.al|[paper](https://arxiv.org/abs/2309.06751)|-|<details><summary>detail</summary>Accepted with IEEE Geoscience and Remote Sensing Magazine</details>|
+|**2023-9-13**|**MFL-YOLO: An Object Detection Model for Damaged Traffic Signs**|Tengyang Chenet.al|[paper](https://arxiv.org/abs/2309.06750)|-|-|
 |**2023-9-12**|**Self-Training and Multi-Task Learning for Limited Data: Evaluation Study on Object Detection**|Hoàng-Ân Lêet.al|[paper](https://arxiv.org/abs/2309.06288)|[code](https://lhoangan.github.io/multas.)|<details><summary>detail</summary>Accepted for International Conference in Computer Vision workshop (ICCVW) 2023</details>|
 |**2023-9-12**|**OTAS: Unsupervised Boundary Detection for Object-Centric Temporal Action Segmentation**|Yuerong Liet.al|[paper](https://arxiv.org/abs/2309.06276)|-|<details><summary>detail</summary>WACV 2024</details>|
 |**2023-9-12**|**SCP: Scene Completion Pre-training for 3D Object Detection**|Yiming Shanet.al|[paper](https://arxiv.org/abs/2309.06199)|-|<details><summary>detail</summary>Wins the best paper award at ISPRS Geospatial Week 2023</details>|
@@ -64,14 +67,13 @@
 |**2023-9-10**|**3M3D: Multi-view, Multi-path, Multi-representation for 3D Object Detection**|J Park et.al|[paper](https://arxiv.org/abs/2302.08231)|[code](https://paperswithcode.com/paper/3m3d-multi-view-multi-path-multi)|-|
 |**2023-9-10**|**Research on road object detection algorithm based on improved YOLOX**|T Yang et.al|[paper](https://arxiv.org/abs/2302.08156)|[code](https://paperswithcode.com/paper/research-on-road-object-detection-algorithm)|-|
 |**2023-9-9**|**Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art**|Aref Miri Rekavandiet.al|[paper](https://arxiv.org/abs/2309.04902)|[code](https://github.com/arekavandi/Transformer-SOD)|-|
-|**2023-9-9**|**MS23D: A 3D Object Detection Method Using Multi-Scale Semantic Feature Points to Construct 3D Feature Layer**|Yongxin Shaoet.al|[paper](https://arxiv.org/abs/2308.16518)|-|-|
-|**2023-9-9**|**Timely Fusion of Surround Radar/Lidar for Object Detection in Autonomous Driving Systems**|Wenjing Xieet.al|[paper](https://arxiv.org/abs/2309.04806)|-|<details><summary>detail</summary>DATE 2023</details>|
-|**2023-9-9**|**UnitModule: A Lightweight Joint Image Enhancement Module for Underwater Object Detection**|Zhuoyan Liuet.al|[paper](https://arxiv.org/abs/2309.04708)|-|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-9-12**|**Radial Prediction Domain Adaption Classifier for the MIDOG 2022 Challenge**|Jonas Annuscheitet.al|[paper](https://arxiv.org/abs/2208.13902)|-|<details><summary>detail</summary>Contribution to the MIDOG-2022-Challenge</details>|
+|**2023-9-12**|**Strong-Weak Integrated Semi-supervision for Unsupervised Single and Multi Target Domain Adaptation**|Xiaohu Luet.al|[paper](https://arxiv.org/abs/2309.06528)|-|-|
 |**2023-9-12**|**HAMUR: Hyper Adapter for Multi-Domain Recommendation**|Xiaopeng Liet.al|[paper](https://arxiv.org/abs/2309.06217)|-|<details><summary>detail</summary>Accepted by CIKM'2023</details>|
 |**2023-9-12**|**StyleDomain: Efficient and Lightweight Parameterizations of StyleGAN for One-shot and Few-shot Domain Adaptation**|Aibek Alanovet.al|[paper](https://arxiv.org/abs/2212.10229)|[code](https://github.com/AIRI-Institute/StyleDomain.)|<details><summary>detail</summary>ICCV 2023</details>|
 |**2023-9-12**|**A2V: A Semi-Supervised Domain Adaptation Framework for Brain Vessel Segmentation via Two-Phase Training Angiography-to-Venography Translation**|Francesco Galatiet.al|[paper](https://arxiv.org/abs/2309.06075)|-|-|
@@ -95,13 +97,14 @@
 |**2023-9-7**|**Better Practices for Domain Adaptation**|Linus Ericssonet.al|[paper](https://arxiv.org/abs/2309.03879)|-|<details><summary>detail</summary>AutoML 2023 (Best paper award)</details>|
 |**2023-9-6**|**Domain Adaptation for Efficiently Fine-tuning Vision Transformer with Encrypted Images**|Teru Nagamoriet.al|[paper](https://arxiv.org/abs/2309.02556)|-|<details><summary>detail</summary>Accepted by APSIPA 2023</details>|
 |**2023-9-6**|**Watch Where You Head: A View-biased Domain Gap in Gait Recognition and Unsupervised Adaptation**|Gavriel Habibet.al|[paper](https://arxiv.org/abs/2307.06751)|-|-|
-|**2023-9-5**|**Epi-Curriculum: Episodic Curriculum Learning for Low-Resource Domain Adaptation in Neural Machine Translation**|Keyu Chenet.al|[paper](https://arxiv.org/abs/2309.02640)|-|-|
-|**2023-9-5**|**Domain Adaptation for Satellite-Borne Hyperspectral Cloud Detection**|Andrew Duet.al|[paper](https://arxiv.org/abs/2309.02150)|-|-|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-9-13**|**A Methodology for Generative Spelling Correction via Natural Spelling Errors Emulation across Multiple Domains and Languages**|Nikita Martynovet.al|[paper](https://arxiv.org/abs/2308.09435)|-|<details><summary>detail</summary>to appear in EACL 2024</details>|
+|**2023-9-13**|**Domain-Aware Augmentations for Unsupervised Online General Continual Learning**|Nicolas Michelet.al|[paper](https://arxiv.org/abs/2309.06896)|-|<details><summary>detail</summary>BMVC'23</details>|
+|**2023-9-12**|**Text Encoders Lack Knowledge: Leveraging Generative LLMs for Domain-Specific Semantic Textual Similarity**|Joseph Gattoet.al|[paper](https://arxiv.org/abs/2309.06541)|-|<details><summary>detail</summary>Under review GEM@EMNLP-2023</details>|
 |**2023-9-12**|**Exploring Flat Minima for Domain Generalization with Large Learning Rates**|Jian Zhanget.al|[paper](https://arxiv.org/abs/2309.06337)|[code](https://github.com/koncle/DG-with-Large-LR.)|-|
 |**2023-9-12**|**IBAFormer: Intra-batch Attention Transformer for Domain Generalized Semantic Segmentation**|Qiyu Sunet.al|[paper](https://arxiv.org/abs/2309.06282)|-|-|
 |**2023-9-12**|**Learning to Augment: Hallucinating Data for Domain Generalized Segmentation**|Qiyu Sunet.al|[paper](https://arxiv.org/abs/2307.01703)|-|-|
@@ -118,12 +121,9 @@
 |**2023-9-7**|**INSURE: An Information Theory Inspired Disentanglement and Purification Model for Domain Generalization**|Xi Yuet.al|[paper](https://arxiv.org/abs/2309.04063)|-|-|
 |**2023-9-7**|**ConDA: Contrastive Domain Adaptation for AI-generated Text Detection**|Amrita Bhattacharjeeet.al|[paper](https://arxiv.org/abs/2309.03992)|[code](https://github.com/AmritaBh/ConDA-gen-text-detection.)|<details><summary>detail</summary>IJCNLP-AACL 2023 main track</details>|
 |**2023-9-7**|**Domain Generalization for Mammographic Image Analysis with Contrastive Learning**|Zheren Liet.al|[paper](https://arxiv.org/abs/2304.10226)|-|<details><summary>detail</summary>arXiv admin note: text overlap with arXiv:2111</details>|
-|**2023-9-6**|**Promoting Open-domain Dialogue Generation through Learning Pattern Information between Contexts and Responses**|Mengjuan Liuet.al|[paper](https://arxiv.org/abs/2309.02823)|-|-|
 |**2023-9-6**|**Cross-corpora spoken language identification with domain diversification and generalization**|S Dey et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0885230823000086)|[code](https://paperswithcode.com/paper/cross-corpora-spoken-language-identification)|<details><summary>detail</summary>Computer Speech & Language, 2023 Elsevier</details>|
 |**2023-9-4**|**Domain-Conditioned Normalization for Test-Time Domain Generalization**|Y Jiang et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-25085-9_17)|-|<details><summary>detail</summary>Computer Vision–ECCV…, 2023 Springer</details>|
-|**2023-9-3**|**MAP: Domain Generalization via Meta-Learning on Anatomy-Consistent Pseudo-Modalities**|Dewei Huet.al|[paper](https://arxiv.org/abs/2309.01286)|[code](https://github.com/DeweiHu/MAP.)|-|
 |**2023-9-3**|**Domain Generalization by Functional Regression**|M Holzleitner et.al|[paper](https://arxiv.org/abs/2302.04724)|[code](https://github.com/mlr-org/mlr)|-|
-|**2023-9-2**|**Domain Generalization via Balancing Training Difficulty and Model Capability**|Xueying Jianget.al|[paper](https://arxiv.org/abs/2309.00844)|-|-|
 |**2023-8-31**|**Leveraging Domain Relations for Domain Generalization**|H Yao et.al|[paper](https://arxiv.org/abs/2302.02609)|[code](https://github.com/rusty1s/pytorch_geometric)|-|
 |**2023-8-29**|**Aggregation of Disentanglement: Reconsidering Domain Variations in Domain Generalization**|D Zhang et.al|[paper](https://arxiv.org/abs/2302.02350)|[code](https://paperswithcode.com/paper/aggregation-of-disentanglement-reconsidering)|-|
 |**2023-8-27**|**Domain Generalization Emerges from Dreaming**|H Heo et.al|[paper](https://arxiv.org/abs/2302.00980)|[code](https://paperswithcode.com/paper/domain-generalization-emerges-from-dreaming)|-|
@@ -132,6 +132,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-9-13**|**AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models**|Zhaopeng Guet.al|[paper](https://arxiv.org/abs/2308.15366)|[code](https://github.com/CASIA-IVA-Lab/AnomalyGPT.)|<details><summary>detail</summary>Project page: https://anomalygpt</details>|
+|**2023-9-13**|**VLSlice: Interactive Vision-and-Language Slice Discovery**|Eric Slymanet.al|[paper](https://arxiv.org/abs/2309.06703)|[code](https://ericslyman.com/vlslice/)|<details><summary>detail</summary>Conference paper at ICCV 2023</details>|
 |**2023-9-12**|**Language Models as Black-Box Optimizers for Vision-Language Models**|Samuel Yuet.al|[paper](https://arxiv.org/abs/2309.05950)|-|-|
 |**2023-9-11**|**TransferDoc: A Self-Supervised Transferable Document Representation Learning Model Unifying Vision and Language**|Souhail Bakkaliet.al|[paper](https://arxiv.org/abs/2309.05756)|-|<details><summary>detail</summary>Preprint to Pattern Recognition</details>|
 |**2023-9-11**|**OpenFashionCLIP: Vision-and-Language Contrastive Learning with Open-Source Fashion Data**|Giuseppe Cartellaet.al|[paper](https://arxiv.org/abs/2309.05551)|[code](https://github.com/aimagelab/open-fashion-clip.)|<details><summary>detail</summary>International Conference on Image Analysis and Processing (ICIAP) 2023</details>|
@@ -152,8 +154,6 @@
 |**2023-9-7**|**Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models**|J Li et.al|[paper](https://arxiv.org/abs/2303.06571)|[code](https://paperswithcode.com/paper/gradient-regulated-meta-prompt-learning-for)|-|
 |**2023-9-7**|**Towards Universal Vision-language Omni-supervised Segmentation**|B Dong et.al|[paper](https://arxiv.org/abs/2303.06547)|[code](https://paperswithcode.com/paper/towards-universal-vision-language-omni)|-|
 |**2023-9-6**|**Distribution-Aware Prompt Tuning for Vision-Language Models**|Eulrang Choet.al|[paper](https://arxiv.org/abs/2309.03406)|[code](https://github.com/mlvlab/DAPT.)|<details><summary>detail</summary>ICCV2023</details>|
-|**2023-9-6**|**Parameter and Computation Efficient Transfer Learning for Vision-Language Pre-trained Models**|Qiong Wuet.al|[paper](https://arxiv.org/abs/2309.01479)|-|-|
-|**2023-9-6**|**Recognition of Heat-Induced Food State Changes by Time-Series Use of Vision-Language Model for Cooking Robot**|Naoaki Kanazawaet.al|[paper](https://arxiv.org/abs/2309.01528)|-|<details><summary>detail</summary>IAS18-2023</details>|
 |**2023-9-6**|**Learning Grounded Vision-Language Representation for Versatile Understanding in Untrimmed Videos**|T Wang et.al|[paper](https://arxiv.org/abs/2303.06378)|[code](https://github.com/zjr2000/gvl)|-|
 |**2023-9-5**|**Tag2Text: Guiding Vision-Language Model via Image Tagging**|X Huang et.al|[paper](https://arxiv.org/abs/2303.05657)|[code](https://github.com/xinyu1205/Recognize_Anything-Tag2Text)|-|
 |**2023-9-5**|**Robotic Applications of Pre-Trained Vision-Language Models to Various Recognition Behaviors**|K Kawaharazuka et.al|[paper](https://arxiv.org/abs/2303.05674)|-|-|
