@@ -222,14 +222,14 @@ def update_history_data(data):
 if __name__ == "__main__":
     sleep_time = [30,35,40,45,50]
     for key in KEYS:
-        get_paper_from_arxiv(key)
         try:
+            get_paper_from_arxiv(key)
             get_paper_from_google(key)
             time.sleep(random.choice(sleep_time))
         except Exception as e:
             traceback.print_exc()
             print(e)
-            print("google 禁止访问")
+            # print("google 禁止访问")
     json.dump(papers, open("papers.json", "w"))
     json_to_md(papers)
     shutil.copy("README.md", "docs/index.md")
