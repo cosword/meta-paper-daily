@@ -72,6 +72,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-10-16**|**IW-GAE: Importance weighted group accuracy estimation for improved calibration and model selection in unsupervised domain adaptation**|Taejong Jooet.al|[paper](https://arxiv.org/abs/2310.10611)|-|-|
+|**2023-10-16**|**BayRnTune: Adaptive Bayesian Domain Randomization via Strategic Fine-tuning**|Tianle Huanget.al|[paper](https://arxiv.org/abs/2310.10606)|-|-|
+|**2023-10-16**|**PoSynDA: Multi-Hypothesis Pose Synthesis Domain Adaptation for Robust 3D Human Pose Estimation**|Hanbing Liuet.al|[paper](https://arxiv.org/abs/2308.09678)|[code](https://github.com/hbing-l/PoSynDA.)|<details><summary>detail</summary>ACM Multimedia 2023</details>|
 |**2023-10-16**|**JMedLoRA:Medical Domain Adaptation on Japanese Large Language Models using Instruction-tuning**|Issey Sukedaet.al|[paper](https://arxiv.org/abs/2310.10083)|-|-|
 |**2023-10-15**|**SAM-guided Unsupervised Domain Adaptation for 3D Segmentation**|Xidong Penget.al|[paper](https://arxiv.org/abs/2310.08820)|-|-|
 |**2023-10-14**|**Transcending Domains through Text-to-Image Diffusion: A Source-Free Approach to Domain Adaptation**|Shivang Chopraet.al|[paper](https://arxiv.org/abs/2310.01701)|-|-|
@@ -93,10 +96,7 @@
 |**2023-10-12**|**High-Intensified Resemblance and Statistic-Restructured Alignment in Few-Shot Domain Adaptation for Industrial-Specialized Employment**|J Petchhan et.al|[paper](https://ieeexplore.ieee.org/abstract/document/10045719/)|-|<details><summary>detail</summary>IEEE Transactions on Consumer…, 2023 ieeexplore.ieee.org</details>|
 |**2023-10-12**|**KRADA: Known-region-aware Domain Alignment for Open-set Domain Adaptation in Semantic Segmentation**|C Zhou et.al|[paper](https://europepmc.org/article/ppr/ppr617459)|[code](https://github.com/chenhong-zhou/krada)|<details><summary>detail</summary>2023 europepmc.org</details>|
 |**2023-10-12**|**Blade crack detection based on domain adaptation and autoencoder of multidimensional vibro-acoustic feature fusion**|J Shen et.al|[paper](https://journals.sagepub.com/doi/abs/10.1177/14759217221139134)|-|<details><summary>detail</summary>Structural Health Monitoring, 2023 journals.sagepub.com</details>|
-|**2023-10-11**|**MemSAC: Memory Augmented Sample Consistency for Large Scale Unsupervised Domain Adaptation**|Tarun Kalluriet.al|[paper](https://arxiv.org/abs/2207.12389)|[code](https://tarun005.github.io/MemSAC/)|<details><summary>detail</summary>ECCV 2022</details>|
 |**2023-10-11**|**Infrared ship target segmentation based on Adversarial Domain Adaptation**|T Zhang et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0950705123000941)|-|<details><summary>detail</summary>Knowledge Based…, 2023 Elsevier</details>|
-|**2023-10-10**|**Robust Unsupervised Domain Adaptation by Retaining Confident Entropy via Edge Concatenation**|Hye-Seong Honget.al|[paper](https://arxiv.org/abs/2310.07149)|-|-|
-|**2023-10-10**|**Disk failure prediction based on multi-layer domain adaptive learning**|Guangfu Gaoet.al|[paper](https://arxiv.org/abs/2310.06534)|-|-|
 
 ## domain generalization
 
@@ -104,19 +104,29 @@
 |:------|:---------------------|:---|:-|:-|:---|
 |**2023-10-15**|**Towards Unified and Effective Domain Generalization**|Yiyuan Zhanget.al|[paper](https://arxiv.org/abs/2310.10008)|[code](https://github.com/invictus717/UniDG)|<details><summary>detail</summary>Project Website: https://invictus717</details>|
 |**2023-10-15**|**Generalizing Few-Shot Named Entity Recognizers to Unseen Domains with Type-Related Features**|Zihan Wanget.al|[paper](https://arxiv.org/abs/2310.09846)|-|<details><summary>detail</summary>EMNLP findings</details>|
+|**2023-10-14**|**Domain Generalization with Global Sample Mixup**|Y Lu et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-25075-0_35)|-|<details><summary>detail</summary>European Conference on Computer…, 2023 Springer</details>|
+|**2023-10-14**|**Cross-Domain Augmentation Diagnosis: An Adversarial Domain-Augmented Generalization Method for Fault Diagnosis under Unseen Working Conditions**|Q Li et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0951832023000868)|-|<details><summary>detail</summary>Reliability Engineering &…, 2023 Elsevier</details>|
 |**2023-10-13**|**Complementary Domain Adaptation and Generalization for Unsupervised Continual Domain Shift Learning**|Wonguk Choet.al|[paper](https://arxiv.org/abs/2303.15833)|-|<details><summary>detail</summary>ICCV 2023</details>|
+|**2023-10-12**|**On the Hyperparameters influencing a PINN's generalization beyond the training domain**|A Bonfanti et.al|[paper](https://arxiv.org/abs/2302.07557)|-|-|
 |**2023-10-11**|**OpenLEAF: Open-Domain Interleaved Image-Text Generation and Evaluation**|Jie Anet.al|[paper](https://arxiv.org/abs/2310.07749)|-|-|
 |**2023-10-11**|**Domain Generalization Guided by Gradient Signal to Noise Ratio of Parameters**|Mateusz Michalkiewiczet.al|[paper](https://arxiv.org/abs/2310.07361)|-|<details><summary>detail</summary>Paper was accepted to ICCV 2023</details>|
+|**2023-10-11**|**Robust Representation Learning with Self-Distillation for Domain Generalization**|A Singh et.al|[paper](https://arxiv.org/abs/2302.06874)|[code](https://github.com/tongkunguan/ccd)|-|
 |**2023-10-10**|**Domain Generalization by Rejecting Extreme Augmentations**|Masih Aminbeidokhtiet.al|[paper](https://arxiv.org/abs/2310.06670)|[code](https://github.com/Masseeh/DCAug)|-|
 |**2023-10-9**|**Domain-wise Invariant Learning for Panoptic Scene Graph Generation**|Li Liet.al|[paper](https://arxiv.org/abs/2310.05867)|-|<details><summary>detail</summary>arXiv admin note: text overlap with arXiv:2307</details>|
 |**2023-10-9**|**Query and Response Augmentation Cannot Help Out-of-domain Math Reasoning Generalization**|Chengpeng Liet.al|[paper](https://arxiv.org/abs/2310.05506)|[code](https://github.com/OFA-Sys/gsm8k-ScRel.)|-|
+|**2023-10-9**|**Cross-corpora spoken language identification with domain diversification and generalization**|S Dey et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0885230823000086)|[code](https://paperswithcode.com/paper/cross-corpora-spoken-language-identification)|<details><summary>detail</summary>Computer Speech & Language, 2023 Elsevier</details>|
 |**2023-10-8**|**C^2M-DoT: Cross-modal consistent multi-view medical report generation with domain transfer network**|Ruizhi Wanget.al|[paper](https://arxiv.org/abs/2310.05355)|-|-|
 |**2023-10-8**|**Dynamic Multi-Domain Knowledge Networks for Chest X-ray Report Generation**|Weihua Liuet.al|[paper](https://arxiv.org/abs/2310.05119)|-|-|
 |**2023-10-7**|**Activate and Reject: Towards Safe Domain Generalization under Category Shift**|Chaoqi Chenet.al|[paper](https://arxiv.org/abs/2310.04724)|-|<details><summary>detail</summary>ICCV 2023</details>|
+|**2023-10-7**|**Domain-Conditioned Normalization for Test-Time Domain Generalization**|Y Jiang et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-25085-9_17)|[code](https://github.com/ucsfncl/dmri-swin)|<details><summary>detail</summary>Computer Vision–ECCV…, 2023 Springer</details>|
 |**2023-10-6**|**Domain Randomization for Sim2real Transfer of Automatically Generated Grasping Datasets**|Johann Huberet.al|[paper](https://arxiv.org/abs/2310.04517)|-|-|
+|**2023-10-6**|**Domain Generalization by Functional Regression**|M Holzleitner et.al|[paper](https://arxiv.org/abs/2302.04724)|[code](https://github.com/mlr-org/mlr)|-|
 |**2023-10-5**|**Assessment of the Reliablity of a Model's Decision by Generalizing Attribution to the Wavelet Domain**|Gabriel Kasmiet.al|[paper](https://arxiv.org/abs/2305.14979)|-|-|
 |**2023-10-5**|**Domain Generalization for Medical Image Analysis: A Survey**|Jee Seok Yoonet.al|[paper](https://arxiv.org/abs/2310.08598)|-|-|
 |**2023-10-4**|**Towards Domain-Specific Features Disentanglement for Domain Generalization**|Hao Chenet.al|[paper](https://arxiv.org/abs/2310.03007)|-|-|
+|**2023-10-3**|**Leveraging Domain Relations for Domain Generalization**|H Yao et.al|[paper](https://arxiv.org/abs/2302.02609)|[code](https://github.com/rusty1s/pytorch_geometric)|-|
+|**2023-10-1**|**Aggregation of Disentanglement: Reconsidering Domain Variations in Domain Generalization**|D Zhang et.al|[paper](https://arxiv.org/abs/2302.02350)|[code](https://paperswithcode.com/paper/aggregation-of-disentanglement-reconsidering)|-|
+|**2023-9-29**|**Domain Generalization Emerges from Dreaming**|H Heo et.al|[paper](https://arxiv.org/abs/2302.00980)|[code](https://paperswithcode.com/paper/domain-generalization-emerges-from-dreaming)|-|
 
 ## vision language
 
