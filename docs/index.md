@@ -42,6 +42,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-11-10**|**Deep learning for 3D Object Detection and Tracking in Autonomous Driving: A Brief Survey**|Yang Penget.al|[paper](https://arxiv.org/abs/2311.06043)|-|-|
+|**2023-11-10**|**BEA: Revisiting anchor-based object detection DNN using Budding Ensemble Architecture**|Syed Sha Qutubet.al|[paper](https://arxiv.org/abs/2309.08036)|-|-|
 |**2023-11-10**|**E-detector: Asynchronous Spatio-temporal for Event-based Object Detection in Intelligent Transportation System**|S Zhang et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3584361)|-|<details><summary>detail</summary>ACM Transactions on Multimedia…, 2023 dl.acm.org</details>|
 |**2023-11-9**|**HIC-YOLOv5: Improved YOLOv5 For Small Object Detection**|Shiyi Tanget.al|[paper](https://arxiv.org/abs/2309.16393)|-|-|
 |**2023-11-9**|**Object-centric Cross-modal Feature Distillation for Event-based Object Detection**|Lei Liet.al|[paper](https://arxiv.org/abs/2311.05494)|-|-|
@@ -65,8 +67,6 @@
 |**2023-11-7**|**K-Radar: 4D Radar Object Detection for Autonomous Driving in Various Weather Conditions**|Dong-Hee Paeket.al|[paper](https://arxiv.org/abs/2206.08171)|[code](https://github.com/kaist-avelab/k-radar.)|<details><summary>detail</summary>NeurIPS 2022 Datasets and Benchmarks Track</details>|
 |**2023-11-7**|**mmFUSION: Multimodal Fusion for 3D Objects Detection**|Javed Ahmadet.al|[paper](https://arxiv.org/abs/2311.04058)|-|-|
 |**2023-11-7**|**Data exploitation: multi-task learning of object detection and semantic segmentation on partially annotated data**|Hoàng-Ân Lêet.al|[paper](https://arxiv.org/abs/2311.04040)|[code](https://github.com/lhoangan/multas)|<details><summary>detail</summary>Accepted for publishing at BMVC 2023</details>|
-|**2023-11-7**|**Accurate 3D Object Detection using Energy-Based Models**|Fredrik K. Gustafssonet.al|[paper](https://arxiv.org/abs/2012.04634)|[code](https://github.com/fregu856/ebms_3dod.)|<details><summary>detail</summary>CVPR Workshops 2021</details>|
-|**2023-11-7**|**Detecting Any Human-Object Interaction Relationship: Universal HOI Detector with Spatial Prompt Learning on Foundation Models**|Yichao Caoet.al|[paper](https://arxiv.org/abs/2311.03799)|[code](https://github.com/Caoyichao/UniHOI)|-|
 
 ## domain adaptation
 
@@ -104,6 +104,7 @@
 |:------|:---------------------|:---|:-|:-|:---|
 |**2023-11-10**|**Domain Generalization with Global Sample Mixup**|Y Lu et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-25075-0_35)|-|<details><summary>detail</summary>European Conference on Computer…, 2023 Springer</details>|
 |**2023-11-10**|**Cross-Domain Augmentation Diagnosis: An Adversarial Domain-Augmented Generalization Method for Fault Diagnosis under Unseen Working Conditions**|Q Li et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0951832023000868)|-|<details><summary>detail</summary>Reliability Engineering &…, 2023 Elsevier</details>|
+|**2023-11-9**|**Domain Generalization by Learning from Privileged Medical Imaging Information**|Steven Korevaaret.al|[paper](https://arxiv.org/abs/2311.05861)|-|-|
 |**2023-11-9**|**Assessment of the Reliablity of a Model's Decision by Generalizing Attribution to the Wavelet Domain**|Gabriel Kasmiet.al|[paper](https://arxiv.org/abs/2305.14979)|[code](https://github.com/gabrielkasmi/spectral-attribution)|-|
 |**2023-11-8**|**FETV: A Benchmark for Fine-Grained Evaluation of Open-Domain Text-to-Video Generation**|Yuanxin Liuet.al|[paper](https://arxiv.org/abs/2311.01813)|[code](https://github.com/llyx97/FETV.)|<details><summary>detail</summary>NeurIPS 2023 Datasets and Benchmarks Track</details>|
 |**2023-11-8**|**On the Hyperparameters influencing a PINN's generalization beyond the training domain**|A Bonfanti et.al|[paper](https://arxiv.org/abs/2302.07557)|-|-|
@@ -123,7 +124,6 @@
 |**2023-11-1**|**Invariant-Feature Subspace Recovery: A New Class of Provable Domain Generalization Algorithms**|Haoxiang Wanget.al|[paper](https://arxiv.org/abs/2311.00966)|-|<details><summary>detail</summary>Submitted to JMLR</details>|
 |**2023-11-1**|**Dual-Matrix Domain-Wall: A Novel Technique for Generating Permutations by QUBO and Ising Models with Quadratic Sizes**|Koji Nakanoet.al|[paper](https://arxiv.org/abs/2308.01024)|-|-|
 |**2023-11-1**|**VQA-GEN: A Visual Question Answering Benchmark for Domain Generalization**|Suraj Jyothi Unniet.al|[paper](https://arxiv.org/abs/2311.00807)|-|-|
-|**2023-11-1**|**Query and Response Augmentation Cannot Help Out-of-domain Math Reasoning Generalization**|Chengpeng Liet.al|[paper](https://arxiv.org/abs/2310.05506)|[code](https://github.com/OFA-Sys/gsm8k-ScRel.)|-|
 |**2023-10-30**|**Leveraging Domain Relations for Domain Generalization**|H Yao et.al|[paper](https://arxiv.org/abs/2302.02609)|[code](https://github.com/rusty1s/pytorch_geometric)|-|
 |**2023-10-28**|**Aggregation of Disentanglement: Reconsidering Domain Variations in Domain Generalization**|D Zhang et.al|[paper](https://arxiv.org/abs/2302.02350)|[code](https://paperswithcode.com/paper/aggregation-of-disentanglement-reconsidering)|-|
 |**2023-10-26**|**Domain Generalization Emerges from Dreaming**|H Heo et.al|[paper](https://arxiv.org/abs/2302.00980)|[code](https://paperswithcode.com/paper/domain-generalization-emerges-from-dreaming)|-|
@@ -133,6 +133,7 @@
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
 |**2023-11-9**|**Watermarking Vision-Language Pre-trained Models for Multi-modal Embedding as a Service**|Yuanmin Tanget.al|[paper](https://arxiv.org/abs/2311.05863)|[code](https://github.com/Pter61/vlpmarker.)|-|
+|**2023-11-9**|**Read-only Prompt Optimization for Vision-Language Few-shot Learning**|Dongjun Leeet.al|[paper](https://arxiv.org/abs/2308.14960)|[code](https://github.com/mlvlab/RPO.)|<details><summary>detail</summary>ICCV2023</details>|
 |**2023-11-9**|**Bridging the Digital Divide: Performance Variation across Socio-Economic Factors in Vision-Language Models**|Joan Nwatuet.al|[paper](https://arxiv.org/abs/2311.05746)|[code](https://github.com/MichiganNLP/Bridging_the_Digital_Divide.)|<details><summary>detail</summary>Journal ref:EMNLP 2023</details>|
 |**2023-11-9**|**FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts**|Yichen Gonget.al|[paper](https://arxiv.org/abs/2311.05608)|-|<details><summary>detail</summary>Technical Report</details>|
 |**2023-11-9**|**Accuracy of a Vision-Language Model on Challenging Medical Cases**|Thomas Buckleyet.al|[paper](https://arxiv.org/abs/2311.05591)|-|-|
@@ -150,7 +151,6 @@
 |**2023-11-6**|**InterVLS: Interactive Model Understanding and Improvement with Vision-Language Surrogates**|Jinbin Huanget.al|[paper](https://arxiv.org/abs/2311.03547)|-|-|
 |**2023-11-6**|**Investigating the Role of Attribute Context in Vision-Language Models for Object Recognition and Detection**|Kyle Buettneret.al|[paper](https://arxiv.org/abs/2303.10093)|-|<details><summary>detail</summary>Winter Conference on Applications of Computer Vision (WACV)</details>|
 |**2023-11-6**|**Towards Calibrated Robust Fine-Tuning of Vision-Language Models**|Changdae Ohet.al|[paper](https://arxiv.org/abs/2311.01723)|-|<details><summary>detail</summary>NeurIPS 2023 Workshop on Distribution Shifts (DistShift)</details>|
-|**2023-11-6**|**Uniformly Distributed Category Prototype-Guided Vision-Language Framework for Long-Tail Recognition**|Siming Fuet.al|[paper](https://arxiv.org/abs/2308.12522)|-|-|
 |**2023-11-6**|**Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models**|Z Zheng et.al|[paper](https://arxiv.org/abs/2303.06628)|[code](https://github.com/thunderbeee/zscl)|-|
 |**2023-11-6**|**Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models**|J Li et.al|[paper](https://arxiv.org/abs/2303.06571)|[code](https://paperswithcode.com/paper/gradient-regulated-meta-prompt-learning-for)|-|
 |**2023-11-6**|**Towards Universal Vision-language Omni-supervised Segmentation**|B Dong et.al|[paper](https://arxiv.org/abs/2303.06547)|[code](https://paperswithcode.com/paper/towards-universal-vision-language-omni)|-|
