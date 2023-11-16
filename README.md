@@ -42,9 +42,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-11-15**|**Incremental Object-Based Novelty Detection with Feedback Loop**|Simone Caldarellaet.al|[paper](https://arxiv.org/abs/2311.09004)|-|-|
+|**2023-11-14**|**Deep Learning-Based Object Detection in Maritime Unmanned Aerial Vehicle Imagery: Review and Experimental Comparisons**|Chenjie Zhaoet.al|[paper](https://arxiv.org/abs/2311.07955)|[code](https://github.com/zcj234/MS2ship)|-|
+|**2023-11-14**|**What You See Is What You Detect: Towards better Object Densification in 3D detection**|Tianran Liuet.al|[paper](https://arxiv.org/abs/2310.17842)|[code](https://github.com/Orbis36/WYSIWYD)|-|
 |**2023-11-14**|**Identifying Light-curve Signals with a Deep Learning Based Object Detection Algorithm. II. A General Light Curve Classification Framework**|Kaiming Cuiet.al|[paper](https://arxiv.org/abs/2311.08080)|[code](https://github.com/ckm3/Deep-LC)|-|
 |**2023-11-14**|**Simultaneous Clutter Detection and Semantic Segmentation of Moving Objects for Automotive Radar Data**|Johannes Koppet.al|[paper](https://arxiv.org/abs/2311.07247)|-|<details><summary>detail</summary>Published at IEEE International Conference on Intelligent Transportation Systems (ITSC)</details>|
-|**2023-11-14**|**Deep Learning-Based Object Detection in Maritime Unmanned Aerial Vehicle Imagery: Review and Experimental Comparisons**|Chenjie Zhaoet.al|[paper](https://arxiv.org/abs/2311.07955)|[code](https://github.com/zcj234/MS2ship)|-|
 |**2023-11-13**|**RoboSense At Edge: Detecting Slip, Crumple and Shape of the Object in Robotic Hand for Teleoprations**|Sudev Kumar Padhiet.al|[paper](https://arxiv.org/abs/2311.07888)|-|-|
 |**2023-11-13**|**Boundary-semantic collaborative guidance network with dual-stream feedback mechanism for salient object detection in optical remote sensing imagery**|Dejun Fenget.al|[paper](https://arxiv.org/abs/2303.02867)|[code](https://github.com/YUHsss/BSCGNet.)|<details><summary>detail</summary>Accepted by TGRS</details>|
 |**2023-11-13**|**Linear Gaussian Bounding Box Representation and Ring-Shaped Rotated Convolution for Oriented Object Detection**|Zhen Zhouet.al|[paper](https://arxiv.org/abs/2311.05410)|-|-|
@@ -65,13 +67,13 @@
 |**2023-11-11**|**Unsupervised and semi-supervised co-salient object detection via segmentation frequency statistics**|Souradeep Chakrabortyet.al|[paper](https://arxiv.org/abs/2311.06654)|-|<details><summary>detail</summary>IEEE WACV 2024</details>|
 |**2023-11-11**|**DRUformer: Enhancing the driving scene Important object detection with driving relationship self-understanding**|Yingjie Niuet.al|[paper](https://arxiv.org/abs/2311.06497)|-|-|
 |**2023-11-10**|**Deep learning for 3D Object Detection and Tracking in Autonomous Driving: A Brief Survey**|Yang Penget.al|[paper](https://arxiv.org/abs/2311.06043)|-|-|
-|**2023-11-10**|**BEA: Revisiting anchor-based object detection DNN using Budding Ensemble Architecture**|Syed Sha Qutubet.al|[paper](https://arxiv.org/abs/2309.08036)|-|-|
-|**2023-11-9**|**HIC-YOLOv5: Improved YOLOv5 For Small Object Detection**|Shiyi Tanget.al|[paper](https://arxiv.org/abs/2309.16393)|-|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2023-11-15**|**Target-oriented Domain Adaptation for Infrared Image Super-Resolution**|Yongsong Huanget.al|[paper](https://arxiv.org/abs/2311.08816)|[code](https://github.com/yongsongH/DASRGAN)|-|
+|**2023-11-14**|**Cross-dataset domain adaptation for the classification COVID-19 using chest computed tomography images**|Ridha Ouniet.al|[paper](https://arxiv.org/abs/2311.08524)|-|-|
 |**2023-11-14**|**Illumination Variation Correction Using Image Synthesis For Unsupervised Domain Adaptive Person Re-Identification**|Jiaqi Guoet.al|[paper](https://arxiv.org/abs/2301.09702)|-|-|
 |**2023-11-13**|**ChipNeMo: Domain-Adapted LLMs for Chip Design**|Mingjie Liuet.al|[paper](https://arxiv.org/abs/2311.00176)|-|-|
 |**2023-11-12**|**Mixture Weight Estimation and Model Prediction in Multi-source Multi-target Domain Adaptation**|Yuyang Denget.al|[paper](https://arxiv.org/abs/2309.10736)|-|-|
@@ -95,8 +97,6 @@
 |**2023-11-8**|**Multi-Source Domain Adaptation through Dataset Dictionary Learning in Wasserstein Space**|Eduardo Fernandes Montesumaet.al|[paper](https://arxiv.org/abs/2307.14953)|-|-|
 |**2023-11-6**|**Distill-SODA: Distilling Self-Supervised Vision Transformer for Source-Free Open-Set Domain Adaptation in Computational Pathology**|Guillaume Vrayet.al|[paper](https://arxiv.org/abs/2307.04596)|-|-|
 |**2023-11-5**|**Similarity Min-Max: Zero-Shot Day-Night Domain Adaptation**|Rundong Luoet.al|[paper](https://arxiv.org/abs/2307.08779)|[code](https://red-fairy.github.io/ZeroShotDayNightDA-Webpage/.)|<details><summary>detail</summary>ICCV 2023 (Oral)</details>|
-|**2023-11-4**|**CDR-Adapter: Learning Adapters to Dig Out More Transferring Ability for Cross-Domain Recommendation Models**|Yanyu Chenet.al|[paper](https://arxiv.org/abs/2311.02398)|-|-|
-|**2023-11-4**|**Proposal-Level Unsupervised Domain Adaptation for Open World Unbiased Detector**|Xuanyi Liuet.al|[paper](https://arxiv.org/abs/2311.02342)|-|-|
 
 ## domain generalization
 
@@ -135,6 +135,7 @@
 |**2023-11-15**|**The Role of Chain-of-Thought in Complex Vision-Language Reasoning Task**|Yifan Wuet.al|[paper](https://arxiv.org/abs/2311.09193)|-|-|
 |**2023-11-15**|**Fast Certification of Vision-Language Models Using Incremental Randomized Smoothing**|A K Niralaet.al|[paper](https://arxiv.org/abs/2311.09024)|-|-|
 |**2023-11-15**|**Violet: A Vision-Language Model for Arabic Image Captioning with Gemini Decoder**|Abdelrahman Mohamedet.al|[paper](https://arxiv.org/abs/2311.08844)|-|<details><summary>detail</summary>Accepted in ArabicNLP Conference</details>|
+|**2023-11-15**|**Discriminative Diffusion Models as Few-shot Vision and Language Learners**|Xuehai Heet.al|[paper](https://arxiv.org/abs/2305.10722)|-|-|
 |**2023-11-14**|**Vision-Language Instruction Tuning: A Review and Analysis**|Chen Liet.al|[paper](https://arxiv.org/abs/2311.08172)|[code](https://github.com/palchenli/VL-Instruction-Tuning)|-|
 |**2023-11-13**|**Vision-Language Integration in Multimodal Video Transformers (Partially) Aligns with the Brain**|Dota Tianai Donget.al|[paper](https://arxiv.org/abs/2311.07766)|-|-|
 |**2023-11-13**|**Language Grounded QFormer for Efficient Vision Language Understanding**|Moulik Chorariaet.al|[paper](https://arxiv.org/abs/2311.07449)|-|<details><summary>detail</summary>Preprint Under Review</details>|
@@ -153,7 +154,6 @@
 |**2023-11-9**|**Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models**|J Li et.al|[paper](https://arxiv.org/abs/2303.06571)|[code](https://paperswithcode.com/paper/gradient-regulated-meta-prompt-learning-for)|-|
 |**2023-11-9**|**Towards Universal Vision-language Omni-supervised Segmentation**|B Dong et.al|[paper](https://arxiv.org/abs/2303.06547)|[code](https://paperswithcode.com/paper/towards-universal-vision-language-omni)|-|
 |**2023-11-8**|**VLAttack: Multimodal Adversarial Attacks on Vision-Language Tasks via Pre-trained Models**|Ziyi Yinet.al|[paper](https://arxiv.org/abs/2310.04655)|-|<details><summary>detail</summary>Accepted by NeurIPS 2023</details>|
-|**2023-11-8**|**Text Promptable Surgical Instrument Segmentation with Vision-Language Models**|Zijian Zhouet.al|[paper](https://arxiv.org/abs/2306.09244)|[code](https://github.com/franciszzj/TP-SIS.)|<details><summary>detail</summary>NeurIPS 2023</details>|
 |**2023-11-8**|**Learning Grounded Vision-Language Representation for Versatile Understanding in Untrimmed Videos**|T Wang et.al|[paper](https://arxiv.org/abs/2303.06378)|[code](https://github.com/zjr2000/gvl)|-|
 |**2023-11-7**|**Tag2Text: Guiding Vision-Language Model via Image Tagging**|X Huang et.al|[paper](https://arxiv.org/abs/2303.05657)|[code](https://github.com/xinyu1205/Recognize_Anything-Tag2Text)|-|
 |**2023-11-7**|**Robotic Applications of Pre-Trained Vision-Language Models to Various Recognition Behaviors**|K Kawaharazuka et.al|[paper](https://arxiv.org/abs/2303.05674)|-|-|
