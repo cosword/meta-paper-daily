@@ -75,6 +75,8 @@ def get_paper_from_arxiv(key):
             # 会议相关折叠
             comments = f"<details><summary>detail</summary>{comments}</details>" if comments != "-" else "-"
             #comments = f"<details>{comments}</details>" if comments != "-" else "-"
+            if code_url[-1] == '.': 
+                code_url = code_url[:-1]
             papers[key][title] = f"|**{format_date}**|**{title}**|{author}|[paper]({paper_url})|" + code_url + f"{comments}|\n"
             data[key][title] = {'date':format_date, 'author':author, 'paper_url':paper_url, 'code_url':code_url, 'comments':comments}
         # print(code_url)
