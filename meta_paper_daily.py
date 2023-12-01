@@ -208,6 +208,7 @@ def update_history_data(data):
     with open("history.json", "w+") as f:
         content = f.read()
         if not content: #or datetime.date.today().day == 1:
+            print("history not exist")
             history = {}
         else:
             history = json.loads(content)
