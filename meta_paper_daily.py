@@ -235,6 +235,5 @@ if __name__ == "__main__":
     json.dump(papers, open("papers.json", "w"))
     json_to_md(papers)
     shutil.copy("README.md", "docs/index.md")
-    # 更新历史记录保存数据, 每月1号重置一次
     update_history_data(data)
 
