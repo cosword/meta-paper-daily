@@ -233,8 +233,12 @@ if __name__ == "__main__":
             traceback.print_exc()
             print(e)
             # print("google 禁止访问")
-    json.dump(papers, open("papers.json", "w"))
-    json_to_md(papers)
-    shutil.copy("README.md", "docs/index.md")
-    update_history_data(data)
+    try:
+        json.dump(papers, open("papers.json", "w"))
+        json_to_md(papers)
+        shutil.copy("README.md", "docs/index.md")
+        update_history_data(data)
+    except Exception as e:
+        traceback.print_exc()
+        print(e)
 
