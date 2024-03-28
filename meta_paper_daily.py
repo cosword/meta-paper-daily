@@ -178,6 +178,7 @@ def json_to_md(data):
         #f.write("  </ol>\n")
         #f.write("</details>\n\n")
         f.write("\n\n")
+        f.close()
         # pass
 
     # write data into README.md
@@ -233,12 +234,12 @@ if __name__ == "__main__":
             traceback.print_exc()
             print(e)
             # print("google 禁止访问")
-    try:
-        json.dump(papers, open("papers.json", "w"))
-        json_to_md(papers)
-        shutil.copy("README.md", "docs/index.md")
-        update_history_data(data)
-    except Exception as e:
-        traceback.print_exc()
-        print(e)
+    #try:
+    json.dump(papers, open("papers.json", "w"))
+    json_to_md(papers)
+    shutil.copy("README.md", "docs/index.md")
+    update_history_data(data)
+    # except Exception as e:
+    #     traceback.print_exc()
+    #     print(e)
 
