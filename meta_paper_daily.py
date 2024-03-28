@@ -158,7 +158,7 @@ def json_to_md(data):
         if not content:
             data = {}
         else:
-            data = json.load(content)
+            data = json.loads(content)
 
     md_filename = "README.md"
 
