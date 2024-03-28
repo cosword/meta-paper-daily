@@ -212,7 +212,7 @@ def update_history_data(data):
             print("history not exist")
             history = {}
         else:
-            history = json.loads(f)
+            history = json.loads(content)
     f.close()
     for k in data.keys():
         if k not in history:
