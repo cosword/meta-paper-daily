@@ -42,6 +42,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-4-2**|**Cooperative Students: Navigating Unsupervised Domain Adaptation in Nighttime Object Detection**|Jicheng Yuan et.al|[paper](https://arxiv.org/abs/2404.01988)|[code](https://github.com/jichengyuan/Cooperitive_Students.)|<details><summary>detail</summary>Code is available at https://github</details>|
+|**2024-4-2**|**Towards Enhanced Analysis of Lung Cancer Lesions in EBUS-TBNA -- A Semi-Supervised Video Object Detection Method**|Jyun-An Lin et.al|[paper](https://arxiv.org/abs/2404.01929)|-|-|
+|**2024-4-2**|**Scene Adaptive Sparse Transformer for Event-based Object Detection**|Yansong Peng et.al|[paper](https://arxiv.org/abs/2404.01882)|[code](https://github.com/Peterande/SAST)|-|
 |**2024-4-2**|**Sparse Semi-DETR: Sparse Learnable Queries for Semi-Supervised Object Detection**|Tahira Shehzadi et.al|[paper](https://arxiv.org/abs/2404.01819)|-|<details><summary>detail</summary>CVPR2024</details>|
 |**2024-4-2**|**Disentangled Pre-training for Human-Object Interaction Detection**|Zhuolong Li et.al|[paper](https://arxiv.org/abs/2404.01725)|[code](https://github.com/xingaoli/DP-HOI.)|<details><summary>detail</summary>Accepted by CVPR2024</details>|
 |**2024-4-1**|**LR-FPN: Enhancing Remote Sensing Object Detection with Location Refined Feature Pyramid Network**|Hanqian Li et.al|[paper](https://arxiv.org/abs/2404.01614)|-|-|
@@ -64,14 +67,14 @@
 |**2024-3-30**|**Hierarchical Cross-modal Transformer for RGB-D Salient Object Detection**|H Chen et.al|[paper](https://arxiv.org/abs/2302.08052)|[code](https://github.com/liuzywen/swinnet)|-|
 |**2024-3-30**|**3M3D: Multi-view, Multi-path, Multi-representation for 3D Object Detection**|J Park et.al|[paper](https://arxiv.org/abs/2302.08231)|[code](https://paperswithcode.com/paper/3m3d-multi-view-multi-path-multi)|-|
 |**2024-3-30**|**Research on road object detection algorithm based on improved YOLOX**|T Yang et.al|[paper](https://arxiv.org/abs/2302.08156)|[code](https://paperswithcode.com/paper/research-on-road-object-detection-algorithm)|-|
-|**2024-3-29**|**VSRD: Instance-Aware Volumetric Silhouette Rendering for Weakly Supervised 3D Object Detection**|Zihua Liu et.al|[paper](https://arxiv.org/abs/2404.00149)|[code](https://github.com/skmhrk1209/VSRD.)|<details><summary>detail</summary>CVPR 2024</details>|
-|**2024-3-29**|**SeaBird: Segmentation in Bird's View with Dice Loss Improves Monocular 3D Detection of Large Objects**|Abhinav Kumar et.al|[paper](https://arxiv.org/abs/2403.20318)|[code](https://github.com/abhi1kumar/SeaBird)|<details><summary>detail</summary>CVPR 2024</details>|
-|**2024-3-29**|**MultiCorrupt: A Multi-Modal Robustness Dataset and Benchmark of LiDAR-Camera Fusion for 3D Object Detection**|Till Beemelmanns et.al|[paper](https://arxiv.org/abs/2402.11677)|[code](https://github.com/ika-rwth-aachen/MultiCorrupt.)|<details><summary>detail</summary>Code: https://github</details>|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-4-2**|**Learning CNN on ViT: A Hybrid Model to Explicitly Class-specific Boundaries for Domain Adaptation**|Ba Hung Ngo et.al|[paper](https://arxiv.org/abs/2403.18360)|[code](https://dotrannhattuong.github.io/ECB/website/.)|-|
+|**2024-4-2**|**Cooperative Students: Navigating Unsupervised Domain Adaptation in Nighttime Object Detection**|Jicheng Yuan et.al|[paper](https://arxiv.org/abs/2404.01988)|[code](https://github.com/jichengyuan/Cooperitive_Students.)|<details><summary>detail</summary>Code is available at https://github</details>|
+|**2024-4-2**|**Semi-Supervised Domain Adaptation for Wildfire Detection**|JooYoung Jang et.al|[paper](https://arxiv.org/abs/2404.01842)|[code](https://github.com/BloomBerry/LADA.)|-|
 |**2024-4-1**|**How Useful is Continued Pre-Training for Generative Unsupervised Domain Adaptation?**|Rheeya Uppaal et.al|[paper](https://arxiv.org/abs/2401.17514)|-|-|
 |**2024-4-1**|**Adaptive Query Prompting for Multi-Domain Landmark Detection**|Qiusen Wei et.al|[paper](https://arxiv.org/abs/2404.01194)|-|-|
 |**2024-4-1**|**Diffusion-Driven Domain Adaptation for Generating 3D Molecules**|Haokai Hong et.al|[paper](https://arxiv.org/abs/2404.00962)|-|-|
@@ -94,14 +97,12 @@
 |**2024-3-27**|**Boosting Object Detection with Zero-Shot Day-Night Domain Adaptation**|Zhipeng Du et.al|[paper](https://arxiv.org/abs/2312.01220)|[code](https://github.com/ZPDu/DAI-Net.)|<details><summary>detail</summary>CVPR 2024</details>|
 |**2024-3-27**|**ViDA: Homeostatic Visual Domain Adapter for Continual Test Time Adaptation**|Jiaming Liu et.al|[paper](https://arxiv.org/abs/2306.04344)|[code](https://sites.google.com/view/iclr2024-vida/home.)|<details><summary>detail</summary>Accepted by ICLR2024</details>|
 |**2024-3-27**|**Density-guided Translator Boosts Synthetic-to-Real Unsupervised Domain Adaptive Segmentation of 3D Point Clouds**|Zhimin Yuan et.al|[paper](https://arxiv.org/abs/2403.18469)|[code](https://github.com/yuan-zm/DGT-ST)|<details><summary>detail</summary>CVPR2024</details>|
-|**2024-3-27**|**BEVUDA: Multi-geometric Space Alignments for Domain Adaptive BEV 3D Object Detection**|Jiaming Liu et.al|[paper](https://arxiv.org/abs/2211.17126)|-|<details><summary>detail</summary>Accepted by ICRA2024</details>|
-|**2024-3-27**|**A2V: A Semi-Supervised Domain Adaptation Framework for Brain Vessel Segmentation via Two-Phase Training Angiography-to-Venography Translation**|Francesco Galati et.al|[paper](https://arxiv.org/abs/2309.06075)|-|<details><summary>detail</summary>the 34th British Machine Vision Conference (BMVC)</details>|
-|**2024-3-27**|**Learning CNN on ViT: A Hybrid Model to Explicitly Class-specific Boundaries for Domain Adaptation**|Ba Hung Ngo et.al|[paper](https://arxiv.org/abs/2403.18360)|[code](https://dotrannhattuong.github.io/ECB/website/.)|-|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-4-2**|**A Simple Recipe for Language-guided Domain Generalized Segmentation**|Mohammad Fahes et.al|[paper](https://arxiv.org/abs/2311.17922)|[code](https://github.com/astra-vision/FAMix)|<details><summary>detail</summary>CVPR 2024</details>|
 |**2024-4-2**|**Generalizing 6-DoF Grasp Detection via Domain Prior Knowledge**|Haoxiang Ma et.al|[paper](https://arxiv.org/abs/2404.01727)|-|<details><summary>detail</summary>CVPR 2024</details>|
 |**2024-4-2**|**Towards Better Generalization in Open-Domain Question Answering by Mitigating Context Memorization**|Zixuan Zhang et.al|[paper](https://arxiv.org/abs/2404.01652)|-|<details><summary>detail</summary>NAACL 2024 Findings</details>|
 |**2024-4-1**|**FAIRM: Learning invariant representations for algorithmic fairness and domain generalization with minimax optimality**|Sai Li et.al|[paper](https://arxiv.org/abs/2404.01608)|-|-|
@@ -120,7 +121,6 @@
 |**2024-3-28**|**Test-Time Domain Generalization for Face Anti-Spoofing**|Qianyu Zhou et.al|[paper](https://arxiv.org/abs/2403.19334)|-|<details><summary>detail</summary>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</details>|
 |**2024-3-28**|**Robust Representation Learning with Self-Distillation for Domain Generalization**|A Singh et.al|[paper](https://arxiv.org/abs/2302.06874)|[code](https://github.com/tongkunguan/ccd)|-|
 |**2024-3-26**|**ERM++: An Improved Baseline for Domain Generalization**|Piotr Teterwak et.al|[paper](https://arxiv.org/abs/2304.01973)|[code](https://github.com/piotr-teterwak/erm_plusplus.)|<details><summary>detail</summary>An improved baseline for Domain Generalization</details>|
-|**2024-3-26**|**Generator-Retriever-Generator Approach for Open-Domain Question Answering**|Abdelrahman Abdallah et.al|[paper](https://arxiv.org/abs/2307.11278)|[code](https://github.com/abdoelsayed2016/GRG.)|-|
 |**2024-3-26**|**Cross-corpora spoken language identification with domain diversification and generalization**|S Dey et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0885230823000086)|[code](https://paperswithcode.com/paper/cross-corpora-spoken-language-identification)|<details><summary>detail</summary>Computer Speech & Language, 2023 Elsevier</details>|
 |**2024-3-24**|**Domain-Conditioned Normalization for Test-Time Domain Generalization**|Y Jiang et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-25085-9_17)|[code](https://github.com/ucsfncl/dmri-swin)|<details><summary>detail</summary>Computer Vision–ECCV…, 2023 Springer</details>|
 |**2024-3-23**|**Domain Generalization by Functional Regression**|M Holzleitner et.al|[paper](https://arxiv.org/abs/2302.04724)|[code](https://github.com/wzell/funcregr4domgen)|-|
@@ -132,21 +132,21 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-4-2**|**Iterated Learning Improves Compositionality in Large Vision-Language Models**|Chenhao Zheng et.al|[paper](https://arxiv.org/abs/2404.02145)|-|<details><summary>detail</summary>CVPR 2024</details>|
+|**2024-4-2**|**ViTamin: Designing Scalable Vision Models in the Vision-Language Era**|Jienneg Chen et.al|[paper](https://arxiv.org/abs/2404.02132)|[code](https://github.com/Beckschen/ViTamin)|<details><summary>detail</summary>CVPR 2024</details>|
+|**2024-4-2**|**Rephrase, Augment, Reason: Visual Grounding of Questions for Vision-Language Models**|Archiki Prasad et.al|[paper](https://arxiv.org/abs/2310.05861)|[code](https://github.com/archiki/RepARe)|-|
+|**2024-4-2**|**Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners**|Keon-Hee Park et.al|[paper](https://arxiv.org/abs/2404.02117)|[code](https://github.com/KHU-AGI/PriViLege.)|<details><summary>detail</summary>Accepted by CVPR 2024</details>|
+|**2024-4-2**|**DELAN: Dual-Level Alignment for Vision-and-Language Navigation by Cross-Modal Contrastive Learning**|Mengfei Du et.al|[paper](https://arxiv.org/abs/2404.01994)|-|<details><summary>detail</summary>Accepted by LREC-COLING 2024</details>|
+|**2024-4-2**|**Bi-LORA: A Vision-Language Approach for Synthetic Image Detection**|Mamadou Keita et.al|[paper](https://arxiv.org/abs/2404.01959)|[code](https://github.com/Mamadou-Keita/VLM-DETECT.)|-|
+|**2024-4-2**|**Lookahead Exploration with Neural Radiance Representation for Continuous Vision-Language Navigation**|Zihan Wang et.al|[paper](https://arxiv.org/abs/2404.01943)|[code](https://github.com/MrZihan/HNR-VLN)|<details><summary>detail</summary>Accepted by CVPR 2024</details>|
+|**2024-4-2**|**Bridging Language, Vision and Action: Multimodal VAEs in Robotic Manipulation Tasks**|Gabriela Sejnova et.al|[paper](https://arxiv.org/abs/2404.01932)|-|-|
+|**2024-4-2**|**VLRM: Vision-Language Models act as Reward Models for Image Captioning**|Maksim Dzabraev et.al|[paper](https://arxiv.org/abs/2404.01911)|[code](https://huggingface.co/sashakunitsyn/vlrm-blip2-opt-2.7b.)|-|
 |**2024-4-2**|**LLM meets Vision-Language Models for Zero-Shot One-Class Classification**|Yassir Bendou et.al|[paper](https://arxiv.org/abs/2404.00675)|-|-|
 |**2024-4-2**|**Vision-Language Models in Remote Sensing: Current Progress and Future Trends**|Xiang Li et.al|[paper](https://arxiv.org/abs/2305.05726)|-|<details><summary>detail</summary>Accepted by IEEE Geoscience and Remote Sensing Magazine</details>|
 |**2024-4-2**|**Kiki or Bouba? Sound Symbolism in Vision-and-Language Models**|Morris Alper et.al|[paper](https://arxiv.org/abs/2310.16781)|[code](https://kiki-bouba.github.io/)|<details><summary>detail</summary>NeurIPS 2023 (spotlight)</details>|
 |**2024-4-1**|**mChartQA: A universal benchmark for multimodal Chart Question Answer based on Vision-Language Alignment and Reasoning**|Jingxuan Wei et.al|[paper](https://arxiv.org/abs/2404.01548)|-|-|
 |**2024-4-1**|**Concept-based Analysis of Neural Networks via Vision-Language Models**|Ravi Mangal et.al|[paper](https://arxiv.org/abs/2403.19837)|-|-|
 |**2024-4-1**|**3D Open-Vocabulary Panoptic Segmentation with 2D-3D Vision-Language Distillation**|Zihao Xiao et.al|[paper](https://arxiv.org/abs/2401.02402)|-|-|
-|**2024-4-1**|**Vision-language models for decoding provider attention during neonatal resuscitation**|Felipe Parodi et.al|[paper](https://arxiv.org/abs/2404.01207)|-|-|
-|**2024-4-1**|**SyncMask: Synchronized Attentional Masking for Fashion-centric Vision-Language Pretraining**|Chull Hwan Song et.al|[paper](https://arxiv.org/abs/2404.01156)|-|<details><summary>detail</summary>CVPR2024 Accepted</details>|
-|**2024-4-1**|**QUAR-VLA: Vision-Language-Action Model for Quadruped Robots**|Pengxiang Ding et.al|[paper](https://arxiv.org/abs/2312.14457)|-|-|
-|**2024-4-1**|**VideoDistill: Language-aware Vision Distillation for Video Question Answering**|Bo Zou et.al|[paper](https://arxiv.org/abs/2404.00973)|-|<details><summary>detail</summary>This paper is accepted by CVPR2024</details>|
-|**2024-4-1**|**X-LLaVA: Optimizing Bilingual Large Vision-Language Alignment**|Dongjae Shin et.al|[paper](https://arxiv.org/abs/2403.11399)|-|-|
-|**2024-4-1**|**Learning by Correction: Efficient Tuning Task for Zero-Shot Generative Vision-Language Reasoning**|Rongjie Li et.al|[paper](https://arxiv.org/abs/2404.00909)|-|<details><summary>detail</summary>Accepted by CVPR2024</details>|
-|**2024-4-1**|**From Pixels to Graphs: Open-Vocabulary Scene Graph Generation with Vision-Language Models**|Rongjie Li et.al|[paper](https://arxiv.org/abs/2404.00906)|-|<details><summary>detail</summary>Accepted by CVPR 2024</details>|
-|**2024-3-31**|**DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models**|Xiaoyu Tian et.al|[paper](https://arxiv.org/abs/2402.12289)|[code](https://tsinghua-mars-lab.github.io/DriveVLM/)|<details><summary>detail</summary>Project Page: https://tsinghua-mars-lab</details>|
-|**2024-3-31**|**C-TPT: Calibrated Test-Time Prompt Tuning for Vision-Language Models via Text Feature Dispersion**|Hee Suk Yoon et.al|[paper](https://arxiv.org/abs/2403.14119)|[code](https://github.com/hee-suk-yoon/C-TPT.)|<details><summary>detail</summary>ICLR 2024</details>|
 |**2024-3-29**|**Weakly-Supervised HOI Detection from Interaction Labels Only and Language/Vision-Language Priors**|M Erhan Unal et.al|[paper](https://ui.adsabs.harvard.edu/abs/2023arXiv230305546E/abstract)|[code](https://paperswithcode.com/paper/weakly-supervised-hoi-detection-from)|-|
 |**2024-3-29**|**Scaling Vision-Language Models with Sparse Mixture of Experts**|S Shen et.al|[paper](https://arxiv.org/abs/2303.07226)|[code](https://github.com/google-research/vmoe)|-|
 |**2024-3-29**|**Vision-Language Models as Success Detectors**|Y Du et.al|[paper](https://arxiv.org/abs/2303.07280)|[code](https://github.com/dyabel/detpro)|-|
