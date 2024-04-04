@@ -102,6 +102,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-4-3**|**Domain Generalization through Meta-Learning: A Survey**|Arsham Gholamzadeh Khoee et.al|[paper](https://arxiv.org/abs/2404.02785)|-|-|
 |**2024-4-3**|**Language Guided Domain Generalized Medical Image Segmentation**|Shahina Kunhimon et.al|[paper](https://arxiv.org/abs/2404.01272)|[code](https://github.com/ShahinaKK/LG_SDG.git.)|<details><summary>detail</summary>ISBI2024</details>|
 |**2024-4-3**|**Learning Generalized Policies for Fully Observable Non-Deterministic Planning Domains**|Till Hofmann et.al|[paper](https://arxiv.org/abs/2404.02499)|-|-|
 |**2024-4-3**|**DUQGen: Effective Unsupervised Domain Adaptation of Neural Rankers by Diversifying Synthetic Query Generation**|Ramraj Chandradevan et.al|[paper](https://arxiv.org/abs/2404.02489)|-|<details><summary>detail</summary>NAACL 2024 Main Conference</details>|
@@ -119,7 +120,6 @@
 |**2024-3-30**|**Controllable and Diverse Data Augmentation with Large Language Model for Low-Resource Open-Domain Dialogue Generation**|Zhenhua Liu et.al|[paper](https://arxiv.org/abs/2404.00361)|-|-|
 |**2024-3-30**|**On the Hyperparameters influencing a PINN's generalization beyond the training domain**|A Bonfanti et.al|[paper](https://arxiv.org/abs/2302.07557)|-|-|
 |**2024-3-29**|**Collaborating Foundation Models for Domain Generalized Semantic Segmentation**|Yasser Benigmim et.al|[paper](https://arxiv.org/abs/2312.09788)|[code](https://github.com/yasserben/CLOUDS)|<details><summary>detail</summary>https://github</details>|
-|**2024-3-29**|**V2X-DGW: Domain Generalization for Multi-agent Perception under Adverse Weather Conditions**|Baolu Li et.al|[paper](https://arxiv.org/abs/2403.11371)|-|-|
 |**2024-3-29**|**Robust Representation Learning with Self-Distillation for Domain Generalization**|A Singh et.al|[paper](https://arxiv.org/abs/2302.06874)|[code](https://github.com/tongkunguan/ccd)|-|
 |**2024-3-27**|**Cross-corpora spoken language identification with domain diversification and generalization**|S Dey et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0885230823000086)|[code](https://paperswithcode.com/paper/cross-corpora-spoken-language-identification)|<details><summary>detail</summary>Computer Speech & Language, 2023 Elsevier</details>|
 |**2024-3-25**|**Domain-Conditioned Normalization for Test-Time Domain Generalization**|Y Jiang et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-25085-9_17)|[code](https://github.com/ucsfncl/dmri-swin)|<details><summary>detail</summary>Computer Vision–ECCV…, 2023 Springer</details>|
