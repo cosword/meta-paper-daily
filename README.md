@@ -72,6 +72,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-4-16**|**Exploring selective image matching methods for zero-shot and few-sample unsupervised domain adaptation of urban canopy prediction**|John Francis et.al|[paper](https://arxiv.org/abs/2404.10626)|-|<details><summary>detail</summary>ICLR 2024 Machine Learning for Remote Sensing (ML4RS) Workshop</details>|
+|**2024-4-16**|**DP-RDM: Adapting Diffusion Models to Private Domains Without Fine-Tuning**|Jonathan Lebensold et.al|[paper](https://arxiv.org/abs/2403.14421)|-|-|
 |**2024-4-16**|**Uncertainty-guided Open-Set Source-Free Unsupervised Domain Adaptation with Target-private Class Segregation**|Mattia Litrico et.al|[paper](https://arxiv.org/abs/2404.10574)|-|-|
 |**2024-4-16**|**Domain-Rectifying Adapter for Cross-Domain Few-Shot Segmentation**|Jiapeng Su et.al|[paper](https://arxiv.org/abs/2404.10322)|[code](https://github.com/Matt-Su/DR-Adapter.)|<details><summary>detail</summary>Accepted by CVPR 2024</details>|
 |**2024-4-15**|**Lighter, Better, Faster Multi-Source Domain Adaptation with Gaussian Mixture Models and Optimal Transport**|Eduardo Fernandes Montesuma et.al|[paper](https://arxiv.org/abs/2404.10261)|-|<details><summary>detail</summary>Under review</details>|
@@ -95,8 +97,6 @@
 |**2024-4-12**|**Blade crack detection based on domain adaptation and autoencoder of multidimensional vibro-acoustic feature fusion**|J Shen et.al|[paper](https://journals.sagepub.com/doi/abs/10.1177/14759217221139134)|-|<details><summary>detail</summary>Structural Health Monitoring, 2023 journals.sagepub.com</details>|
 |**2024-4-11**|**IIDM: Inter and Intra-domain Mixing for Semi-supervised Domain Adaptation in Semantic Segmentation**|Weifu Fu et.al|[paper](https://arxiv.org/abs/2308.15855)|-|-|
 |**2024-4-11**|**Infrared ship target segmentation based on Adversarial Domain Adaptation**|T Zhang et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0950705123000941)|-|<details><summary>detail</summary>Knowledge Based…, 2023 Elsevier</details>|
-|**2024-4-10**|**Unified Language-driven Zero-shot Domain Adaptation**|Senqiao Yang et.al|[paper](https://arxiv.org/abs/2404.07155)|[code](https://senqiaoyang.com/project/ULDA)|<details><summary>detail</summary>Accepted by CVPR 2024</details>|
-|**2024-4-10**|**MoCap-to-Visual Domain Adaptation for Efficient Human Mesh Estimation from 2D Keypoints**|Bedirhan Uguz et.al|[paper](https://arxiv.org/abs/2404.07094)|[code](https://key2mesh.github.io/.)|<details><summary>detail</summary>accepted to CVPRW 2024</details>|
 
 ## domain generalization
 
@@ -131,6 +131,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-4-16**|**Private Attribute Inference from Images with Vision-Language Models**|Batuhan Tömekçe et.al|[paper](https://arxiv.org/abs/2404.10618)|-|-|
+|**2024-4-16**|**Automated Evaluation of Large Vision-Language Models on Self-driving Corner Cases**|Yanze Li et.al|[paper](https://arxiv.org/abs/2404.10595)|[code](https://coda-dataset.github.io/coda-lm/)|<details><summary>detail</summary>Project Page: https://coda-dataset</details>|
 |**2024-4-16**|**PartDistill: 3D Shape Part Segmentation by Vision-Language Model Distillation**|Ardian Umam et.al|[paper](https://arxiv.org/abs/2312.04016)|[code](https://github.com/ardianumam/PartDistill.)|<details><summary>detail</summary>CVPR 2024 Accepted</details>|
 |**2024-4-16**|**RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**|Fan Liu et.al|[paper](https://arxiv.org/abs/2306.11029)|[code](https://github.com/ChenDelong1999/RemoteCLIP)|<details><summary>detail</summary>Accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS)</details>|
 |**2024-4-16**|**Optimization of Prompt Learning via Multi-Knowledge Representation for Vision-Language Models**|Enming Zhang et.al|[paper](https://arxiv.org/abs/2404.10357)|[code](https://github.com/EMZucas/CoKnow.)|-|
@@ -144,8 +146,6 @@
 |**2024-4-15**|**The Bias of Harmful Label Associations in Vision-Language Models**|Caner Hazirbas et.al|[paper](https://arxiv.org/abs/2402.07329)|-|-|
 |**2024-4-15**|**Zero-shot detection of buildings in mobile LiDAR using Language Vision Model**|June Moh Goo et.al|[paper](https://arxiv.org/abs/2404.09931)|-|-|
 |**2024-4-15**|**Semantics-aware Motion Retargeting with Vision-Language Models**|Haodong Zhang et.al|[paper](https://arxiv.org/abs/2312.01964)|-|<details><summary>detail</summary>Accepted in CVPR2024</details>|
-|**2024-4-15**|**Vision-Language Models for Medical Report Generation and Visual Question Answering: A Review**|Iryna Hartsock et.al|[paper](https://arxiv.org/abs/2403.02469)|-|-|
-|**2024-4-15**|**Photo-Realistic Image Restoration in the Wild with Controlled Vision-Language Models**|Ziwei Luo et.al|[paper](https://arxiv.org/abs/2404.09732)|[code](https://github.com/Algolzw/daclip-uir)|<details><summary>detail</summary>CVPRW 2024</details>|
 |**2024-4-12**|**Weakly-Supervised HOI Detection from Interaction Labels Only and Language/Vision-Language Priors**|M Erhan Unal et.al|[paper](https://ui.adsabs.harvard.edu/abs/2023arXiv230305546E/abstract)|[code](https://paperswithcode.com/paper/weakly-supervised-hoi-detection-from)|-|
 |**2024-4-12**|**Scaling Vision-Language Models with Sparse Mixture of Experts**|S Shen et.al|[paper](https://arxiv.org/abs/2303.07226)|[code](https://github.com/google-research/vmoe)|-|
 |**2024-4-12**|**Vision-Language Models as Success Detectors**|Y Du et.al|[paper](https://arxiv.org/abs/2303.07280)|[code](https://github.com/dyabel/detpro)|-|
