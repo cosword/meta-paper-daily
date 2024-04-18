@@ -42,6 +42,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-4-17**|**Multi-resolution Rescored ByteTrack for Video Object Detection on Ultra-low-power Embedded Systems**|Luca Bompani et.al|[paper](https://arxiv.org/abs/2404.11488)|[code](https://github.com/Bomps4/Multi_Resolution_Rescored_ByteTrack)|-|
 |**2024-4-17**|**Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness**|Hangtao Zhang et.al|[paper](https://arxiv.org/abs/2404.11357)|-|<details><summary>detail</summary>Accepted by IJCAI-24</details>|
 |**2024-4-17**|**Simple In-place Data Augmentation for Surveillance Object Detection**|Munkh-Erdene Otgonbold et.al|[paper](https://arxiv.org/abs/2404.11226)|-|<details><summary>detail</summary>CVPR Workshop 2024</details>|
 |**2024-4-17**|**Feature Corrective Transfer Learning: End-to-End Solutions to Object Detection in Non-Ideal Visual Conditions**|Chuheng Wei et.al|[paper](https://arxiv.org/abs/2404.11214)|-|-|
@@ -66,7 +67,6 @@
 |**2024-4-14**|**Research on road object detection algorithm based on improved YOLOX**|T Yang et.al|[paper](https://arxiv.org/abs/2302.08156)|[code](https://paperswithcode.com/paper/research-on-road-object-detection-algorithm)|-|
 |**2024-4-13**|**BG-YOLO: A Bidirectional-Guided Method for Underwater Object Detection**|Jian Zhang et.al|[paper](https://arxiv.org/abs/2404.08979)|-|-|
 |**2024-4-12**|**Taming Self-Training for Open-Vocabulary Object Detection**|Shiyu Zhao et.al|[paper](https://arxiv.org/abs/2308.06412)|[code](https://github.com/xiaofeng94/SAS-Det)|<details><summary>detail</summary>CVPR 2024</details>|
-|**2024-4-12**|**Training-free Boost for Open-Vocabulary Object Detection with Confidence Aggregation**|Yanhao Zheng et.al|[paper](https://arxiv.org/abs/2404.08603)|-|-|
 
 ## domain adaptation
 
@@ -131,6 +131,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-4-17**|**VG4D: Vision-Language Model Goes 4D Video Recognition**|Zhichao Deng et.al|[paper](https://arxiv.org/abs/2404.11605)|[code](https://github.com/Shark0-0/VG4D)|<details><summary>detail</summary>ICRA 2024</details>|
 |**2024-4-17**|**Online Robot Navigation and Manipulation with Distilled Vision-Language Models**|Kangcheng Liu et.al|[paper](https://arxiv.org/abs/2401.17083)|-|<details><summary>detail</summary>Withdrawn for it may include a few sensitive project data</details>|
 |**2024-4-17**|**A Progressive Framework of Vision-language Knowledge Distillation and Alignment for Multilingual Scene**|Wenbo Zhang et.al|[paper](https://arxiv.org/abs/2404.11249)|-|-|
 |**2024-4-16**|**Lightweight Unsupervised Federated Learning with Pretrained Vision Language Model**|Hao Yan et.al|[paper](https://arxiv.org/abs/2404.11046)|-|-|
@@ -145,7 +146,6 @@
 |**2024-4-15**|**Vision-and-Language Navigation via Causal Learning**|Liuyi Wang et.al|[paper](https://arxiv.org/abs/2404.10241)|[code](https://github.com/CrystalSixone/VLN-GOAT.)|-|
 |**2024-4-15**|**MoE-TinyMed: Mixture of Experts for Tiny Medical Large Vision-Language Models**|Songtao Jiang et.al|[paper](https://arxiv.org/abs/2404.10237)|-|-|
 |**2024-4-15**|**Quantity Matters: Towards Assessing and Mitigating Number Hallucination in Large Vision-Language Models**|Huixuan Zhang et.al|[paper](https://arxiv.org/abs/2403.01373)|-|-|
-|**2024-4-15**|**Consistency and Uncertainty: Identifying Unreliable Responses From Black-Box Vision-Language Models for Selective Visual Question Answering**|Zaid Khan et.al|[paper](https://arxiv.org/abs/2404.10193)|-|<details><summary>detail</summary>CVPR 2024</details>|
 |**2024-4-13**|**Weakly-Supervised HOI Detection from Interaction Labels Only and Language/Vision-Language Priors**|M Erhan Unal et.al|[paper](https://ui.adsabs.harvard.edu/abs/2023arXiv230305546E/abstract)|[code](https://paperswithcode.com/paper/weakly-supervised-hoi-detection-from)|-|
 |**2024-4-13**|**Scaling Vision-Language Models with Sparse Mixture of Experts**|S Shen et.al|[paper](https://arxiv.org/abs/2303.07226)|[code](https://github.com/google-research/vmoe)|-|
 |**2024-4-13**|**Vision-Language Models as Success Detectors**|Y Du et.al|[paper](https://arxiv.org/abs/2303.07280)|[code](https://github.com/dyabel/detpro)|-|
