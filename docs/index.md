@@ -12,6 +12,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-4-23**|**Source-free Domain Adaptation for Video Object Detection Under Adverse Image Conditions**|Xingguang Zhang et.al|[paper](https://arxiv.org/abs/2404.15252)|-|<details><summary>detail</summary>accepted by the UG2+ workshop at CVPR 2024</details>|
 |**2024-4-16**|**Uncertainty-guided Open-Set Source-Free Unsupervised Domain Adaptation with Target-private Class Segregation**|Mattia Litrico et.al|[paper](https://arxiv.org/abs/2404.10574)|-|-|
 |**2024-4-16**|**In Search for a Generalizable Method for Source Free Domain Adaptation**|M Boudiaf et.al|[paper](https://arxiv.org/abs/2302.06658)|[code](https://paperswithcode.com/paper/in-search-for-a-generalizable-method-for)|-|
 |**2024-4-13**|**MAPS: A Noise-Robust Progressive Learning Approach for Source-Free Domain Adaptive Keypoint Detection**|Y Ding et.al|[paper](https://arxiv.org/abs/2302.04589)|[code](https://github.com/yuhed/maps)|-|
@@ -36,12 +37,13 @@
 |**2024-3-17**|**Uncertainty-Aware Pseudo-Label Filtering for Source-Free Unsupervised Domain Adaptation**|Xi Chen et.al|[paper](https://arxiv.org/abs/2403.11256)|[code](https://github.com/chenxi52/UPA.)|<details><summary>detail</summary>Neurocomputing 2024</details>|
 |**2024-3-16**|**SF(DA)$^2$: Source-free Domain Adaptation Through the Lens of Data Augmentation**|Uiwon Hwang et.al|[paper](https://arxiv.org/abs/2403.10834)|[code](https://github.com/shinyflight/SFDA2)|<details><summary>detail</summary>ICLR 2024</details>|
 |**2024-3-13**|**De-Confusing Pseudo-Labels in Source-Free Domain Adaptation**|Idit Diamant et.al|[paper](https://arxiv.org/abs/2401.01650)|-|-|
-|**2024-3-13**|**Source-Free Domain Adaptation with Frozen Multimodal Foundation Model**|Song Tang et.al|[paper](https://arxiv.org/abs/2311.16510)|-|<details><summary>detail</summary>CVPR 2024</details>|
 
 ## object detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-4-23**|**Weakly Supervised 3D Object Detection via Multi-Level Visual Guidance**|Kuan-Chih Huang et.al|[paper](https://arxiv.org/abs/2312.07530)|[code](https://github.com/kuanchihhuang/VG-W3D.)|<details><summary>detail</summary>Project page: https://github</details>|
+|**2024-4-23**|**Source-free Domain Adaptation for Video Object Detection Under Adverse Image Conditions**|Xingguang Zhang et.al|[paper](https://arxiv.org/abs/2404.15252)|-|<details><summary>detail</summary>accepted by the UG2+ workshop at CVPR 2024</details>|
 |**2024-4-23**|**External Prompt Features Enhanced Parameter-efficient Fine-tuning for Salient Object Detection**|Wen Liang et.al|[paper](https://arxiv.org/abs/2404.15008)|-|-|
 |**2024-4-23**|**RoboFusion: Towards Robust Multi-Modal 3D Object Detection via SAM**|Ziying Song et.al|[paper](https://arxiv.org/abs/2401.03907)|[code](https://github.com/adept-thu/RoboFusion.)|-|
 |**2024-4-23**|**ContextualFusion: Context-Based Multi-Sensor Fusion for 3D Object Detection in Adverse Operating Conditions**|Shounak Sural et.al|[paper](https://arxiv.org/abs/2404.14780)|-|-|
@@ -56,7 +58,6 @@
 |**2024-4-20**|**Revisiting Few-Shot Object Detection with Vision-Language Models**|Anish Madan et.al|[paper](https://arxiv.org/abs/2312.14494)|[code](https://github.com/anishmadan23/foundational_fsod)|-|
 |**2024-4-20**|**FisheyeDetNet: Object Detection on Fisheye Surround View Camera Systems for Automated Driving**|Ganesh Sistu et.al|[paper](https://arxiv.org/abs/2404.13443)|-|-|
 |**2024-4-20**|**Efficient and Concise Explanations for Object Detection with Gaussian-Class Activation Mapping Explainer**|Quoc Khanh Nguyen et.al|[paper](https://arxiv.org/abs/2404.13417)|-|<details><summary>detail</summary>Canadian AI 2024</details>|
-|**2024-4-20**|**MultiCorrupt: A Multi-Modal Robustness Dataset and Benchmark of LiDAR-Camera Fusion for 3D Object Detection**|Till Beemelmanns et.al|[paper](https://arxiv.org/abs/2402.11677)|[code](https://github.com/ika-rwth-aachen/MultiCorrupt.)|<details><summary>detail</summary>Code: https://github</details>|
 |**2024-4-20**|**…Simultaneous Defects Visualizing Algorithm for Both Macro and Micro Defects Based on Nonlinear Lamb Wave with an Application of Faster R-Cnn Object Detection**|Y Lee et.al|[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4362451)|-|<details><summary>detail</summary>Available at SSRN 4362451 papers.ssrn.com</details>|
 |**2024-4-20**|**YOGA: Deep Object Detection in the Wild with Lightweight Feature Learning and Multiscale Attention**|R Sunkara et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0031320323001516)|[code](https://paperswithcode.com/paper/yoga-deep-object-detection-in-the-wild-with)|<details><summary>detail</summary>Pattern Recognition, 2023 Elsevier</details>|
 |**2024-4-20**|**Spectral-Spatial Feature Enhancement Algorithm for Nighttime Object Detection and Tracking**|Y Lv et.al|[paper](https://www.mdpi.com/2073-8994/15/2/546)|-|<details><summary>detail</summary>Symmetry, 2023 mdpi.com</details>|
@@ -66,12 +67,12 @@
 |**2024-4-20**|**Hierarchical Cross-modal Transformer for RGB-D Salient Object Detection**|H Chen et.al|[paper](https://arxiv.org/abs/2302.08052)|[code](https://github.com/liuzywen/swinnet)|-|
 |**2024-4-20**|**3M3D: Multi-view, Multi-path, Multi-representation for 3D Object Detection**|J Park et.al|[paper](https://arxiv.org/abs/2302.08231)|[code](https://paperswithcode.com/paper/3m3d-multi-view-multi-path-multi)|-|
 |**2024-4-20**|**Research on road object detection algorithm based on improved YOLOX**|T Yang et.al|[paper](https://arxiv.org/abs/2302.08156)|[code](https://paperswithcode.com/paper/research-on-road-object-detection-algorithm)|-|
-|**2024-4-19**|**Feature Corrective Transfer Learning: End-to-End Solutions to Object Detection in Non-Ideal Visual Conditions**|Chuheng Wei et.al|[paper](https://arxiv.org/abs/2404.11214)|-|<details><summary>detail</summary>2024 CVPR UG2+ Workshop</details>|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-4-23**|**Source-free Domain Adaptation for Video Object Detection Under Adverse Image Conditions**|Xingguang Zhang et.al|[paper](https://arxiv.org/abs/2404.15252)|-|<details><summary>detail</summary>accepted by the UG2+ workshop at CVPR 2024</details>|
 |**2024-4-23**|**DAWN: Domain-Adaptive Weakly Supervised Nuclei Segmentation via Cross-Task Interactions**|Ye Zhang et.al|[paper](https://arxiv.org/abs/2404.14956)|[code](https://github.com/zhangye-zoe/DAWN.)|-|
 |**2024-4-23**|**Domain adaptive pose estimation via multi-level alignment**|Yugan Chen et.al|[paper](https://arxiv.org/abs/2404.14885)|-|-|
 |**2024-4-22**|**Unsupervised Domain Adaptation Architecture Search with Self-Training for Land Cover Mapping**|Clifford Broni-Bediako et.al|[paper](https://arxiv.org/abs/2404.14704)|[code](https://github.com/cliffbb/UDA-NAS)|<details><summary>detail</summary>CVPRW 2024</details>|
@@ -96,7 +97,6 @@
 |**2024-4-17**|**Learning from Unlabelled Data with Transformers: Domain Adaptation for Semantic Segmentation of High Resolution Aerial Images**|Nikolaos Dionelis et.al|[paper](https://arxiv.org/abs/2404.11299)|-|-|
 |**2024-4-17**|**DACAD: Domain Adaptation Contrastive Learning for Anomaly Detection in Multivariate Time Series**|Zahra Zamanzadeh Darban et.al|[paper](https://arxiv.org/abs/2404.11269)|-|-|
 |**2024-4-16**|**Domain-Specific Block Selection and Paired-View Pseudo-Labeling for Online Test-Time Adaptation**|Yeonguk Yu et.al|[paper](https://arxiv.org/abs/2404.10966)|[code](https://github.com/gist-ailab/domain-specific-block-selection-and-paired-view-pseudo-labeling-for-online-TTA.)|<details><summary>detail</summary>CVPR 2024</details>|
-|**2024-4-16**|**Exploring selective image matching methods for zero-shot and few-sample unsupervised domain adaptation of urban canopy prediction**|John Francis et.al|[paper](https://arxiv.org/abs/2404.10626)|-|<details><summary>detail</summary>ICLR 2024 Machine Learning for Remote Sensing (ML4RS) Workshop</details>|
 
 ## domain generalization
 
