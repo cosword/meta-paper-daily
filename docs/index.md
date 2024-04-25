@@ -142,9 +142,19 @@
 |**2024-4-21**|**Lost in Space: Probing Fine-grained Spatial Understanding in Vision and Language Resamplers**|Georgios Pantazopoulos et.al|[paper](https://arxiv.org/abs/2404.13594)|-|<details><summary>detail</summary>NAACL 2024</details>|
 |**2024-4-20**|**Revisiting Few-Shot Object Detection with Vision-Language Models**|Anish Madan et.al|[paper](https://arxiv.org/abs/2312.14494)|[code](https://github.com/anishmadan23/foundational_fsod)|-|
 |**2024-4-20**|**AdvLoRA: Adversarial Low-Rank Adaptation of Vision-Language Models**|Yuheng Ji et.al|[paper](https://arxiv.org/abs/2404.13425)|-|-|
+|**2024-4-20**|**Weakly-Supervised HOI Detection from Interaction Labels Only and Language/Vision-Language Priors**|M Erhan Unal et.al|[paper](https://ui.adsabs.harvard.edu/abs/2023arXiv230305546E/abstract)|[code](https://paperswithcode.com/paper/weakly-supervised-hoi-detection-from)|-|
+|**2024-4-20**|**Scaling Vision-Language Models with Sparse Mixture of Experts**|S Shen et.al|[paper](https://arxiv.org/abs/2303.07226)|[code](https://github.com/google-research/vmoe)|-|
+|**2024-4-20**|**Vision-Language Models as Success Detectors**|Y Du et.al|[paper](https://arxiv.org/abs/2303.07280)|[code](https://github.com/dyabel/detpro)|-|
+|**2024-4-20**|**Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of Synthetic and Compositional Images**|N Bitton-Guetta et.al|[paper](https://arxiv.org/abs/2303.07274)|[code](https://paperswithcode.com/paper/breaking-common-sense-whoops-a-vision-and)|-|
 |**2024-4-19**|**Multi-modal vision-language model for generalizable annotation-free pathological lesions localization and clinical diagnosis**|Hao Yang et.al|[paper](https://arxiv.org/abs/2401.02044)|-|-|
 |**2024-4-19**|**Exploring Interactive Semantic Alignment for Efficient HOI Detection with Vision-language Model**|Jihao Dong et.al|[paper](https://arxiv.org/abs/2404.12678)|-|<details><summary>detail</summary>Accepted by ICME2024</details>|
 |**2024-4-19**|**Pre-trained Vision-Language Models Learn Discoverable Visual Concepts**|Yuan Zang et.al|[paper](https://arxiv.org/abs/2404.12652)|-|-|
 |**2024-4-18**|**ELEV-VISION-SAM: Integrated Vision Language and Foundation Model for Automated Estimation of Building Lowest Floor Elevation**|Yu-Hsuan Ho et.al|[paper](https://arxiv.org/abs/2404.12606)|-|-|
 |**2024-4-18**|**Measuring Vision-Language STEM Skills of Neural Models**|Jianhao Shen et.al|[paper](https://arxiv.org/abs/2402.17205)|-|<details><summary>detail</summary>Accepted in ICLR 2024</details>|
+|**2024-4-18**|**Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models**|Z Zheng et.al|[paper](https://arxiv.org/abs/2303.06628)|[code](https://github.com/thunderbeee/zscl)|-|
+|**2024-4-18**|**Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models**|J Li et.al|[paper](https://arxiv.org/abs/2303.06571)|[code](https://paperswithcode.com/paper/gradient-regulated-meta-prompt-learning-for)|-|
+|**2024-4-18**|**Towards Universal Vision-language Omni-supervised Segmentation**|B Dong et.al|[paper](https://arxiv.org/abs/2303.06547)|[code](https://paperswithcode.com/paper/towards-universal-vision-language-omni)|-|
+|**2024-4-17**|**Learning Grounded Vision-Language Representation for Versatile Understanding in Untrimmed Videos**|T Wang et.al|[paper](https://arxiv.org/abs/2303.06378)|[code](https://github.com/zjr2000/gvl)|-|
+|**2024-4-16**|**Tag2Text: Guiding Vision-Language Model via Image Tagging**|X Huang et.al|[paper](https://arxiv.org/abs/2303.05657)|[code](https://github.com/xinyu1205/recognize-anything)|-|
+|**2024-4-16**|**Robotic Applications of Pre-Trained Vision-Language Models to Various Recognition Behaviors**|K Kawaharazuka et.al|[paper](https://arxiv.org/abs/2303.05674)|-|-|
 
