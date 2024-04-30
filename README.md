@@ -42,6 +42,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-4-29**|**MiPa: Mixed Patch Infrared-Visible Modality Agnostic Object Detection**|Heitor R. Medeiros et.al|[paper](https://arxiv.org/abs/2404.18849)|[code](https://github.com/heitorrapela/MiPa)|-|
+|**2024-4-29**|**Illicit object detection in X-ray images using Vision Transformers**|Jorgen Cani et.al|[paper](https://arxiv.org/abs/2403.19043)|-|-|
+|**2024-4-29**|**Efficient Meta-Learning Enabled Lightweight Multiscale Few-Shot Object Detection in Remote Sensing Images**|Wenbin Guan et.al|[paper](https://arxiv.org/abs/2404.18426)|-|-|
 |**2024-4-28**|**RadSimReal: Bridging the Gap Between Synthetic and Real Data in Radar Object Detection With Simulation**|Oded Bialer et.al|[paper](https://arxiv.org/abs/2404.18150)|-|<details><summary>detail</summary>CVPR 2024</details>|
 |**2024-4-28**|**Fully Sparse Fusion for 3D Object Detection**|Yingyan Li et.al|[paper](https://arxiv.org/abs/2304.12310)|[code](https://github.com/BraveGroup/FullySparseFusion)|<details><summary>detail</summary>TPMAI 2024</details>|
 |**2024-4-27**|**FisheyeDetNet: 360° Surround view Fisheye Camera based Object Detection System for Autonomous Driving**|Ganesh Sistu et.al|[paper](https://arxiv.org/abs/2404.13443)|-|<details><summary>detail</summary>arXiv admin note: text overlap with arXiv:2206</details>|
@@ -64,9 +67,6 @@
 |**2024-4-25**|**Generating Minimalist Adversarial Perturbations to Test Object-Detection Models: An Adaptive Multi-Metric Evolutionary Search Approach**|Cristopher McIntyre-Garcia et.al|[paper](https://arxiv.org/abs/2404.17020)|-|-|
 |**2024-4-25**|**Constellation Dataset: Benchmarking High-Altitude Object Detection for an Urban Intersection**|Mehmet Kerem Turkcan et.al|[paper](https://arxiv.org/abs/2404.16944)|-|-|
 |**2024-4-25**|**Commonsense Prototype for Outdoor Unsupervised 3D Object Detection**|Hai Wu et.al|[paper](https://arxiv.org/abs/2404.16493)|[code](https://github.com/hailanyi/CPD.)|<details><summary>detail</summary>Accepted by CVPR 2024</details>|
-|**2024-4-24**|**CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions**|Haoyuan Li et.al|[paper](https://arxiv.org/abs/2404.16302)|[code](https://github.com/lhy-zjut/CFMW.)|<details><summary>detail</summary>The dataset and source code will be made publicly available at https://github</details>|
-|**2024-4-24**|**PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection**|Kuan-Chih Huang et.al|[paper](https://arxiv.org/abs/2312.08371)|[code](https://github.com/kuanchihhuang/PTT.)|<details><summary>detail</summary>CVPR 2024</details>|
-|**2024-4-24**|**Steal Now and Attack Later: Evaluating Robustness of Object Detection against Black-box Adversarial Attacks**|Erh-Chung Chen et.al|[paper](https://arxiv.org/abs/2404.15881)|-|-|
 
 ## domain adaptation
 
@@ -102,6 +102,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-4-29**|**Transitive Vision-Language Prompt Learning for Domain Generalization**|Liyuan Wang et.al|[paper](https://arxiv.org/abs/2404.18758)|-|-|
+|**2024-4-29**|**MultiMatch: Multi-task Learning for Semi-supervised Domain Generalization**|Lei Qi et.al|[paper](https://arxiv.org/abs/2208.05853)|-|<details><summary>detail</summary>Accepted by ACM TOMM</details>|
 |**2024-4-27**|**Towards Cross Domain Generalization of Hamiltonian Representation via Meta Learning**|Yeongwoo Song et.al|[paper](https://arxiv.org/abs/2212.01168)|-|<details><summary>detail</summary>Conference paper at ICLR 2024</details>|
 |**2024-4-27**|**Domain Generalization with Global Sample Mixup**|Y Lu et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-25075-0_35)|-|<details><summary>detail</summary>European Conference on Computer…, 2023 Springer</details>|
 |**2024-4-27**|**Cross-Domain Augmentation Diagnosis: An Adversarial Domain-Augmented Generalization Method for Fault Diagnosis under Unseen Working Conditions**|Q Li et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0951832023000868)|-|<details><summary>detail</summary>Reliability Engineering &…, 2023 Elsevier</details>|
@@ -122,8 +124,6 @@
 |**2024-4-19**|**Domain Generalization by Functional Regression**|M Holzleitner et.al|[paper](https://arxiv.org/abs/2302.04724)|[code](https://github.com/wzell/funcregr4domgen)|-|
 |**2024-4-18**|**Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation**|Zhixiang Wei et.al|[paper](https://arxiv.org/abs/2312.04265)|[code](https://github.com/w1oves/Rein.git.)|-|
 |**2024-4-17**|**GLaM: Fine-Tuning Large Language Models for Domain Knowledge Graph Alignment via Neighborhood Partitioning and Generative Subgraph Encoding**|Stefan Dernbach et.al|[paper](https://arxiv.org/abs/2402.06764)|-|<details><summary>detail</summary>Published in AAAI Spring Symposium: AAAI-MAKE 2024</details>|
-|**2024-4-17**|**A2XP: Towards Private Domain Generalization**|Geunhyeok Yu et.al|[paper](https://arxiv.org/abs/2311.10339)|[code](https://github.com/AIRLABkhu/A2XP)|<details><summary>detail</summary>CVPR 2024</details>|
-|**2024-4-16**|**BDAN: Mitigating Temporal Difference Across Electrodes in Cross-Subject Motor Imagery Classification via Generative Bridging Domain**|Zhige Chen et.al|[paper](https://arxiv.org/abs/2404.10494)|-|-|
 |**2024-4-16**|**Leveraging Domain Relations for Domain Generalization**|H Yao et.al|[paper](https://arxiv.org/abs/2302.02609)|[code](https://github.com/rusty1s/pytorch_geometric)|-|
 |**2024-4-14**|**Aggregation of Disentanglement: Reconsidering Domain Variations in Domain Generalization**|D Zhang et.al|[paper](https://arxiv.org/abs/2302.02350)|[code](https://paperswithcode.com/paper/aggregation-of-disentanglement-reconsidering)|-|
 |**2024-4-12**|**Domain Generalization Emerges from Dreaming**|H Heo et.al|[paper](https://arxiv.org/abs/2302.00980)|[code](https://paperswithcode.com/paper/domain-generalization-emerges-from-dreaming)|-|
@@ -132,6 +132,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-4-29**|**Transitive Vision-Language Prompt Learning for Domain Generalization**|Liyuan Wang et.al|[paper](https://arxiv.org/abs/2404.18758)|-|-|
+|**2024-4-29**|**Enhancing Interactive Image Retrieval With Query Rewriting Using Large Language Models and Vision Language Models**|Hongyi Zhu et.al|[paper](https://arxiv.org/abs/2404.18746)|-|-|
+|**2024-4-29**|**Do Vision & Language Decoders use Images and Text equally? How Self-consistent are their Explanations?**|Letitia Parcalabescu et.al|[paper](https://arxiv.org/abs/2404.18624)|-|-|
 |**2024-4-27**|**Open-Set 3D Semantic Instance Maps for Vision Language Navigation -- O3D-SIM**|Laksh Nanwani et.al|[paper](https://arxiv.org/abs/2404.17922)|-|-|
 |**2024-4-27**|**SERPENT-VLM : Self-Refining Radiology Report Generation Using Vision Language Models**|Manav Nitin Kapadnis et.al|[paper](https://arxiv.org/abs/2404.17912)|-|-|
 |**2024-4-27**|**Medical Vision-Language Pre-Training for Brain Abnormalities**|Masoud Monajatipoor et.al|[paper](https://arxiv.org/abs/2404.17779)|[code](https://github.com/masoud-monajati/MedVL_pretraining_pipeline)|-|
@@ -148,9 +151,6 @@
 |**2024-4-25**|**Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of Synthetic and Compositional Images**|N Bitton-Guetta et.al|[paper](https://arxiv.org/abs/2303.07274)|[code](https://paperswithcode.com/paper/breaking-common-sense-whoops-a-vision-and)|-|
 |**2024-4-24**|**Discffusion: Discriminative Diffusion Models as Few-shot Vision and Language Learners**|Xuehai He et.al|[paper](https://arxiv.org/abs/2305.10722)|-|-|
 |**2024-4-24**|**Fusion of Domain-Adapted Vision and Language Models for Medical Visual Question Answering**|Cuong Nhat Ha et.al|[paper](https://arxiv.org/abs/2404.16192)|-|<details><summary>detail</summary>Clinical NLP @ NAACL 2024</details>|
-|**2024-4-24**|**FairDeDup: Detecting and Mitigating Vision-Language Fairness Disparities in Semantic Dataset Deduplication**|Eric Slyman et.al|[paper](https://arxiv.org/abs/2404.16123)|[code](https://ericslyman.com/fairdedup/)|<details><summary>detail</summary>Conference paper at CVPR 2024</details>|
-|**2024-4-24**|**MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI**|Kaining Ying et.al|[paper](https://arxiv.org/abs/2404.16006)|-|-|
-|**2024-4-24**|**From Pixels to Graphs: Open-Vocabulary Scene Graph Generation with Vision-Language Models**|Rongjie Li et.al|[paper](https://arxiv.org/abs/2404.00906)|-|<details><summary>detail</summary>Accepted by CVPR 2024</details>|
 |**2024-4-23**|**Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models**|Z Zheng et.al|[paper](https://arxiv.org/abs/2303.06628)|[code](https://github.com/thunderbeee/zscl)|-|
 |**2024-4-23**|**Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models**|J Li et.al|[paper](https://arxiv.org/abs/2303.06571)|[code](https://paperswithcode.com/paper/gradient-regulated-meta-prompt-learning-for)|-|
 |**2024-4-23**|**Towards Universal Vision-language Omni-supervised Segmentation**|B Dong et.al|[paper](https://arxiv.org/abs/2303.06547)|[code](https://paperswithcode.com/paper/towards-universal-vision-language-omni)|-|
