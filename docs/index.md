@@ -15,11 +15,21 @@
 |**2024-5-5**|**Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training**|Wenyu Zhang et.al|[paper](https://arxiv.org/abs/2405.02954)|-|<details><summary>detail</summary>Extension of ICCV paper arXiv:2212</details>|
 |**2024-5-2**|**COMET: Contrastive Mean Teacher for Online Source-Free Universal Domain Adaptation**|Pascal Schlachter et.al|[paper](https://arxiv.org/abs/2401.17728)|-|<details><summary>detail</summary>the International Joint Conference on Neural Networks (IJCNN) 2024</details>|
 |**2024-4-29**|**Source-Free Domain Adaptation of Weakly-Supervised Object Localization Models for Histology**|Alexis Guichemerre et.al|[paper](https://arxiv.org/abs/2404.19113)|-|-|
+|**2024-4-29**|**In Search for a Generalizable Method for Source Free Domain Adaptation**|M Boudiaf et.al|[paper](https://arxiv.org/abs/2302.06658)|[code](https://paperswithcode.com/paper/in-search-for-a-generalizable-method-for)|-|
 |**2024-4-28**|**Align, Minimize and Diversify: A Source-Free Unsupervised Domain Adaptation Method for Handwritten Text Recognition**|María Alfaro-Contreras et.al|[paper](https://arxiv.org/abs/2404.18260)|-|<details><summary>detail</summary>Submitted to ECCV 2024</details>|
+|**2024-4-26**|**MAPS: A Noise-Robust Progressive Learning Approach for Source-Free Domain Adaptive Keypoint Detection**|Y Ding et.al|[paper](https://arxiv.org/abs/2302.04589)|[code](https://github.com/yuhed/maps)|-|
 |**2024-4-25**|**360SFUDA++: Towards Source-free UDA for Panoramic Segmentation by Learning Reliable Category Prototypes**|Xu Zheng et.al|[paper](https://arxiv.org/abs/2404.16501)|-|<details><summary>detail</summary>arXiv admin note: substantial text overlap with arXiv:2403</details>|
 |**2024-4-23**|**Source-free Domain Adaptation for Video Object Detection Under Adverse Image Conditions**|Xingguang Zhang et.al|[paper](https://arxiv.org/abs/2404.15252)|-|<details><summary>detail</summary>accepted by the UG2+ workshop at CVPR 2024</details>|
+|**2024-4-19**|**Universal source-free domain adaptation method for cross-domain fault diagnosis of machines**|Y Zhang et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0888327023000663)|-|<details><summary>detail</summary>Mechanical Systems and…, 2023 Elsevier</details>|
+|**2024-4-17**|**Contrast and Clustering: Learning Neighborhood Pair Representation for Source-free Domain Adaptation**|Y Chen et.al|[paper](https://arxiv.org/abs/2301.13428)|[code](https://github.com/yukilulu/cac)|-|
 |**2024-4-16**|**Uncertainty-guided Open-Set Source-Free Unsupervised Domain Adaptation with Target-private Class Segregation**|Mattia Litrico et.al|[paper](https://arxiv.org/abs/2404.10574)|-|-|
+|**2024-4-13**|**TIDo: Source-free Task Incremental Learning in Non-stationary Environments**|AK Ambastha et.al|[paper](https://arxiv.org/abs/2301.12055)|[code](https://paperswithcode.com/paper/tido-source-free-task-incremental-learning-in)|-|
+|**2024-4-13**|**Adversarial Learning Networks: Source-free Unsupervised Domain Incremental Learning**|AK Ambastha et.al|[paper](https://arxiv.org/abs/2301.12054)|[code](https://paperswithcode.com/paper/adversarial-learning-networks-source-free)|-|
 |**2024-4-9**|**Self-training via Metric Learning for Source-Free Domain Adaptation of Semantic Segmentation**|Ibrahim Batuhan Akkaya et.al|[paper](https://arxiv.org/abs/2212.04227)|-|<details><summary>detail</summary>This paper is under consideration at Computer Vision and Image Understanding</details>|
+|**2024-4-8**|**Cross-platform privacy-preserving CT image COVID-19 diagnosis based on source-free domain adaptation**|Y Feng et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0950705123000746)|-|<details><summary>detail</summary>Knowledge Based Systems, 2023 Elsevier</details>|
+|**2024-4-5**|**Source-free Subject Adaptation for EEG-based Visual Recognition**|P Lee et.al|[paper](https://arxiv.org/abs/2301.08448)|[code](https://github.com/DeepBCI/Deep-BCI)|-|
+|**2024-4-5**|**When Source-Free Domain Adaptation Meets Label Propagation**|C Wu et.al|[paper](https://arxiv.org/abs/2301.08413)|-|-|
+|**2024-4-3**|**Source-Free Domain Adaptive Detection of Concealed Objects in Passive Millimeter-Wave Images**|H Yang et.al|[paper](https://ieeexplore.ieee.org/abstract/document/10019315/)|-|<details><summary>detail</summary>IEEE Transactions on…, 2023 ieeexplore.ieee.org</details>|
 |**2024-3-26**|**Towards Source-free Domain Adaptive Semantic Segmentation via Importance-aware and Prototype-contrast Learning**|Yihong Cao et.al|[paper](https://arxiv.org/abs/2306.01598)|[code](https://github.com/yihong-97/Source-free-IAPC.)|<details><summary>detail</summary>IEEE Transactions on Intelligent Vehicles (T-IV)</details>|
 |**2024-3-25**|**DPStyler: Dynamic PromptStyler for Source-Free Domain Generalization**|Yunlong Tang et.al|[paper](https://arxiv.org/abs/2403.16697)|-|-|
 |**2024-3-24**|**Improving Online Source-free Domain Adaptation for Object Detection by Unsupervised Data Acquisition**|Xiangyu Shi et.al|[paper](https://arxiv.org/abs/2310.19258)|-|-|
@@ -32,6 +42,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-5-6**|**Collecting Consistently High Quality Object Tracks with Minimal Human Involvement by Using Self-Supervised Learning to Detect Tracker Errors**|Samreen Anjum et.al|[paper](https://arxiv.org/abs/2405.03643)|-|-|
+|**2024-5-6**|**Low-light Object Detection**|Pengpeng Li et.al|[paper](https://arxiv.org/abs/2405.03519)|-|-|
+|**2024-5-6**|**Salient Object Detection From Arbitrary Modalities**|Nianchang Huang et.al|[paper](https://arxiv.org/abs/2405.03352)|-|<details><summary>detail</summary>15 Pages</details>|
+|**2024-5-6**|**Modality Prompts for Arbitrary Modality Salient Object Detection**|Nianchang Huang et.al|[paper](https://arxiv.org/abs/2405.03351)|-|-|
+|**2024-5-6**|**Generalised envelope spectrum-based signal-to-noise objectives: Formulation, optimisation and application for gear fault detection under time-varying speed conditions**|Stephan Schmidt et.al|[paper](https://arxiv.org/abs/2405.00727)|-|-|
 |**2024-5-5**|**SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients**|Tushar Verma et.al|[paper](https://arxiv.org/abs/2405.01699)|-|-|
 |**2024-5-5**|**Performance Evaluation of Real-Time Object Detection for Electric Scooters**|Dong Chen et.al|[paper](https://arxiv.org/abs/2405.03039)|[code](https://zenodo.org/records/10578641))|-|
 |**2024-5-5**|**SalFAU-Net: Saliency Fusion Attention U-Net for Salient Object Detection**|Kassaw Abraham Mulat et.al|[paper](https://arxiv.org/abs/2405.02906)|-|-|
@@ -52,11 +67,6 @@
 |**2024-5-2**|**Towards Consistent Object Detection via LiDAR-Camera Synergy**|Kai Luo et.al|[paper](https://arxiv.org/abs/2405.01258)|[code](https://github.com/xifen523/COD.)|<details><summary>detail</summary>The source code will be made publicly available at https://github</details>|
 |**2024-5-2**|**Federated Learning with Heterogeneous Data Handling for Robust Vehicular Object Detection**|Ahmad Khalil et.al|[paper](https://arxiv.org/abs/2405.01108)|-|-|
 |**2024-5-2**|**Automotive Object Detection via Learning Sparse Events by Spiking Neurons**|Hu Zhang et.al|[paper](https://arxiv.org/abs/2307.12900)|-|-|
-|**2024-4-30**|**Object Detection for Automated Coronary Artery Using Deep Learning**|Hadis Keshavarz et.al|[paper](https://arxiv.org/abs/2312.12135)|-|<details><summary>detail</summary>The results in the article need fundamental corrections</details>|
-|**2024-4-30**|**Pseudo Label Refinery for Unsupervised Domain Adaptation on Cross-dataset 3D Object Detection**|Zhanwei Zhang et.al|[paper](https://arxiv.org/abs/2404.19384)|[code](https://github.com/Zhanwei-Z/PERE.)|<details><summary>detail</summary>Accepted by CVPR2024</details>|
-|**2024-4-29**|**UncertaintyTrack: Exploiting Detection and Localization Uncertainty in Multi-Object Tracking**|Chang Won Lee et.al|[paper](https://arxiv.org/abs/2402.12303)|[code](https://github.com/TRAILab/UncertaintyTrack)|<details><summary>detail</summary>ICRA 2024</details>|
-|**2024-4-29**|**MiPa: Mixed Patch Infrared-Visible Modality Agnostic Object Detection**|Heitor R. Medeiros et.al|[paper](https://arxiv.org/abs/2404.18849)|[code](https://github.com/heitorrapela/MiPa)|-|
-|**2024-4-29**|**Illicit object detection in X-ray images using Vision Transformers**|Jorgen Cani et.al|[paper](https://arxiv.org/abs/2403.19043)|-|-|
 
 ## domain adaptation
 
