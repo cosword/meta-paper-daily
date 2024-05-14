@@ -42,6 +42,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-5-13**|**Domain Generalisation for Object Detection under Covariate and Concept Shift**|Karthik Seemakurthy et.al|[paper](https://arxiv.org/abs/2203.05294)|-|-|
+|**2024-5-13**|**Quality-aware Selective Fusion Network for V-D-T Salient Object Detection**|Liuxin Bao et.al|[paper](https://arxiv.org/abs/2405.07655)|-|<details><summary>detail</summary>Accepted by IEEE Transactions on Image Processing (TIP)</details>|
+|**2024-5-13**|**Fast Training Data Acquisition for Object Detection and Segmentation using Black Screen Luminance Keying**|Thomas Pöllabauer et.al|[paper](https://arxiv.org/abs/2405.07653)|-|<details><summary>detail</summary>32</details>|
+|**2024-5-13**|**Integrity Monitoring of 3D Object Detection in Automated Driving Systems using Raw Activation Patterns and Spatial Filtering**|Hakan Yekta Yatbaz et.al|[paper](https://arxiv.org/abs/2405.07600)|-|<details><summary>detail</summary>Submitted to ITSC 2024</details>|
+|**2024-5-13**|**Environmental Matching Attack Against Unmanned Aerial Vehicles Object Detection**|Dehong Kong et.al|[paper](https://arxiv.org/abs/2405.07595)|-|-|
 |**2024-5-13**|**Enhancing 3D Object Detection by Using Neural Network with Self-adaptive Thresholding**|Houze Liu et.al|[paper](https://arxiv.org/abs/2405.07479)|-|<details><summary>detail</summary>This paper has been accepted by the CONF-SEML 2024</details>|
 |**2024-5-12**|**Unified-modal Salient Object Detection via Adaptive Prompt Learning**|Kunpeng Wang et.al|[paper](https://arxiv.org/abs/2311.16835)|-|-|
 |**2024-5-11**|**End-to-End Semi-Supervised approach with Modulated Object Queries for Table Detection in Documents**|Iqraa Ehsan et.al|[paper](https://arxiv.org/abs/2405.04971)|-|<details><summary>detail</summary>ICDAR-IJDAR 2024</details>|
@@ -62,16 +67,13 @@
 |**2024-5-10**|**3M3D: Multi-view, Multi-path, Multi-representation for 3D Object Detection**|J Park et.al|[paper](https://arxiv.org/abs/2302.08231)|[code](https://paperswithcode.com/paper/3m3d-multi-view-multi-path-multi)|-|
 |**2024-5-10**|**Research on road object detection algorithm based on improved YOLOX**|T Yang et.al|[paper](https://arxiv.org/abs/2302.08156)|[code](https://paperswithcode.com/paper/research-on-road-object-detection-algorithm)|-|
 |**2024-5-9**|**Zero-shot Degree of Ill-posedness Estimation for Active Small Object Change Detection**|Koji Takeda et.al|[paper](https://arxiv.org/abs/2405.06185)|-|-|
-|**2024-5-9**|**Detecting Moving Objects With Machine Learning**|Wesley C. Fraser et.al|[paper](https://arxiv.org/abs/2405.06148)|-|<details><summary>detail</summary>Accepted chapter to appear in the Elsevier book "Machine Learning for Small Solar System Bodies"</details>|
-|**2024-5-9**|**iCub Detecting Gazed Objects: A Pipeline Estimating Human Attention**|Shiva Hanifi et.al|[paper](https://arxiv.org/abs/2308.13318)|-|-|
-|**2024-5-9**|**Salient Object Detection From Arbitrary Modalities**|Nianchang Huang et.al|[paper](https://arxiv.org/abs/2405.03352)|-|<details><summary>detail</summary>15 Pages</details>|
-|**2024-5-9**|**Depth Awakens: A Depth-perceptual Attention Fusion Network for RGB-D Camouflaged Object Detection**|Xinran Liua et.al|[paper](https://arxiv.org/abs/2405.05614)|[code](https://github.com/xinran-liu00/DAF-Net.)|<details><summary>detail</summary>Journal ref:Image and Vision Computing</details>|
-|**2024-5-9**|**The object detection model uses combined extraction with KNN and RF classification**|Florentina Tatrin Kurniati et.al|[paper](https://arxiv.org/abs/2405.05551)|[code](https://ijeecs.iaescore.com/index.php/IJEECS/article/view/35888)|<details><summary>detail</summary>Journal ref:IJEECS</details>|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-5-13**|**DP-RDM: Adapting Diffusion Models to Private Domains Without Fine-Tuning**|Jonathan Lebensold et.al|[paper](https://arxiv.org/abs/2403.14421)|-|-|
+|**2024-5-13**|**Space Domain based Ecological Cooperative and Adaptive Cruise Control on Rolling Terrain**|Mingyue Lei et.al|[paper](https://arxiv.org/abs/2405.07553)|-|-|
 |**2024-5-12**|**MoVL:Exploring Fusion Strategies for the Domain-Adaptive Application of Pretrained Models in Medical Imaging Tasks**|Haijiang Tian et.al|[paper](https://arxiv.org/abs/2405.07411)|-|-|
 |**2024-5-12**|**Source-Free Domain Adaptation of Weakly-Supervised Object Localization Models for Histology**|Alexis Guichemerre et.al|[paper](https://arxiv.org/abs/2404.19113)|-|-|
 |**2024-5-12**|**Semi-Self-Supervised Domain Adaptation: Developing Deep Learning Models with Limited Annotated Data for Wheat Head Segmentation**|Alireza Ghanbari et.al|[paper](https://arxiv.org/abs/2405.07157)|-|<details><summary>detail</summary>12</details>|
@@ -95,13 +97,12 @@
 |**2024-5-7**|**Domain-Specific Block Selection and Paired-View Pseudo-Labeling for Online Test-Time Adaptation**|Yeonguk Yu et.al|[paper](https://arxiv.org/abs/2404.10966)|[code](https://github.com/gist-ailab/domain-specific-block-selection-and-paired-view-pseudo-labeling-for-online-TTA.)|<details><summary>detail</summary>CVPR 2024</details>|
 |**2024-5-6**|**Cross-Modal Domain Adaptation in Brain Disease Diagnosis: Maximum Mean Discrepancy-based Convolutional Neural Networks**|Xuran Zhu et.al|[paper](https://arxiv.org/abs/2405.03235)|-|-|
 |**2024-5-5**|**Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training**|Wenyu Zhang et.al|[paper](https://arxiv.org/abs/2405.02954)|-|<details><summary>detail</summary>Extension of ICCV paper arXiv:2212</details>|
-|**2024-5-5**|**Fast One-Stage Unsupervised Domain Adaptive Person Search**|Tianxiang Cui et.al|[paper](https://arxiv.org/abs/2405.02832)|[code](https://github.com/whbdmu/FOUS.)|-|
-|**2024-5-4**|**Adapting to Distribution Shift by Visual Domain Prompt Generation**|Zhixiang Chi et.al|[paper](https://arxiv.org/abs/2405.02797)|[code](https://github.com/Guliisgreat/VDPG)|<details><summary>detail</summary>ICLR2024</details>|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-5-13**|**Learning Generalized Policies for Fully Observable Non-Deterministic Planning Domains**|Till Hofmann et.al|[paper](https://arxiv.org/abs/2404.02499)|-|<details><summary>detail</summary>presented at IJCAI'24</details>|
 |**2024-5-11**|**Domain Generalization with Global Sample Mixup**|Y Lu et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-25075-0_35)|-|<details><summary>detail</summary>European Conference on Computer…, 2023 Springer</details>|
 |**2024-5-11**|**Cross-Domain Augmentation Diagnosis: An Adversarial Domain-Augmented Generalization Method for Fault Diagnosis under Unseen Working Conditions**|Q Li et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0951832023000868)|-|<details><summary>detail</summary>Reliability Engineering &…, 2023 Elsevier</details>|
 |**2024-5-10**|**Non-stationary Domain Generalization: Theory and Algorithm**|Thai-Hoang Pham et.al|[paper](https://arxiv.org/abs/2405.06816)|-|<details><summary>detail</summary>Accepted by UAI 2024</details>|
@@ -123,7 +124,6 @@
 |**2024-5-2**|**Improving Domain Generalization on Gaze Estimation via Branch-out Auxiliary Regularization**|Ruijie Zhao et.al|[paper](https://arxiv.org/abs/2405.01439)|-|-|
 |**2024-5-2**|**RaffeSDG: Random Frequency Filtering enabled Single-source Domain Generalization for Medical Image Segmentation**|Heng Li et.al|[paper](https://arxiv.org/abs/2405.01228)|[code](https://github.com/liamheng/Non-IID_Medical_Image_Segmentation.)|-|
 |**2024-5-2**|**Domain-Transferred Synthetic Data Generation for Improving Monocular Depth Estimation**|Seungyeop Lee et.al|[paper](https://arxiv.org/abs/2405.01113)|-|-|
-|**2024-4-30**|**GMC-PINNs: A new general Monte Carlo PINNs method for solving fractional partial differential equations on irregular domains**|Shupeng Wang et.al|[paper](https://arxiv.org/abs/2405.00217)|-|-|
 |**2024-4-30**|**Leveraging Domain Relations for Domain Generalization**|H Yao et.al|[paper](https://arxiv.org/abs/2302.02609)|[code](https://github.com/rusty1s/pytorch_geometric)|-|
 |**2024-4-28**|**Aggregation of Disentanglement: Reconsidering Domain Variations in Domain Generalization**|D Zhang et.al|[paper](https://arxiv.org/abs/2302.02350)|[code](https://paperswithcode.com/paper/aggregation-of-disentanglement-reconsidering)|-|
 |**2024-4-26**|**Domain Generalization Emerges from Dreaming**|H Heo et.al|[paper](https://arxiv.org/abs/2302.00980)|[code](https://paperswithcode.com/paper/domain-generalization-emerges-from-dreaming)|-|
