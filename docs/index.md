@@ -42,6 +42,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-5-20**|**Multi-View Attentive Contextualization for Multi-View 3D Object Detection**|Xianpeng Liu et.al|[paper](https://arxiv.org/abs/2405.12200)|-|<details><summary>detail</summary>Accepted by CVPR2024</details>|
+|**2024-5-20**|**A recurrent CNN for online object detection on raw radar frames**|Colin Decourt et.al|[paper](https://arxiv.org/abs/2212.11172)|-|-|
 |**2024-5-19**|**FADet: A Multi-sensor 3D Object Detection Network based on Local Featured Attention**|Ziang Guo et.al|[paper](https://arxiv.org/abs/2405.11682)|[code](https://github.com/ZionGo6/FADet.)|<details><summary>detail</summary>Submitted to IEEE</details>|
 |**2024-5-19**|**False Positive Sampling-based Data Augmentation for Enhanced 3D Object Detection Accuracy**|Jiyong Oh et.al|[paper](https://arxiv.org/abs/2403.02639)|-|-|
 |**2024-5-19**|**FPDIoU Loss: A Loss Function for Efficient Bounding Box Regression of Rotated Object Detection**|Siliang Ma et.al|[paper](https://arxiv.org/abs/2405.09942)|-|<details><summary>detail</summary>arXiv admin note: text overlap with arXiv:2307</details>|
@@ -65,8 +67,6 @@
 |**2024-5-16**|**SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection**|Mingxuan Liu et.al|[paper](https://arxiv.org/abs/2405.10053)|-|<details><summary>detail</summary>Accepted as a conference paper (highlight) at CVPR 2024</details>|
 |**2024-5-16**|**RCM-Fusion: Radar-Camera Multi-Level Fusion for 3D Object Detection**|Jisong Kim et.al|[paper](https://arxiv.org/abs/2307.10249)|-|<details><summary>detail</summary>Accepted by IEEE International Conference on Robotics and Automation (ICRA 2024</details>|
 |**2024-5-15**|**Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection**|Feiran Li et.al|[paper](https://arxiv.org/abs/2405.09782)|[code](https://github.com/Ferry-Li/SI-SOD.)|<details><summary>detail</summary>This paper has been accepted by ICML2024</details>|
-|**2024-5-14**|**Density-Guided Dense Pseudo Label Selection For Semi-supervised Oriented Object Detection**|Tong Zhao et.al|[paper](https://arxiv.org/abs/2311.12608)|[code](https://github.com/Haru-zt/DDPLS.)|-|
-|**2024-5-14**|**Dynamic Loss Decay based Robust Oriented Object Detection on Remote Sensing Images with Noisy Labels**|Guozhang Liu et.al|[paper](https://arxiv.org/abs/2405.09024)|-|-|
 
 ## domain adaptation
 
