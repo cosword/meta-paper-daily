@@ -42,6 +42,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-9-16**|**Performance of Human Annotators in Object Detection and Segmentation of Remotely Sensed Data**|Roni Blushtein-Livnon et.al|[paper](https://arxiv.org/abs/2409.10272)|-|-|
+|**2024-9-15**|**Spatial Transformer Network YOLO Model for Agricultural Object Detection**|Yash Zambre et.al|[paper](https://arxiv.org/abs/2407.21652)|-|-|
 |**2024-9-15**|**CoBEV: Elevating Roadside 3D Object Detection with Depth and Height Complementarity**|Hao Shi et.al|[paper](https://arxiv.org/abs/2310.02815)|[code](https://github.com/MasterHow/CoBEV.)|<details><summary>detail</summary>IEEE Transactions on Image Processing (TIP)</details>|
 |**2024-9-15**|**Transformer-based stereo-aware 3D object detection from binocular images**|Hanqing Sun et.al|[paper](https://arxiv.org/abs/2304.11906)|-|<details><summary>detail</summary>Accepted by IEEE T-ITS</details>|
 |**2024-9-15**|**Enhancing Traffic Object Detection in Variable Illumination with RGB-Event Fusion**|Zhanwen Liu et.al|[paper](https://arxiv.org/abs/2311.00436)|[code](https://github.com/YN-Yang/SFNet.)|<details><summary>detail</summary>Accepted by IEEE T-ITS</details>|
@@ -65,13 +67,13 @@
 |**2024-9-12**|**Disentangling spatio-temporal knowledge for weakly supervised object detection and segmentation in surgical video**|Guiqiu Liao et.al|[paper](https://arxiv.org/abs/2407.15794)|-|-|
 |**2024-9-11**|**Polarization Detection on Social Networks: dual contrastive objectives for Self-supervision**|Hang Cui et.al|[paper](https://arxiv.org/abs/2409.07716)|-|-|
 |**2024-9-11**|**ENACT: Entropy-based Clustering of Attention Input for Improving the Computational Performance of Object Detection Transformers**|Giorgos Savathrakis et.al|[paper](https://arxiv.org/abs/2409.07541)|[code](https://github.com/GSavathrakis/ENACT)|-|
-|**2024-9-11**|**Distribution Discrepancy and Feature Heterogeneity for Active 3D Object Detection**|Huang-Yu Chen et.al|[paper](https://arxiv.org/abs/2409.05425)|-|<details><summary>detail</summary>CoRL 2024</details>|
-|**2024-9-11**|**SCLNet: A Scale-Robust Complementary Learning Network for Object Detection in UAV Images**|Xuexue Li et.al|[paper](https://arxiv.org/abs/2409.07024)|-|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-9-16**|**On Causality in Domain Adaptation and Semi-Supervised Learning: an Information-Theoretic Analysis for Parametric Models**|Xuetong Wu et.al|[paper](https://arxiv.org/abs/2205.04641)|-|-|
+|**2024-9-16**|**AD-CLIP: Adapting Domains in Prompt Space Using CLIP**|Mainak Singha et.al|[paper](https://arxiv.org/abs/2308.05659)|[code](https://github.com/mainaksingha01/AD-CLIP)|-|
 |**2024-9-15**|**Domain and Content Adaptive Convolutions for Cross-Domain Adenocarcinoma Segmentation**|Frauke Wilm et.al|[paper](https://arxiv.org/abs/2409.09797)|-|-|
 |**2024-9-15**|**DARDA: Domain-Aware Real-Time Dynamic Neural Network Adaptation**|Shahriar Rifat et.al|[paper](https://arxiv.org/abs/2409.09753)|-|-|
 |**2024-9-15**|**Confidence sharing adaptation for out-of-domain human pose and shape estimation**|T Yue et.al|[paper](https://www.sciencedirect.com/science/article/pii/S1077314224001322)|-|<details><summary>detail</summary>Computer Vision and Image…, 2024 Elsevier</details>|
@@ -95,8 +97,6 @@
 |**2024-9-10**|**Adaptive Meta-Domain Transfer Learning (AMDTL): A Novel Approach for Knowledge Transfer in AI**|Michele Laurelli et.al|[paper](https://arxiv.org/abs/2409.06800)|-|-|
 |**2024-9-9**|**A Flexible Framework for Universal Computational Aberration Correction via Automatic Lens Library Generation and Domain Adaptation**|Qi Jiang et.al|[paper](https://arxiv.org/abs/2409.05809)|-|-|
 |**2024-9-9**|**TAVP: Task-Adaptive Visual Prompt for Cross-domain Few-shot Segmentation**|Jiaqi Yang et.al|[paper](https://arxiv.org/abs/2409.05393)|-|-|
-|**2024-9-7**|**Cross-Organ Domain Adaptive Neural Network for Pancreatic Endoscopic Ultrasound Image Segmentation**|ZhiChao Yan et.al|[paper](https://arxiv.org/abs/2409.04718)|-|-|
-|**2024-9-6**|**Train Till You Drop: Towards Stable and Robust Source-free Unsupervised 3D Domain Adaptation**|Björn Michele et.al|[paper](https://arxiv.org/abs/2409.04409)|-|<details><summary>detail</summary>ECCV 2024</details>|
 
 ## domain generalization
 
@@ -132,6 +132,12 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-9-16**|**Do Pre-trained Vision-Language Models Encode Object States?**|Kaleb Newman et.al|[paper](https://arxiv.org/abs/2409.10488)|-|-|
+|**2024-9-16**|**SARO: Space-Aware Robot System for Terrain Crossing via Vision-Language Model**|Shaoting Zhu et.al|[paper](https://arxiv.org/abs/2407.16412)|[code](https://saro-vlm.github.io/)|-|
+|**2024-9-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al|[paper](https://arxiv.org/abs/2409.10419)|-|-|
+|**2024-9-16**|**ASMA: An Adaptive Safety Margin Algorithm for Vision-Language Drone Navigation via Scene-Aware Control Barrier Functions**|Sourav Sanyal et.al|[paper](https://arxiv.org/abs/2409.10283)|-|-|
+|**2024-9-16**|**V2X-VLM: End-to-End V2X Cooperative Autonomous Driving Through Large Vision-Language Models**|Junwei You et.al|[paper](https://arxiv.org/abs/2408.09251)|-|-|
+|**2024-9-15**|**FSL-LVLM: Friction-Aware Safety Locomotion using Large Vision Language Model in Wheeled Robots**|Bo Peng et.al|[paper](https://arxiv.org/abs/2409.09845)|-|<details><summary>detail</summary>submitted to icra2025</details>|
 |**2024-9-15**|**Reasoning Paths with Reference Objects Elicit Quantitative Spatial Reasoning in Large Vision-Language Models**|Yuan-Hong Liao et.al|[paper](https://arxiv.org/abs/2409.09788)|-|-|
 |**2024-9-15**|**Towards Vision-Language Geo-Foundation Model: A Survey**|Y Zhou et.al|[paper](https://www.researchgate.net/profile/Yue-Zhou-139/publication/381403816_Towards_Vision-Language_Geo-Foundation_Model_A_Survey/links/666ba71ea54c5f0b9464c544/Towards-Vision-Language-Geo-Foundation-Model-A-Survey.pdf)|[code](https://github.com/zytx121/awesome-vlgfm)|<details><summary>detail</summary>researchgate.net</details>|
 |**2024-9-14**|**Vision-Language Meets the Skeleton: Progressively Distillation with Cross-Modal Knowledge for 3D Action Representation Learning**|Yang Chen et.al|[paper](https://arxiv.org/abs/2405.20606)|[code](https://github.com/cseeyangchen/C2VL.)|<details><summary>detail</summary>Accepted by IEEE Transactions on Multimedia</details>|
@@ -149,12 +155,6 @@
 |**2024-9-14**|**LLAVIDAL: Benchmarking Large Language Vision Models for Daily Activities of Living**|R Chakraborty et.al|[paper](https://arxiv.org/abs/2406.09390)|[code](https://paperswithcode.com/paper/llavidal-benchmarking-large-language-vision)|-|
 |**2024-9-14**|**OpenVLA: An Open-Source Vision-Language-Action Model**|MJ Kim et.al|[paper](https://arxiv.org/abs/2406.09246)|[code](https://paperswithcode.com/paper/openvla-an-open-source-vision-language-action)|-|
 |**2024-9-14**|**Generative AI-based Prompt Evolution Engineering Design Optimization With Vision-Language Model**|M Wong et.al|[paper](https://arxiv.org/abs/2406.09143)|[code](https://paperswithcode.com/paper/generative-ai-based-prompt-evolution)|-|
-|**2024-9-13**|**Visuo-Tactile Zero-Shot Object Recognition with Vision-Language Model**|Shiori Ueda et.al|[paper](https://arxiv.org/abs/2409.09276)|[code](https://omron-sinicx.github.io/visuo-tactile-recognition/)|-|
-|**2024-9-13**|**Guiding Vision-Language Model Selection for Visual Question-Answering Across Tasks, Domains, and Knowledge Types**|Neelabh Sinha et.al|[paper](https://arxiv.org/abs/2409.09269)|-|-|
-|**2024-9-13**|**Pseudo-Prompt Generating in Pre-trained Vision-Language Models for Multi-Label Medical Image Classification**|Yaoqin Ye et.al|[paper](https://arxiv.org/abs/2405.06468)|[code](https://github.com/fallingnight/PsPG)|<details><summary>detail</summary>Accepted by PRCV 2024</details>|
 |**2024-9-13**|**VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks**|J Wu et.al|[paper](https://arxiv.org/abs/2406.08394)|[code](https://github.com/opengvlab/visionllm)|-|
 |**2024-9-13**|**RWKV-CLIP: A Robust Vision-Language Representation Learner**|T Gu et.al|[paper](https://arxiv.org/abs/2406.06973)|[code](https://github.com/deepglint/rwkv-clip)|-|
-|**2024-9-12**|**VLTP: Vision-Language Guided Token Pruning for Task-Oriented Segmentation**|Hanning Chen et.al|[paper](https://arxiv.org/abs/2409.08464)|-|-|
-|**2024-9-12**|**ComAlign: Compositional Alignment in Vision-Language Models**|Ali Abdollah et.al|[paper](https://arxiv.org/abs/2409.08206)|-|-|
-|**2024-9-11**|**Securing Vision-Language Models with a Robust Encoder Against Jailbreak and Adversarial Attacks**|Md Zarif Hossain et.al|[paper](https://arxiv.org/abs/2409.07353)|[code](https://github.com/speedlab-git/Robust-Encoder-against-Jailbreak-attack.git.)|-|
 
